@@ -1,6 +1,6 @@
-# Synthrom
+# ChronoSync
 
-一个简单的 RSS 阅读器，支持文章抓取和分类管理。
+Sync with Time's Pulse. 一个简单的 RSS 阅读器，支持文章抓取和分类管理。
 
 ## 功能特点
 
@@ -21,3 +21,7 @@
    - 进入仓库的 Settings > Actions > General
    - 在 "Workflow permissions" 部分选择 "Read and write permissions"
    - 点击 "Save" 保存设置
+
+## 注意事项
+
+uBlock Origin 插件会拦截 cdn.bootcdn.net 域名导致页面无法正常加载，需要手动将其添加到白名单。
