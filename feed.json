@@ -2,6 +2,16 @@
   "update_time": "2025-03-30",
   "articles": [
     {
+      "title": "今天是我的生日",
+      "link": "https://blog.ops-coffee.cn/r/birthday-surprise-and-life-reflection.html",
+      "date": "2025-03-31 04:24",
+      "author": "运维咖啡吧",
+      "timestamp": 1743366249.0,
+      "summary": "在34岁生日当天，儿子的一句“生日快乐”带来惊喜，文章以此为起点，反思了在大城市的生活、家庭的幸福以及对未来的思考。文中提到如何处理资产保值、对失业的态度、家庭的温馨重要性以及人生长跑的心态。",
+      "source_url": "https://blog.ops-coffee.cn",
+      "category": "Blog"
+    },
+    {
       "title": "陪你走过青春的音乐人都有谁？",
       "link": "http://m.wufazhuce.com/question/4327",
       "date": "2025-03-30 06:25",
@@ -172,16 +182,6 @@
       "category": "Blog"
     },
     {
-      "title": "三星堆博物馆新馆 Walk",
-      "link": "https://blog.pursuitus.com/sanxingdui-museum.html",
-      "date": "2025-03-24 08:39",
-      "author": "Ouroboros",
-      "timestamp": 1742776778.0,
-      "summary": "三星堆博物馆新馆在2023年落成，去过的朋友都说是人山人海，但奔着新出土的文物，还是去了一遭。 新馆是由中国建筑西南设计研究院做的，运用了三星堆代表文物青铜面具上的“眼睛”作为主元素，远远望去，博物馆外墙还真有点纵目那意思。新馆建在老馆旁边，而老馆将改造为数字馆和研学教育中心，看起来还没改造完成，没...",
-      "source_url": "https://blog.pursuitus.com",
-      "category": "Blog"
-    },
-    {
       "title": "2025.03.24: 各种链接",
       "link": "https://www.owenyoung.com/blog/journals/2025-03-24/",
       "date": "2025-03-24 03:45",
@@ -199,16 +199,6 @@
       "timestamp": 1742737195.0,
       "summary": "使用人工智能技术重新定义博客文章的视觉呈现，从简约到精致，从平凡到卓越。",
       "source_url": "https://miantiao.me/",
-      "category": "Blog"
-    },
-    {
-      "title": "四川大学博物馆 Walk",
-      "link": "https://blog.pursuitus.com/sichuan-university-museum.html",
-      "date": "2025-03-23 18:51",
-      "author": "Ouroboros",
-      "timestamp": 1742727111.0,
-      "summary": "成都去了很多次，著名景点也逛得差不多，开始发掘一些小众景点。去年底朋友开车带去三星堆新馆，顺便推荐了四川大学博物馆，简单一逛。 博物馆大门在望江路上，旁边就是府南河，大楼是新盖的，2023年7月才重新开馆，属于国家一级博物馆，大学博物馆能被列为国家一级馆的不多，说明里面还是有点东西。 展陈应该重新布...",
-      "source_url": "https://blog.pursuitus.com",
       "category": "Blog"
     },
     {
@@ -722,26 +712,6 @@
       "category": "Blog"
     },
     {
-      "title": "Discours N°19",
-      "link": "https://blog.pursuitus.com/discourse-19.html",
-      "date": "2025-03-01 23:03",
-      "author": "Ouroboros",
-      "timestamp": 1740841382.0,
-      "summary": "Status 节后回来第一件事就是恢复健身，安排上了每周的私教课，还是对运动很抵触，每次去之前都要做一些思想建设，周末还开始打羽毛球，但打完羽毛球去吃湘菜是怎么回事啊！安排了减脂套餐，等我妈回青岛就开始实行。 和树之前说要一起看电影，打开电影一会两个人就呼呼大睡。最近每天晚上打两局王者，顺便说说日常...",
-      "source_url": "https://blog.pursuitus.com",
-      "category": "Blog"
-    },
-    {
-      "title": "滇东南游记之大理篇",
-      "link": "https://blog.pursuitus.com/the-dali.html",
-      "date": "2025-03-01 00:18",
-      "author": "Ouroboros",
-      "timestamp": 1740759539.0,
-      "summary": "过年想找个暖和的地方且又不想出国，选项就不多了，正好我妈因为看电视剧《去有风的地方》，对大理充满好奇，于是计划了这一趟大理和滇东南的行程。 节假日往返云南全部全价，排队升舱也没机会，整架飞机满满当当，担心人山人海体验很差，出了机场就还好。携程租的车，车况没有页面推荐写的好，什么一年内新车，扯淡，连蓝...",
-      "source_url": "https://blog.pursuitus.com",
-      "category": "Blog"
-    },
-    {
       "title": "RSS to Email使用教程",
       "link": "https://www.skyue.com/25030100.html",
       "date": "2025-03-01 00:01",
@@ -1039,16 +1009,6 @@
       "timestamp": 1739887501.0,
       "summary": "大学毕业前有个同样喜欢骑行的朋友来找我，问我想不想趁着有时间去 318，大概需要一个月的时间，花销也不少。当时 [&#8230;]\nThe post 我的骑行十年-环青海湖 first appeared on 张可的博客.",
       "source_url": "https://zhangke.space",
-      "category": "Blog"
-    },
-    {
-      "title": "平平平平替肯尼亚——盐城生态游",
-      "link": "https://blog.pursuitus.com/yancheng-ecological-tour.html",
-      "date": "2025-02-17 23:54",
-      "author": "Ouroboros",
-      "timestamp": 1739807647.0,
-      "summary": "周末去了一趟盐城，本来这个地方无论如何不会出现在我的旅行清单的——除了回青岛的火车路过，几乎很少出现在视野里。架不住小红书网红照骗，本地吃喝玩乐群的小伙伴强烈要求我组织一次“平替肯尼亚”出行活动。 从地图上看盐城在上海的正上方，中间隔着南通，听名字，盐城必然是因为其悠久的产盐历史。一查资料果然早在西...",
-      "source_url": "https://blog.pursuitus.com",
       "category": "Blog"
     },
     {
@@ -1642,16 +1602,6 @@
       "category": "Blog"
     },
     {
-      "title": "财务记录 之 2024年终开支总结 #15",
-      "link": "https://blog.pursuitus.com/summary-of-2024-year-end-expenditure.html",
-      "date": "2025-01-24 16:34",
-      "author": "Ouroboros",
-      "timestamp": 1737707657.0,
-      "summary": "2024年同样也“呼”的一下就过去了，A股一周的牛市昙花乍现，大环境果然如预料的无甚好转，多数人对于25年仍然持悲观状。这一年虽然有努力开源节流（并没有），但过程中并没有太关注财务状况，只能说过的舒服（花了很多），整体可控。 计划追踪 目标 保证生活质量的前提下，积累一定量的资产。 达成率 当前本金...",
-      "source_url": "https://blog.pursuitus.com",
-      "category": "Blog"
-    },
-    {
       "title": "与其直接问 AI 答案，不如请 AI 找到研究这些问题最好的老师",
       "link": "https://www.owenyoung.com/blog/ai-expert-guidance/",
       "date": "2025-01-24 05:28",
@@ -1689,16 +1639,6 @@
       "timestamp": 1737526441.0,
       "summary": "垄断的困境\n\n“各国机构针对 MSN 捆绑安装的反垄断调查，没有输给微软的律师，而是输给了微软的产品经理们。微软的产品经理没能让 MSN 这款产品活到反垄断案件的判决生效。”\n“现实是，大部分风险投资机构因为受到自身每期基金管理周期的影响，一旦被投企业无法在 7-10 年的长周期内实现退出，就很难向...",
       "source_url": "https://www.owenyoung.com",
-      "category": "Blog"
-    },
-    {
-      "title": "Discours N°18",
-      "link": "https://blog.pursuitus.com/discourse-18.html",
-      "date": "2025-01-22 12:04",
-      "author": "Ouroboros",
-      "timestamp": 1737518688.0,
-      "summary": "Status 健身因为出差继续暂停两周，又生病，再暂停两周，已经一个月没有运动了，之前的成果都前功尽弃！ 树突然开始玩王者，朋友强推网易新出的燕云十六声还有山河旅探，于是最近就在逆转、王者几个游戏中来回切换。 年终复盘季，整理了24年的财务状况、书影音之类的，不过最烦还是工作要搞年度汇报和绩效，虽说...",
-      "source_url": "https://blog.pursuitus.com",
       "category": "Blog"
     },
     {
@@ -1859,16 +1799,6 @@
       "timestamp": 1737237600.0,
       "summary": "关于 QA 的定位（边缘场景 only）\n\n\nQA 在每个 Cycle 的尾声进入，并测试各种边缘场景\n\n\n实施团队对主要功能的质量负责\n\n\nBasecamp 的实践是，很多年来都没有 QA 这个角色，直到业务的规模发现，边缘场景的 bug 造成的影响足够大了才开始专门在这方面投入\n\n\nQA 是 L...",
       "source_url": "https://xiaowenz.com/",
-      "category": "Blog"
-    },
-    {
-      "title": "2025年的Flag",
-      "link": "https://blog.pursuitus.com/flag-of-2025.html",
-      "date": "2025-01-18 12:56",
-      "author": "Ouroboros",
-      "timestamp": 1737176173.0,
-      "summary": "连续几年立flag倒掉之后，一些新的启发是不能列太多事项，要集中关注某些特别重要的事情。 但反正flag就是常立常新，所以今年还是继续写。当然想做的事情远不止这些，每天都觉得时间不够用，以至于不太能理解闲的无聊的人。 2025 年的任务清单 保持热情于积极的心态。 建立一些小小的秩序感，比如早睡早起...",
-      "source_url": "https://blog.pursuitus.com",
       "category": "Blog"
     },
     {
@@ -2129,26 +2059,6 @@
       "timestamp": 1736665920.0,
       "summary": "写这篇博客纯属意外——因为我根本没想到“如何写博客”这事儿还需要写——这不跟“如何呼吸”是一个意思吗……写这篇的起因是我前阵子发了博客印象调查问卷（问卷长期有效哦欢迎随时填写！），意外收到不少回复，其中有一条“其它你希望在博客中读到的内容”的回复是这样的：\n\n一些更具体的工具的分享，比如博客写作（用...",
       "source_url": "https://blog.douchi.space/",
-      "category": "Blog"
-    },
-    {
-      "title": "I always get up now to see what’s next",
-      "link": "https://blog.pursuitus.com/i-always-get-up-now-to-see-whats-next.html",
-      "date": "2025-01-12 01:04",
-      "author": "Ouroboros",
-      "timestamp": 1736615055.0,
-      "summary": "往年回顾 2023年 时间的尽头 2022年 爱是一种坚持到底的冒险——写作群年终问答 2021年 2021，可能存在的往事 2020年 No one cares about your year-end summary！ 2019年 空缺 2018年 每个人都有自己的日子要混 2017年 在矛盾中前...",
-      "source_url": "https://blog.pursuitus.com",
-      "category": "Blog"
-    },
-    {
-      "title": "WordPress添加「随机文章」功能",
-      "link": "https://blog.pursuitus.com/add-random-article-to-wordpress.html",
-      "date": "2025-01-12 00:01",
-      "author": "Ouroboros",
-      "timestamp": 1736611294.0,
-      "summary": "功能灵感来自博友Albus的博客装修日记，稍微研究了一下代码，很快就添加好了。 先添加随机文章的后台能力，将下列代码添加到当前主题的 functions.php 文件中： function redirect_to_random_post() { if (isset($_GET[&#039;rando...",
-      "source_url": "https://blog.pursuitus.com",
       "category": "Blog"
     },
     {
@@ -4272,16 +4182,6 @@
       "category": "Blog"
     },
     {
-      "title": "毕业旅行｜皖南自驾DAY11 - 祖源",
-      "link": "https://blog.ops-coffee.cn/r/china-travel-layoff-trip-day11-xiuning-zuyuan.html",
-      "date": "2024-10-08 20:04",
-      "author": "运维咖啡吧",
-      "timestamp": 1728389045.0,
-      "summary": "在齐云山脚下的休宁县，探索祖源村的高山古韵与徒步古道，体验徽派古村的宁静与美丽。跟随我们的自驾游记，感受皖南的山色与文化，计划前往木梨硔的徒步之旅。",
-      "source_url": "https://blog.ops-coffee.cn",
-      "category": "Blog"
-    },
-    {
       "title": "Weekly#11",
       "link": "https://taxodium.ink/11.html",
       "date": "2024-10-07 00:00",
@@ -5339,6 +5239,16 @@
       "timestamp": 1717545600.0,
       "summary": "如何通过服务器版和免服务器版来实现向对象发送浪漫的微信模板消息。还提到了如何使用GitHub Actions实现免服务器版的定时任务推送，使得即使不懂编程的人也可以轻松实现定时发送功能。",
       "source_url": "https://blog.illsky.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "昼事夜思劳形骸，常有拨云散雾",
+      "link": "https://blog.drpika.com/%E6%97%A5%E8%AE%B0/2024-06-04.html",
+      "date": "2024-06-04 20:20",
+      "author": "DrPika's Blog",
+      "timestamp": 1717503615.0,
+      "summary": "日复一日的机械工作中，时常还是会有一些小确幸。",
+      "source_url": "https://blog.drpika.com/",
       "category": "Blog"
     },
     {
@@ -7372,6 +7282,16 @@
       "category": "Blog"
     },
     {
+      "title": "杂谈医疗反腐风暴，医改将改向何方？",
+      "link": "https://blog.drpika.com/%E6%80%9D%E8%80%83/2023-09-03.html",
+      "date": "2023-09-03 23:20",
+      "author": "DrPika's Blog",
+      "timestamp": 1693754415.0,
+      "summary": "医方、患方、药企、医保四个人打麻将，主打一个零和博弈，纪委监委斩不断腐败的根，得换谁来？本文仅代表个人不成熟的观点。",
+      "source_url": "https://blog.drpika.com/",
+      "category": "Blog"
+    },
+    {
       "title": "奥本海默",
       "link": "https://imzm.im/oppenheimer/",
       "date": "2023-09-03 21:47",
@@ -8592,6 +8512,16 @@
       "category": "Blog"
     },
     {
+      "title": "流水账：记一位患肝癌的大叔",
+      "link": "https://blog.drpika.com/%E5%8C%BB%E8%B7%AF/2022-05-07.html",
+      "date": "2022-05-07 13:17",
+      "author": "DrPika's Blog",
+      "timestamp": 1651900631.0,
+      "summary": "因为疾病而不得不拖累亲人并最终与相爱之人们的分离实在是太令人伤痛的事情。",
+      "source_url": "https://blog.drpika.com/",
+      "category": "Blog"
+    },
+    {
       "title": "分布式状态机共识协议 Copilot——论文阅读：Tolerating Slowdowns in Replicated State Machines using Copilots",
       "link": "https://www.eaimty.com/2022/tolerating-slowdowns-in-replicated-state-machines-using-copilots/",
       "date": "2022-05-07 08:00",
@@ -8752,6 +8682,16 @@
       "category": "Blog"
     },
     {
+      "title": "做自己的英雄",
+      "link": "https://blog.drpika.com/%E6%97%A5%E8%AE%B0/2022-02-16.html",
+      "date": "2022-02-16 00:12",
+      "author": "DrPika's Blog",
+      "timestamp": 1644941548.0,
+      "summary": "我们的痛苦源于欲望与能力的不符。",
+      "source_url": "https://blog.drpika.com/",
+      "category": "Blog"
+    },
+    {
       "title": "刘慈欣与电子诗人",
       "link": "https://zhangshuqiao.org/2021-12/%E5%88%98%E6%85%88%E6%AC%A3%E4%B8%8E%E7%94%B5%E5%AD%90%E8%AF%97%E4%BA%BA/",
       "date": "2021-12-20 12:54",
@@ -8802,6 +8742,16 @@
       "category": "Blog"
     },
     {
+      "title": "从十二个愤怒的男人说起",
+      "link": "https://blog.drpika.com/%E6%80%9D%E8%80%83/2021-11-22.html",
+      "date": "2021-11-22 02:38",
+      "author": "DrPika's Blog",
+      "timestamp": 1637519881.0,
+      "summary": "关于独立思考与舆论。",
+      "source_url": "https://blog.drpika.com/",
+      "category": "Blog"
+    },
+    {
       "title": "为 ESP32-C3 编译 MicroPython",
       "link": "https://zhangshuqiao.org/2021-11/%E4%B8%BAESP32-C3%E7%BC%96%E8%AF%91MicroPython/",
       "date": "2021-11-12 11:19",
@@ -8849,6 +8799,16 @@
       "timestamp": 1631664000.0,
       "summary": "Pangu 是一个有名的用来在全角字符与半角字符间添加空格的库，支持多种语言，其中 Node.js 版 pangu.js 可以作为命令行前端来使用。\n但是由于是 Node.js，想要用 pangu 就需要装很多依赖，类 Unix 系统有包管理还好说，在 Windows 平台下装 node 只为了用 ...",
       "source_url": "https://www.eaimty.com",
+      "category": "Blog"
+    },
+    {
+      "title": "动心忍性，热血转凉",
+      "link": "https://blog.drpika.com/%E5%8C%BB%E8%B7%AF/2021-08-24.html",
+      "date": "2021-08-24 01:32",
+      "author": "DrPika's Blog",
+      "timestamp": 1629739975.0,
+      "summary": "罗翔说：“许多法律学的好的同学，学着学着已经丧失人性了。” 医学僧又何尝不是如此。",
+      "source_url": "https://blog.drpika.com/",
       "category": "Blog"
     },
     {
@@ -8952,6 +8912,16 @@
       "category": "Blog"
     },
     {
+      "title": "“被浪漫”的那些日子",
+      "link": "https://blog.drpika.com/%E6%97%A5%E8%AE%B0/2021-02-03.html",
+      "date": "2021-02-03 03:15",
+      "author": "DrPika's Blog",
+      "timestamp": 1612293305.0,
+      "summary": "你的动态很久没有提到过宇宙、银河、梦想和文学了。怎么，是不是和我一样去搬砖了？",
+      "source_url": "https://blog.drpika.com/",
+      "category": "Blog"
+    },
+    {
       "title": "做这个世界的生产者",
       "link": "https://lutaonan.com/blog/be-a-creator",
       "date": "2021-01-27 08:00",
@@ -8992,6 +8962,16 @@
       "category": "Blog"
     },
     {
+      "title": "科普短篇：肺结节诊断里的爱恨纠葛",
+      "link": "https://blog.drpika.com/%E5%8C%BB%E8%B7%AF/2020-11-06.html",
+      "date": "2020-11-06 01:25",
+      "author": "DrPika's Blog",
+      "timestamp": 1604597110.0,
+      "summary": "借 “常熟银行群体肺结节事件” 谈谈为什么我更推荐体检时选择做CT而不是X线检查。注意：本文内容仅代表个人看法，不构成任何医疗建议。",
+      "source_url": "https://blog.drpika.com/",
+      "category": "Blog"
+    },
+    {
       "title": "请不要让你的博客仅存在于互联网档案馆",
       "link": "https://www.eaimty.com/2020/do-not-let-your-blog-exist-only-in-the-internet-archive/",
       "date": "2020-10-28 08:00",
@@ -8999,6 +8979,26 @@
       "timestamp": 1603843200.0,
       "summary": "晚上睡不着，于是翻了翻博客里之前的那些评论，发现之前的评论者们所留下的网址，已经有一大半无法访问了...\n我觉得这是一件很可悲的事。人们认真创造的网页、写成的文字已不再存在于它们最初产生的地方了。\n互联网档案馆是什么？它是一个非营利组织，运营着一个“时光机”项目，存档它的爬虫所能收集到的所有开放网页...",
       "source_url": "https://www.eaimty.com",
+      "category": "Blog"
+    },
+    {
+      "title": "留恋吗，所有的旧时光",
+      "link": "https://blog.drpika.com/%E6%97%A5%E8%AE%B0/2020-10-25.html",
+      "date": "2020-10-25 11:55",
+      "author": "DrPika's Blog",
+      "timestamp": 1603598109.0,
+      "summary": "最是遗憾，惹人心弦——《风犬少年的天空》观后碎念",
+      "source_url": "https://blog.drpika.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "零基础使用新版Coding搭建自动化部署的极速访问静态博客",
+      "link": "https://blog.drpika.com/%E6%8A%80%E6%9C%AF/2020-10-20.html",
+      "date": "2020-10-20 02:05",
+      "author": "DrPika's Blog",
+      "timestamp": 1603130709.0,
+      "summary": "Serverless 概念初探，腾云扣钉的差异化转型之路",
+      "source_url": "https://blog.drpika.com/",
       "category": "Blog"
     },
     {
@@ -9032,6 +9032,26 @@
       "category": "Blog"
     },
     {
+      "title": "被网警约谈了",
+      "link": "https://blog.drpika.com/%E6%97%A5%E8%AE%B0/2020-08-31.html",
+      "date": "2020-08-31 21:40",
+      "author": "DrPika's Blog",
+      "timestamp": 1598881229.0,
+      "summary": "我以为这事只存在于网络奇谈轶事中，没想到自己真的碰到了。",
+      "source_url": "https://blog.drpika.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "期待IPV6的普及",
+      "link": "https://blog.drpika.com/%E6%97%A5%E8%AE%B0/2020-08-30.html",
+      "date": "2020-08-30 22:31",
+      "author": "DrPika's Blog",
+      "timestamp": 1598797889.0,
+      "summary": "买了一台（黑）群晖，好用，开心。",
+      "source_url": "https://blog.drpika.com/",
+      "category": "Blog"
+    },
+    {
       "title": "网页自适应系统暗色模式的 W3C 新规范：prefers-color-scheme",
       "link": "https://www.eaimty.com/2020/prefers-color-scheme/",
       "date": "2020-08-02 08:00",
@@ -9039,6 +9059,16 @@
       "timestamp": 1596326400.0,
       "summary": "近几年，各个主流操作系统都逐渐开始重视暗色模式，从而改善用户在环境光亮低时的阅读体验。随着水果在 iOS 13 与 macOS Mojave 中添加了暗色模式，除了 Linux 以外所有的主流操作系统都已经实现了系统层级的暗色模式。Linux 由于 DE、WM 的种类繁杂暂时没有统一的标准，但目前可...",
       "source_url": "https://www.eaimty.com",
+      "category": "Blog"
+    },
+    {
+      "title": "南山必胜客与社会主义法治",
+      "link": "https://blog.drpika.com/%E6%80%9D%E8%80%83/2020-07-11.html",
+      "date": "2020-07-11 23:43",
+      "author": "DrPika's Blog",
+      "timestamp": 1594482212.0,
+      "summary": "马克思告诫人们，不要低估资本无孔不入的侵蚀性。",
+      "source_url": "https://blog.drpika.com/",
       "category": "Blog"
     },
     {
@@ -9069,6 +9099,16 @@
       "timestamp": 1589328000.0,
       "summary": "争论框架是个无聊的事情，有一天在开车的时候我突然想到选框架和选车是一样的。\nReact 就像手动挡，Vue 就像自动挡。你不能因为你会开手动挡就看不起开自动挡的，我想正常的驾驶员在城市代步都会选择开自动挡。我只想代个步，为什么不把复杂的事情交给变速箱呢。\n当你要下赛道，你可能要选择手动档。因为你相信...",
       "source_url": "https://lutaonan.com",
+      "category": "Blog"
+    },
+    {
+      "title": "友情、爱情与孤独",
+      "link": "https://blog.drpika.com/%E6%97%A5%E8%AE%B0/2020-04-18.html",
+      "date": "2020-04-18 22:20",
+      "author": "DrPika's Blog",
+      "timestamp": 1587219615.0,
+      "summary": "我的室友说，感情经历一张白纸的人，都是直男，当你不直了，你就变渣了。这么一想，直男也没什么不好。",
+      "source_url": "https://blog.drpika.com/",
       "category": "Blog"
     },
     {
@@ -9152,6 +9192,16 @@
       "category": "Blog"
     },
     {
+      "title": "关于民航总医院恶性伤医事件的一点引申思考",
+      "link": "https://blog.drpika.com/%E6%80%9D%E8%80%83/2019-12-30.html",
+      "date": "2019-12-30 22:43",
+      "author": "DrPika's Blog",
+      "timestamp": 1577717012.0,
+      "summary": "当医务人员把患者放在了对立面，医患关系永无宁日。",
+      "source_url": "https://blog.drpika.com/",
+      "category": "Blog"
+    },
+    {
       "title": "将 Atom 改造为一个简单的 C/C++ IDE",
       "link": "https://www.eaimty.com/2019/atom-c-ide/",
       "date": "2019-10-06 08:00",
@@ -9159,6 +9209,16 @@
       "timestamp": 1570320000.0,
       "summary": "如果你符合以下这些特点，这篇文章会很有用：\n\n单纯喜欢 Atom 的人\n单纯觉得 VS 难用的人\n有洁癖，不愿使用闭源软件的人\n讨厌微软的人\n喜欢折腾的人（其实折腾 Atom 也不是非常难）\n\n当然，即使你不属于上面这几类人，也应该体验一下使用 Atom 的感觉，因为只有对比过后才能知道哪个更适合自...",
       "source_url": "https://www.eaimty.com",
+      "category": "Blog"
+    },
+    {
+      "title": "“一只巴掌拍不响”的医患关系",
+      "link": "https://blog.drpika.com/%E6%80%9D%E8%80%83/2019-09-23.html",
+      "date": "2019-09-23 20:43",
+      "author": "DrPika's Blog",
+      "timestamp": 1569242612.0,
+      "summary": "患者没信任，医者无担当，医生每一次做临床决策时都掺杂进大量避险的杂念，是每一个医生和患者的悲哀。",
+      "source_url": "https://blog.drpika.com/",
       "category": "Blog"
     },
     {
@@ -9172,6 +9232,16 @@
       "category": "Blog"
     },
     {
+      "title": "三十年迷思：历史的记忆",
+      "link": "https://blog.drpika.com/%E6%80%9D%E8%80%83/2019-04-20.html",
+      "date": "2019-04-20 00:43",
+      "author": "DrPika's Blog",
+      "timestamp": 1555692212.0,
+      "summary": "近段时间，华为P系列称王背后的那个男人——徕卡的一支概念宣传片悄然传播在大陆互联网中，我才意识到，距离那场令国人三缄其口的风波，在今年迎来了三十周年的“纪念日”。",
+      "source_url": "https://blog.drpika.com/",
+      "category": "Blog"
+    },
+    {
       "title": "2019",
       "link": "https://www.eaimty.com/2019/2019/",
       "date": "2019-02-09 08:00",
@@ -9179,6 +9249,16 @@
       "timestamp": 1549670400.0,
       "summary": "这篇文章本应 1 月初就发出来，结果...😂就像 Win10 的“10 月更新”一样，不说了\n自开博到现在也已经有 3 年了，去年摸了一整年鱼，加起来只发了 7 篇文章...\n学校那边也越来越忙，今年上半年过去后可能就会好些吧。\n那么，这一年我到底干了些什么呢？\n\n摸鱼\n摸鱼\n摸鱼\n\n仔细想来，这一...",
       "source_url": "https://www.eaimty.com",
+      "category": "Blog"
+    },
+    {
+      "title": "支持中国工人阶级大幅涨薪是“曲线卖国”？",
+      "link": "https://blog.drpika.com/%E6%80%9D%E8%80%83/2018-12-16.html",
+      "date": "2018-12-16 13:38",
+      "author": "DrPika's Blog",
+      "timestamp": 1544938709.0,
+      "summary": "有理有据，令人信服",
+      "source_url": "https://blog.drpika.com/",
       "category": "Blog"
     },
     {
@@ -9192,6 +9272,46 @@
       "category": "Blog"
     },
     {
+      "title": "从“游戏严管”、“网游限量”谈起",
+      "link": "https://blog.drpika.com/%E6%80%9D%E8%80%83/2018-09-04.html",
+      "date": "2018-09-04 19:07",
+      "author": "DrPika's Blog",
+      "timestamp": 1536059252.0,
+      "summary": "在这个无论做什么都要先通过考试的社会，却有一门对社会发展影响极其深远的职业是不需要任何资格认证的，这怎么能不令人毛骨悚然呢？",
+      "source_url": "https://blog.drpika.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "“人到中年”",
+      "link": "https://blog.drpika.com/%E6%97%A5%E8%AE%B0/2018-09-01.html",
+      "date": "2018-09-01 23:07",
+      "author": "DrPika's Blog",
+      "timestamp": 1535814452.0,
+      "summary": "记一个中年人的生活。",
+      "source_url": "https://blog.drpika.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "季夏的普通一天",
+      "link": "https://blog.drpika.com/%E6%97%A5%E8%AE%B0/2018-08-12.html",
+      "date": "2018-08-12 23:07",
+      "author": "DrPika's Blog",
+      "timestamp": 1534086452.0,
+      "summary": "小布尔乔亚者的深夜反思。",
+      "source_url": "https://blog.drpika.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "2018年7月10日晚 《药神》观后一周有感",
+      "link": "https://blog.drpika.com/%E5%8C%BB%E8%B7%AF/2018-07-10.html",
+      "date": "2018-07-10 19:35",
+      "author": "DrPika's Blog",
+      "timestamp": 1531222511.0,
+      "summary": "实习了一个半月，见了不少人间百态。近一周上映的电影《我不是药神》虚构改编的现实甚至还不如在我在医院经历的现实那样沉重。",
+      "source_url": "https://blog.drpika.com/",
+      "category": "Blog"
+    },
+    {
       "title": "搞一台Acer C720 Chromebook玩玩",
       "link": "https://www.eaimty.com/2018/chromebook/",
       "date": "2018-07-07 08:00",
@@ -9199,6 +9319,26 @@
       "timestamp": 1530921600.0,
       "summary": "这篇文章的草稿已经躺在数据库里近一个半月了，今天终于又想起了它的存在，于是写完了它。\n\n为什么要买这台机器\n之前组装自用台式机的时候，我有一个很严重的失误：把所有心思都花在了减小机器的体积上，完全没有考虑散热的问题...装好的机器的确很小，大约只有一本五三练习册那么大：\n\n（忽略我的灵魂走线）\n但同...",
       "source_url": "https://www.eaimty.com",
+      "category": "Blog"
+    },
+    {
+      "title": "拥有一个自己的博客有多难？",
+      "link": "https://blog.drpika.com/%E6%8A%80%E6%9C%AF/2018-07-03.html",
+      "date": "2018-07-03 22:13",
+      "author": "DrPika's Blog",
+      "timestamp": 1530627192.0,
+      "summary": "同样，像大多数游戏那样，取决于自己的水平与倾向，构建自己的网上公开博客也有不同方式、不同难度可选。本文是一篇献给小白的 Hexo 博客程序搭建教程。",
+      "source_url": "https://blog.drpika.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "你来到了没有知识存在的荒原",
+      "link": "https://blog.drpika.com/%E6%8A%80%E6%9C%AF/2018-06-10.html",
+      "date": "2018-06-10 00:11",
+      "author": "DrPika's Blog",
+      "timestamp": 1528560695.0,
+      "summary": "<script src=\"/assets/js/APlayer.min.js\" cla",
+      "source_url": "https://blog.drpika.com/",
       "category": "Blog"
     },
     {
@@ -9219,6 +9359,66 @@
       "timestamp": 1525305600.0,
       "summary": "之前的几年中，我一直使用网易云音乐作为音乐平台，在各平台上安装的也基本都是网易云音乐和一款本地播放器（foobar2000 或 phonograph）。\n最近的某日，我因为好奇新版本在 Android 上升级了今年年初发布的网易云音乐 5.0...\n5 秒后，我在 App info 界面中点击了 u...",
       "source_url": "https://www.eaimty.com",
+      "category": "Blog"
+    },
+    {
+      "title": "由忆引思：“田佳良事件”与“思想入党”",
+      "link": "https://blog.drpika.com/%E6%80%9D%E8%80%83/2018-04-27.html",
+      "date": "2018-04-27 10:30",
+      "author": "DrPika's Blog",
+      "timestamp": 1524796219.0,
+      "summary": "还有十天大学期间最后一个理论学习的学期就要以考试的方式结束了，忆往昔三年学生会经历峥嵘有感；顺便就曾同为院学生会副主席和学生党员的田佳良的不良行为引发广泛讨论的事件谈谈对“思想入党”的个人见解。",
+      "source_url": "https://blog.drpika.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "关于#鸿茅药酒案反转#的一点思考",
+      "link": "https://blog.drpika.com/%E6%80%9D%E8%80%83/2018-04-17.html",
+      "date": "2018-04-17 19:10",
+      "author": "DrPika's Blog",
+      "timestamp": 1523963445.0,
+      "summary": "前几篇博文唱了很多赞歌，今天就唱唱“反调”。",
+      "source_url": "https://blog.drpika.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "大国崛起与国家尊严",
+      "link": "https://blog.drpika.com/%E6%80%9D%E8%80%83/2018-04-14.html",
+      "date": "2018-04-14 19:32",
+      "author": "DrPika's Blog",
+      "timestamp": 1523705546.0,
+      "summary": "昨天，川普伙同梅姨、马克龙一起绕过了国内议会直接宣布对叙利亚发动“精准打击”，比起上次侵略伊拉克还知道找个“证据”，这次连“洗衣粉”都懒得掏出来糊弄一下两院和联合国了。",
+      "source_url": "https://blog.drpika.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "自我奋斗与历史的行程",
+      "link": "https://blog.drpika.com/%E6%80%9D%E8%80%83/2018-04-05.html",
+      "date": "2018-04-05 01:35",
+      "author": "DrPika's Blog",
+      "timestamp": 1522863316.0,
+      "summary": "作为一个初级膜法师，浅谈一下我认知中的膜法与“他”。",
+      "source_url": "https://blog.drpika.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "《厉害了我的国》观后感",
+      "link": "https://blog.drpika.com/%E6%80%9D%E8%80%83/2018-04-02.html",
+      "date": "2018-04-02 12:03",
+      "author": "DrPika's Blog",
+      "timestamp": 1522641814.0,
+      "summary": "由于是党支部公费组织观看的，所以看之前就知道看完后肯定会有“政治任务”，为了避免一个观后感写两次，此篇观后感的立场也会偏红专（当然我本来就红专，只是会和谐掉一些根据党章规定不适合出现的文字）。",
+      "source_url": "https://blog.drpika.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "2018年3月31日晚",
+      "link": "https://blog.drpika.com/%E6%97%A5%E8%AE%B0/2018-03-31.html",
+      "date": "2018-03-31 18:30",
+      "author": "DrPika's Blog",
+      "timestamp": 1522492245.0,
+      "summary": "在知道不用勉强也行以后，自己就会止步不前。",
+      "source_url": "https://blog.drpika.com/",
       "category": "Blog"
     },
     {
@@ -9300,206 +9500,6 @@
       "summary": "斋主人 # 与君同醒复同醉，仰看青士冠剑长。 悲观的理想主义者 拖延的兴趣多动症 想去霍格沃茲学点魔法 也想去青云门修仙成道 不务正业想转行还没成功的建筑",
       "source_url": "http://bamboobone9.com/",
       "category": "Blog"
-    },
-    {
-      "title": "谷歌向所有用户开放Gemini 2.5 Pro模型 具有更复杂的推理能力支持100万上下文",
-      "link": "https://www.landiannews.com/archives/108588.html",
-      "date": "2025-03-30 17:10",
-      "author": "蓝点网",
-      "timestamp": 1743325803.0,
-      "summary": "# 人工智能 谷歌向所有用户开放 Gemini 2.5 Pro 模型，具有更复杂的推理能力并支持 100 万 token 上下文窗口。该模型早前仅支持付费订阅的 Gemini Advanced，现在谷歌将其免费开放给所有用户，并且支持应用、扩展程序、文件上传和 Canvas 集成等。查看全文：htt...",
-      "source_url": "https://www.landiannews.com",
-      "category": "News"
-    },
-    {
-      "title": "火狐浏览器v137.0正式版内置的本地机器翻译技术带来简体中文的支持",
-      "link": "https://www.landiannews.com/archives/108587.html",
-      "date": "2025-03-30 16:56",
-      "author": "蓝点网",
-      "timestamp": 1743324990.0,
-      "summary": "#软件资讯 火狐浏览器 v137.0 正式版内置的本地机器翻译技术带来简体中文的支持，因为无需将数据发送到云端因此隐私性更好。该功能是谋智基金会与欧盟赞助的香柠檬项目合作开发，旨在提供不需要将数据发送到云端的隐私性更好的翻译服务，也就是脱离谷歌和微软翻译。查看全文：https://ourl.co/1...",
-      "source_url": "https://www.landiannews.com",
-      "category": "News"
-    },
-    {
-      "title": "[教程] 跳过Windows 11登录微软账户新方法 只需要简单命令即可创建本地账户",
-      "link": "https://www.landiannews.com/archives/108586.html",
-      "date": "2025-03-30 16:27",
-      "author": "蓝点网",
-      "timestamp": 1743323254.0,
-      "summary": "#技术教程 跳过 Windows 11 登录微软账户新方法，只需要简单命令即可创建本地账户。在 X/Twitter 上网友 @WitherOrNot 分享了跳过账户登录新方法，只需要在命令提示符中输入 start ms-cxh:localonly 即可调出账户设置窗口，在这里可以更快创建本地账户。查...",
-      "source_url": "https://www.landiannews.com",
-      "category": "News"
-    },
-    {
-      "title": "软件订阅服务Setapp自4月25日停止家庭版计划 无法再通过家庭版拼车订阅软件",
-      "link": "https://www.landiannews.com/archives/108585.html",
-      "date": "2025-03-29 14:58",
-      "author": "蓝点网",
-      "timestamp": 1743231517.0,
-      "summary": "#软件资讯 软件订阅服务 Setapp 即日起停止销售家庭版订阅，自 4 月 25 日起不再支持更改和邀请新家庭成员，也就是无法再通过家庭版拼车订阅。已经进行拼车订阅的 Setapp 用户请注意：4 月 25 日后不支持再调整成员，要么所有用户一起继续开车，要么就只能终止订阅不再续订。查看全文：ht...",
-      "source_url": "https://www.landiannews.com",
-      "category": "News"
-    },
-    {
-      "title": "标题党的力量：迫使谷歌发文辟谣安卓不再开源 谷歌称仍致力于发布完整源代码",
-      "link": "https://www.landiannews.com/archives/108584.html",
-      "date": "2025-03-29 14:42",
-      "author": "蓝点网",
-      "timestamp": 1743230550.0,
-      "summary": "#科技资讯 标题党的力量：迫使谷歌发文辟谣安卓不再开源，谷歌称仍致力于发布完整的源代码。谷歌表示将安卓开发转移到单个内部分支只是帮助谷歌简化开发，谷歌仍然致力于将所有相关平台的完整源代码发布到 AOSP，根据 AOSP 说明谷歌会按季度发布新完整源代码。查看全文：https://ourl.co/10...",
-      "source_url": "https://www.landiannews.com",
-      "category": "News"
-    },
-    {
-      "title": "微软正在优化Microsoft 365增强Office组件启动速度 但本质上就是默认后台运行",
-      "link": "https://www.landiannews.com/archives/108572.html",
-      "date": "2025-03-29 14:15",
-      "author": "蓝点网",
-      "timestamp": 1743228910.0,
-      "summary": "#软件资讯 微软正在优化 Microsoft 365 增强 Office 组件的启动速度，本质上就是随系统静默启动后台任务，这样相当于 Office 始终在后台运行因此启动速度自然会更快。若用户要禁用该功能则需要在 Word 等组件的选项中手动关闭，如果通过任务管理器禁用则 Office 更新后可能...",
-      "source_url": "https://www.landiannews.com",
-      "category": "News"
-    },
-    {
-      "title": "微软修改Windows 11系统崩溃后的快速修复界面 尝试联网修复但也提供手动选项",
-      "link": "https://www.landiannews.com/archives/108571.html",
-      "date": "2025-03-29 12:37",
-      "author": "蓝点网",
-      "timestamp": 1743223035.0,
-      "summary": "#系统资讯 微软修改 Windows 11 系统崩溃后的快速修复界面，似乎还会联网查询界面尝试进行修复。这并不是新功能只是界面有所改变，默认情况下系统会尝试自动修复，用户也可以按回车键进入传统 UEFI 选项获得更多恢复选项例如卸载更新或使用还原点进行还原等。查看全文：https://ourl.co...",
-      "source_url": "https://www.landiannews.com",
-      "category": "News"
-    },
-    {
-      "title": "[教程] 微软在Windows 11中删除BypassNRO跳过登录脚本 现在需要手动改注册表跳过",
-      "link": "https://www.landiannews.com/archives/108570.html",
-      "date": "2025-03-29 12:00",
-      "author": "蓝点网",
-      "timestamp": 1743220857.0,
-      "summary": "#技术教程 微软在 Windows 11 最新测试版中删除 BypassNRO 绕过登录脚本以强迫用户登录微软账户，但我们仍然可以修改注册表继续绕过账户登录。BypassNRO 脚本被删除后现在只能通过修改注册表启用相同的功能，需要添加名为 BypassNRO 的键值再重启系统。操作方法如下：htt...",
-      "source_url": "https://www.landiannews.com",
-      "category": "News"
-    },
-    {
-      "title": "微软删除Win11蓝屏死机界面的二维码和表情符号 换回2012年时Win8时代的样式",
-      "link": "https://www.landiannews.com/archives/108569.html",
-      "date": "2025-03-29 11:42",
-      "author": "蓝点网",
-      "timestamp": 1743219755.0,
-      "summary": "#系统资讯 微软删除 Windows 11 蓝屏死机界面的二维码和表情符号，换回 2012 年时 Windows 8 时代的精简版样式。在新的蓝屏死机界面仅会提示系统遇到问题然后用较小字符备注引起蓝屏死机的原因，毕竟原本那个二维码只是链接到微软帮助中心实际并不能帮用户解决问题。(绿屏和黑屏代表测试版...",
-      "source_url": "https://www.landiannews.com",
-      "category": "News"
-    },
-    {
-      "title": "新版Windows 11在全新安装时可选切换为ReFS弹性文件系统 操作方法如下",
-      "link": "https://www.landiannews.com/archives/108563.html",
-      "date": "2025-03-29 11:09",
-      "author": "蓝点网",
-      "timestamp": 1743217767.0,
-      "summary": "#系统资讯 新版 Windows 11 在全新安装时可选切换为 ReFS 弹性文件系统，即将操作系统安装在 ReFS 而非 NTFS 上。这是微软在 Build 27823 测试版中推出的最新功能，最初是在 2023 年 1 月测试，现在已经抵达金丝雀版，但只能安装时切换不能在装机完成后切换。操作方...",
-      "source_url": "https://www.landiannews.com",
-      "category": "News"
-    },
-    {
-      "title": "博通起诉西门子没购买许可证使用多个VMware产品还要求提供维护和支持服务",
-      "link": "https://www.landiannews.com/archives/108568.html",
-      "date": "2025-03-28 10:35",
-      "author": "蓝点网",
-      "timestamp": 1743129356.0,
-      "summary": "#科技资讯 博通起诉西门子美国公司未购买许可证的情况下使用多个 VMware 产品还寻求维护和技术支持。VMware 称收到西门子提交的付费支持请求续订后检查了购买记录，结果发现西门子并没有购买产品许可证。查看全文：https://ourl.co/108568",
-      "source_url": "https://www.landiannews.com",
-      "category": "News"
-    },
-    {
-      "title": "调查显示甲骨文云服务器确实被攻击并泄露数据 但甲骨文始终没有承认",
-      "link": "https://www.landiannews.com/archives/108566.html",
-      "date": "2025-03-27 18:57",
-      "author": "蓝点网",
-      "timestamp": 1743073060.0,
-      "summary": "#安全资讯 调查显示 Oracle Cloud 服务器确实被黑客攻击并窃取了数据，但甲骨文始终没有承认此安全事件。国外安全网站与黑客对话拿到了部分数据，随后使用这些数据联系所属公司进行确认，泄露的信息确认为真。另外黑客还收到自称甲骨文但使用 Proton Mail 加密邮箱进行沟通的邮件。查看全文：...",
-      "source_url": "https://www.landiannews.com",
-      "category": "News"
-    },
-    {
-      "title": "新版Linux内核大幅改善运行Windows NT软件/游戏性能 Wine和SteamOS都将受益",
-      "link": "https://www.landiannews.com/archives/108567.html",
-      "date": "2025-03-27 14:42",
-      "author": "蓝点网",
-      "timestamp": 1743057762.0,
-      "summary": "#系统资讯 Linux Kernel 最新版将大幅度改善 Windows NT 兼容层应用性能，也就是在 Linux 上运行 Windows 软件和游戏可以获得更好的性能。兼容层应用 Wine 和基于 Wine 的 Steam Proton 兼容层都将获益，未来 SteamOS 运行 Windows...",
-      "source_url": "https://www.landiannews.com",
-      "category": "News"
-    },
-    {
-      "title": "临时邮箱服务AdGuard Mail发布多个功能更新 帮助用户更好的保护隐私",
-      "link": "https://www.landiannews.com/archives/108565.html",
-      "date": "2025-03-27 14:19",
-      "author": "蓝点网",
-      "timestamp": 1743056388.0,
-      "summary": "#软件资讯 AdGuard Mail 临时邮箱服务上新多个新功能，包括临时邮件附件通知、阻止发件人活动、连续阅读等。AdGuard Mail 提供别名邮箱和一次性使用的临时邮箱，用户使用这些邮箱注册各种账号不需要担心骚扰问题，因为可以随时停掉这些邮箱。查看全文：https://ourl.co/108...",
-      "source_url": "https://www.landiannews.com",
-      "category": "News"
-    },
-    {
-      "title": "微软终于修复Win11远程桌面RDP/RDS断连问题 连接65秒后就可能断开连接",
-      "link": "https://www.landiannews.com/archives/108547.html",
-      "date": "2025-03-27 13:56",
-      "author": "蓝点网",
-      "timestamp": 1743054993.0,
-      "summary": "#系统资讯 微软终于修复 Windows 11 远程桌面 RDP/RDS 会话断连问题，连接 65 秒后就可能自动断开连接。早前蓝点网发布指南通过禁用 UDP 缓解断连，现在微软证实也确实和 UDP 协议有关，不过用户只需要接收更新即可恢复不需要再禁用 UDP 协议。查看全文：https://our...",
-      "source_url": "https://www.landiannews.com",
-      "category": "News"
-    },
-    {
-      "title": "微软已通过3月可选更新修复Windows 10/11打印机自己随机打印内容的问题",
-      "link": "https://www.landiannews.com/archives/108546.html",
-      "date": "2025-03-27 13:33",
-      "author": "蓝点网",
-      "timestamp": 1743053617.0,
-      "summary": "#系统资讯 微软已通过 3 月更新更新修复 Windows 10/11 打印机自己随机打印内容的问题，该问题会在打印机开机或断开重连后自己打印字符串内容。新的可选更新在昨天发布，带有测试性质，建议用户等待 4 月份稳定版更新发布。查看全文：https://ourl.co/108546",
-      "source_url": "https://www.landiannews.com",
-      "category": "News"
-    },
-    {
-      "title": "苹果在官网发布「新品」Lumon Terminal Pro 只为宣传原创美剧人生切割术S2",
-      "link": "https://www.landiannews.com/archives/108564.html",
-      "date": "2025-03-27 12:21",
-      "author": "蓝点网",
-      "timestamp": 1743049318.0,
-      "summary": "#科技资讯 苹果在官方商城发布「新品」Lumon Terminal Pro，只为宣传苹果原创美剧《人生切割术》。Lumon Terminal Pro 是人生切割术中主角在公司使用的设备，苹果希望通过这个新广告吸引更多人订阅 Apple TV + 观看这部美剧。查看全文：https://ourl.co...",
-      "source_url": "https://www.landiannews.com",
-      "category": "News"
-    },
-    {
-      "title": "微软开发者社区副总裁吐槽Outlook版本太多 不如再加上Outlook零糖/无咖啡因版",
-      "link": "https://www.landiannews.com/archives/108544.html",
-      "date": "2025-03-27 11:40",
-      "author": "蓝点网",
-      "timestamp": 1743046840.0,
-      "summary": "#软件资讯 微软高管吐槽 Outlook 版本太多名字太乱，反正已经这样了不如再加上 Outlook 零糖版、Outlook 无咖啡因版、Outlook '95 版以及 Outlook 九月发布的橙子香草味奶酪版。这个调侃也可以说明微软的产品规划和命名确实非常糟糕。查看全文：https://ourl...",
-      "source_url": "https://www.landiannews.com",
-      "category": "News"
-    },
-    {
-      "title": "Telegram惊现公开群组聊天索引机器人 抓取8.6亿名用户的560亿条发言记录",
-      "link": "https://www.landiannews.com/archives/108543.html",
-      "date": "2025-03-27 11:18",
-      "author": "蓝点网",
-      "timestamp": 1743045520.0,
-      "summary": "#科技资讯 Telegram 惊现公开群组聊天索引机器人，该机器人抓取高达 560 亿条用户发言数据，涉及 8.6 亿用户和 3600 万个订阅频道或群组。目前机器人不提供特定用户的具体发言记录，但任意用户都可以查询他人的历史发言数据、加入 / 退出的群组、经常群里对话的好友等等。查看全文：http...",
-      "source_url": "https://www.landiannews.com",
-      "category": "News"
-    },
-    {
-      "title": "[莫慌] Android开发将转为谷歌内部分支 不再公布开发记录但仍然会开源",
-      "link": "https://www.landiannews.com/archives/108545.html",
-      "date": "2025-03-27 11:05",
-      "author": "蓝点网",
-      "timestamp": 1743044746.0,
-      "summary": "#系统资讯 从下周开始 Android 系统的开发流程转为私下开发而不是公开开发记录，谷歌称这仍然会继续开源只是简化工作流。谷歌将 AOSP 与内部涉及 GMS 的开发分支合并从而简化开发流程，当有新分支版本时才会发布更改后的源代码到 AOSP 中。查看全文：https://ourl.co/1085...",
-      "source_url": "https://www.landiannews.com",
-      "category": "News"
     },
     {
       "title": "NVIDIA NIM 微服务现已推出，可简化 RTX AI PC 和工作站上的智能体工作流",
@@ -9672,6 +9672,16 @@
       "category": "News"
     },
     {
+      "title": "Oracle 与 NVIDIA 合作助力企业加速代理式 AI 推理",
+      "link": "https://blogs.nvidia.cn/blog/oracle-and-nvidia-collaborate-to-help-enterprises-accelerate-agentic-ai-inference/",
+      "date": "2025-03-18 23:55",
+      "author": "NVIDIA 英伟达博客",
+      "timestamp": 1742313300.0,
+      "summary": "美国加利福尼亚州圣何塞 —— GTC  —— 2025 年 3 月 18 日 —— Oracle 和 NVID",
+      "source_url": "https://blogs.nvidia.cn/",
+      "category": "News"
+    },
+    {
       "title": "全速推进：NVIDIA 认证计划扩展至企业存储领域，加速 AI 工厂部署",
       "link": "https://blogs.nvidia.cn/blog/nvidia-certified-enterprise-storage/",
       "date": "2025-03-18 23:55",
@@ -9728,16 +9738,6 @@
       "author": "NVIDIA 英伟达博客",
       "timestamp": 1742313300.0,
       "summary": "随着生成式 AI 能力的扩展，NVIDIA 正为开发者提供工具，使其能够将 AI 无缝集成到创意项目、应用程序",
-      "source_url": "https://blogs.nvidia.cn/",
-      "category": "News"
-    },
-    {
-      "title": "Oracle 与 NVIDIA 合作助力企业加速代理式 AI 推理",
-      "link": "https://blogs.nvidia.cn/blog/oracle-and-nvidia-collaborate-to-help-enterprises-accelerate-agentic-ai-inference/",
-      "date": "2025-03-18 23:55",
-      "author": "NVIDIA 英伟达博客",
-      "timestamp": 1742313300.0,
-      "summary": "美国加利福尼亚州圣何塞 —— GTC  —— 2025 年 3 月 18 日 —— Oracle 和 NVID",
       "source_url": "https://blogs.nvidia.cn/",
       "category": "News"
     },
