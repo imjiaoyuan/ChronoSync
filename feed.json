@@ -9802,6 +9802,206 @@
       "category": "Blog"
     },
     {
+      "title": "软件订阅服务Setapp自4月25日停止家庭版计划 无法再通过家庭版拼车订阅软件",
+      "link": "https://www.landiannews.com/archives/108585.html",
+      "date": "2025-03-29 14:58",
+      "author": "蓝点网",
+      "timestamp": 1743231517.0,
+      "summary": "#软件资讯 软件订阅服务 Setapp 即日起停止销售家庭版订阅，自 4 月 25 日起不再支持更改和邀请新家庭成员，也就是无法再通过家庭版拼车订阅。已经进行拼车订阅的 Setapp 用户请注意：4 月 25 日后不支持再调整成员，要么所有用户一起继续开车，要么就只能终止订阅不再续订。查看全文：ht...",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
+      "title": "标题党的力量：迫使谷歌发文辟谣安卓不再开源 谷歌称仍致力于发布完整源代码",
+      "link": "https://www.landiannews.com/archives/108584.html",
+      "date": "2025-03-29 14:42",
+      "author": "蓝点网",
+      "timestamp": 1743230550.0,
+      "summary": "#科技资讯 标题党的力量：迫使谷歌发文辟谣安卓不再开源，谷歌称仍致力于发布完整的源代码。谷歌表示将安卓开发转移到单个内部分支只是帮助谷歌简化开发，谷歌仍然致力于将所有相关平台的完整源代码发布到 AOSP，根据 AOSP 说明谷歌会按季度发布新完整源代码。查看全文：https://ourl.co/10...",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
+      "title": "微软正在优化Microsoft 365增强Office组件启动速度 但本质上就是默认后台运行",
+      "link": "https://www.landiannews.com/archives/108572.html",
+      "date": "2025-03-29 14:15",
+      "author": "蓝点网",
+      "timestamp": 1743228910.0,
+      "summary": "#软件资讯 微软正在优化 Microsoft 365 增强 Office 组件的启动速度，本质上就是随系统静默启动后台任务，这样相当于 Office 始终在后台运行因此启动速度自然会更快。若用户要禁用该功能则需要在 Word 等组件的选项中手动关闭，如果通过任务管理器禁用则 Office 更新后可能...",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
+      "title": "微软修改Windows 11系统崩溃后的快速修复界面 尝试联网修复但也提供手动选项",
+      "link": "https://www.landiannews.com/archives/108571.html",
+      "date": "2025-03-29 12:37",
+      "author": "蓝点网",
+      "timestamp": 1743223035.0,
+      "summary": "#系统资讯 微软修改 Windows 11 系统崩溃后的快速修复界面，似乎还会联网查询界面尝试进行修复。这并不是新功能只是界面有所改变，默认情况下系统会尝试自动修复，用户也可以按回车键进入传统 UEFI 选项获得更多恢复选项例如卸载更新或使用还原点进行还原等。查看全文：https://ourl.co...",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
+      "title": "[教程] 微软在Windows 11中删除BypassNRO跳过登录脚本 现在需要手动改注册表跳过",
+      "link": "https://www.landiannews.com/archives/108570.html",
+      "date": "2025-03-29 12:00",
+      "author": "蓝点网",
+      "timestamp": 1743220857.0,
+      "summary": "#技术教程 微软在 Windows 11 最新测试版中删除 BypassNRO 绕过登录脚本以强迫用户登录微软账户，但我们仍然可以修改注册表继续绕过账户登录。BypassNRO 脚本被删除后现在只能通过修改注册表启用相同的功能，需要添加名为 BypassNRO 的键值再重启系统。操作方法如下：htt...",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
+      "title": "微软删除Win11蓝屏死机界面的二维码和表情符号 换回2012年时Win8时代的样式",
+      "link": "https://www.landiannews.com/archives/108569.html",
+      "date": "2025-03-29 11:42",
+      "author": "蓝点网",
+      "timestamp": 1743219755.0,
+      "summary": "#系统资讯 微软删除 Windows 11 蓝屏死机界面的二维码和表情符号，换回 2012 年时 Windows 8 时代的精简版样式。在新的蓝屏死机界面仅会提示系统遇到问题然后用较小字符备注引起蓝屏死机的原因，毕竟原本那个二维码只是链接到微软帮助中心实际并不能帮用户解决问题。(绿屏和黑屏代表测试版...",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
+      "title": "新版Windows 11在全新安装时可选切换为ReFS弹性文件系统 操作方法如下",
+      "link": "https://www.landiannews.com/archives/108563.html",
+      "date": "2025-03-29 11:09",
+      "author": "蓝点网",
+      "timestamp": 1743217767.0,
+      "summary": "#系统资讯 新版 Windows 11 在全新安装时可选切换为 ReFS 弹性文件系统，即将操作系统安装在 ReFS 而非 NTFS 上。这是微软在 Build 27823 测试版中推出的最新功能，最初是在 2023 年 1 月测试，现在已经抵达金丝雀版，但只能安装时切换不能在装机完成后切换。操作方...",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
+      "title": "博通起诉西门子没购买许可证使用多个VMware产品还要求提供维护和支持服务",
+      "link": "https://www.landiannews.com/archives/108568.html",
+      "date": "2025-03-28 10:35",
+      "author": "蓝点网",
+      "timestamp": 1743129356.0,
+      "summary": "#科技资讯 博通起诉西门子美国公司未购买许可证的情况下使用多个 VMware 产品还寻求维护和技术支持。VMware 称收到西门子提交的付费支持请求续订后检查了购买记录，结果发现西门子并没有购买产品许可证。查看全文：https://ourl.co/108568",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
+      "title": "调查显示甲骨文云服务器确实被攻击并泄露数据 但甲骨文始终没有承认",
+      "link": "https://www.landiannews.com/archives/108566.html",
+      "date": "2025-03-27 18:57",
+      "author": "蓝点网",
+      "timestamp": 1743073060.0,
+      "summary": "#安全资讯 调查显示 Oracle Cloud 服务器确实被黑客攻击并窃取了数据，但甲骨文始终没有承认此安全事件。国外安全网站与黑客对话拿到了部分数据，随后使用这些数据联系所属公司进行确认，泄露的信息确认为真。另外黑客还收到自称甲骨文但使用 Proton Mail 加密邮箱进行沟通的邮件。查看全文：...",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
+      "title": "新版Linux内核大幅改善运行Windows NT软件/游戏性能 Wine和SteamOS都将受益",
+      "link": "https://www.landiannews.com/archives/108567.html",
+      "date": "2025-03-27 14:42",
+      "author": "蓝点网",
+      "timestamp": 1743057762.0,
+      "summary": "#系统资讯 Linux Kernel 最新版将大幅度改善 Windows NT 兼容层应用性能，也就是在 Linux 上运行 Windows 软件和游戏可以获得更好的性能。兼容层应用 Wine 和基于 Wine 的 Steam Proton 兼容层都将获益，未来 SteamOS 运行 Windows...",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
+      "title": "临时邮箱服务AdGuard Mail发布多个功能更新 帮助用户更好的保护隐私",
+      "link": "https://www.landiannews.com/archives/108565.html",
+      "date": "2025-03-27 14:19",
+      "author": "蓝点网",
+      "timestamp": 1743056388.0,
+      "summary": "#软件资讯 AdGuard Mail 临时邮箱服务上新多个新功能，包括临时邮件附件通知、阻止发件人活动、连续阅读等。AdGuard Mail 提供别名邮箱和一次性使用的临时邮箱，用户使用这些邮箱注册各种账号不需要担心骚扰问题，因为可以随时停掉这些邮箱。查看全文：https://ourl.co/108...",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
+      "title": "微软终于修复Win11远程桌面RDP/RDS断连问题 连接65秒后就可能断开连接",
+      "link": "https://www.landiannews.com/archives/108547.html",
+      "date": "2025-03-27 13:56",
+      "author": "蓝点网",
+      "timestamp": 1743054993.0,
+      "summary": "#系统资讯 微软终于修复 Windows 11 远程桌面 RDP/RDS 会话断连问题，连接 65 秒后就可能自动断开连接。早前蓝点网发布指南通过禁用 UDP 缓解断连，现在微软证实也确实和 UDP 协议有关，不过用户只需要接收更新即可恢复不需要再禁用 UDP 协议。查看全文：https://our...",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
+      "title": "微软已通过3月可选更新修复Windows 10/11打印机自己随机打印内容的问题",
+      "link": "https://www.landiannews.com/archives/108546.html",
+      "date": "2025-03-27 13:33",
+      "author": "蓝点网",
+      "timestamp": 1743053617.0,
+      "summary": "#系统资讯 微软已通过 3 月更新更新修复 Windows 10/11 打印机自己随机打印内容的问题，该问题会在打印机开机或断开重连后自己打印字符串内容。新的可选更新在昨天发布，带有测试性质，建议用户等待 4 月份稳定版更新发布。查看全文：https://ourl.co/108546",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
+      "title": "苹果在官网发布「新品」Lumon Terminal Pro 只为宣传原创美剧人生切割术S2",
+      "link": "https://www.landiannews.com/archives/108564.html",
+      "date": "2025-03-27 12:21",
+      "author": "蓝点网",
+      "timestamp": 1743049318.0,
+      "summary": "#科技资讯 苹果在官方商城发布「新品」Lumon Terminal Pro，只为宣传苹果原创美剧《人生切割术》。Lumon Terminal Pro 是人生切割术中主角在公司使用的设备，苹果希望通过这个新广告吸引更多人订阅 Apple TV + 观看这部美剧。查看全文：https://ourl.co...",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
+      "title": "微软开发者社区副总裁吐槽Outlook版本太多 不如再加上Outlook零糖/无咖啡因版",
+      "link": "https://www.landiannews.com/archives/108544.html",
+      "date": "2025-03-27 11:40",
+      "author": "蓝点网",
+      "timestamp": 1743046840.0,
+      "summary": "#软件资讯 微软高管吐槽 Outlook 版本太多名字太乱，反正已经这样了不如再加上 Outlook 零糖版、Outlook 无咖啡因版、Outlook '95 版以及 Outlook 九月发布的橙子香草味奶酪版。这个调侃也可以说明微软的产品规划和命名确实非常糟糕。查看全文：https://ourl...",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
+      "title": "Telegram惊现公开群组聊天索引机器人 抓取8.6亿名用户的560亿条发言记录",
+      "link": "https://www.landiannews.com/archives/108543.html",
+      "date": "2025-03-27 11:18",
+      "author": "蓝点网",
+      "timestamp": 1743045520.0,
+      "summary": "#科技资讯 Telegram 惊现公开群组聊天索引机器人，该机器人抓取高达 560 亿条用户发言数据，涉及 8.6 亿用户和 3600 万个订阅频道或群组。目前机器人不提供特定用户的具体发言记录，但任意用户都可以查询他人的历史发言数据、加入 / 退出的群组、经常群里对话的好友等等。查看全文：http...",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
+      "title": "[莫慌] Android开发将转为谷歌内部分支 不再公布开发记录但仍然会开源",
+      "link": "https://www.landiannews.com/archives/108545.html",
+      "date": "2025-03-27 11:05",
+      "author": "蓝点网",
+      "timestamp": 1743044746.0,
+      "summary": "#系统资讯 从下周开始 Android 系统的开发流程转为私下开发而不是公开开发记录，谷歌称这仍然会继续开源只是简化工作流。谷歌将 AOSP 与内部涉及 GMS 的开发分支合并从而简化开发流程，当有新分支版本时才会发布更改后的源代码到 AOSP 中。查看全文：https://ourl.co/1085...",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
+      "title": "高通在美国/欧盟/韩国向Arm提起秘密诉讼 指控Arm限制其获取技术损害竞争",
+      "link": "https://www.landiannews.com/archives/108541.html",
+      "date": "2025-03-27 10:58",
+      "author": "蓝点网",
+      "timestamp": 1743044325.0,
+      "summary": "#科技资讯 高通在美国 / 欧盟 / 韩国向 Arm 发起秘密诉讼，指控 Arm 限制其获取技术并损害竞争。高通称 Arm 正在改变专利许可模式从而偏向自家芯片定制设计业务，这会损害 Arm 原本开放许可模式建立的强大的软件和硬件生态系统。查看全文：https://ourl.co/108541",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
+      "title": "谷歌推出紧急安全更新修复Chrome零日漏洞 该漏洞被黑客用于间谍行动",
+      "link": "https://www.landiannews.com/archives/108540.html",
+      "date": "2025-03-27 10:40",
+      "author": "蓝点网",
+      "timestamp": 1743043240.0,
+      "summary": "#安全资讯 谷歌推出紧急安全更新修复 Chrome 零日漏洞，该漏洞被黑客用于间谍行动。攻击者通过发送钓鱼邮件诱导用户点击某个特制网站，只要点击，网站就会利用漏洞在设备上实现远程代码执行并用于部署后门程序。查看全文：https://ourl.co/108540",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
+      "title": "ChatGPT 4o图片生成在社交媒体上引起狂欢 因太火爆以至于免费版需要推迟",
+      "link": "https://www.landiannews.com/archives/108549.html",
+      "date": "2025-03-27 10:31",
+      "author": "蓝点网",
+      "timestamp": 1743042692.0,
+      "summary": "#人工智能 ChatGPT 4o 模型图片生成在社交媒体上引起狂欢，因为太火爆导致消耗太多算力，所以 OpenAI 推迟该功能向免费版用户开放。用户可以使用这个新功能上传图片作为画风灵感，随后即可将任意图片转换为类似风格。查看全文：https://ourl.co/108549",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
       "title": "借助 NVIDIA NIM 微服务，在 RTX AI PC 和工作站上开启您的 AI 之旅",
       "link": "https://developer.nvidia.com/zh-cn/blog/kickstart-your-ai-journey-on-rtx-ai-pcs-and-workstations-with-nvidia-nim-microservices/",
       "date": "2025-03-25 17:11",
@@ -9962,6 +10162,26 @@
       "category": "News"
     },
     {
+      "title": "NVIDIA Aerial 平台扩展新工具，助力构建 AI 原生无线网络",
+      "link": "https://blogs.nvidia.cn/blog/aerial-telecom-research/",
+      "date": "2025-03-18 23:55",
+      "author": "NVIDIA 英伟达博客",
+      "timestamp": 1742313300.0,
+      "summary": "电信行业正加速采用 AI 技术，以实现即使在信号强度不佳的条件下也能够提供无缝连接，同时最大化可持续性与频谱效",
+      "source_url": "https://blogs.nvidia.cn/",
+      "category": "News"
+    },
+    {
+      "title": "适用于 NVIDIA Blackwell 架构的全新软件驱动 AI 工厂高速运行",
+      "link": "https://blogs.nvidia.cn/blog/mission-control-software/",
+      "date": "2025-03-18 23:55",
+      "author": "NVIDIA 英伟达博客",
+      "timestamp": 1742313300.0,
+      "summary": "蒸汽推动了工业时代的发展，数字时代通过软件带来了转变。如今，生成式 AI、代理式 AI 和 AI 推理的发展是",
+      "source_url": "https://blogs.nvidia.cn/",
+      "category": "News"
+    },
+    {
       "title": "NVIDIA 与行业领先的存储企业共同推出面向 AI 时代的新型企业基础设施",
       "link": "https://blogs.nvidia.cn/blog/nvidia-and-storage-industry-leaders-unveil-new-class-of-enterprise-infrastructure-for-the-age-of-ai/",
       "date": "2025-03-18 23:55",
@@ -10008,26 +10228,6 @@
       "author": "NVIDIA 英伟达博客",
       "timestamp": 1742313300.0,
       "summary": "全球电信网络每天需支持数百万用户连接，平均每分钟产生超过 3,800 TB 数据。 基站、路由器、交换机及数据",
-      "source_url": "https://blogs.nvidia.cn/",
-      "category": "News"
-    },
-    {
-      "title": "NVIDIA Aerial 平台扩展新工具，助力构建 AI 原生无线网络",
-      "link": "https://blogs.nvidia.cn/blog/aerial-telecom-research/",
-      "date": "2025-03-18 23:55",
-      "author": "NVIDIA 英伟达博客",
-      "timestamp": 1742313300.0,
-      "summary": "电信行业正加速采用 AI 技术，以实现即使在信号强度不佳的条件下也能够提供无缝连接，同时最大化可持续性与频谱效",
-      "source_url": "https://blogs.nvidia.cn/",
-      "category": "News"
-    },
-    {
-      "title": "适用于 NVIDIA Blackwell 架构的全新软件驱动 AI 工厂高速运行",
-      "link": "https://blogs.nvidia.cn/blog/mission-control-software/",
-      "date": "2025-03-18 23:55",
-      "author": "NVIDIA 英伟达博客",
-      "timestamp": 1742313300.0,
-      "summary": "蒸汽推动了工业时代的发展，数字时代通过软件带来了转变。如今，生成式 AI、代理式 AI 和 AI 推理的发展是",
       "source_url": "https://blogs.nvidia.cn/",
       "category": "News"
     },
