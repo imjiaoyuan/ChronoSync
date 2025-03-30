@@ -18,31 +18,17 @@
                 <span>Synthrom</span>
             </div>
             <nav class="nav-items">
-                <div class="category-item active" data-category="Blog">
-                    <i class="mdi mdi-post"></i>
-                    <span>博客</span>
-                </div>
-                <div class="category-item" data-category="Information">
-                    <i class="mdi mdi-newspaper"></i>
-                    <span>资讯</span>
-                </div>
+                <!-- 动态生成导航项 -->
             </nav>
             <div class="update-time">
                 <i class="mdi mdi-clock-outline"></i>
-                <span id="update-time"></span>
+                <span id="update-time">加载中...</span>
             </div>
         </div>
     </header>
 
     <nav class="mobile-nav">
-        <div class="category-item active" data-category="Blog">
-            <i class="mdi mdi-post"></i>
-            <span>博客</span>
-        </div>
-        <div class="category-item" data-category="Information">
-            <i class="mdi mdi-newspaper"></i>
-            <span>资讯</span>
-        </div>
+        <!-- 动态生成移动端导航项 -->
     </nav>
     <main class="articles" id="articles"></main>
     <script>
@@ -118,11 +104,9 @@
         }
 
         function renderArticle(article) {
-            const isRead = localStorage.getItem(`read_${article.link}`) === 'true';
             const safeTitle = escapeString(article.title);
             const safeSummary = escapeString(article.summary || '无摘要');
             
-            // 根据配置决定是否显示评论和收藏按钮
             const buttons = [];
             
             if (githubConfig?.github.comment.enabled) {
@@ -144,9 +128,8 @@
             }
 
             return `
-                <article class="article ${isRead ? 'read' : ''}" data-link="${article.link}">
-                    <a href="${article.link}" class="article-title" target="_blank" 
-                       onclick="markAsRead(event, '${article.link}')">${article.title}</a>
+                <article class="article" data-link="${article.link}">
+                    <a href="${article.link}" class="article-title" target="_blank">${article.title}</a>
                     <div class="article-summary">
                         ${article.summary || '无摘要'}
                     </div>
@@ -160,52 +143,10 @@
                             <span>${article.date}</span>
                         </div>
                         <div class="button-group">
-                            <div class="meta-item read-button" onclick="toggleReadStatus(event, '${article.link}')">
-                                <i class="mdi mdi-eye${isRead ? '' : '-outline'}"></i>
-                                <span>${isRead ? '已读' : '未读'}</span>
-                            </div>
                             ${buttons.join('')}
                         </div>
                     </div>
                 </article>`;
-        }
-
-        function markAsRead(event, link) {
-            // 存储已读状态
-            localStorage.setItem(`read_${link}`, 'true');
-            
-            // 找到对应的文章元素并添加已读样式
-            const article = event.target.closest('.article');
-            if (article) {
-                article.classList.add('read');
-            }
-        }
-
-        // 在页面加载时恢复已读状态
-        function restoreReadStatus() {
-            document.querySelectorAll('.article').forEach(article => {
-                const link = article.dataset.link;
-                if (localStorage.getItem(`read_${link}`) === 'true') {
-                    article.classList.add('read');
-                }
-            });
-        }
-
-        function toggleReadStatus(event, link) {
-            event.stopPropagation();
-            const article = event.target.closest('.article');
-            const readButton = event.target.closest('.read-button');
-            const isCurrentlyRead = localStorage.getItem(`read_${link}`) === 'true';
-            
-            if (isCurrentlyRead) {
-                localStorage.removeItem(`read_${link}`);
-                article.classList.remove('read');
-                readButton.innerHTML = '<i class="mdi mdi-eye-outline"></i><span>未读</span>';
-            } else {
-                localStorage.setItem(`read_${link}`, 'true');
-                article.classList.add('read');
-                readButton.innerHTML = '<i class="mdi mdi-eye"></i><span>已读</span>';
-            }
         }
 
         let currentCategory = 'Blog';
@@ -336,7 +277,6 @@
                 }
 
                 articlesContainer.innerHTML = html;
-                restoreReadStatus();
             } catch (error) {
                 document.getElementById('articles').innerHTML = `
                     <div class="error-message">
@@ -371,6 +311,9 @@
                 });
             });
         });
+
+        // 页面加载时立即设置一个初始状态
+        document.getElementById('update-time').textContent = '加载中...';
     </script>
     <style>
         .error-message {
@@ -391,17 +334,6 @@
         .article:hover {
             box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
             transform: none;  /* 移除上浮效果 */
-        }
-
-        /* 已读文章的样式 */
-        .article.read {
-            opacity: 0.7;
-            transition: none;  /* 移除过渡效果 */
-        }
-
-        .article.read:hover {
-            opacity: 1;
-            transition: opacity 0.2s;  /* 只在hover时添加透明度过渡 */
         }
 
         /* 移除导航项的动画效果，仅保留颜色变化 */
