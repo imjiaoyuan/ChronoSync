@@ -136,12 +136,8 @@
                     <div class="article-meta">
                         <a href="${article.source_url}" class="meta-item source-link" target="_blank">
                             <i class="mdi mdi-rss"></i>
-                            <span>${article.author}</span>
+                            <span class="author-name" title="${article.author}">${article.author}</span>
                         </a>
-                        <div class="meta-item">
-                            <i class="mdi mdi-calendar-clock"></i>
-                            <span>${article.date}</span>
-                        </div>
                         <div class="button-group">
                             ${buttons.join('')}
                         </div>
@@ -210,7 +206,10 @@
                 }
                 const data = await response.json();
                 
-                document.getElementById('update-time').textContent = `${data.update_time.split(' ')[0]}`;
+                // 修改时间显示，确保显示完整的日期和时间
+                const updateTime = data.update_time || '';
+                document.getElementById('update-time').textContent = updateTime;
+                
                 const articlesContainer = document.getElementById('articles');
                 
                 if (!data.articles || !Array.isArray(data.articles)) {
@@ -353,6 +352,36 @@
 
         .meta-item:hover {
             transform: none;
+        }
+
+        /* 调整 meta-item 布局 */
+        .meta-item {
+            display: flex;
+            align-items: center;
+            gap: 4px;
+        }
+
+        /* 调整文章元数据布局 */
+        .article-meta {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            flex-wrap: nowrap; /* 防止换行 */
+            gap: 8px;
+        }
+
+        /* 调整按钮组样式 */
+        .button-group {
+            display: flex;
+            gap: 8px;
+            flex-shrink: 0; /* 防止按钮组被压缩 */
+        }
+
+        /* 调整源链接样式 */
+        .source-link {
+            display: flex;
+            align-items: center;
+            gap: 4px;
         }
     </style>
 </body>

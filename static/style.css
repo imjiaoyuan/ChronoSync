@@ -114,10 +114,14 @@ body {
     white-space: nowrap;
     color: var(--meta-color);
     font-size: 0.9rem;
+    background-color: var(--bg-color);
+    padding: 4px 8px;
+    border-radius: 4px;
 }
 
 .update-time i {
     color: var(--hover-color);
+    font-size: 16px;
 }
 
 .articles {
@@ -258,70 +262,6 @@ body {
     }
 }
 
-@media (max-width: 480px) {
-    .header-main {
-        padding: 8px 12px;
-    }
-    
-    .site-title span {
-        font-size: 1rem;
-    }
-    
-    .update-time {
-        font-size: 0.8rem;
-    }
-    
-    .articles {
-        margin-top: 55px;
-        padding: 0 10px;
-    }
-
-    .site-title i {
-        font-size: 20px;
-    }
-
-    .article {
-        padding: 12px;
-        margin-bottom: 8px;
-    }
-
-    .article-meta {
-        flex-wrap: wrap;
-        gap: 12px;
-    }
-
-    .button-group {
-        width: 100%;
-        margin-left: 0;
-    }
-
-    .comment-button,
-    .favorite-button {
-        flex: 1;
-        justify-content: center;
-    }
-
-    .meta-item {
-        padding: 4px 0;
-    }
-
-    .article-link {
-        font-size: 0.85rem;
-    }
-
-    .mdi {
-        font-size: 16px !important;
-    }
-    
-    .site-title .mdi {
-        font-size: 20px !important;
-    }
-    
-    .section-title .mdi {
-        font-size: 18px !important;
-    }
-}
-
 .section-title {
     display: flex;
     align-items: center;
@@ -371,17 +311,6 @@ body {
 
     .history-title {
         margin-top: 28px;
-    }
-}
-
-@media (max-width: 480px) {
-    .section-title {
-        font-size: 1rem;
-        margin: 16px 0 8px;
-    }
-
-    .history-title {
-        margin-top: 24px;
     }
 }
 
@@ -499,18 +428,10 @@ html {
     }
 }
 
-/* 移动端样式适配 */
-@media (max-width: 480px) {
-    .button-group {
-        display: grid;
-        grid-template-columns: repeat(3, 1fr);
-        gap: 8px;
-    }
-
-    .read-button,
-    .comment-button,
-    .favorite-button {
-        flex: 1;
-        justify-content: center;
-    }
-} 
+.author-name {
+    max-width: 120px;              /* 设置最大宽度 */
+    overflow: hidden;              /* 隐藏超出部分 */
+    text-overflow: ellipsis;       /* 显示省略号 */
+    white-space: nowrap;           /* 禁止换行 */
+    display: inline-block;         /* 使宽度限制生效 */
+}
