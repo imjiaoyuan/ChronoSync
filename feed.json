@@ -9972,6 +9972,36 @@
       "category": "News"
     },
     {
+      "title": "Oracle 与 NVIDIA 合作助力企业加速代理式 AI 推理",
+      "link": "https://blogs.nvidia.cn/blog/oracle-and-nvidia-collaborate-to-help-enterprises-accelerate-agentic-ai-inference/",
+      "date": "2025-03-18 23:55",
+      "author": "NVIDIA 英伟达博客",
+      "timestamp": 1742313300.0,
+      "summary": "美国加利福尼亚州圣何塞 —— GTC  —— 2025 年 3 月 18 日 —— Oracle 和 NVID",
+      "source_url": "https://blogs.nvidia.cn/",
+      "category": "News"
+    },
+    {
+      "title": "全速推进：NVIDIA 认证计划扩展至企业存储领域，加速 AI 工厂部署",
+      "link": "https://blogs.nvidia.cn/blog/nvidia-certified-enterprise-storage/",
+      "date": "2025-03-18 23:55",
+      "author": "NVIDIA 英伟达博客",
+      "timestamp": 1742313300.0,
+      "summary": "AI 部署的成功依靠速度、数据和规模。因此，NVIDIA 正在扩展 NVIDIA 认证系统，现在已将企业存储纳",
+      "source_url": "https://blogs.nvidia.cn/",
+      "category": "News"
+    },
+    {
+      "title": "电信行业领先企业启用代理式 AI 优化网络运维",
+      "link": "https://blogs.nvidia.cn/blog/telecom-agentic-ai-for-network-operations/",
+      "date": "2025-03-18 23:55",
+      "author": "NVIDIA 英伟达博客",
+      "timestamp": 1742313300.0,
+      "summary": "全球电信网络每天需支持数百万用户连接，平均每分钟产生超过 3,800 TB 数据。 基站、路由器、交换机及数据",
+      "source_url": "https://blogs.nvidia.cn/",
+      "category": "News"
+    },
+    {
       "title": "NVIDIA Aerial 平台扩展新工具，助力构建 AI 原生无线网络",
       "link": "https://blogs.nvidia.cn/blog/aerial-telecom-research/",
       "date": "2025-03-18 23:55",
@@ -10008,36 +10038,6 @@
       "author": "NVIDIA 英伟达博客",
       "timestamp": 1742313300.0,
       "summary": "随着生成式 AI 能力的扩展，NVIDIA 正为开发者提供工具，使其能够将 AI 无缝集成到创意项目、应用程序",
-      "source_url": "https://blogs.nvidia.cn/",
-      "category": "News"
-    },
-    {
-      "title": "Oracle 与 NVIDIA 合作助力企业加速代理式 AI 推理",
-      "link": "https://blogs.nvidia.cn/blog/oracle-and-nvidia-collaborate-to-help-enterprises-accelerate-agentic-ai-inference/",
-      "date": "2025-03-18 23:55",
-      "author": "NVIDIA 英伟达博客",
-      "timestamp": 1742313300.0,
-      "summary": "美国加利福尼亚州圣何塞 —— GTC  —— 2025 年 3 月 18 日 —— Oracle 和 NVID",
-      "source_url": "https://blogs.nvidia.cn/",
-      "category": "News"
-    },
-    {
-      "title": "全速推进：NVIDIA 认证计划扩展至企业存储领域，加速 AI 工厂部署",
-      "link": "https://blogs.nvidia.cn/blog/nvidia-certified-enterprise-storage/",
-      "date": "2025-03-18 23:55",
-      "author": "NVIDIA 英伟达博客",
-      "timestamp": 1742313300.0,
-      "summary": "AI 部署的成功依靠速度、数据和规模。因此，NVIDIA 正在扩展 NVIDIA 认证系统，现在已将企业存储纳",
-      "source_url": "https://blogs.nvidia.cn/",
-      "category": "News"
-    },
-    {
-      "title": "电信行业领先企业启用代理式 AI 优化网络运维",
-      "link": "https://blogs.nvidia.cn/blog/telecom-agentic-ai-for-network-operations/",
-      "date": "2025-03-18 23:55",
-      "author": "NVIDIA 英伟达博客",
-      "timestamp": 1742313300.0,
-      "summary": "全球电信网络每天需支持数百万用户连接，平均每分钟产生超过 3,800 TB 数据。 基站、路由器、交换机及数据",
       "source_url": "https://blogs.nvidia.cn/",
       "category": "News"
     },
