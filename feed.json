@@ -9972,26 +9972,6 @@
       "category": "News"
     },
     {
-      "title": "NVIDIA Aerial 平台扩展新工具，助力构建 AI 原生无线网络",
-      "link": "https://blogs.nvidia.cn/blog/aerial-telecom-research/",
-      "date": "2025-03-18 23:55",
-      "author": "NVIDIA 英伟达博客",
-      "timestamp": 1742313300.0,
-      "summary": "电信行业正加速采用 AI 技术，以实现即使在信号强度不佳的条件下也能够提供无缝连接，同时最大化可持续性与频谱效",
-      "source_url": "https://blogs.nvidia.cn/",
-      "category": "News"
-    },
-    {
-      "title": "适用于 NVIDIA Blackwell 架构的全新软件驱动 AI 工厂高速运行",
-      "link": "https://blogs.nvidia.cn/blog/mission-control-software/",
-      "date": "2025-03-18 23:55",
-      "author": "NVIDIA 英伟达博客",
-      "timestamp": 1742313300.0,
-      "summary": "蒸汽推动了工业时代的发展，数字时代通过软件带来了转变。如今，生成式 AI、代理式 AI 和 AI 推理的发展是",
-      "source_url": "https://blogs.nvidia.cn/",
-      "category": "News"
-    },
-    {
       "title": "NVIDIA 与行业领先的存储企业共同推出面向 AI 时代的新型企业基础设施",
       "link": "https://blogs.nvidia.cn/blog/nvidia-and-storage-industry-leaders-unveil-new-class-of-enterprise-infrastructure-for-the-age-of-ai/",
       "date": "2025-03-18 23:55",
@@ -10038,6 +10018,26 @@
       "author": "NVIDIA 英伟达博客",
       "timestamp": 1742313300.0,
       "summary": "全球电信网络每天需支持数百万用户连接，平均每分钟产生超过 3,800 TB 数据。 基站、路由器、交换机及数据",
+      "source_url": "https://blogs.nvidia.cn/",
+      "category": "News"
+    },
+    {
+      "title": "NVIDIA Aerial 平台扩展新工具，助力构建 AI 原生无线网络",
+      "link": "https://blogs.nvidia.cn/blog/aerial-telecom-research/",
+      "date": "2025-03-18 23:55",
+      "author": "NVIDIA 英伟达博客",
+      "timestamp": 1742313300.0,
+      "summary": "电信行业正加速采用 AI 技术，以实现即使在信号强度不佳的条件下也能够提供无缝连接，同时最大化可持续性与频谱效",
+      "source_url": "https://blogs.nvidia.cn/",
+      "category": "News"
+    },
+    {
+      "title": "适用于 NVIDIA Blackwell 架构的全新软件驱动 AI 工厂高速运行",
+      "link": "https://blogs.nvidia.cn/blog/mission-control-software/",
+      "date": "2025-03-18 23:55",
+      "author": "NVIDIA 英伟达博客",
+      "timestamp": 1742313300.0,
+      "summary": "蒸汽推动了工业时代的发展，数字时代通过软件带来了转变。如今，生成式 AI、代理式 AI 和 AI 推理的发展是",
       "source_url": "https://blogs.nvidia.cn/",
       "category": "News"
     },
