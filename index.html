@@ -73,7 +73,7 @@
         }
 
         // 修改 createGitHubIssue 函数
-        function createGitHubIssue(title, summary, date, link, type = 'comment') {
+        async function createGitHubIssue(title, summary, date, link, type = 'comment') {
             if (!githubConfig) return;
 
             const config = type === 'comment' ? githubConfig.github.comment : githubConfig.github.favorite;
@@ -84,17 +84,40 @@
                 return;
             }
 
-            const issueTitle = config.title_template
-                .replace('{title}', title)
-                .replace('{date}', date);
+            // 添加前缀到标题
+            const prefix = type === 'comment' ? 'Comment: ' : 'Favorite: ';
+            const issueTitle = prefix + title;
 
-            const issueBody = config.body_template
-                .replace('{summary}', summary)
-                .replace('{link}', link);
+            try {
+                // 先检查是否存在同名 issue
+                const searchUrl = `https://api.github.com/search/issues?q=repo:${githubConfig.github.repository}+label:${config.label}+"${encodeURIComponent(issueTitle)}"+in:title`;
+                const response = await fetch(searchUrl);
+                const data = await response.json();
 
-            const issueUrl = `https://github.com/${githubConfig.github.repository}/issues/new?title=${encodeURIComponent(issueTitle)}&body=${encodeURIComponent(issueBody)}&labels[]=${encodeURIComponent(config.label)}`;
-            
-            window.open(issueUrl, '_blank');
+                if (data.items && data.items.length > 0) {
+                    // 如果存在同名 issue，直接跳转到该 issue
+                    window.open(data.items[0].html_url, '_blank');
+                } else {
+                    // 如果不存在，创建新的 issue
+                    const issueBody = config.body_template
+                        .replace('{summary}', summary)
+                        .replace('{link}', link);
+
+                    const issueUrl = `https://github.com/${githubConfig.github.repository}/issues/new?title=${encodeURIComponent(issueTitle)}&body=${encodeURIComponent(issueBody)}&labels[]=${encodeURIComponent(config.label)}`;
+                    
+                    window.open(issueUrl, '_blank');
+                }
+            } catch (error) {
+                console.error('Error checking/creating issue:', error);
+                // 如果 API 请求失败，回退到直接创建新 issue
+                const issueBody = config.body_template
+                    .replace('{summary}', summary)
+                    .replace('{link}', link);
+
+                const issueUrl = `https://github.com/${githubConfig.github.repository}/issues/new?title=${encodeURIComponent(issueTitle)}&body=${encodeURIComponent(issueBody)}&labels[]=${encodeURIComponent(config.label)}`;
+                
+                window.open(issueUrl, '_blank');
+            }
         }
 
         function isToday(dateStr) {
@@ -111,7 +134,7 @@
             
             if (githubConfig?.github.comment.enabled) {
                 buttons.push(`
-                    <div class="meta-item comment-button" onclick="createGitHubIssue('${safeTitle}', '${safeSummary}', '${article.date}', '${article.link}', 'comment')">
+                    <div class="meta-item comment-button" onclick="handleIssueClick(this, '${safeTitle}', '${safeSummary}', '${article.date}', '${article.link}', 'comment')">
                         <i class="mdi mdi-message-outline"></i>
                         <span>评论</span>
                     </div>
@@ -120,7 +143,7 @@
             
             if (githubConfig?.github.favorite.enabled) {
                 buttons.push(`
-                    <div class="meta-item favorite-button" onclick="createGitHubIssue('${safeTitle}', '${safeSummary}', '${article.date}', '${article.link}', 'favorite')">
+                    <div class="meta-item favorite-button" onclick="handleIssueClick(this, '${safeTitle}', '${safeSummary}', '${article.date}', '${article.link}', 'favorite')">
                         <i class="mdi mdi-bookmark-outline"></i>
                         <span>收藏</span>
                     </div>
@@ -285,6 +308,26 @@
             }
         }
 
+        // 添加新的处理函数
+        async function handleIssueClick(button, title, summary, date, link, type) {
+            // 保存原始内容
+            const originalContent = button.innerHTML;
+            
+            // 显示加载状态
+            button.innerHTML = `<i class="mdi mdi-loading mdi-spin"></i><span>处理中...</span>`;
+            button.style.pointerEvents = 'none';  // 禁用点击
+            
+            try {
+                await createGitHubIssue(title, summary, date, link, type);
+            } catch (error) {
+                console.error('Error handling issue:', error);
+            } finally {
+                // 恢复原始状态
+                button.innerHTML = originalContent;
+                button.style.pointerEvents = 'auto';  // 恢复点击
+            }
+        }
+
         // 修改页面加载事件
         document.addEventListener('DOMContentLoaded', async () => {
             // 加载所有配置
@@ -314,75 +357,5 @@
         // 页面加载时立即设置一个初始状态
         document.getElementById('update-time').textContent = '加载中...';
     </script>
-    <style>
-        .error-message {
-            color: #dc3545;
-            padding: 20px;
-            text-align: center;
-            background: var(--header-bg);
-            border-radius: 8px;
-            margin-top: 20px;
-        }
-
-        /* 移除文章卡片的阴影动画和上浮效果 */
-        .article {
-            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-            transition: none;  /* 移除所有过渡效果 */
-        }
-
-        .article:hover {
-            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-            transform: none;  /* 移除上浮效果 */
-        }
-
-        /* 移除导航项的动画效果，仅保留颜色变化 */
-        .category-item {
-            transition: color 0.2s;
-        }
-
-        /* 添加内容预加载样式，防止闪动 */
-        .articles {
-            min-height: 200px;  /* 设置最小高度 */
-        }
-
-        /* 移除按钮的动画效果，仅保留颜色变化 */
-        .meta-item {
-            transition: color 0.2s;
-        }
-
-        .meta-item:hover {
-            transform: none;
-        }
-
-        /* 调整 meta-item 布局 */
-        .meta-item {
-            display: flex;
-            align-items: center;
-            gap: 4px;
-        }
-
-        /* 调整文章元数据布局 */
-        .article-meta {
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
-            flex-wrap: nowrap; /* 防止换行 */
-            gap: 8px;
-        }
-
-        /* 调整按钮组样式 */
-        .button-group {
-            display: flex;
-            gap: 8px;
-            flex-shrink: 0; /* 防止按钮组被压缩 */
-        }
-
-        /* 调整源链接样式 */
-        .source-link {
-            display: flex;
-            align-items: center;
-            gap: 4px;
-        }
-    </style>
 </body>
 </html>

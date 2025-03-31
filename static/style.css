@@ -44,7 +44,6 @@ body {
     box-shadow: 0 1px 3px rgba(0,0,0,0.1);
     backdrop-filter: blur(10px);
     -webkit-backdrop-filter: blur(10px);
-    background-color: rgba(var(--header-bg-rgb), 0.95);
 }
 
 .header-main {
@@ -62,10 +61,13 @@ body {
     align-items: center;
     gap: 8px;
     white-space: nowrap;
+    cursor: pointer;
 }
 
 .site-title i {
     color: var(--hover-color);
+    font-size: 24px !important;
+    opacity: 1;
 }
 
 .site-title span {
@@ -89,7 +91,7 @@ body {
     border-radius: 6px;
     cursor: pointer;
     color: var(--meta-color);
-    transition: all 0.2s ease;
+    transition: color 0.2s;
 }
 
 .category-item:hover {
@@ -130,19 +132,14 @@ body {
     padding: 0 20px;
     position: relative;
     z-index: 999;
+    min-height: 200px;
 }
 
 .article {
     background-color: var(--header-bg);
     padding: 16px;
     margin-bottom: 12px;
-    box-shadow: 0 1px 3px rgba(0,0,0,0.1);
-    transition: transform 0.2s ease, box-shadow 0.2s ease;
-}
-
-.article:hover {
-    transform: translateY(-2px);
-    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 }
 
 .article-title {
@@ -171,31 +168,38 @@ body {
 
 .article-meta {
     display: flex;
+    justify-content: space-between;
     align-items: center;
-    gap: 16px;
-    margin-top: 8px;
-    flex-wrap: wrap;
+    flex-wrap: nowrap;
+    gap: 8px;
 }
 
 .meta-item {
     display: flex;
     align-items: center;
-    gap: 6px;
+    gap: 4px;
     color: var(--meta-color);
     font-size: 0.9rem;
+    transition: color 0.2s;
 }
 
 .meta-item i {
     color: var(--meta-color);
 }
 
+.button-group {
+    display: flex;
+    gap: 8px;
+    flex-shrink: 0;
+}
+
 .comment-button,
 .favorite-button {
     cursor: pointer;
-    transition: all 0.2s ease;
     padding: 4px 8px;
     border-radius: 4px;
     background-color: var(--bg-color);
+    transition: color 0.2s, background-color 0.2s;
 }
 
 .comment-button:hover,
@@ -204,62 +208,19 @@ body {
     background-color: var(--border-color);
 }
 
-.button-group {
-    display: flex;
-    gap: 8px;
-    margin-left: auto;
-}
-
-.comment-button,
-.favorite-button {
-    margin-left: 0;
-}
-
-.favorited {
-    color: var(--hover-color);
-}
-
-.favorited i::before {
-    content: "\F0B7F";  /* 实心书签图标 */
-}
-
 .source-link {
+    display: flex;
+    align-items: center;
+    gap: 4px;
     text-decoration: none;
     padding: 4px 8px;
     border-radius: 4px;
-    transition: all 0.2s ease;
+    transition: color 0.2s, background-color 0.2s;
 }
 
 .source-link:hover {
     color: var(--hover-color);
     background-color: var(--border-color);
-}
-
-.article-link {
-    display: none;
-}
-
-@media (max-width: 768px) {
-    .header-main {
-        padding: 10px 15px;
-    }
-    
-    .category-item {
-        padding: 4px 8px;
-    }
-    
-    .category-item span {
-        display: none;
-    }
-    
-    .update-time span {
-        font-size: 0.9rem;
-    }
-    
-    .articles {
-        margin-top: 60px;
-        padding: 0 15px;
-    }
 }
 
 .section-title {
@@ -270,11 +231,12 @@ body {
     font-size: 1.2rem;
     font-weight: 600;
     margin: 24px 0 12px;
-    padding-bottom: 0;
 }
 
 .section-title i {
     color: var(--hover-color);
+    font-size: 22px !important;
+    opacity: 1;
 }
 
 .section-title small {
@@ -303,45 +265,6 @@ body {
     }
 }
 
-@media (max-width: 768px) {
-    .section-title {
-        font-size: 1.1rem;
-        margin: 20px 0 10px;
-    }
-
-    .history-title {
-        margin-top: 28px;
-    }
-}
-
-/* 统一图标样式 */
-.mdi {
-    font-size: 18px !important;
-    opacity: 0.9;
-}
-
-/* 调整特定图标大小 */
-.site-title .mdi {
-    font-size: 24px !important;
-    opacity: 1;
-}
-
-.section-title .mdi {
-    font-size: 22px !important;
-    opacity: 1;
-}
-
-/* 添加分类标签栏样式 */
-.category-bar {
-    display: flex;
-    gap: 16px;
-    margin: 0 20px;
-}
-
-.desktop-only {
-    margin: 0 20px;
-}
-
 .mobile-nav {
     display: none;
     position: fixed;
@@ -355,6 +278,8 @@ body {
     z-index: 1001;
     justify-content: center;
     gap: 16px;
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
 }
 
 .empty-message {
@@ -375,63 +300,51 @@ body {
     color: var(--hover-color);
 }
 
-/* 添加顶栏和标签栏的背景模糊效果 */
-.header, .mobile-nav {
-    backdrop-filter: blur(10px);
-    -webkit-backdrop-filter: blur(10px);
-    background-color: rgba(var(--header-bg-rgb), 0.95);
-}
-
-/* 添加滚动平滑效果 */
-html {
-    scroll-behavior: smooth;
-}
-
-/* 已读文章样式 */
-.article.read {
-    background-color: var(--read-bg);
-    opacity: 0.85;
-}
-
-.article.read .article-title {
-    color: var(--read-color);
-}
-
-.article.read .article-summary {
-    color: var(--read-color);
-}
-
-.article.read:hover {
-    opacity: 1;
-    transform: translateY(-1px);
-}
-
-/* 已读按钮样式 */
-.read-button {
-    cursor: pointer;
-    transition: all 0.2s ease;
-    padding: 4px 8px;
-    border-radius: 4px;
-    background-color: var(--bg-color);
-}
-
-.read-button:hover {
-    color: var(--hover-color);
-    background-color: var(--border-color);
-}
-
-/* 修改已读状态下的按钮样式 */
-.article.read .read-button {
-    /* 只让图标变红 */
-    .article.read .read-button i {
-        color: var(--hover-color);
-    }
+.error-message {
+    color: #dc3545;
+    padding: 20px;
+    text-align: center;
+    background: var(--header-bg);
+    border-radius: 8px;
+    margin-top: 20px;
 }
 
 .author-name {
-    max-width: 120px;              /* 设置最大宽度 */
-    overflow: hidden;              /* 隐藏超出部分 */
-    text-overflow: ellipsis;       /* 显示省略号 */
-    white-space: nowrap;           /* 禁止换行 */
-    display: inline-block;         /* 使宽度限制生效 */
+    max-width: 120px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    display: inline-block;
+}
+
+@media (max-width: 768px) {
+    .header-main {
+        padding: 10px 15px;
+    }
+    
+    .category-item {
+        padding: 4px 8px;
+    }
+    
+    .category-item span {
+        display: none;
+    }
+    
+    .update-time span {
+        font-size: 0.9rem;
+    }
+    
+    .articles {
+        margin-top: 60px;
+        padding: 0 15px;
+    }
+
+    .section-title {
+        font-size: 1.1rem;
+        margin: 20px 0 10px;
+    }
+
+    .history-title {
+        margin-top: 28px;
+    }
 }
