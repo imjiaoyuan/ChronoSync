@@ -1,5 +1,5 @@
 {
-  "update_time": "2025-04-01",
+  "update_time": "2025-04-02",
   "articles": [
     {
       "title": "关我辟事 Vol.37：中年人最稀缺的资产",
@@ -9,6 +9,16 @@
       "timestamp": 1743485820.0,
       "summary": "最近也不知是出门多还是工作忙，总觉得时间不够用，疲于奔命无暇生活的感觉。中年人最稀缺的资产除了健康还有时间啊……本来觉得啥也没干，一写发现还是有很多事的。\n甚至思考要不要把半月刊再改回月记算了，总觉得我这个博客如果是这种流水账式的文章多过有主题的单篇文章的话有充数的嫌疑，虽然明明博客读者调查问卷目前...",
       "source_url": "https://blog.douchi.space/",
+      "category": "Blogs"
+    },
+    {
+      "title": "我们高估了智力的重要性",
+      "link": "https://lutaonan.com/blog/oi",
+      "date": "2025-04-01 08:00",
+      "author": "Randy's Blog",
+      "timestamp": 1743465600.0,
+      "summary": "在 AI 越来越强大的这段时间里，我思考得比较多的一个问题是，我们是否高估了智力的重要性。\n引起这个思考的原因有很多，一是大语言模型的进化程度让我感受到，语言模型在智能（推理、学习速度、知识广度等）方面已经远远超越人类，而这样的智能是每个人都能运用的。也就是说，人类完全可以把需要智能的行动交给 AI...",
+      "source_url": "https://lutaonan.com",
       "category": "Blogs"
     },
     {
@@ -8352,16 +8362,6 @@
       "category": "Blogs"
     },
     {
-      "title": "从「后端现在已经看不懂前端了」说起",
-      "link": "https://lutaonan.com/blog/to-frontend-prejudicers",
-      "date": "2020-01-07 08:00",
-      "author": "Randy's Blog",
-      "timestamp": 1578355200.0,
-      "summary": "V2EX 这两天有一篇这样的帖子：《说句实话，我后端现在已经看不懂前端了，太难了》\n原文内容是：\n\n看不懂惹，肿么办，最近在学 react，完全抓瞎。\n\n然后又附加了内容：\n\n一直用的 jquery，手动找位置然后对应 dom 操作，现在各种前端各种依赖，一会 route 一会 webpack 的 ...",
-      "source_url": "https://lutaonan.com",
-      "category": "Blogs"
-    },
-    {
       "title": "关于民航总医院恶性伤医事件的一点引申思考",
       "link": "https://blog.drpika.com/%E6%80%9D%E8%80%83/2019-12-30.html",
       "date": "2019-12-30 22:43",
@@ -8672,6 +8672,26 @@
       "category": "Blogs"
     },
     {
+      "title": "Cytokine-driven cellular polarization in preeclampsia revealed through the \"Dictionary of immune responses\"",
+      "link": "https://www.biorxiv.org/content/10.1101/2025.03.26.645616v1?rss=1",
+      "date": "2025-04-01 08:00",
+      "author": "bioRxiv Subject Collection: Bioinformatics",
+      "timestamp": 1743465600.0,
+      "summary": "Background: Preeclampsia (PE) is a pregnancy-related hypertensive disorder and a leading cause of maternal and perinatal mortality. Current treatments...",
+      "source_url": "https://biorxiv.org",
+      "category": "Papers"
+    },
+    {
+      "title": "Spatial Analysis of Malignant-Immune Cell Interactions in the Tumor Microenvironment Using Topological Data Analysis",
+      "link": "https://www.biorxiv.org/content/10.1101/2025.03.27.645762v1?rss=1",
+      "date": "2025-04-01 08:00",
+      "author": "bioRxiv Subject Collection: Bioinformatics",
+      "timestamp": 1743465600.0,
+      "summary": "The spatial interactions between malignant and immune cells in the tumor microenvironment (TME) play a crucial role in cancer biology and treatment re...",
+      "source_url": "https://biorxiv.org",
+      "category": "Papers"
+    },
+    {
       "title": "HRCHY-CytoCommunity identifies hierarchical tissue organization in cell-type spatial maps",
       "link": "https://www.biorxiv.org/content/10.1101/2025.03.27.645631v1?rss=1",
       "date": "2025-04-01 08:00",
@@ -8712,6 +8732,16 @@
       "category": "Papers"
     },
     {
+      "title": "Multimodal epigenetic and enhancer network remodeling shape the transcriptional landscape of beige adipocytes",
+      "link": "https://www.biorxiv.org/content/10.1101/2025.03.28.645896v1?rss=1",
+      "date": "2025-04-01 08:00",
+      "author": "bioRxiv Subject Collection: Genomics",
+      "timestamp": 1743465600.0,
+      "summary": "Epigenetic regulation is a key determinant of adipocyte fate and function, conferring phenotypic plasticity to adipose tissue in response to metabolic...",
+      "source_url": "https://biorxiv.org",
+      "category": "Papers"
+    },
+    {
       "title": "Exonic enhancers are a widespread class of dual-function regulatory elements",
       "link": "https://www.biorxiv.org/content/10.1101/2025.03.27.645641v1?rss=1",
       "date": "2025-04-01 08:00",
@@ -8732,8 +8762,28 @@
       "category": "Papers"
     },
     {
+      "title": "Chromosome-level genome assembly of the Adonis ladybird Hippodamia variegata",
+      "link": "https://www.nature.com/articles/s41597-025-04882-4",
+      "date": "2025-04-01 08:00",
+      "author": "Genomics : nature.com subject feeds",
+      "timestamp": 1743465600.0,
+      "summary": "无摘要",
+      "source_url": "https://www.nature.com/subjects/genomics",
+      "category": "Papers"
+    },
+    {
       "title": "The genomic structure of complex chromosomal rearrangement at the Fm locus in black-bone Silkie chicken",
       "link": "https://www.nature.com/articles/s42003-025-07825-2",
+      "date": "2025-04-01 08:00",
+      "author": "Genomics : nature.com subject feeds",
+      "timestamp": 1743465600.0,
+      "summary": "无摘要",
+      "source_url": "https://www.nature.com/subjects/genomics",
+      "category": "Papers"
+    },
+    {
+      "title": "Pig and quail CpG methylation datasets from short and long read sequencing technologies",
+      "link": "https://www.nature.com/articles/s41597-025-04769-4",
       "date": "2025-04-01 08:00",
       "author": "Genomics : nature.com subject feeds",
       "timestamp": 1743465600.0,
@@ -9132,26 +9182,6 @@
       "category": "Papers"
     },
     {
-      "title": "SpaBatch: Batch Alignment of Spatial Transcriptomics Data using Graph Deep Learning",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.03.24.645150v1?rss=1",
-      "date": "2025-03-28 08:00",
-      "author": "bioRxiv Subject Collection: Bioinformatics",
-      "timestamp": 1743120000.0,
-      "summary": "Spatial transcriptomics (ST) has emerged as a transformative technology, enabling the simultaneous capture of gene expression and spatial context with...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "QuickProt: A bioinformatics and visualization tool for DIA and PRM mass spectrometry-based proteomics datasets",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.03.24.645047v1?rss=1",
-      "date": "2025-03-28 08:00",
-      "author": "bioRxiv Subject Collection: Bioinformatics",
-      "timestamp": 1743120000.0,
-      "summary": "Mass spectrometry (MS)-based proteomics focuses on identifying and quantifying peptides and proteins in biological samples. Processing of MS-derived r...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
       "title": "Haplotype-resolved reference genomes of the sea turtle clade unveil ultra-syntenic genomes with hotspots of divergence",
       "link": "https://www.biorxiv.org/content/10.1101/2025.03.26.644878v1?rss=1",
       "date": "2025-03-28 08:00",
@@ -9542,16 +9572,6 @@
       "category": "Papers"
     },
     {
-      "title": "Human Body Single-Cell Atlas of 3D Genome Organization and DNA Methylation",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.03.23.644697v1?rss=1",
-      "date": "2025-03-24 08:00",
-      "author": "bioRxiv Subject Collection: Genomics",
-      "timestamp": 1742774400.0,
-      "summary": "Higher-order chromatin structure and DNA methylation are critical for gene regulation, but how these vary across the human body remains unclear. We pe...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
       "title": "Chromosome-level assembly of Prunus serrula Franch genome",
       "link": "https://www.nature.com/articles/s41597-025-04810-6",
       "date": "2025-03-24 08:00",
@@ -9689,26 +9709,6 @@
       "timestamp": 1742515200.0,
       "summary": "无摘要",
       "source_url": "https://www.nature.com/subjects/bioinformatics",
-      "category": "Papers"
-    },
-    {
-      "title": "Publisher Correction: A chromosome-level genome assembly of the male darkbarbel catfish (Pelteobagrus vachelli) using PacBio HiFi and Hi-C data",
-      "link": "https://www.nature.com/articles/s41597-025-04795-2",
-      "date": "2025-03-20 08:00",
-      "author": "Genomics : nature.com subject feeds",
-      "timestamp": 1742428800.0,
-      "summary": "无摘要",
-      "source_url": "https://www.nature.com/subjects/genomics",
-      "category": "Papers"
-    },
-    {
-      "title": "GWAS scorecard prioritizes kidney genes using coding and regulatory variants",
-      "link": "https://www.nature.com/articles/s41581-025-00952-3",
-      "date": "2025-03-20 08:00",
-      "author": "Genomics : nature.com subject feeds",
-      "timestamp": 1742428800.0,
-      "summary": "无摘要",
-      "source_url": "https://www.nature.com/subjects/genomics",
       "category": "Papers"
     },
     {
