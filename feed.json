@@ -8672,6 +8672,16 @@
       "category": "Blogs"
     },
     {
+      "title": "mcDETECT: Decoding 3D Spatial Synaptic Transcriptomes with Subcellular-Resolution Spatial Transcriptomics",
+      "link": "https://www.biorxiv.org/content/10.1101/2025.03.27.645744v1?rss=1",
+      "date": "2025-04-01 08:00",
+      "author": "bioRxiv Subject Collection: Bioinformatics",
+      "timestamp": 1743465600.0,
+      "summary": "Spatial transcriptomics (ST) has shown great potential for unraveling the molecular mechanisms of neurodegenerative diseases. However, most existing a...",
+      "source_url": "https://biorxiv.org",
+      "category": "Papers"
+    },
+    {
       "title": "Cytokine-driven cellular polarization in preeclampsia revealed through the \"Dictionary of immune responses\"",
       "link": "https://www.biorxiv.org/content/10.1101/2025.03.26.645616v1?rss=1",
       "date": "2025-04-01 08:00",
@@ -8728,6 +8738,16 @@
       "author": "bioRxiv Subject Collection: Bioinformatics",
       "timestamp": 1743465600.0,
       "summary": "A key challenge in single-cell RNA sequencing (scRNA-seq) analysis is clustering cells based on their expression profiles. Effective clustering requir...",
+      "source_url": "https://biorxiv.org",
+      "category": "Papers"
+    },
+    {
+      "title": "Trypanosoma cruzi Has 32 Chromosomes: A Telomere-to-Telomere Assembly Defines Its Karyotype.",
+      "link": "https://www.biorxiv.org/content/10.1101/2025.03.27.645724v1?rss=1",
+      "date": "2025-04-01 08:00",
+      "author": "bioRxiv Subject Collection: Genomics",
+      "timestamp": 1743465600.0,
+      "summary": "Trypanosoma cruzi, the causative agent of Chagas disease, exhibits remarkable genomic plasticity and possesses an expanded genome rich in multigene fa...",
       "source_url": "https://biorxiv.org",
       "category": "Papers"
     },
@@ -9172,16 +9192,6 @@
       "category": "Papers"
     },
     {
-      "title": "Spatially Aware Adjusted Rand Index for Evaluating Spatial Transcriptomics Clustering",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.03.25.645156v1?rss=1",
-      "date": "2025-03-28 08:00",
-      "author": "bioRxiv Subject Collection: Bioinformatics",
-      "timestamp": 1743120000.0,
-      "summary": "The spatial transcriptomics (ST) clustering plays a crucial role in elucidating the tissue spatial heterogeneity, which is referred to as region segme...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
       "title": "Haplotype-resolved reference genomes of the sea turtle clade unveil ultra-syntenic genomes with hotspots of divergence",
       "link": "https://www.biorxiv.org/content/10.1101/2025.03.26.644878v1?rss=1",
       "date": "2025-03-28 08:00",
@@ -9559,16 +9569,6 @@
       "timestamp": 1742860800.0,
       "summary": "无摘要",
       "source_url": "https://www.nature.com/subjects/genomics",
-      "category": "Papers"
-    },
-    {
-      "title": "Reassessing taxonomy and virulence in the Fusobacterium nucleatum group - Rebuttal of Fusobacterium animalis clades \"Fna C1\" and \"Fna C2\", genome announcement for Fusobacterium watanabei and description of Fusobacterium paranimalis sp. nov.",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.03.20.644344v1?rss=1",
-      "date": "2025-03-24 08:00",
-      "author": "bioRxiv Subject Collection: Genomics",
-      "timestamp": 1742774400.0,
-      "summary": "There is a considerable interest in the association between Fusobacterium animalis and colorectal cancer (CRC). Recently, it was suggested that this a...",
-      "source_url": "https://biorxiv.org",
       "category": "Papers"
     },
     {
