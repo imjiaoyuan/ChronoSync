@@ -8672,6 +8672,26 @@
       "category": "Blogs"
     },
     {
+      "title": "A multi-modal cell-free RNA language model for liquid biopsy applications",
+      "link": "https://www.biorxiv.org/content/10.1101/2025.03.26.645557v1?rss=1",
+      "date": "2025-04-01 08:00",
+      "author": "bioRxiv Subject Collection: Bioinformatics",
+      "timestamp": 1743465600.0,
+      "summary": "Cell-free RNA (cfRNA) profiling has emerged as a powerful tool for non-invasive disease detection, but its application is limited by data sparsity and...",
+      "source_url": "https://biorxiv.org",
+      "category": "Papers"
+    },
+    {
+      "title": "Assessing variant effect predictors and disease mechanisms in intrinsically disordered proteins",
+      "link": "https://www.biorxiv.org/content/10.1101/2025.04.01.646619v1?rss=1",
+      "date": "2025-04-01 08:00",
+      "author": "bioRxiv Subject Collection: Bioinformatics",
+      "timestamp": 1743465600.0,
+      "summary": "Intrinsically disordered protein regions (IDPRs) are central to diverse cellular processes but present unique challenges for interpreting genetic vari...",
+      "source_url": "https://biorxiv.org",
+      "category": "Papers"
+    },
+    {
       "title": "mcDETECT: Decoding 3D Spatial Synaptic Transcriptomes with Subcellular-Resolution Spatial Transcriptomics",
       "link": "https://www.biorxiv.org/content/10.1101/2025.03.27.645744v1?rss=1",
       "date": "2025-04-01 08:00",
@@ -8742,6 +8762,16 @@
       "category": "Papers"
     },
     {
+      "title": "Illuminating the mystery of thylacine extinction: a role for relaxed selection and gene loss",
+      "link": "https://www.biorxiv.org/content/10.1101/2025.03.27.645633v1?rss=1",
+      "date": "2025-04-01 08:00",
+      "author": "bioRxiv Subject Collection: Genomics",
+      "timestamp": 1743465600.0,
+      "summary": "Gene loss shapes lineage-specific traits but is often overlooked in species survival. In this study, we investigate the role of ancestral gene loss us...",
+      "source_url": "https://biorxiv.org",
+      "category": "Papers"
+    },
+    {
       "title": "Trypanosoma cruzi Has 32 Chromosomes: A Telomere-to-Telomere Assembly Defines Its Karyotype.",
       "link": "https://www.biorxiv.org/content/10.1101/2025.03.27.645724v1?rss=1",
       "date": "2025-04-01 08:00",
@@ -8804,6 +8834,16 @@
     {
       "title": "Pig and quail CpG methylation datasets from short and long read sequencing technologies",
       "link": "https://www.nature.com/articles/s41597-025-04769-4",
+      "date": "2025-04-01 08:00",
+      "author": "Genomics : nature.com subject feeds",
+      "timestamp": 1743465600.0,
+      "summary": "无摘要",
+      "source_url": "https://www.nature.com/subjects/genomics",
+      "category": "Papers"
+    },
+    {
+      "title": "Somatic NAP1L1 p.D349E promotes cardiac hypertrophy through cGAS-STING-IFN signaling",
+      "link": "https://www.nature.com/articles/s41467-025-58453-7",
       "date": "2025-04-01 08:00",
       "author": "Genomics : nature.com subject feeds",
       "timestamp": 1743465600.0,
@@ -9017,7 +9057,7 @@
       "date": "2025-03-29 08:00",
       "author": "bioRxiv Subject Collection: Bioinformatics",
       "timestamp": 1743206400.0,
-      "summary": "Millions of species remain undescribed, requiring molecular and morphological diagnoses. However, no efficient software reliably derives and tests -st...",
+      "summary": "Millions of species remain undescribed, requiring molecular and morphological diagnoses. However, no efficient software reliably derives and tests --s...",
       "source_url": "https://biorxiv.org",
       "category": "Papers"
     },
@@ -9168,26 +9208,6 @@
       "author": "bioRxiv Subject Collection: Bioinformatics",
       "timestamp": 1743120000.0,
       "summary": "Molecular docking-based virtual ligand screening is a powerful computational approach for identifying potential binders from large chemical libraries....",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "Dissecting the steps in early Simian Immunodeficiency Virus dissemination following mucosal and intravenous infection of rhesus macaques",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.03.24.644849v1?rss=1",
-      "date": "2025-03-28 08:00",
-      "author": "bioRxiv Subject Collection: Bioinformatics",
-      "timestamp": 1743120000.0,
-      "summary": "In cases of HIV transmission, the typical delay from exposure to detectable viremia is approximately one week. This delay from exposure to viremia sug...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "ARGContextProfiler: Extracting and Scoring the Genomic Contexts of Antibiotic Resistance Genes using Assembly Graphs",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.03.24.645075v1?rss=1",
-      "date": "2025-03-28 08:00",
-      "author": "bioRxiv Subject Collection: Bioinformatics",
-      "timestamp": 1743120000.0,
-      "summary": "Antibiotic resistance (AR) presents a global health challenge, necessitating an improved understanding of the ecology, evolution, and dissemination of...",
       "source_url": "https://biorxiv.org",
       "category": "Papers"
     },
@@ -9552,16 +9572,6 @@
       "category": "Papers"
     },
     {
-      "title": "Long-term hunter-gatherer continuity in the Rhine-Meuse region was disrupted by local formation of expansive Bell Beaker groups",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.03.24.644985v1?rss=1",
-      "date": "2025-03-25 08:00",
-      "author": "bioRxiv Subject Collection: Genomics",
-      "timestamp": 1742860800.0,
-      "summary": "The first phase of the ancient DNA revolution painted a broad-brush picture of European Holocene prehistory, whereby 6500-4000 BCE, farmers descending...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
       "title": "Author Correction: Rare variant analyses in 51,256 type 2 diabetes cases and 370,487 controls reveal the pathogenicity spectrum of monogenic diabetes genes",
       "link": "https://www.nature.com/articles/s41588-025-02175-5",
       "date": "2025-03-25 08:00",
@@ -9674,16 +9684,6 @@
     {
       "title": "Spatially resolved genome-wide joint profiling of epigenome and transcriptome with spatial-ATAC-RNA-seq and spatial-CUT&Tag-RNA-seq",
       "link": "https://www.nature.com/articles/s41596-025-01145-9",
-      "date": "2025-03-21 08:00",
-      "author": "Genomics : nature.com subject feeds",
-      "timestamp": 1742515200.0,
-      "summary": "无摘要",
-      "source_url": "https://www.nature.com/subjects/genomics",
-      "category": "Papers"
-    },
-    {
-      "title": "Crossing Wallace’s line: an evolutionarily young gibbon ape leukemia virus like endogenous retrovirus identified from the Philippine flying lemur (Cynocephalus volans)",
-      "link": "https://www.nature.com/articles/s41598-025-94582-1",
       "date": "2025-03-21 08:00",
       "author": "Genomics : nature.com subject feeds",
       "timestamp": 1742515200.0,
