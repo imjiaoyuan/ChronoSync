@@ -8672,6 +8672,16 @@
       "category": "Blogs"
     },
     {
+      "title": "DIFS: Discriminative Feature Selection for Cell Clustering based on Single-Cell RNA Sequencing Data",
+      "link": "https://www.biorxiv.org/content/10.1101/2025.03.26.645625v1?rss=1",
+      "date": "2025-04-01 08:00",
+      "author": "bioRxiv Subject Collection: Bioinformatics",
+      "timestamp": 1743465600.0,
+      "summary": "A key challenge in single-cell RNA sequencing (scRNA-seq) analysis is clustering cells based on their expression profiles. Effective clustering requir...",
+      "source_url": "https://biorxiv.org",
+      "category": "Papers"
+    },
+    {
       "title": "Analysis of allohexaploid wheatgrass genome reveals its Y haplome origin in Triticeae and high-altitude adaptation",
       "link": "https://www.nature.com/articles/s41467-025-58341-0",
       "date": "2025-04-01 08:00",
@@ -9007,7 +9017,7 @@
       "date": "2025-03-28 08:00",
       "author": "bioRxiv Subject Collection: Bioinformatics",
       "timestamp": 1743120000.0,
-      "summary": "Background: Environmental DNA (eDNA) metabarcoding has become increasingly popular as an approach to efficiently document biodiversity within an envir...",
+      "summary": "Environmental DNA (eDNA) metabarcoding has become increasingly popular as an approach to efficiently document biodiversity within an environment chara...",
       "source_url": "https://biorxiv.org",
       "category": "Papers"
     },
@@ -9108,16 +9118,6 @@
       "author": "bioRxiv Subject Collection: Bioinformatics",
       "timestamp": 1743120000.0,
       "summary": "The unprecedented speed and sensitivity of mass spectrometry (MS) unlocked large-scale applications of proteomics and even enabled proteome profiling ...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "OctopusV and TentacleSV: a one-stop toolkit for multi-sample, cross-platform structural variant comparison and analysis",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.03.24.645012v1?rss=1",
-      "date": "2025-03-28 08:00",
-      "author": "bioRxiv Subject Collection: Bioinformatics",
-      "timestamp": 1743120000.0,
-      "summary": "Structural variants (SVs) significantly influence genomic variability and disease, but their accurate analysis across multiple samples and sequencing ...",
       "source_url": "https://biorxiv.org",
       "category": "Papers"
     },
