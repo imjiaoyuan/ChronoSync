@@ -8672,6 +8672,36 @@
       "category": "Blogs"
     },
     {
+      "title": "HRCHY-CytoCommunity identifies hierarchical tissue organization in cell-type spatial maps",
+      "link": "https://www.biorxiv.org/content/10.1101/2025.03.27.645631v1?rss=1",
+      "date": "2025-04-01 08:00",
+      "author": "bioRxiv Subject Collection: Bioinformatics",
+      "timestamp": 1743465600.0,
+      "summary": "Diverse cell types within a tissue assemble into multicellular structures to shape the functions of the tissue. These structural modules typically com...",
+      "source_url": "https://biorxiv.org",
+      "category": "Papers"
+    },
+    {
+      "title": "NeighbourNet: Scalable cell-specific co-expression networks for granular regulatory pattern discovery",
+      "link": "https://www.biorxiv.org/content/10.1101/2025.03.27.645629v1?rss=1",
+      "date": "2025-04-01 08:00",
+      "author": "bioRxiv Subject Collection: Bioinformatics",
+      "timestamp": 1743465600.0,
+      "summary": "Gene regulatory networks (GRNs) provide a fundamental framework for understanding the molecular mechanisms that govern gene expression. Advances in si...",
+      "source_url": "https://biorxiv.org",
+      "category": "Papers"
+    },
+    {
+      "title": "Revisiting co-expression-based automated function prediction in yeast with neural networks and updated Gene Ontology annotations",
+      "link": "https://www.biorxiv.org/content/10.1101/2025.03.27.645865v1?rss=1",
+      "date": "2025-04-01 08:00",
+      "author": "bioRxiv Subject Collection: Bioinformatics",
+      "timestamp": 1743465600.0,
+      "summary": "Automated function prediction (AFP) is the process of predicting the function of genes or proteins with machine learning models trained on high-throug...",
+      "source_url": "https://biorxiv.org",
+      "category": "Papers"
+    },
+    {
       "title": "DIFS: Discriminative Feature Selection for Cell Clustering based on Single-Cell RNA Sequencing Data",
       "link": "https://www.biorxiv.org/content/10.1101/2025.03.26.645625v1?rss=1",
       "date": "2025-04-01 08:00",
@@ -8682,8 +8712,28 @@
       "category": "Papers"
     },
     {
+      "title": "Exonic enhancers are a widespread class of dual-function regulatory elements",
+      "link": "https://www.biorxiv.org/content/10.1101/2025.03.27.645641v1?rss=1",
+      "date": "2025-04-01 08:00",
+      "author": "bioRxiv Subject Collection: Genomics",
+      "timestamp": 1743465600.0,
+      "summary": "Exonic enhancers (EEs) occupy an under-appreciated niche in gene regulation. By integrating transcription factor binding, chromatin accessibility, and...",
+      "source_url": "https://biorxiv.org",
+      "category": "Papers"
+    },
+    {
       "title": "Analysis of allohexaploid wheatgrass genome reveals its Y haplome origin in Triticeae and high-altitude adaptation",
       "link": "https://www.nature.com/articles/s41467-025-58341-0",
+      "date": "2025-04-01 08:00",
+      "author": "Genomics : nature.com subject feeds",
+      "timestamp": 1743465600.0,
+      "summary": "无摘要",
+      "source_url": "https://www.nature.com/subjects/genomics",
+      "category": "Papers"
+    },
+    {
+      "title": "The genomic structure of complex chromosomal rearrangement at the Fm locus in black-bone Silkie chicken",
+      "link": "https://www.nature.com/articles/s42003-025-07825-2",
       "date": "2025-04-01 08:00",
       "author": "Genomics : nature.com subject feeds",
       "timestamp": 1743465600.0,
@@ -8699,6 +8749,16 @@
       "timestamp": 1743465600.0,
       "summary": "无摘要",
       "source_url": "https://www.nature.com/subjects/genomics",
+      "category": "Papers"
+    },
+    {
+      "title": "ShennongAlpha: an AI-driven sharing and collaboration platform for intelligent curation, acquisition, and translation of natural medicinal material knowledge",
+      "link": "https://www.nature.com/articles/s41421-025-00776-2",
+      "date": "2025-04-01 08:00",
+      "author": "Bioinformatics : nature.com subject feeds",
+      "timestamp": 1743465600.0,
+      "summary": "无摘要",
+      "source_url": "https://www.nature.com/subjects/bioinformatics",
       "category": "Papers"
     },
     {
@@ -9092,42 +9152,12 @@
       "category": "Papers"
     },
     {
-      "title": "OpDetect: A convolutional and recurrent neural network classifier for precise and sensitive operon detection from RNA-seq data",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.03.24.645056v1?rss=1",
-      "date": "2025-03-28 08:00",
-      "author": "bioRxiv Subject Collection: Bioinformatics",
-      "timestamp": 1743120000.0,
-      "summary": "An operon refers to a group of neighbouring genes belonging to one or more overlapping transcription units that are transcribed in the same direction ...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "siRNA Features - Reproducible Structure-Based Chemical Features for Off-Target Prediction",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.03.24.645065v1?rss=1",
-      "date": "2025-03-28 08:00",
-      "author": "bioRxiv Subject Collection: Bioinformatics",
-      "timestamp": 1743120000.0,
-      "summary": "Chemical modifications are the standard for small interfering RNAs (siRNAs) in therapeutic applications, but predicting their off-target effects remai...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "omicsGMF: a multi-tool for dimensionality reduction, batch correction and imputation applied to bulk- and single cell proteomics data.",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.03.24.644996v1?rss=1",
-      "date": "2025-03-28 08:00",
-      "author": "bioRxiv Subject Collection: Bioinformatics",
-      "timestamp": 1743120000.0,
-      "summary": "The unprecedented speed and sensitivity of mass spectrometry (MS) unlocked large-scale applications of proteomics and even enabled proteome profiling ...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
       "title": "Haplotype-resolved reference genomes of the sea turtle clade unveil ultra-syntenic genomes with hotspots of divergence",
       "link": "https://www.biorxiv.org/content/10.1101/2025.03.26.644878v1?rss=1",
       "date": "2025-03-28 08:00",
       "author": "bioRxiv Subject Collection: Genomics",
       "timestamp": 1743120000.0,
-      "summary": "Background: Reference genomes for the entire sea turtle clade have the potential to reveal the genetic basis of traits driving the ecological and phen...",
+      "summary": "BackgroundReference genomes for the entire sea turtle clade have the potential to reveal the genetic basis of traits driving the ecological and phenot...",
       "source_url": "https://biorxiv.org",
       "category": "Papers"
     },
@@ -9522,16 +9552,6 @@
       "category": "Papers"
     },
     {
-      "title": "Functional interrogation of candidate cis-regulatory elements at the LDLR locus",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.03.20.644385v1?rss=1",
-      "date": "2025-03-24 08:00",
-      "author": "bioRxiv Subject Collection: Genomics",
-      "timestamp": 1742774400.0,
-      "summary": "Regulation of LDLR gene expression plays an important role in the development of atherosclerotic diseases including heart attack and stroke. Although ...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
       "title": "Chromosome-level assembly of Prunus serrula Franch genome",
       "link": "https://www.nature.com/articles/s41597-025-04810-6",
       "date": "2025-03-24 08:00",
@@ -9692,16 +9712,6 @@
       "category": "Papers"
     },
     {
-      "title": "A telomere-to-telomere genome assembly of Chinese grain sorghum 654",
-      "link": "https://www.nature.com/articles/s41597-025-04791-6",
-      "date": "2025-03-19 08:00",
-      "author": "Genomics : nature.com subject feeds",
-      "timestamp": 1742342400.0,
-      "summary": "无摘要",
-      "source_url": "https://www.nature.com/subjects/genomics",
-      "category": "Papers"
-    },
-    {
       "title": "Comparative toxicotranscriptomics of longterm cypermethrin exposure to aquacultured fish Labeo catla (Catla)",
       "link": "https://www.nature.com/articles/s41598-025-86513-x",
       "date": "2025-03-19 08:00",
@@ -9854,16 +9864,6 @@
     {
       "title": "Analysis of NS2-dependent effects on influenza PB1 segment extends replication requirements beyond the canonical promoter",
       "link": "https://www.nature.com/articles/s41467-025-57092-2",
-      "date": "2025-02-22 08:00",
-      "author": "Bioinformatics : nature.com subject feeds",
-      "timestamp": 1740182400.0,
-      "summary": "无摘要",
-      "source_url": "https://www.nature.com/subjects/bioinformatics",
-      "category": "Papers"
-    },
-    {
-      "title": "Integrated bioinformatics investigation and experimental validation reveals the clinical and biological significance of chromobox family in breast cancer",
-      "link": "https://www.nature.com/articles/s41598-025-90771-0",
       "date": "2025-02-22 08:00",
       "author": "Bioinformatics : nature.com subject feeds",
       "timestamp": 1740182400.0,
