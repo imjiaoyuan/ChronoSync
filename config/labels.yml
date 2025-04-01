@@ -1,13 +1,13 @@
 # RSS标签配置文件
 labels:
-  - feed_category: Blog        # feed.list中的分类名
-    display_name: 博客         # 主页显示的标签名
+  - feed_category: Blogs        # feed.list中的分类名
+    display_name: Blogs         # 主页显示的标签名
     icon: mdi-post            # 标签图标
     show_date_divider: true   # 是否显示今日/历史分类
     article_limit: 30         # 每个源抓取的文章数量限制
 
-  - feed_category: News
-    display_name: 资讯
+  - feed_category: Papers
+    display_name: Papers
     icon: mdi-newspaper
     show_date_divider: true
     article_limit: 30

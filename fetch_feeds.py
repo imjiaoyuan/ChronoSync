@@ -18,7 +18,7 @@ def get_feed_category(feed_url, feed_list_content):
             current_category = line[:-1]  # 移除冒号
         elif line == feed_url:
             return current_category
-    return 'Blog'  # 默认分类为 Blog
+    return 'Blogs'  # 默认分类改为 Blogs
 
 def fetch_feeds():
     """抓取所有订阅源并生成feed.json"""
@@ -84,20 +84,13 @@ def fetch_feeds():
             print(f"抓取 {feed_url} 失败: {str(e)}")
             continue
     
-    # 对每个分类的文章进行排序
+    # 对每个分类的文章进行排序，添加所有分类的文章
     all_articles = []
     
-    # 先添加Blog文章
-    if 'Blog' in articles_by_category:
-        blog_articles = articles_by_category['Blog']
-        blog_articles.sort(key=lambda x: x['timestamp'], reverse=True)
-        all_articles.extend(blog_articles)
-    
-    # 再添加News文章
-    if 'News' in articles_by_category:
-        news_articles = articles_by_category['News']
-        news_articles.sort(key=lambda x: x['timestamp'], reverse=True)
-        all_articles.extend(news_articles)
+    # 动态处理所有分类
+    for category, articles in articles_by_category.items():
+        articles.sort(key=lambda x: x['timestamp'], reverse=True)
+        all_articles.extend(articles)
 
     data = {
         'update_time': datetime.now(pytz.timezone('Asia/Shanghai')).strftime('%Y-%m-%d'),

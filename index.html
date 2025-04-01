@@ -9,11 +9,30 @@
     <link rel="stylesheet" href="https://cdn.bootcdn.net/ajax/libs/MaterialDesign-Webfont/7.4.47/css/materialdesignicons.min.css">
     <link rel="stylesheet" href="static/style.css">
     <script src="https://cdn.bootcdn.net/ajax/libs/js-yaml/4.1.0/js-yaml.min.js"></script>
+    <script>
+        // 预加载关键资源
+        document.addEventListener("DOMContentLoaded", function() {
+            const preloads = [
+                { href: 'feed.json', as: 'fetch', type: 'application/json' },
+                { href: 'config/labels.yml', as: 'fetch', type: 'text/yaml' },
+                { href: 'config/github.yml', as: 'fetch', type: 'text/yaml' }
+            ];
+            
+            preloads.forEach(resource => {
+                const link = document.createElement('link');
+                link.rel = 'preload';
+                link.href = resource.href;
+                link.as = resource.as;
+                if (resource.type) link.type = resource.type;
+                document.head.appendChild(link);
+            });
+        });
+    </script>
 </head>
 <body>
     <header class="header">
         <div class="header-main">
-            <div class="site-title" style="cursor: pointer;" onclick="reloadPage()">
+            <div class="site-title">
                 <i class="mdi mdi-rss-box"></i>
                 <span>ChronoSync</span>
             </div>
@@ -30,332 +49,14 @@
     <nav class="mobile-nav">
         <!-- 动态生成移动端导航项 -->
     </nav>
-    <main class="articles" id="articles"></main>
-    <script>
-        // 重载页面函数
-        function reloadPage() {
-            // 重置当前分类
-            currentCategory = 'Blog';
-            // 更新导航状态
-            updateActiveCategory(currentCategory);
-            // 重新加载文章
-            loadArticles(currentCategory);
-        }
-
-        const GITHUB_REPO = 'imjiaoyuan/RSS';
-
-        function escapeString(str) {
-            return str
-                .replace(/\\/g, '\\\\')
-                .replace(/'/g, "\\'")
-                .replace(/"/g, '\\"')
-                .replace(/\n/g, '\\n')
-                .replace(/\r/g, '\\r')
-                .replace(/\t/g, '\\t');
-        }
-
-        let githubConfig = null;
-
-        // 加载 GitHub 配置
-        async function loadGithubConfig() {
-            try {
-                const response = await fetch('config/github.yml');
-                if (!response.ok) {
-                    throw new Error('Failed to load GitHub config');
-                }
-                const yamlText = await response.text();
-                githubConfig = jsyaml.load(yamlText);
-                return githubConfig;
-            } catch (error) {
-                console.error('Error loading GitHub config:', error);
-                return null;
-            }
-        }
-
-        // 修改 createGitHubIssue 函数
-        async function createGitHubIssue(title, summary, date, link, type = 'comment') {
-            if (!githubConfig) return;
-
-            const config = type === 'comment' ? githubConfig.github.comment : githubConfig.github.favorite;
-            
-            // 检查功能是否启用
-            if (!config.enabled) {
-                console.log(`${type} feature is disabled`);
-                return;
-            }
-
-            // 添加前缀到标题
-            const prefix = type === 'comment' ? 'Comment: ' : 'Favorite: ';
-            const issueTitle = prefix + title;
-
-            try {
-                // 先检查是否存在同名 issue
-                const searchUrl = `https://api.github.com/search/issues?q=repo:${githubConfig.github.repository}+label:${config.label}+"${encodeURIComponent(issueTitle)}"+in:title`;
-                const response = await fetch(searchUrl);
-                const data = await response.json();
-
-                if (data.items && data.items.length > 0) {
-                    // 如果存在同名 issue，直接跳转到该 issue
-                    window.open(data.items[0].html_url, '_blank');
-                } else {
-                    // 如果不存在，创建新的 issue
-                    const issueBody = config.body_template
-                        .replace('{summary}', summary)
-                        .replace('{link}', link);
-
-                    const issueUrl = `https://github.com/${githubConfig.github.repository}/issues/new?title=${encodeURIComponent(issueTitle)}&body=${encodeURIComponent(issueBody)}&labels[]=${encodeURIComponent(config.label)}`;
-                    
-                    window.open(issueUrl, '_blank');
-                }
-            } catch (error) {
-                console.error('Error checking/creating issue:', error);
-                // 如果 API 请求失败，回退到直接创建新 issue
-                const issueBody = config.body_template
-                    .replace('{summary}', summary)
-                    .replace('{link}', link);
-
-                const issueUrl = `https://github.com/${githubConfig.github.repository}/issues/new?title=${encodeURIComponent(issueTitle)}&body=${encodeURIComponent(issueBody)}&labels[]=${encodeURIComponent(config.label)}`;
-                
-                window.open(issueUrl, '_blank');
-            }
-        }
-
-        function isToday(dateStr) {
-            const today = new Date();
-            const articleDate = new Date(dateStr);
-            return today.toDateString() === articleDate.toDateString();
-        }
-
-        function renderArticle(article) {
-            const safeTitle = escapeString(article.title);
-            const safeSummary = escapeString(article.summary || '无摘要');
-            
-            const buttons = [];
-            
-            if (githubConfig?.github.comment.enabled) {
-                buttons.push(`
-                    <div class="meta-item comment-button" onclick="handleIssueClick(this, '${safeTitle}', '${safeSummary}', '${article.date}', '${article.link}', 'comment')">
-                        <i class="mdi mdi-message-outline"></i>
-                        <span>评论</span>
-                    </div>
-                `);
-            }
-            
-            if (githubConfig?.github.favorite.enabled) {
-                buttons.push(`
-                    <div class="meta-item favorite-button" onclick="handleIssueClick(this, '${safeTitle}', '${safeSummary}', '${article.date}', '${article.link}', 'favorite')">
-                        <i class="mdi mdi-bookmark-outline"></i>
-                        <span>收藏</span>
-                    </div>
-                `);
-            }
-
-            return `
-                <article class="article" data-link="${article.link}">
-                    <a href="${article.link}" class="article-title" target="_blank">${article.title}</a>
-                    <div class="article-summary">
-                        ${article.summary || '无摘要'}
-                    </div>
-                    <div class="article-meta">
-                        <a href="${article.source_url}" class="meta-item source-link" target="_blank">
-                            <i class="mdi mdi-rss"></i>
-                            <span class="author-name" title="${article.author}">${article.author}</span>
-                        </a>
-                        <div class="button-group">
-                            ${buttons.join('')}
-                        </div>
-                    </div>
-                </article>`;
-        }
-
-        let currentCategory = 'Blog';
-        
-        function filterArticles(articles, category) {
-            return articles.filter(article => article.category === category);
-        }
-        
-        function updateActiveCategory(category) {
-            document.querySelectorAll('.category-item').forEach(item => {
-                item.classList.remove('active');
-                if (item.dataset.category === category) {
-                    item.classList.add('active');
-                }
-            });
-        }
-        
-        let labelConfig = null;
-
-        // 加载标签配置
-        async function loadLabelConfig() {
-            try {
-                const response = await fetch('config/labels.yml');
-                if (!response.ok) {
-                    throw new Error('Failed to load label config');
-                }
-                const yamlText = await response.text();
-                // 使用 js-yaml CDN
-                labelConfig = jsyaml.load(yamlText);
-                return labelConfig;
-            } catch (error) {
-                console.error('Error loading label config:', error);
-                return null;
-            }
-        }
-
-        // 根据配置生成导航标签
-        function generateNavItems(labels) {
-            const navHtml = labels.map(label => `
-                <div class="category-item" data-category="${label.feed_category}">
-                    <i class="mdi ${label.icon}"></i>
-                    <span>${label.display_name}</span>
-                </div>
-            `).join('');
-
-            document.querySelector('.nav-items').innerHTML = navHtml;
-            document.querySelector('.mobile-nav').innerHTML = navHtml;
-        }
-
-        // 修改 loadArticles 函数
-        async function loadArticles(category = 'Blog') {
-            try {
-                // 确保配置已加载
-                if (!labelConfig) {
-                    await loadLabelConfig();
-                }
-
-                const response = await fetch('feed.json');
-                if (!response.ok) {
-                    throw new Error(`HTTP error! status: ${response.status}`);
-                }
-                const data = await response.json();
-                
-                // 修改时间显示，确保显示完整的日期和时间
-                const updateTime = data.update_time || '';
-                document.getElementById('update-time').textContent = updateTime;
-                
-                const articlesContainer = document.getElementById('articles');
-                
-                if (!data.articles || !Array.isArray(data.articles)) {
-                    throw new Error('Invalid data format');
-                }
-
-                // 获取当前分类的配置
-                const categoryConfig = labelConfig.labels.find(l => l.feed_category === category);
-                if (!categoryConfig) {
-                    throw new Error('Category config not found');
-                }
-
-                let filteredArticles = filterArticles(data.articles, category);
-                
-                // 应用文章数量限制
-                if (categoryConfig.article_limit > 0) {
-                    filteredArticles = filteredArticles.slice(0, categoryConfig.article_limit);
-                }
-
-                if (filteredArticles.length === 0) {
-                    articlesContainer.innerHTML = `
-                        <div class="empty-message">
-                            <i class="mdi mdi-information"></i>
-                            <span>该分类下暂无文章</span>
-                        </div>`;
-                    return;
-                }
-
-                let html = '';
-
-                // 根据配置决定是否显示日期分隔
-                if (categoryConfig.show_date_divider) {
-                    const todayArticles = filteredArticles.filter(article => isToday(article.date));
-                    const olderArticles = filteredArticles.filter(article => !isToday(article.date));
-
-                    if (todayArticles.length > 0) {
-                        html += `
-                            <div class="section-title">
-                                <i class="mdi mdi-star"></i>
-                                <span>今日更新</span>
-                                <small>(${todayArticles.length}篇)</small>
-                            </div>
-                            <div class="article-section">
-                                ${todayArticles.map(renderArticle).join('')}
-                            </div>`;
-                    }
-
-                    if (olderArticles.length > 0) {
-                        html += `
-                            <div class="section-title ${todayArticles.length > 0 ? 'history-title' : ''}">
-                                <i class="mdi mdi-history"></i>
-                                <span>历史文章</span>
-                                <small>(${olderArticles.length}篇)</small>
-                            </div>
-                            <div class="article-section">
-                                ${olderArticles.map(renderArticle).join('')}
-                            </div>`;
-                    }
-                } else {
-                    html = `
-                        <div class="article-section">
-                            ${filteredArticles.map(renderArticle).join('')}
-                        </div>`;
-                }
-
-                articlesContainer.innerHTML = html;
-            } catch (error) {
-                document.getElementById('articles').innerHTML = `
-                    <div class="error-message">
-                        加载文章失败：${error.message}<br>
-                        请检查配置文件和feed.json是否存在并且格式正确
-                    </div>`;
-            }
-        }
-
-        // 添加新的处理函数
-        async function handleIssueClick(button, title, summary, date, link, type) {
-            // 保存原始内容
-            const originalContent = button.innerHTML;
-            
-            // 显示加载状态
-            button.innerHTML = `<i class="mdi mdi-loading mdi-spin"></i><span>处理中...</span>`;
-            button.style.pointerEvents = 'none';  // 禁用点击
-            
-            try {
-                await createGitHubIssue(title, summary, date, link, type);
-            } catch (error) {
-                console.error('Error handling issue:', error);
-            } finally {
-                // 恢复原始状态
-                button.innerHTML = originalContent;
-                button.style.pointerEvents = 'auto';  // 恢复点击
-            }
-        }
-
-        // 修改页面加载事件
-        document.addEventListener('DOMContentLoaded', async () => {
-            // 加载所有配置
-            const [labelConf, githubConf] = await Promise.all([
-                loadLabelConfig(),
-                loadGithubConfig()
-            ]);
-
-            if (labelConf) {
-                generateNavItems(labelConf.labels);
-                const defaultCategory = labelConf.labels[0].feed_category;
-                loadArticles(defaultCategory);
-                updateActiveCategory(defaultCategory);
-            }
-
-            // 绑定标签点击事件
-            document.querySelectorAll('.category-item').forEach(item => {
-                item.addEventListener('click', () => {
-                    const category = item.dataset.category;
-                    currentCategory = category;
-                    updateActiveCategory(category);
-                    loadArticles(category);
-                });
-            });
-        });
-
-        // 页面加载时立即设置一个初始状态
-        document.getElementById('update-time').textContent = '加载中...';
-    </script>
+    <main class="articles" id="articles">
+        <div class="loading-container">
+            <div class="loading-spinner"></div>
+            <div class="loading-text">正在加载...</div>
+        </div>
+    </main>
+    
+    <!-- 引入JavaScript文件 -->
+    <script src="static/js/app.js"></script>
 </body>
 </html>
