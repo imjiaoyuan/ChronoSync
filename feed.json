@@ -8672,6 +8672,16 @@
       "category": "Blogs"
     },
     {
+      "title": "Enhancing CAR-T cell activity prediction via fine-tuning protein language models with generated CAR sequences",
+      "link": "https://www.biorxiv.org/content/10.1101/2025.03.27.645831v1?rss=1",
+      "date": "2025-04-01 08:00",
+      "author": "bioRxiv Subject Collection: Bioinformatics",
+      "timestamp": 1743465600.0,
+      "summary": "Chimeric antigen receptor (CAR)-T cell therapy has shown remarkable success in treating hematological malignancies; however, several challenges remain...",
+      "source_url": "https://biorxiv.org",
+      "category": "Papers"
+    },
+    {
       "title": "MotifPeeker: R package for benchmarking epigenomic profiling methods using motif enrichment as a key metric",
       "link": "https://www.biorxiv.org/content/10.1101/2025.03.31.645756v1?rss=1",
       "date": "2025-04-01 08:00",
@@ -9229,16 +9239,6 @@
       "timestamp": 1743206400.0,
       "summary": "无摘要",
       "source_url": "https://www.nature.com/subjects/genomics",
-      "category": "Papers"
-    },
-    {
-      "title": "MDPath: Unraveling Allosteric Communication Paths of Drug Targets through Molecular Dynamics Simulations",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.03.27.645168v1?rss=1",
-      "date": "2025-03-28 08:00",
-      "author": "bioRxiv Subject Collection: Bioinformatics",
-      "timestamp": 1743120000.0,
-      "summary": "Understanding allosteric communication in proteins remains a critical challenge for structure-based, rational drug design. We present MDPath, a Python...",
-      "source_url": "https://biorxiv.org",
       "category": "Papers"
     },
     {
