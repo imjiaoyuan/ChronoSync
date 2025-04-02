@@ -8672,6 +8672,56 @@
       "category": "Blogs"
     },
     {
+      "title": "\"Visualize, describe, compare\" - nanoinformatics approaches for material-omics",
+      "link": "https://www.biorxiv.org/content/10.1101/2025.03.27.645714v1?rss=1",
+      "date": "2025-04-01 08:00",
+      "author": "bioRxiv Subject Collection: Bioinformatics",
+      "timestamp": 1743465600.0,
+      "summary": "Bioinformatics and cheminformatics are established disciplines, but nanoinformatics, the development of computational tools for understanding and desi...",
+      "source_url": "https://biorxiv.org",
+      "category": "Papers"
+    },
+    {
+      "title": "Machine Learning-Based Identification of Survival-Associated CpG Biomarkers in Pancreatic Ductal Adenocarcinoma",
+      "link": "https://www.biorxiv.org/content/10.1101/2025.03.29.646090v1?rss=1",
+      "date": "2025-04-01 08:00",
+      "author": "bioRxiv Subject Collection: Bioinformatics",
+      "timestamp": 1743465600.0,
+      "summary": "Abstract Pancreatic ductal adenocarcinoma (PDAC) is an exceptionally aggressive cancer with a 5-year survival rate of less than 10%, driven by late-st...",
+      "source_url": "https://biorxiv.org",
+      "category": "Papers"
+    },
+    {
+      "title": "GeneWhisperer: Enhancing manual genome annotation with large language models",
+      "link": "https://www.biorxiv.org/content/10.1101/2025.03.30.646211v1?rss=1",
+      "date": "2025-04-01 08:00",
+      "author": "bioRxiv Subject Collection: Bioinformatics",
+      "timestamp": 1743465600.0,
+      "summary": "Genome annotation is critical for understanding functional elements within genomes. Manual curation is a common practice for identifying the functions...",
+      "source_url": "https://biorxiv.org",
+      "category": "Papers"
+    },
+    {
+      "title": "Simulated metabolic profiles reveal biases in pathway analysis methods",
+      "link": "https://www.biorxiv.org/content/10.1101/2025.03.27.645696v1?rss=1",
+      "date": "2025-04-01 08:00",
+      "author": "bioRxiv Subject Collection: Bioinformatics",
+      "timestamp": 1743465600.0,
+      "summary": "Initially developed for transcriptomics data, pathway analysis (PA) methods can introduce biases when applied to metabolomics data, especially if inpu...",
+      "source_url": "https://biorxiv.org",
+      "category": "Papers"
+    },
+    {
+      "title": "MKFGO: Integrating Multi-Source Knowledge Fusion with Pre-Trained Language Model for High-Accuracy Protein Function Prediction",
+      "link": "https://www.biorxiv.org/content/10.1101/2025.03.27.645685v1?rss=1",
+      "date": "2025-04-01 08:00",
+      "author": "bioRxiv Subject Collection: Bioinformatics",
+      "timestamp": 1743465600.0,
+      "summary": "Accurately identifying protein functions is essential to understand life mechanisms and thus advance drug discovery. Although biochemical experiments ...",
+      "source_url": "https://biorxiv.org",
+      "category": "Papers"
+    },
+    {
       "title": "A multi-modal cell-free RNA language model for liquid biopsy applications",
       "link": "https://www.biorxiv.org/content/10.1101/2025.03.26.645557v1?rss=1",
       "date": "2025-04-01 08:00",
@@ -8758,6 +8808,36 @@
       "author": "bioRxiv Subject Collection: Bioinformatics",
       "timestamp": 1743465600.0,
       "summary": "A key challenge in single-cell RNA sequencing (scRNA-seq) analysis is clustering cells based on their expression profiles. Effective clustering requir...",
+      "source_url": "https://biorxiv.org",
+      "category": "Papers"
+    },
+    {
+      "title": "CRISPR/Cas9-mediated editing of the ADE2 locus in Saccharomyces cerevisiae: targeted mutagenesis and homology-directed repair",
+      "link": "https://www.biorxiv.org/content/10.1101/2025.03.30.646154v1?rss=1",
+      "date": "2025-04-01 08:00",
+      "author": "bioRxiv Subject Collection: Genomics",
+      "timestamp": 1743465600.0,
+      "summary": "The CRISPR/Cas9 system, derived from the adaptive immune defence of bacteria and archaea, has emerged as a powerful tool for genome engineering by ena...",
+      "source_url": "https://biorxiv.org",
+      "category": "Papers"
+    },
+    {
+      "title": "Disentangling the impact of abiotic and biotic environmental factors and dispersal dynamics on bacterial pangenome fluidity",
+      "link": "https://www.biorxiv.org/content/10.1101/2025.03.27.645760v1?rss=1",
+      "date": "2025-04-01 08:00",
+      "author": "bioRxiv Subject Collection: Genomics",
+      "timestamp": 1743465600.0,
+      "summary": "Understanding how bacterial pangenomes originate and evolve is crucial for predicting evolutionary trajectories and uncovering ecological interactions...",
+      "source_url": "https://biorxiv.org",
+      "category": "Papers"
+    },
+    {
+      "title": "BioToken and BioFM - Biologically-Informed Tokenization Enables Accurate and Efficient Genomic Foundation Models",
+      "link": "https://www.biorxiv.org/content/10.1101/2025.03.27.645711v1?rss=1",
+      "date": "2025-04-01 08:00",
+      "author": "bioRxiv Subject Collection: Genomics",
+      "timestamp": 1743465600.0,
+      "summary": "Genomic variation underlies human phenotypic diversity, disease susceptibility, and evolutionary adaptation. Although large-scale genomic sequencing h...",
       "source_url": "https://biorxiv.org",
       "category": "Papers"
     },
@@ -9162,56 +9242,6 @@
       "category": "Papers"
     },
     {
-      "title": "Pythia 2.0: New Data, New Prediction Model, New Features",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.03.25.645182v1?rss=1",
-      "date": "2025-03-28 08:00",
-      "author": "bioRxiv Subject Collection: Bioinformatics",
-      "timestamp": 1743120000.0,
-      "summary": "Maximum Likelihood (ML) based phylogenetic inference is time- and resource-intensive, especially when initiating multiple independent inferences from ...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "Evaluating genetic-ancestry inference from single-cell RNA-seq data",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.03.25.645175v1?rss=1",
-      "date": "2025-03-28 08:00",
-      "author": "bioRxiv Subject Collection: Bioinformatics",
-      "timestamp": 1743120000.0,
-      "summary": "Characterizing the ancestry of donors in single-cell RNA sequencing (scRNA-seq) studies is critical to ensure the genetic homogeneity of the dataset a...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "Assessing the combined performance of supervised learning and spike-in constructs for bias correction in eDNA metabarcoding",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.03.25.645285v1?rss=1",
-      "date": "2025-03-28 08:00",
-      "author": "bioRxiv Subject Collection: Bioinformatics",
-      "timestamp": 1743120000.0,
-      "summary": "Environmental DNA (eDNA) metabarcoding has become increasingly popular as an approach to efficiently document biodiversity within an environment chara...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "Improving Stereochemical Limitations in Protein-Ligand Complex Structure Prediction",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.03.25.645362v1?rss=1",
-      "date": "2025-03-28 08:00",
-      "author": "bioRxiv Subject Collection: Bioinformatics",
-      "timestamp": 1743120000.0,
-      "summary": "AlphaFold3 has revolutionized biology by enabling the prediction of protein complexes with various biomolecules, including small molecular ligands. Ho...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "Comparative study of protein X-ray and NMR structures: molecular docking-based virtual screening",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.03.25.645374v1?rss=1",
-      "date": "2025-03-28 08:00",
-      "author": "bioRxiv Subject Collection: Bioinformatics",
-      "timestamp": 1743120000.0,
-      "summary": "Molecular docking-based virtual ligand screening is a powerful computational approach for identifying potential binders from large chemical libraries....",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
       "title": "Haplotype-resolved reference genomes of the sea turtle clade unveil ultra-syntenic genomes with hotspots of divergence",
       "link": "https://www.biorxiv.org/content/10.1101/2025.03.26.644878v1?rss=1",
       "date": "2025-03-28 08:00",
@@ -9538,36 +9568,6 @@
       "author": "bioRxiv Subject Collection: Genomics",
       "timestamp": 1742860800.0,
       "summary": "Age-related macular degeneration (AMD) is a leading cause of vision loss worldwide. Genome-wide association studies (GWAS) of AMD have identified doze...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "Population and adaptation history of 739 Thlaspi arvense natural accessions",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.03.21.644658v1?rss=1",
-      "date": "2025-03-25 08:00",
-      "author": "bioRxiv Subject Collection: Genomics",
-      "timestamp": 1742860800.0,
-      "summary": "Pennycress (Thlaspi arvense) is a promising intermediate oilseed crop, producing oil suitable for conversion to biofuels--including aviation fuels. Wh...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "Genome-wide association studies reveal novel loci associated with carcass and body measures in goats (Capra hircus)",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.03.24.644862v1?rss=1",
-      "date": "2025-03-25 08:00",
-      "author": "bioRxiv Subject Collection: Genomics",
-      "timestamp": 1742860800.0,
-      "summary": "Elucidating the genetic architecture of local goat populations is crucial for improving breeding strategies and conservation efforts. In southwestern ...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "Neotenic transcriptomic features in the adult turquoise killifish brain",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.03.24.645095v1?rss=1",
-      "date": "2025-03-25 08:00",
-      "author": "bioRxiv Subject Collection: Genomics",
-      "timestamp": 1742860800.0,
-      "summary": "Aging is one of the main challenges facing modern society. Understanding the cellular processes that occur in the later stages of life is essential to...",
       "source_url": "https://biorxiv.org",
       "category": "Papers"
     },
