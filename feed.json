@@ -8672,6 +8672,16 @@
       "category": "Blogs"
     },
     {
+      "title": "Serotonergic Modulation of Motoneuronal Excitability and Its Impact on Muscle Force Generation: A Computational Study",
+      "link": "https://www.biorxiv.org/content/10.1101/2025.04.01.646607v1?rss=1",
+      "date": "2025-04-02 08:00",
+      "author": "bioRxiv Subject Collection: Bioinformatics",
+      "timestamp": 1743552000.0,
+      "summary": "This study investigates the impact of serotonin (5-HT) on motoneuron electrical activity and muscle force generation. Using a computational model, we ...",
+      "source_url": "https://biorxiv.org",
+      "category": "Papers"
+    },
+    {
       "title": "Novel universal domain-centric method for protein classification",
       "link": "https://www.biorxiv.org/content/10.1101/2025.03.28.645719v1?rss=1",
       "date": "2025-04-02 08:00",
@@ -8708,6 +8718,16 @@
       "author": "bioRxiv Subject Collection: Bioinformatics",
       "timestamp": 1743552000.0,
       "summary": "Change in protein stability, quantified as the change in Gibbs free energy of folding ({Delta}{Delta}G) in kcal/mol, plays a crucial role in functiona...",
+      "source_url": "https://biorxiv.org",
+      "category": "Papers"
+    },
+    {
+      "title": "Protocol for Extracting Circulating Cell-Free DNA from Murine Saliva: Insights into Oral and Systemic Disease Research",
+      "link": "https://www.biorxiv.org/content/10.1101/2025.03.31.645839v1?rss=1",
+      "date": "2025-04-02 08:00",
+      "author": "bioRxiv Subject Collection: Genomics",
+      "timestamp": 1743552000.0,
+      "summary": "Circulating cell-free DNA (cfDNA) consists of small fragments of extracellular DNA from mammalian and bacterial cells found in bodily fluids such as b...",
       "source_url": "https://biorxiv.org",
       "category": "Papers"
     },
@@ -9227,7 +9247,7 @@
       "date": "2025-03-30 08:00",
       "author": "bioRxiv Subject Collection: Genomics",
       "timestamp": 1743292800.0,
-      "summary": "Botrytis cinerea is a necrotrophic fungal pathogen that causes significant economic losses to many crops.The management of B. cinerea is difficult due...",
+      "summary": "Botrytis cinerea is a necrotrophic fungal pathogen that causes significant economic losses to many crops, including vegetables, fruits, and ornamental...",
       "source_url": "https://biorxiv.org",
       "category": "Papers"
     },
@@ -9248,16 +9268,6 @@
       "author": "bioRxiv Subject Collection: Bioinformatics",
       "timestamp": 1743206400.0,
       "summary": "Many diseases worldwide remain untreated due to the slow and expensive process of drug development. Repurposing existing FDA-approved drugs offers a f...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "PAMPA: a software for peptide markers and taxonomic identification for ZooMS samples in Archaeology and Paleontology",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.03.26.645441v1?rss=1",
-      "date": "2025-03-29 08:00",
-      "author": "bioRxiv Subject Collection: Bioinformatics",
-      "timestamp": 1743206400.0,
-      "summary": "ZooMS (Zooarchaeology by Mass Spectrometry) offers a rapid and cost-effective method for species identification of animal remains through peptide mass...",
       "source_url": "https://biorxiv.org",
       "category": "Papers"
     },
@@ -9568,16 +9578,6 @@
       "author": "bioRxiv Subject Collection: Genomics",
       "timestamp": 1742860800.0,
       "summary": "The Vaccinium genus comprises several commercially important fruit crops, such as blueberry, lingonberry, bilberry, and cranberry. However, past breed...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "Enhanced Functional Potential of Pseudogene-associated lncRNA Genes in Mammals",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.03.21.644463v1?rss=1",
-      "date": "2025-03-25 08:00",
-      "author": "bioRxiv Subject Collection: Genomics",
-      "timestamp": 1742860800.0,
-      "summary": "The functional significance of long non-coding RNAs (lncRNAs) remains a subject of debate, largely due to the complexity and cost associated with thei...",
       "source_url": "https://biorxiv.org",
       "category": "Papers"
     },
