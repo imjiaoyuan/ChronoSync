@@ -8672,6 +8672,36 @@
       "category": "Blogs"
     },
     {
+      "title": "Novel universal domain-centric method for protein classification",
+      "link": "https://www.biorxiv.org/content/10.1101/2025.03.28.645719v1?rss=1",
+      "date": "2025-04-02 08:00",
+      "author": "bioRxiv Subject Collection: Bioinformatics",
+      "timestamp": 1743552000.0,
+      "summary": "Human protein kinases constitute a large superfamily of about 500 genes, historically classified into subfamilies based on phylogenetic relationship. ...",
+      "source_url": "https://biorxiv.org",
+      "category": "Papers"
+    },
+    {
+      "title": "biscot: an Optimal Transport framework for multimodal bacterial single-cell data analysis",
+      "link": "https://www.biorxiv.org/content/10.1101/2025.03.28.645895v1?rss=1",
+      "date": "2025-04-02 08:00",
+      "author": "bioRxiv Subject Collection: Bioinformatics",
+      "timestamp": 1743552000.0,
+      "summary": "Computational optimal transport-based approaches have emerged as promising tools for the integration and interpretation of complex single-cell data. I...",
+      "source_url": "https://biorxiv.org",
+      "category": "Papers"
+    },
+    {
+      "title": "FUSE-PhyloTree: Linking functions and sequence conservation modules of a protein family through phylogenomic analysis",
+      "link": "https://www.biorxiv.org/content/10.1101/2025.03.28.645931v1?rss=1",
+      "date": "2025-04-02 08:00",
+      "author": "bioRxiv Subject Collection: Bioinformatics",
+      "timestamp": 1743552000.0,
+      "summary": "Summary: FUSE-PhyloTree is a phylogenomic analysis software for identifying local sequence conservation associated with the different functions of a m...",
+      "source_url": "https://biorxiv.org",
+      "category": "Papers"
+    },
+    {
       "title": "In-Silico Stability Predictors: Investigation of Performance Towards balanced Experimental Data",
       "link": "https://www.biorxiv.org/content/10.1101/2025.03.28.645695v1?rss=1",
       "date": "2025-04-02 08:00",
@@ -8679,6 +8709,46 @@
       "timestamp": 1743552000.0,
       "summary": "Change in protein stability, quantified as the change in Gibbs free energy of folding ({Delta}{Delta}G) in kcal/mol, plays a crucial role in functiona...",
       "source_url": "https://biorxiv.org",
+      "category": "Papers"
+    },
+    {
+      "title": "KhufuEnv, an auxiliary toolkit for building computational pipelines for plant and animal breeding",
+      "link": "https://www.biorxiv.org/content/10.1101/2025.03.28.645917v1?rss=1",
+      "date": "2025-04-02 08:00",
+      "author": "bioRxiv Subject Collection: Genomics",
+      "timestamp": 1743552000.0,
+      "summary": "In the era of short and long read sequencing, vast amounts of DNA sequencing data are being generated. While a variety of tools exist for analyzing an...",
+      "source_url": "https://biorxiv.org",
+      "category": "Papers"
+    },
+    {
+      "title": "A new genome assembly of the pea cultivar Cameor provides resources for functional genomics and genetics",
+      "link": "https://www.biorxiv.org/content/10.1101/2025.04.01.645976v1?rss=1",
+      "date": "2025-04-02 08:00",
+      "author": "bioRxiv Subject Collection: Genomics",
+      "timestamp": 1743552000.0,
+      "summary": "Significant improvements in sequencing technologies have allowed the development of more contiguous genome assemblies in many plant species. The pea g...",
+      "source_url": "https://biorxiv.org",
+      "category": "Papers"
+    },
+    {
+      "title": "The information content of species: formal definitions of pangenome complexity track with bacterial lifestyle",
+      "link": "https://www.biorxiv.org/content/10.1101/2025.03.28.645969v1?rss=1",
+      "date": "2025-04-02 08:00",
+      "author": "bioRxiv Subject Collection: Genomics",
+      "timestamp": 1743552000.0,
+      "summary": "The information content encoded in the genomes of species varies across the microbial tree of life. Bacterial lifestyle has been shown to drive this i...",
+      "source_url": "https://biorxiv.org",
+      "category": "Papers"
+    },
+    {
+      "title": "Reactivation of retrotransposable elements is associated with environmental stress and ageing",
+      "link": "https://www.nature.com/articles/s41576-025-00829-y",
+      "date": "2025-04-02 08:00",
+      "author": "Genomics : nature.com subject feeds",
+      "timestamp": 1743552000.0,
+      "summary": "无摘要",
+      "source_url": "https://www.nature.com/subjects/genomics",
       "category": "Papers"
     },
     {
@@ -9192,36 +9262,6 @@
       "category": "Papers"
     },
     {
-      "title": "GPerturb: Gaussian process modelling of single-cell perturbation data",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.03.26.645455v1?rss=1",
-      "date": "2025-03-29 08:00",
-      "author": "bioRxiv Subject Collection: Bioinformatics",
-      "timestamp": 1743206400.0,
-      "summary": "Single-cell RNA sequencing and Clustered Regularly Interspaced Short Palindromic Repeats (CRISPR) screening facilitate the high-throughput study of ge...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "UITOTO: a new software for molecular diagnoses in species descriptions",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.03.26.645453v1?rss=1",
-      "date": "2025-03-29 08:00",
-      "author": "bioRxiv Subject Collection: Bioinformatics",
-      "timestamp": 1743206400.0,
-      "summary": "Millions of species remain undescribed, requiring molecular and morphological diagnoses. However, no efficient software reliably derives and tests --s...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "Systematic Comparative Analysis of Pathway Databases from a User-Perspective",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.03.26.645364v1?rss=1",
-      "date": "2025-03-29 08:00",
-      "author": "bioRxiv Subject Collection: Bioinformatics",
-      "timestamp": 1743206400.0,
-      "summary": "Pathway Databases are essential particularly in the post-genomic era as they provide organized information about biological pathways and processes. Ho...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
       "title": "Chromosome-level genome assemblies for the latent pine pathogen, Diplodia sapinea, reveal two rapidly evolving accessory chromosomes",
       "link": "https://www.biorxiv.org/content/10.1101/2025.03.26.645563v1?rss=1",
       "date": "2025-03-29 08:00",
@@ -9542,36 +9582,6 @@
       "category": "Papers"
     },
     {
-      "title": "The Cistrome Response to Hypoxia in Human Umbilical Vein Endothelial Cells",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.03.23.644824v1?rss=1",
-      "date": "2025-03-25 08:00",
-      "author": "bioRxiv Subject Collection: Genomics",
-      "timestamp": 1742860800.0,
-      "summary": "Transcriptional signaling during hypoxic stress is primarily governed by hypoxia-inducible transcription factors (HIFs), which bind to hypoxia respons...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "Phenotypic tolerance for rDNA copy number variation within the natural range of C. elegans",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.03.21.644675v1?rss=1",
-      "date": "2025-03-25 08:00",
-      "author": "bioRxiv Subject Collection: Genomics",
-      "timestamp": 1742860800.0,
-      "summary": "The genes for ribosomal RNA (rRNA) are encoded by ribosomal DNA (rDNA), whose structure is notable for being present in arrays of tens to thousands of...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "Single-cell multiome and enhancer connectome of human retinal pigment epithelium and choroid nominate pathogenic variants in age-related macular degeneration",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.03.21.644670v1?rss=1",
-      "date": "2025-03-25 08:00",
-      "author": "bioRxiv Subject Collection: Genomics",
-      "timestamp": 1742860800.0,
-      "summary": "Age-related macular degeneration (AMD) is a leading cause of vision loss worldwide. Genome-wide association studies (GWAS) of AMD have identified doze...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
       "title": "Author Correction: Rare variant analyses in 51,256 type 2 diabetes cases and 370,487 controls reveal the pathogenicity spectrum of monogenic diabetes genes",
       "link": "https://www.nature.com/articles/s41588-025-02175-5",
       "date": "2025-03-25 08:00",
@@ -9679,16 +9689,6 @@
       "timestamp": 1742601600.0,
       "summary": "无摘要",
       "source_url": "https://www.nature.com/subjects/bioinformatics",
-      "category": "Papers"
-    },
-    {
-      "title": "Spatially resolved genome-wide joint profiling of epigenome and transcriptome with spatial-ATAC-RNA-seq and spatial-CUT&Tag-RNA-seq",
-      "link": "https://www.nature.com/articles/s41596-025-01145-9",
-      "date": "2025-03-21 08:00",
-      "author": "Genomics : nature.com subject feeds",
-      "timestamp": 1742515200.0,
-      "summary": "无摘要",
-      "source_url": "https://www.nature.com/subjects/genomics",
       "category": "Papers"
     },
     {
