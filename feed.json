@@ -8672,6 +8672,16 @@
       "category": "Blogs"
     },
     {
+      "title": "In-Silico Stability Predictors: Investigation of Performance Towards balanced Experimental Data",
+      "link": "https://www.biorxiv.org/content/10.1101/2025.03.28.645695v1?rss=1",
+      "date": "2025-04-02 08:00",
+      "author": "bioRxiv Subject Collection: Bioinformatics",
+      "timestamp": 1743552000.0,
+      "summary": "Change in protein stability, quantified as the change in Gibbs free energy of folding ({Delta}{Delta}G) in kcal/mol, plays a crucial role in functiona...",
+      "source_url": "https://biorxiv.org",
+      "category": "Papers"
+    },
+    {
       "title": "Benchmarking Genetic Interaction Scoring Methods for Identifying Synthetic Lethality from Combinatorial CRISPR Screens",
       "link": "https://www.biorxiv.org/content/10.1101/2025.03.31.645224v1?rss=1",
       "date": "2025-04-01 08:00",
@@ -9157,7 +9167,7 @@
       "date": "2025-03-30 08:00",
       "author": "bioRxiv Subject Collection: Genomics",
       "timestamp": 1743292800.0,
-      "summary": "Loss of genetic diversity threatens species survival, yet the dynamics of such loss and species' responses thereof can vary widely depending on their ...",
+      "summary": "Loss of genetic diversity threatens species survival, yet the dynamics of such loss and species responses thereof can vary widely depending on their e...",
       "source_url": "https://biorxiv.org",
       "category": "Papers"
     },
@@ -9208,16 +9218,6 @@
       "author": "bioRxiv Subject Collection: Bioinformatics",
       "timestamp": 1743206400.0,
       "summary": "Pathway Databases are essential particularly in the post-genomic era as they provide organized information about biological pathways and processes. Ho...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "High-accuracy protein complex structure modeling based on sequence-derived structure complementarity",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.03.26.645390v1?rss=1",
-      "date": "2025-03-29 08:00",
-      "author": "bioRxiv Subject Collection: Bioinformatics",
-      "timestamp": 1743206400.0,
-      "summary": "In living organisms, proteins perform key functions required for life activities by interacting to form complexes. Determining the protein complex str...",
       "source_url": "https://biorxiv.org",
       "category": "Papers"
     },
