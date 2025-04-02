@@ -8732,6 +8732,26 @@
       "category": "Papers"
     },
     {
+      "title": "Response to Tabin et al-Concerns about ancient DNA sequences reported from a Late Pleistocene individual from Southeast Asia",
+      "link": "https://www.biorxiv.org/content/10.1101/2025.03.29.646132v1?rss=1",
+      "date": "2025-04-02 08:00",
+      "author": "bioRxiv Subject Collection: Genomics",
+      "timestamp": 1743552000.0,
+      "summary": "Tabin et al suspect a high error rate and abnormal error content in the MZR genome data from our published study, from which they raised concerns abou...",
+      "source_url": "https://biorxiv.org",
+      "category": "Papers"
+    },
+    {
+      "title": "Machine learning-predicted chromatin organization landscape across pediatric tumors",
+      "link": "https://www.biorxiv.org/content/10.1101/2025.03.28.645984v1?rss=1",
+      "date": "2025-04-02 08:00",
+      "author": "bioRxiv Subject Collection: Genomics",
+      "timestamp": 1743552000.0,
+      "summary": "Structural variants (SVs) are increasingly recognized as important contributors to oncogenesis through their effects on 3D genome folding. Recent adva...",
+      "source_url": "https://biorxiv.org",
+      "category": "Papers"
+    },
+    {
       "title": "Female-biased vascular smooth muscle cell gene regulatory networks predict MYH9 as a key regulator of fibrous plaque phenotype",
       "link": "https://www.biorxiv.org/content/10.1101/2025.03.28.645955v1?rss=1",
       "date": "2025-04-02 08:00",
@@ -8812,6 +8832,16 @@
       "category": "Papers"
     },
     {
+      "title": "Cellular landscape of avian intestinal organoids revealed by single cell transcriptomics",
+      "link": "https://www.nature.com/articles/s41598-025-95721-4",
+      "date": "2025-04-02 08:00",
+      "author": "Genomics : nature.com subject feeds",
+      "timestamp": 1743552000.0,
+      "summary": "无摘要",
+      "source_url": "https://www.nature.com/subjects/genomics",
+      "category": "Papers"
+    },
+    {
       "title": "Ancient DNA from the Green Sahara reveals ancestral North African lineage",
       "link": "https://www.nature.com/articles/s41586-025-08793-7",
       "date": "2025-04-02 08:00",
@@ -8819,6 +8849,16 @@
       "timestamp": 1743552000.0,
       "summary": "无摘要",
       "source_url": "https://www.nature.com/subjects/genomics",
+      "category": "Papers"
+    },
+    {
+      "title": "A new Similarity Based Adapted Louvain Algorithm (SIMBA) for active module identification in p-value attributed biological networks",
+      "link": "https://www.nature.com/articles/s41598-025-95749-6",
+      "date": "2025-04-02 08:00",
+      "author": "Bioinformatics : nature.com subject feeds",
+      "timestamp": 1743552000.0,
+      "summary": "无摘要",
+      "source_url": "https://www.nature.com/subjects/bioinformatics",
       "category": "Papers"
     },
     {
@@ -9552,16 +9592,6 @@
       "category": "Papers"
     },
     {
-      "title": "Delphy: scalable, near-real-time Bayesian phylogenetics for outbreaks",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.03.25.645253v1?rss=1",
-      "date": "2025-03-26 08:00",
-      "author": "bioRxiv Subject Collection: Genomics",
-      "timestamp": 1742947200.0,
-      "summary": "Pathogen genomic analysis is central to tracking, understanding, and containing outbreaks, but complexity and high costs of state-of-the-art (SOTA) ph...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
       "title": "Impact of BRCA mutations, age, surgical indication, and hormone status on the molecular phenotype of the human Fallopian tube",
       "link": "https://www.nature.com/articles/s41467-025-58145-2",
       "date": "2025-03-26 08:00",
@@ -9602,16 +9632,6 @@
       "category": "Papers"
     },
     {
-      "title": "Genome sequence assembly and annotation of MATA and MATB strains of Yarrowia lipolytica",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.03.24.645116v1?rss=1",
-      "date": "2025-03-25 08:00",
-      "author": "bioRxiv Subject Collection: Genomics",
-      "timestamp": 1742860800.0,
-      "summary": "Yeast is commonly utilized in molecular and cell biology research, and Yarrowia lipolytica is favored by bio-engineers due to its ability to produce c...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
       "title": "Author Correction: Rare variant analyses in 51,256 type 2 diabetes cases and 370,487 controls reveal the pathogenicity spectrum of monogenic diabetes genes",
       "link": "https://www.nature.com/articles/s41588-025-02175-5",
       "date": "2025-03-25 08:00",
@@ -9634,16 +9654,6 @@
     {
       "title": "Correction: Revealing stable SNPs and genomic prediction insights across environments enhance breeding strategies of productivity, defense, and climate-adaptability traits in white spruce",
       "link": "https://www.nature.com/articles/s41437-025-00757-x",
-      "date": "2025-03-24 08:00",
-      "author": "Genomics : nature.com subject feeds",
-      "timestamp": 1742774400.0,
-      "summary": "无摘要",
-      "source_url": "https://www.nature.com/subjects/genomics",
-      "category": "Papers"
-    },
-    {
-      "title": "Chromosome-level de novo genome assembly of wild, anoxia-tolerant crucian carp, Carassius carassius",
-      "link": "https://www.nature.com/articles/s41597-025-04813-3",
       "date": "2025-03-24 08:00",
       "author": "Genomics : nature.com subject feeds",
       "timestamp": 1742774400.0,
@@ -9857,16 +9867,6 @@
       "date": "2025-02-25 08:00",
       "author": "Bioinformatics : nature.com subject feeds",
       "timestamp": 1740441600.0,
-      "summary": "无摘要",
-      "source_url": "https://www.nature.com/subjects/bioinformatics",
-      "category": "Papers"
-    },
-    {
-      "title": "Analysis of NS2-dependent effects on influenza PB1 segment extends replication requirements beyond the canonical promoter",
-      "link": "https://www.nature.com/articles/s41467-025-57092-2",
-      "date": "2025-02-22 08:00",
-      "author": "Bioinformatics : nature.com subject feeds",
-      "timestamp": 1740182400.0,
       "summary": "无摘要",
       "source_url": "https://www.nature.com/subjects/bioinformatics",
       "category": "Papers"
