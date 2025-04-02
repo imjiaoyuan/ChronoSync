@@ -8672,6 +8672,46 @@
       "category": "Blogs"
     },
     {
+      "title": "MotifPeeker: R package for benchmarking epigenomic profiling methods using motif enrichment as a key metric",
+      "link": "https://www.biorxiv.org/content/10.1101/2025.03.31.645756v1?rss=1",
+      "date": "2025-04-01 08:00",
+      "author": "bioRxiv Subject Collection: Bioinformatics",
+      "timestamp": 1743465600.0,
+      "summary": "Summary MotifPeeker benchmarks epigenomic datasets where no \"gold standard\" reference exists, using motif enrichment as a key metric. With minimal inp...",
+      "source_url": "https://biorxiv.org",
+      "category": "Papers"
+    },
+    {
+      "title": "Scalable high-performance single cell data analysis with BPCells",
+      "link": "https://www.biorxiv.org/content/10.1101/2025.03.27.645853v1?rss=1",
+      "date": "2025-04-01 08:00",
+      "author": "bioRxiv Subject Collection: Bioinformatics",
+      "timestamp": 1743465600.0,
+      "summary": "The growth of single-cell datasets to multi-million cell atlases has uncovered major scalability problems for single-cell analysis software. Here, we ...",
+      "source_url": "https://biorxiv.org",
+      "category": "Papers"
+    },
+    {
+      "title": "DeNoFo: a file format and toolkit for standardised, comparable de novo gene annotation",
+      "link": "https://www.biorxiv.org/content/10.1101/2025.03.31.644673v1?rss=1",
+      "date": "2025-04-01 08:00",
+      "author": "bioRxiv Subject Collection: Bioinformatics",
+      "timestamp": 1743465600.0,
+      "summary": "Motivation: De novo genes emerge from previously non-coding regions of the genome, challenging the traditional view that new genes primarily arise thr...",
+      "source_url": "https://biorxiv.org",
+      "category": "Papers"
+    },
+    {
+      "title": "Orchestrating multi-state QTL analysis with Bioconductor",
+      "link": "https://www.biorxiv.org/content/10.1101/2025.03.28.645834v1?rss=1",
+      "date": "2025-04-01 08:00",
+      "author": "bioRxiv Subject Collection: Bioinformatics",
+      "timestamp": 1743465600.0,
+      "summary": "Motivation: The scope of many Quantitative Trait Loci (QTL) mapping studies has increased to include different cellular and environmental states. Howe...",
+      "source_url": "https://biorxiv.org",
+      "category": "Papers"
+    },
+    {
       "title": "\"Visualize, describe, compare\" - nanoinformatics approaches for material-omics",
       "link": "https://www.biorxiv.org/content/10.1101/2025.03.27.645714v1?rss=1",
       "date": "2025-04-01 08:00",
@@ -9172,26 +9212,6 @@
       "category": "Papers"
     },
     {
-      "title": "MetaboMiNR: a web application to analyze label free quantitative proteomic experiments with a focus on metabolism and nuclear receptors",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.03.25.644590v1?rss=1",
-      "date": "2025-03-29 08:00",
-      "author": "bioRxiv Subject Collection: Bioinformatics",
-      "timestamp": 1743206400.0,
-      "summary": "Label free quantitative (LFQ) proteomics is growing in popularity and becoming increasingly more accessible to researchers, empowering them to compare...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "Unraveling HIV protease drug resistance and genetic diversity with kernel methods",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.03.26.644092v1?rss=1",
-      "date": "2025-03-29 08:00",
-      "author": "bioRxiv Subject Collection: Bioinformatics",
-      "timestamp": 1743206400.0,
-      "summary": "A definitive cure for HIV/AIDS does not exist yet and, thus, patients rely in antiretroviral therapy for life. In this scenario, the emergence of drug...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
       "title": "Chromosome-level genome assemblies for the latent pine pathogen, Diplodia sapinea, reveal two rapidly evolving accessory chromosomes",
       "link": "https://www.biorxiv.org/content/10.1101/2025.03.26.645563v1?rss=1",
       "date": "2025-03-29 08:00",
@@ -9218,26 +9238,6 @@
       "author": "bioRxiv Subject Collection: Bioinformatics",
       "timestamp": 1743120000.0,
       "summary": "Understanding allosteric communication in proteins remains a critical challenge for structure-based, rational drug design. We present MDPath, a Python...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "Chimera: Ultrafast and Memory-efficient Database Construction for High-Accuracy Taxonomic Classification in the Age of Expanding Genomic Data",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.03.26.645388v1?rss=1",
-      "date": "2025-03-28 08:00",
-      "author": "bioRxiv Subject Collection: Bioinformatics",
-      "timestamp": 1743120000.0,
-      "summary": "The rapid growth of genomic data expands species diversity but also causes taxonomic imbalance, with certain species heavily overrepresented. Both dat...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "STRkit: precise, read-level genotyping of short tandem repeats using long reads and single-nucleotide variation",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.03.25.645269v1?rss=1",
-      "date": "2025-03-28 08:00",
-      "author": "bioRxiv Subject Collection: Bioinformatics",
-      "timestamp": 1743120000.0,
-      "summary": "Variation in short tandem repeats (STRs) is implicated in Mendelian disease and complex traits, but can be difficult to resolve with short-read genome...",
       "source_url": "https://biorxiv.org",
       "category": "Papers"
     },
