@@ -8672,6 +8672,16 @@
       "category": "Blogs"
     },
     {
+      "title": "Benchmarking Genetic Interaction Scoring Methods for Identifying Synthetic Lethality from Combinatorial CRISPR Screens",
+      "link": "https://www.biorxiv.org/content/10.1101/2025.03.31.645224v1?rss=1",
+      "date": "2025-04-01 08:00",
+      "author": "bioRxiv Subject Collection: Bioinformatics",
+      "timestamp": 1743465600.0,
+      "summary": "Synthetic lethality (SL) is an extreme form of negative genetic interaction, where simultaneous disruption of two non-essential genes causes cell deat...",
+      "source_url": "https://biorxiv.org",
+      "category": "Papers"
+    },
+    {
       "title": "Enhancing CAR-T cell activity prediction via fine-tuning protein language models with generated CAR sequences",
       "link": "https://www.biorxiv.org/content/10.1101/2025.03.27.645831v1?rss=1",
       "date": "2025-04-01 08:00",
@@ -9208,16 +9218,6 @@
       "author": "bioRxiv Subject Collection: Bioinformatics",
       "timestamp": 1743206400.0,
       "summary": "In living organisms, proteins perform key functions required for life activities by interacting to form complexes. Determining the protein complex str...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "fpocketR: A platform for identification and analysis of ligand-binding pockets in RNA",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.03.25.645323v1?rss=1",
-      "date": "2025-03-29 08:00",
-      "author": "bioRxiv Subject Collection: Bioinformatics",
-      "timestamp": 1743206400.0,
-      "summary": "Small molecules that bind specific sites in RNAs hold promise for altering RNA function, manipulating gene expression, and expanding the scope of drug...",
       "source_url": "https://biorxiv.org",
       "category": "Papers"
     },
