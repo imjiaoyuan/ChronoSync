@@ -1,5 +1,5 @@
 {
-  "update_time": "2025-04-02",
+  "update_time": "2025-04-03",
   "articles": [
     {
       "title": "关我辟事 Vol.37：中年人最稀缺的资产",
@@ -8672,6 +8672,16 @@
       "category": "Blogs"
     },
     {
+      "title": "Predicting Rhizosphere Competence Related Catabolic Gene Clusters in plant-associated bacteria with RhizoSMASH",
+      "link": "https://www.biorxiv.org/content/10.1101/2025.03.29.646099v1?rss=1",
+      "date": "2025-04-02 08:00",
+      "author": "bioRxiv Subject Collection: Bioinformatics",
+      "timestamp": 1743552000.0,
+      "summary": "Plants release a substantial fraction of their photosynthesized carbon into the rhizosphere as root exudates, a mix of chemically diverse compounds th...",
+      "source_url": "https://biorxiv.org",
+      "category": "Papers"
+    },
+    {
       "title": "Serotonergic Modulation of Motoneuronal Excitability and Its Impact on Muscle Force Generation: A Computational Study",
       "link": "https://www.biorxiv.org/content/10.1101/2025.04.01.646607v1?rss=1",
       "date": "2025-04-02 08:00",
@@ -8722,6 +8732,16 @@
       "category": "Papers"
     },
     {
+      "title": "Female-biased vascular smooth muscle cell gene regulatory networks predict MYH9 as a key regulator of fibrous plaque phenotype",
+      "link": "https://www.biorxiv.org/content/10.1101/2025.03.28.645955v1?rss=1",
+      "date": "2025-04-02 08:00",
+      "author": "bioRxiv Subject Collection: Genomics",
+      "timestamp": 1743552000.0,
+      "summary": "Atherosclerosis, a chronic inflammatory condition driving coronary artery disease (CAD), manifests in two primary plaque types: unstable atheromatous ...",
+      "source_url": "https://biorxiv.org",
+      "category": "Papers"
+    },
+    {
       "title": "Protocol for Extracting Circulating Cell-Free DNA from Murine Saliva: Insights into Oral and Systemic Disease Research",
       "link": "https://www.biorxiv.org/content/10.1101/2025.03.31.645839v1?rss=1",
       "date": "2025-04-02 08:00",
@@ -8764,6 +8784,36 @@
     {
       "title": "Reactivation of retrotransposable elements is associated with environmental stress and ageing",
       "link": "https://www.nature.com/articles/s41576-025-00829-y",
+      "date": "2025-04-02 08:00",
+      "author": "Genomics : nature.com subject feeds",
+      "timestamp": 1743552000.0,
+      "summary": "无摘要",
+      "source_url": "https://www.nature.com/subjects/genomics",
+      "category": "Papers"
+    },
+    {
+      "title": "Revealed: first DNA profiles of ancient people who roamed a lush Sahara",
+      "link": "https://www.nature.com/articles/d41586-025-01020-3",
+      "date": "2025-04-02 08:00",
+      "author": "Genomics : nature.com subject feeds",
+      "timestamp": 1743552000.0,
+      "summary": "无摘要",
+      "source_url": "https://www.nature.com/subjects/genomics",
+      "category": "Papers"
+    },
+    {
+      "title": "Rare ancient DNA from Sahara opens a window on the region’s verdant past",
+      "link": "https://www.nature.com/articles/d41586-025-00755-3",
+      "date": "2025-04-02 08:00",
+      "author": "Genomics : nature.com subject feeds",
+      "timestamp": 1743552000.0,
+      "summary": "无摘要",
+      "source_url": "https://www.nature.com/subjects/genomics",
+      "category": "Papers"
+    },
+    {
+      "title": "Ancient DNA from the Green Sahara reveals ancestral North African lineage",
+      "link": "https://www.nature.com/articles/s41586-025-08793-7",
       "date": "2025-04-02 08:00",
       "author": "Genomics : nature.com subject feeds",
       "timestamp": 1743552000.0,
@@ -9137,7 +9187,7 @@
       "date": "2025-03-31 08:00",
       "author": "bioRxiv Subject Collection: Bioinformatics",
       "timestamp": 1743379200.0,
-      "summary": "Parkinson's disease (PD) is a neurodegenerative disorder characterized by motor and non-motor symptoms, including cognitive impairment (CI) ranging fr...",
+      "summary": "Parkinsons disease (PD) is a neurodegenerative disorder characterized by motor and non-motor symptoms, including cognitive impairment (CI) ranging fro...",
       "source_url": "https://biorxiv.org",
       "category": "Papers"
     },
@@ -9237,7 +9287,7 @@
       "date": "2025-03-30 08:00",
       "author": "bioRxiv Subject Collection: Genomics",
       "timestamp": 1743292800.0,
-      "summary": "Single-cell analysis has refined our understanding of cellular heterogeneity in glioma, yet RNA alternative splicing (AS) - a critical layer of transc...",
+      "summary": "Single-cell analysis has refined our understanding of cellular heterogeneity in glioma, yet RNA alternative splicing (AS)--a critical layer of transcr...",
       "source_url": "https://biorxiv.org",
       "category": "Papers"
     },
@@ -9258,16 +9308,6 @@
       "author": "bioRxiv Subject Collection: Genomics",
       "timestamp": 1743292800.0,
       "summary": "Loss of genetic diversity threatens species survival, yet the dynamics of such loss and species responses thereof can vary widely depending on their e...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "COMIC: Explainable Drug Repurposing via Contrastive Masking for Interpretable Connections",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.03.26.645428v1?rss=1",
-      "date": "2025-03-29 08:00",
-      "author": "bioRxiv Subject Collection: Bioinformatics",
-      "timestamp": 1743206400.0,
-      "summary": "Many diseases worldwide remain untreated due to the slow and expensive process of drug development. Repurposing existing FDA-approved drugs offers a f...",
       "source_url": "https://biorxiv.org",
       "category": "Papers"
     },
@@ -9572,16 +9612,6 @@
       "category": "Papers"
     },
     {
-      "title": "THE HAPLOTYPE-RESOLVED AND CHROMOSOME-SCALE GENOME OF VACCINIUM STAMINEUM: A NEW SOURCE OF GENETIC VARIABILITY FOR BLUEBERRY BREEDING",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.03.21.644558v1?rss=1",
-      "date": "2025-03-25 08:00",
-      "author": "bioRxiv Subject Collection: Genomics",
-      "timestamp": 1742860800.0,
-      "summary": "The Vaccinium genus comprises several commercially important fruit crops, such as blueberry, lingonberry, bilberry, and cranberry. However, past breed...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
       "title": "Author Correction: Rare variant analyses in 51,256 type 2 diabetes cases and 370,487 controls reveal the pathogenicity spectrum of monogenic diabetes genes",
       "link": "https://www.nature.com/articles/s41588-025-02175-5",
       "date": "2025-03-25 08:00",
@@ -9614,36 +9644,6 @@
     {
       "title": "Chromosome-level de novo genome assembly of wild, anoxia-tolerant crucian carp, Carassius carassius",
       "link": "https://www.nature.com/articles/s41597-025-04813-3",
-      "date": "2025-03-24 08:00",
-      "author": "Genomics : nature.com subject feeds",
-      "timestamp": 1742774400.0,
-      "summary": "无摘要",
-      "source_url": "https://www.nature.com/subjects/genomics",
-      "category": "Papers"
-    },
-    {
-      "title": "Integrative genomics sheds light on the immunogenetics of tuberculosis in cattle",
-      "link": "https://www.nature.com/articles/s42003-025-07846-x",
-      "date": "2025-03-24 08:00",
-      "author": "Genomics : nature.com subject feeds",
-      "timestamp": 1742774400.0,
-      "summary": "无摘要",
-      "source_url": "https://www.nature.com/subjects/genomics",
-      "category": "Papers"
-    },
-    {
-      "title": "Real-time genomic characterization of pediatric acute leukemia using adaptive sampling",
-      "link": "https://www.nature.com/articles/s41375-025-02565-y",
-      "date": "2025-03-24 08:00",
-      "author": "Genomics : nature.com subject feeds",
-      "timestamp": 1742774400.0,
-      "summary": "无摘要",
-      "source_url": "https://www.nature.com/subjects/genomics",
-      "category": "Papers"
-    },
-    {
-      "title": "Ancient genomic linkage of α-globin and Nprl3 couples metabolism with erythropoiesis",
-      "link": "https://www.nature.com/articles/s41467-025-57683-z",
       "date": "2025-03-24 08:00",
       "author": "Genomics : nature.com subject feeds",
       "timestamp": 1742774400.0,
