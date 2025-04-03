@@ -8572,12 +8572,32 @@
       "category": "Blogs"
     },
     {
+      "title": "Differential T cell receptor gene expression analysis using the Wilcoxon test with similarity-based weighting",
+      "link": "https://www.biorxiv.org/content/10.1101/2025.03.28.645951v1?rss=1",
+      "date": "2025-04-03 08:00",
+      "author": "bioRxiv Subject Collection: Bioinformatics",
+      "timestamp": 1743638400.0,
+      "summary": "To better understand immune responses, comparing the abundance of T cell receptors (TCRs) between conditions can provide insights into which T cells h...",
+      "source_url": "https://biorxiv.org",
+      "category": "Papers"
+    },
+    {
       "title": "Sketch, capture and layout phylogenies",
       "link": "https://www.biorxiv.org/content/10.1101/2025.04.01.646633v1?rss=1",
       "date": "2025-04-03 08:00",
       "author": "bioRxiv Subject Collection: Bioinformatics",
       "timestamp": 1743638400.0,
       "summary": "Phylogenetic trees and networks play a central role in biology, bioinformatics, and mathematical biology, and producing clear, informative visualizati...",
+      "source_url": "https://biorxiv.org",
+      "category": "Papers"
+    },
+    {
+      "title": "Expression spectrum of TE-derived transcripts in human adult tissues",
+      "link": "https://www.biorxiv.org/content/10.1101/2025.03.29.646092v1?rss=1",
+      "date": "2025-04-03 08:00",
+      "author": "bioRxiv Subject Collection: Genomics",
+      "timestamp": 1743638400.0,
+      "summary": "Abstract Transposable elements (TEs) are vital components of eukaryotic genomes and have played a critical role in genome evolution. Although most TEs...",
       "source_url": "https://biorxiv.org",
       "category": "Papers"
     },
@@ -8604,6 +8624,16 @@
     {
       "title": "Scalable spatial transcriptomics through computational array reconstruction",
       "link": "https://www.nature.com/articles/s41587-025-02612-0",
+      "date": "2025-04-03 08:00",
+      "author": "Genomics : nature.com subject feeds",
+      "timestamp": 1743638400.0,
+      "summary": "无摘要",
+      "source_url": "https://www.nature.com/subjects/genomics",
+      "category": "Papers"
+    },
+    {
+      "title": "Comprehensive germline and somatic profiling of high-risk Thai breast cancer via next-generation sequencing",
+      "link": "https://www.nature.com/articles/s41598-025-95834-w",
       "date": "2025-04-03 08:00",
       "author": "Genomics : nature.com subject feeds",
       "timestamp": 1743638400.0,
@@ -9028,16 +9058,6 @@
       "author": "bioRxiv Subject Collection: Bioinformatics",
       "timestamp": 1743465600.0,
       "summary": "Automated function prediction (AFP) is the process of predicting the function of genes or proteins with machine learning models trained on high-throug...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "DIFS: Discriminative Feature Selection for Cell Clustering based on Single-Cell RNA Sequencing Data",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.03.26.645625v1?rss=1",
-      "date": "2025-04-01 08:00",
-      "author": "bioRxiv Subject Collection: Bioinformatics",
-      "timestamp": 1743465600.0,
-      "summary": "A key challenge in single-cell RNA sequencing (scRNA-seq) analysis is clustering cells based on their expression profiles. Effective clustering requir...",
       "source_url": "https://biorxiv.org",
       "category": "Papers"
     },
@@ -9502,16 +9522,6 @@
       "category": "Papers"
     },
     {
-      "title": "Phylogeographic clustering of Salmonella enterica serovar Mississippi in the Southeastern United States indicates regional transmission pathways",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.03.26.645529v1?rss=1",
-      "date": "2025-03-26 08:00",
-      "author": "bioRxiv Subject Collection: Genomics",
-      "timestamp": 1742947200.0,
-      "summary": "Salmonella enterica subspecies enterica serovar Mississippi (S. Mississippi) is a polyphyletic serovar endemic in Australia, New Zealand, the United K...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
       "title": "Impact of BRCA mutations, age, surgical indication, and hormone status on the molecular phenotype of the human Fallopian tube",
       "link": "https://www.nature.com/articles/s41467-025-58145-2",
       "date": "2025-03-26 08:00",
@@ -9549,16 +9559,6 @@
       "timestamp": 1742947200.0,
       "summary": "无摘要",
       "source_url": "https://www.nature.com/subjects/bioinformatics",
-      "category": "Papers"
-    },
-    {
-      "title": "Author Correction: Rare variant analyses in 51,256 type 2 diabetes cases and 370,487 controls reveal the pathogenicity spectrum of monogenic diabetes genes",
-      "link": "https://www.nature.com/articles/s41588-025-02175-5",
-      "date": "2025-03-25 08:00",
-      "author": "Genomics : nature.com subject feeds",
-      "timestamp": 1742860800.0,
-      "summary": "无摘要",
-      "source_url": "https://www.nature.com/subjects/genomics",
       "category": "Papers"
     },
     {
