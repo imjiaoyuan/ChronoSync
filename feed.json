@@ -8582,6 +8582,16 @@
       "category": "Papers"
     },
     {
+      "title": "Comprehensive Analysis of CRISPR Array Repeat Mutations Reveals Subtype-Specific Patterns and Links to Spacer Dynamics",
+      "link": "https://www.biorxiv.org/content/10.1101/2025.04.02.646798v1?rss=1",
+      "date": "2025-04-02 08:00",
+      "author": "bioRxiv Subject Collection: Bioinformatics",
+      "timestamp": 1743552000.0,
+      "summary": "CRISPR Cas systems are adaptive immune mechanisms in bacteria and archaea that protect against invading genetic elements by integrating short fragment...",
+      "source_url": "https://biorxiv.org",
+      "category": "Papers"
+    },
+    {
       "title": "Allo-PED: Leveraging protein language models and structure features for allosteric site prediction",
       "link": "https://www.biorxiv.org/content/10.1101/2025.03.28.645953v1?rss=1",
       "date": "2025-04-02 08:00",
@@ -8648,6 +8658,16 @@
       "author": "bioRxiv Subject Collection: Bioinformatics",
       "timestamp": 1743552000.0,
       "summary": "Change in protein stability, quantified as the change in Gibbs free energy of folding ({Delta}{Delta}G) in kcal/mol, plays a crucial role in functiona...",
+      "source_url": "https://biorxiv.org",
+      "category": "Papers"
+    },
+    {
+      "title": "Beyond genetic indicators: how reproductive mode and hybridization challenge freshwater mussel conservation",
+      "link": "https://www.biorxiv.org/content/10.1101/2025.03.28.645956v1?rss=1",
+      "date": "2025-04-02 08:00",
+      "author": "bioRxiv Subject Collection: Genomics",
+      "timestamp": 1743552000.0,
+      "summary": "Genetic diversity is a fundamental component of biodiversity that should be monitored and preserved. Unionid freshwater mussels provide essential ecos...",
       "source_url": "https://biorxiv.org",
       "category": "Papers"
     },
@@ -9152,16 +9172,6 @@
       "category": "Papers"
     },
     {
-      "title": "QuickProt: A Fast and Accurate Homology-Based Protein Annotation Tool for Non-Model Organism Genomes",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.03.28.645852v1?rss=1",
-      "date": "2025-03-31 08:00",
-      "author": "bioRxiv Subject Collection: Bioinformatics",
-      "timestamp": 1743379200.0,
-      "summary": "Despite the increasing number of genomes, the annotation of protein-coding genes is still lacking. In some genomes where transcriptome data is not ava...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
       "title": "Near telomere-to-telomere genome assembly of the blackspot tuskfish (Choerodon schoenleinii)",
       "link": "https://www.nature.com/articles/s41597-025-04893-1",
       "date": "2025-03-31 08:00",
@@ -9488,16 +9498,6 @@
       "author": "bioRxiv Subject Collection: Genomics",
       "timestamp": 1742947200.0,
       "summary": "The invasion of Africa by the Asian urban malaria vector, Anopheles stephensi, endangers 126 million people across a rapidly urbanising continent wher...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "Generalist malaria parasites and host imprinting: Unveiling transcriptional memory",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.03.24.644894v1?rss=1",
-      "date": "2025-03-26 08:00",
-      "author": "bioRxiv Subject Collection: Genomics",
-      "timestamp": 1742947200.0,
-      "summary": "Generalist parasites must rapidly adapt to diverse host environments to ensure their survival and transmission. Parasites may employ fixed genetic res...",
       "source_url": "https://biorxiv.org",
       "category": "Papers"
     },
