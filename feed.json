@@ -2,6 +2,16 @@
   "update_time": "2025-04-04",
   "articles": [
     {
+      "title": "清明 | 2025 年 3 月小结",
+      "link": "https://thirdshire.com/march-recap-2025/",
+      "date": "2025-04-04 10:40",
+      "author": "第三夏尔 | Third Shire",
+      "timestamp": 1743734400.0,
+      "summary": "本月事件\n\n\n运动和自我关怀\n给自己设置了每 20 分钟就起身望远和做几个深蹲的规则，工具用的是 Stretchly\n\n\n\n\n 这个提醒休息的 app。三月天气开始回温，但依旧忽冷忽热，趁着不太冷的几天重启了饭后散步，只是现在还不是时候，每次都被风吹得头痛。人称加拿大有 11 个季节\n\n\n\n\n，我又...",
+      "source_url": "https://thirdshire.com/",
+      "category": "Blogs"
+    },
+    {
       "title": "消费靠婆罗门县城，不靠县城婆罗门",
       "link": "https://1q43.blog/post/11054/",
       "date": "2025-04-03 15:02",
@@ -6212,16 +6222,6 @@
       "category": "Blogs"
     },
     {
-      "title": "更改Hugo博客的永久URL链接，并用Netlify实现旧博文跳转",
-      "link": "https://thirdshire.com/simplify-permalinks/",
-      "date": "2023-11-27 23:20",
-      "author": "第三夏尔 | Third Shire",
-      "timestamp": 1701098436.0,
-      "summary": "对于静态博客，有时候会需要更改博文的永久URL链接格式，比如把格式为/blog/xxx的链接改为/post/xxx。有时由于迁移博客，也需要把以前的老博文进行URL重定向跳转，以避免失效链接导致的404。",
-      "source_url": "https://thirdshire.com/",
-      "category": "Blogs"
-    },
-    {
       "title": "Redmi AX5 刷写第三方 OpenWRT 固件",
       "link": "https://blog.gxres.net/posts/flash-third-party-firmware-for-redmi-ax5-router",
       "date": "2023-11-27 08:00",
@@ -8772,6 +8772,26 @@
       "category": "Papers"
     },
     {
+      "title": "Defining effective strategies to integrate multi-sample single-nucleus ATAC-seq datasets via a multimodal-guided approach",
+      "link": "https://www.biorxiv.org/content/10.1101/2025.04.02.646871v1?rss=1",
+      "date": "2025-04-03 08:00",
+      "author": "bioRxiv Subject Collection: Genomics",
+      "timestamp": 1743638400.0,
+      "summary": "Background Chromatin accessibility, measured via single-nucleus Assay for Transposase-Accessible Chromatin with sequencing (snATAC-seq), can reveal th...",
+      "source_url": "https://biorxiv.org",
+      "category": "Papers"
+    },
+    {
+      "title": "A Telomere-to-Telomere Diploid Reference Genome and Centromere Structure of the Chinese Quartet",
+      "link": "https://www.biorxiv.org/content/10.1101/2025.03.30.646227v1?rss=1",
+      "date": "2025-04-03 08:00",
+      "author": "bioRxiv Subject Collection: Genomics",
+      "timestamp": 1743638400.0,
+      "summary": "Recent advances in sequencing technologies have enabled the complete assembly of human genomes from telomere to telomere (T2T), resolving previously i...",
+      "source_url": "https://biorxiv.org",
+      "category": "Papers"
+    },
+    {
       "title": "MarpolBase: Genome database for Marchantia polymorpha featuring high quality reference genome sequences",
       "link": "https://www.biorxiv.org/content/10.1101/2025.03.30.646155v1?rss=1",
       "date": "2025-04-03 08:00",
@@ -9518,26 +9538,6 @@
       "author": "bioRxiv Subject Collection: Genomics",
       "timestamp": 1743120000.0,
       "summary": "BackgroundReference genomes for the entire sea turtle clade have the potential to reveal the genetic basis of traits driving the ecological and phenot...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "Construction of Complete Telomere-to-Telomere Genome Assembly of the Rabbit Using Haploid Embryonic Stem Cells",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.03.26.645123v1?rss=1",
-      "date": "2025-03-28 08:00",
-      "author": "bioRxiv Subject Collection: Genomics",
-      "timestamp": 1743120000.0,
-      "summary": "The rabbit owns commercial importance in meat and fur production, and also has long served as a valuable animal model in biomedical research. Yet, the...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "Genome-wide dynamic nascent transcript profiles reveal that most paused RNA polymerases terminate",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.03.27.645809v1?rss=1",
-      "date": "2025-03-28 08:00",
-      "author": "bioRxiv Subject Collection: Genomics",
-      "timestamp": 1743120000.0,
-      "summary": "We present a simple model for analyzing and interpreting data from kinetic experiments that measure engaged RNA polymerase occupancy. The framework re...",
       "source_url": "https://biorxiv.org",
       "category": "Papers"
     },
