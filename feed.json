@@ -1,5 +1,5 @@
 {
-  "update_time": "2025-04-04",
+  "update_time": "2025-04-05",
   "articles": [
     {
       "title": "清明 | 2025 年 3 月小结",
@@ -9,6 +9,16 @@
       "timestamp": 1743734400.0,
       "summary": "本月事件\n\n\n运动和自我关怀\n给自己设置了每 20 分钟就起身望远和做几个深蹲的规则，工具用的是 Stretchly\n\n\n\n\n 这个提醒休息的 app。三月天气开始回温，但依旧忽冷忽热，趁着不太冷的几天重启了饭后散步，只是现在还不是时候，每次都被风吹得头痛。人称加拿大有 11 个季节\n\n\n\n\n，我又...",
       "source_url": "https://thirdshire.com/",
+      "category": "Blogs"
+    },
+    {
+      "title": "以「asset-price-mcp」为例，从 0 开发 MCP Server",
+      "link": "https://www.mengke.me/blog/202504/The_First_MCP_Server",
+      "date": "2025-04-04 08:00",
+      "author": "Mengke's blog - Mengke's coding journey",
+      "timestamp": 1743724800.0,
+      "summary": "从 0 构建第一个MCP服务器，包括核心功能实现、API集成和数据处理流程 ...",
+      "source_url": "https://www.mengke.me/blog",
       "category": "Blogs"
     },
     {
@@ -6822,16 +6832,6 @@
       "category": "Blogs"
     },
     {
-      "title": "什么！一个项目给了8个字体包？？？",
-      "link": "https://www.mengke.me/blog/202307/1-project-8-font",
-      "date": "2023-07-04 08:00",
-      "author": "Mengke's blog - Mengke's coding journey",
-      "timestamp": 1688428800.0,
-      "summary": "了解如何使用 font-family 样式的各种属性来组合需要的字体包。可以按照字体粗细、unicode 等信息来自动选择相应的字体包。",
-      "source_url": "https://www.mengke.me/blog",
-      "category": "Blogs"
-    },
-    {
       "title": "当一个杀手决定去当演员",
       "link": "https://imzm.im/barry/",
       "date": "2023-07-03 22:41",
@@ -8772,6 +8772,16 @@
       "category": "Papers"
     },
     {
+      "title": "BRCA1 is a molecular correlate of cell proliferation in human brain development and in Group 3 and 4 medulloblastoma",
+      "link": "https://www.biorxiv.org/content/10.1101/2025.04.03.646803v1?rss=1",
+      "date": "2025-04-04 08:00",
+      "author": "bioRxiv Subject Collection: Genomics",
+      "timestamp": 1743724800.0,
+      "summary": "The role of the BRCA1-mediated DNA damage repair pathway in regulating human brain development remains unknown, although it has been studied in mouse ...",
+      "source_url": "https://biorxiv.org",
+      "category": "Papers"
+    },
+    {
       "title": "Neural stem cell epigenomes and fate bias are temporally coordinated during corticogenesis",
       "link": "https://www.biorxiv.org/content/10.1101/2025.04.03.647013v1?rss=1",
       "date": "2025-04-04 08:00",
@@ -9558,16 +9568,6 @@
       "author": "bioRxiv Subject Collection: Genomics",
       "timestamp": 1743292800.0,
       "summary": "Loss of genetic diversity threatens species survival, yet the dynamics of such loss and species responses thereof can vary widely depending on their e...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "Chromosome-level genome assemblies for the latent pine pathogen, Diplodia sapinea, reveal two rapidly evolving accessory chromosomes",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.03.26.645563v1?rss=1",
-      "date": "2025-03-29 08:00",
-      "author": "bioRxiv Subject Collection: Genomics",
-      "timestamp": 1743206400.0,
-      "summary": "Diplodia sapinea (Dothideomycetes) is a latent fungal pathogen with a global distribution that predominantly infects Pinus species. The impact of the ...",
       "source_url": "https://biorxiv.org",
       "category": "Papers"
     },
