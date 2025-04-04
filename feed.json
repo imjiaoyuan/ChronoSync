@@ -8672,6 +8672,46 @@
       "category": "Blogs"
     },
     {
+      "title": "SpaceBF: Spatial coexpression analysis using Bayesian Fused approaches in spatial omics datasets",
+      "link": "https://www.biorxiv.org/content/10.1101/2025.03.29.646124v1?rss=1",
+      "date": "2025-04-03 08:00",
+      "author": "bioRxiv Subject Collection: Bioinformatics",
+      "timestamp": 1743638400.0,
+      "summary": "Advancements in spatial omics technologies have enabled the measurement of expression profiles of different molecules, such as genes (using spatial tr...",
+      "source_url": "https://biorxiv.org",
+      "category": "Papers"
+    },
+    {
+      "title": "Learning interpretable representation for context-specific transcription regulatory networks using a foundation model",
+      "link": "https://www.biorxiv.org/content/10.1101/2025.03.29.646077v1?rss=1",
+      "date": "2025-04-03 08:00",
+      "author": "bioRxiv Subject Collection: Bioinformatics",
+      "timestamp": 1743638400.0,
+      "summary": "Gene expression is shaped by transcription regulatory networks (TRNs), where transcription regulators interact within regulatory elements in a context...",
+      "source_url": "https://biorxiv.org",
+      "category": "Papers"
+    },
+    {
+      "title": "Extending differential gene expression testing to handle genome aneuploidy in cancer",
+      "link": "https://www.biorxiv.org/content/10.1101/2025.03.29.646108v1?rss=1",
+      "date": "2025-04-03 08:00",
+      "author": "bioRxiv Subject Collection: Bioinformatics",
+      "timestamp": 1743638400.0,
+      "summary": "Genome aneuploidy, characterized by Copy Number Variations (CNVs), profoundly alters gene expression in cancer. CNVs can directly influence transcript...",
+      "source_url": "https://biorxiv.org",
+      "category": "Papers"
+    },
+    {
+      "title": "TRUHiC: A TRansformer-embedded U-2 Net to enhance Hi-C data for 3D chromatin structure characterization",
+      "link": "https://www.biorxiv.org/content/10.1101/2025.03.29.646133v1?rss=1",
+      "date": "2025-04-03 08:00",
+      "author": "bioRxiv Subject Collection: Bioinformatics",
+      "timestamp": 1743638400.0,
+      "summary": "High-throughput chromosome conformation capture sequencing (Hi-C) is a key technology for studying the three-dimensional (3D) structure of genomes and...",
+      "source_url": "https://biorxiv.org",
+      "category": "Papers"
+    },
+    {
       "title": "Pairwise Attention: Leveraging Mass Differences to Enhance De Novo Sequencing of Mass Spectra",
       "link": "https://www.biorxiv.org/content/10.1101/2025.03.28.645943v1?rss=1",
       "date": "2025-04-03 08:00",
@@ -8728,6 +8768,16 @@
       "author": "bioRxiv Subject Collection: Bioinformatics",
       "timestamp": 1743638400.0,
       "summary": "Phylogenetic trees and networks play a central role in biology, bioinformatics, and mathematical biology, and producing clear, informative visualizati...",
+      "source_url": "https://biorxiv.org",
+      "category": "Papers"
+    },
+    {
+      "title": "MarpolBase: Genome database for Marchantia polymorpha featuring high quality reference genome sequences",
+      "link": "https://www.biorxiv.org/content/10.1101/2025.03.30.646155v1?rss=1",
+      "date": "2025-04-03 08:00",
+      "author": "bioRxiv Subject Collection: Genomics",
+      "timestamp": 1743638400.0,
+      "summary": "The liverwort Marchantia polymorpha is a key model organism for understanding land plant evolution, development, and gene regulation. To support the g...",
       "source_url": "https://biorxiv.org",
       "category": "Papers"
     },
@@ -9192,46 +9242,6 @@
       "category": "Papers"
     },
     {
-      "title": "A multi-modal cell-free RNA language model for liquid biopsy applications",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.03.26.645557v1?rss=1",
-      "date": "2025-04-01 08:00",
-      "author": "bioRxiv Subject Collection: Bioinformatics",
-      "timestamp": 1743465600.0,
-      "summary": "Cell-free RNA (cfRNA) profiling has emerged as a powerful tool for non-invasive disease detection, but its application is limited by data sparsity and...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "Assessing variant effect predictors and disease mechanisms in intrinsically disordered proteins",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.04.01.646619v1?rss=1",
-      "date": "2025-04-01 08:00",
-      "author": "bioRxiv Subject Collection: Bioinformatics",
-      "timestamp": 1743465600.0,
-      "summary": "Intrinsically disordered protein regions (IDPRs) are central to diverse cellular processes but present unique challenges for interpreting genetic vari...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "mcDETECT: Decoding 3D Spatial Synaptic Transcriptomes with Subcellular-Resolution Spatial Transcriptomics",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.03.27.645744v1?rss=1",
-      "date": "2025-04-01 08:00",
-      "author": "bioRxiv Subject Collection: Bioinformatics",
-      "timestamp": 1743465600.0,
-      "summary": "Spatial transcriptomics (ST) has shown great potential for unraveling the molecular mechanisms of neurodegenerative diseases. However, most existing a...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "Cytokine-driven cellular polarization in preeclampsia revealed through the \"Dictionary of immune responses\"",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.03.26.645616v1?rss=1",
-      "date": "2025-04-01 08:00",
-      "author": "bioRxiv Subject Collection: Bioinformatics",
-      "timestamp": 1743465600.0,
-      "summary": "BackgroundPreeclampsia (PE) is a pregnancy-related hypertensive disorder and a leading cause of maternal and perinatal mortality. Current treatments f...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
       "title": "CRISPR/Cas9-mediated editing of the ADE2 locus in Saccharomyces cerevisiae: targeted mutagenesis and homology-directed repair",
       "link": "https://www.biorxiv.org/content/10.1101/2025.03.30.646154v1?rss=1",
       "date": "2025-04-01 08:00",
@@ -9528,16 +9538,6 @@
       "author": "bioRxiv Subject Collection: Genomics",
       "timestamp": 1743120000.0,
       "summary": "We present a simple model for analyzing and interpreting data from kinetic experiments that measure engaged RNA polymerase occupancy. The framework re...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "Deviation from Power-Law Distribution when Scaling the Distribution of Marine Plankton Folds from Genomes to Communities",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.03.25.645231v1?rss=1",
-      "date": "2025-03-28 08:00",
-      "author": "bioRxiv Subject Collection: Genomics",
-      "timestamp": 1743120000.0,
-      "summary": "At different scales of living systems, biological entities appear to follow scaling laws, such as power laws, which are often explained from stochasti...",
       "source_url": "https://biorxiv.org",
       "category": "Papers"
     },
