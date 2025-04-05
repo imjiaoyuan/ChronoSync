@@ -2,6 +2,16 @@
   "update_time": "2025-04-06",
   "articles": [
     {
+      "title": "当我旅游时我在……(4)",
+      "link": "https://yukieyun.net/roam/on-the-journey-04/",
+      "date": "2025-04-06 03:58",
+      "author": "沉默之沙",
+      "timestamp": 1743883133.0,
+      "summary": "沉默之沙 https://yukieyun.net/roam/on-the-journey-04/ -2010年时，国内的程序员薪资还没有涨上来，我在一家美资银行的杭州技术中心工作，每到有紧要项目时，公司就直接搬运程序员到美国干两个月。更早几年时签证管得更松，听说有同事被公司用 L1 签证直接搬运到...",
+      "source_url": "https://yukieyun.net/",
+      "category": "Blogs"
+    },
+    {
       "title": "清明 | 2025 年 3 月小结",
       "link": "https://thirdshire.com/march-recap-2025/",
       "date": "2025-04-04 10:40",
@@ -3889,16 +3899,6 @@
       "timestamp": 1724983769.0,
       "summary": "在今年5月，我们注意到Chrome在一次更新中修复了一个被在野利用的V8漏洞，我们迅速定位了这个漏洞的修复，发现他是近些年来罕见的Parser模块的漏洞，这引起了我们很大的兴趣，于是有了以下的研究。\n从patch到PoC\n首先我们看一下此漏洞的patch：\ndiff --git a/src/ast/...",
       "source_url": "https://www.darknavy.org/zh/",
-      "category": "Blogs"
-    },
-    {
-      "title": "2024年05-06月小结",
-      "link": "https://yukieyun.net/monthly-recap/2024-05-06-recap/",
-      "date": "2024-08-29 02:23",
-      "author": "沉默之沙",
-      "timestamp": 1724869382.0,
-      "summary": "沉默之沙 https://yukieyun.net/monthly-recap/2024-05-06-recap/ -再赶两篇我的月度总结就跟上进度了！嘿嘿嘿！\n新的人生命题\n今年的主要命题是给自己做减法——怎样做好低能量人士的精力分配。\n即使是我来往还算密切的朋友，也常有觉得我是亢奋型高能量高效人...",
-      "source_url": "https://yukieyun.net/",
       "category": "Blogs"
     },
     {
