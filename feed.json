@@ -2,6 +2,16 @@
   "update_time": "2025-04-06",
   "articles": [
     {
+      "title": "棱镜通讯 No.113  亚伦·斯沃兹（Aaron Swartz）",
+      "link": "https://wangyurui.com/posts/leng-jing-tong-xun-no-113-ya-lun-si-wo-zi-aaron-e760e0ca",
+      "date": "2025-04-06 19:46",
+      "author": "太隐",
+      "timestamp": 1743940009.0,
+      "summary": "用生命捍卫互联网信息开源的天才",
+      "source_url": "https://wangyurui.com/",
+      "category": "Blogs"
+    },
+    {
       "title": "我的普鲁斯特问卷回答 - 《请回答普鲁斯特》播客访谈文字稿",
       "link": "https://www.owenyoung.com/blog/proust/",
       "date": "2025-04-06 13:50",
@@ -312,16 +322,6 @@
       "category": "Blogs"
     },
     {
-      "title": "书影音记录：Dec 13, 2024-Mar 15,2025",
-      "link": "https://zhangke.space/%e4%b9%a6%e5%bd%b1%e9%9f%b3%e8%ae%b0%e5%bd%95%ef%bc%9adec-13-2024-mar-152025/?utm_source=rss&utm_medium=rss&utm_campaign=%25e4%25b9%25a6%25e5%25bd%25b1%25e9%259f%25b3%25e8%25ae%25b0%25e5%25bd%2595%25ef%25bc%259adec-13-2024-mar-152025",
-      "date": "2025-03-16 20:26",
-      "author": "张可的博客",
-      "timestamp": 1742127975.0,
-      "summary": "距离上一次写电影记录已经好久了，最近又看了好几部影视剧，然后打算把看的书也记录一下，但是好多剧情都忘了，没办法 [&#8230;]\nThe post 书影音记录：Dec 13, 2024-Mar 15,2025 first appeared on 张可的博客.",
-      "source_url": "https://zhangke.space",
-      "category": "Blogs"
-    },
-    {
       "title": "关我辟事 Vol.36：春天来到前的雨季",
       "link": "https://blog.douchi.space/spark-joy-digest-2025-3a/",
       "date": "2025-03-16 04:44",
@@ -523,22 +523,12 @@
     },
     {
       "title": "一键发布 Newsletter：AppleScript 与 Quaily CLI 的完美配合",
-      "link": "https://justgoidea.com/2025-003/",
+      "link": "https://justgoidea.com/one-click-newsletter-publishing-perfect-integration-of-applescript-and-quaily-cli/",
       "date": "2025-03-06 16:38",
       "author": "槿呈Goidea",
       "timestamp": 1741250280.0,
       "summary": "本文详细介绍了如何利用 AppleScript 和 Quaily CLI 实现一键发布 Markdown 文章到 Quaily 平台的自动化流程，包括环境配置、脚本编写及高级优化技巧，帮助内容创作者提升发布效率。",
       "source_url": "https://justgoidea.com/feed/?type=rss",
-      "category": "Blogs"
-    },
-    {
-      "title": "中国的分税制改革与土地财政",
-      "link": "https://zhangke.space/%e4%b8%ad%e5%9b%bd%e7%9a%84%e5%88%86%e7%a8%8e%e5%88%b6%e6%94%b9%e9%9d%a9%e4%b8%8e%e5%9c%9f%e5%9c%b0%e8%b4%a2%e6%94%bf/?utm_source=rss&utm_medium=rss&utm_campaign=%25e4%25b8%25ad%25e5%259b%25bd%25e7%259a%2584%25e5%2588%2586%25e7%25a8%258e%25e5%2588%25b6%25e6%2594%25b9%25e9%259d%25a9%25e4%25b8%258e%25e5%259c%259f%25e5%259c%25b0%25e8%25b4%25a2%25e6%2594%25bf",
-      "date": "2025-03-05 20:40",
-      "author": "张可的博客",
-      "timestamp": 1741178401.0,
-      "summary": "前段时间看了置身事内这本书，今天就来盘一下税改和土地财政这个与我们息息相关的话题。 QuickView 199 [&#8230;]\nThe post 中国的分税制改革与土地财政 first appeared on 张可的博客.",
-      "source_url": "https://zhangke.space",
       "category": "Blogs"
     },
     {
@@ -649,16 +639,6 @@
       "timestamp": 1740899931.0,
       "summary": "《图说·山海经·古本》（马昌仪）摘选",
       "source_url": "https://wangyurui.com/",
-      "category": "Blogs"
-    },
-    {
-      "title": "社交关系中的“主动降频”",
-      "link": "https://zhangke.space/%e7%a4%be%e4%ba%a4%e5%85%b3%e7%b3%bb%e4%b8%ad%e7%9a%84%e4%b8%bb%e5%8a%a8%e9%99%8d%e9%a2%91/?utm_source=rss&utm_medium=rss&utm_campaign=%25e7%25a4%25be%25e4%25ba%25a4%25e5%2585%25b3%25e7%25b3%25bb%25e4%25b8%25ad%25e7%259a%2584%25e4%25b8%25bb%25e5%258a%25a8%25e9%2599%258d%25e9%25a2%2591",
-      "date": "2025-03-02 14:21",
-      "author": "张可的博客",
-      "timestamp": 1740896471.0,
-      "summary": "前段时间高中同学结婚，因为是周六，我也赶了回去，高铁单程三小时，早上出发晚上还能再回到家，中间在同学家里和一众 [&#8230;]\nThe post 社交关系中的“主动降频” first appeared on 张可的博客.",
-      "source_url": "https://zhangke.space",
       "category": "Blogs"
     },
     {
@@ -882,16 +862,6 @@
       "category": "Blogs"
     },
     {
-      "title": "我的骑行十年-环海南岛&上海&江苏",
-      "link": "https://zhangke.space/%e6%88%91%e7%9a%84%e9%aa%91%e8%a1%8c%e5%8d%81%e5%b9%b4-%e7%8e%af%e6%b5%b7%e5%8d%97%e5%b2%9b%e4%b8%8a%e6%b5%b7%e6%b1%9f%e8%8b%8f/?utm_source=rss&utm_medium=rss&utm_campaign=%25e6%2588%2591%25e7%259a%2584%25e9%25aa%2591%25e8%25a1%258c%25e5%258d%2581%25e5%25b9%25b4-%25e7%258e%25af%25e6%25b5%25b7%25e5%258d%2597%25e5%25b2%259b%25e4%25b8%258a%25e6%25b5%25b7%25e6%25b1%259f%25e8%258b%258f",
-      "date": "2025-02-20 13:10",
-      "author": "张可的博客",
-      "timestamp": 1740028215.0,
-      "summary": "海南岛 2019年元旦节，我请了几天假期，凑了一周左右的时间去骑行海南岛，不过由于时间限制，加上我也不想太累， [&#8230;]\nThe post 我的骑行十年-环海南岛&上海&江苏 first appeared on 张可的博客.",
-      "source_url": "https://zhangke.space",
-      "category": "Blogs"
-    },
-    {
       "title": "2D 渲染管线的一点优化",
       "link": "https://blog.codingnow.com/2025/02/2d_pipeline_design.html",
       "date": "2025-02-20 10:46",
@@ -902,16 +872,6 @@
       "category": "Blogs"
     },
     {
-      "title": "我的骑行十年-环青海湖",
-      "link": "https://zhangke.space/%e6%88%91%e7%9a%84%e9%aa%91%e8%a1%8c%e5%8d%81%e5%b9%b4-%e7%8e%af%e9%9d%92%e6%b5%b7%e6%b9%96/?utm_source=rss&utm_medium=rss&utm_campaign=%25e6%2588%2591%25e7%259a%2584%25e9%25aa%2591%25e8%25a1%258c%25e5%258d%2581%25e5%25b9%25b4-%25e7%258e%25af%25e9%259d%2592%25e6%25b5%25b7%25e6%25b9%2596",
-      "date": "2025-02-18 22:05",
-      "author": "张可的博客",
-      "timestamp": 1739887501.0,
-      "summary": "大学毕业前有个同样喜欢骑行的朋友来找我，问我想不想趁着有时间去 318，大概需要一个月的时间，花销也不少。当时 [&#8230;]\nThe post 我的骑行十年-环青海湖 first appeared on 张可的博客.",
-      "source_url": "https://zhangke.space",
-      "category": "Blogs"
-    },
-    {
       "title": "平平平平替肯尼亚——盐城生态游",
       "link": "https://blog.pursuitus.com/yancheng-ecological-tour.html",
       "date": "2025-02-17 23:54",
@@ -919,16 +879,6 @@
       "timestamp": 1739807647.0,
       "summary": "周末去了一趟盐城，本来这个地方无论如何不会出现在我的旅行清单的——除了回青岛的火车路过，几乎很少出现在视野里。架不住小红书网红照骗，本地吃喝玩乐群的小伙伴强烈要求我组织一次“平替肯尼亚”出行活动。 从地图上看盐城在上海的正上方，中间隔着南通，听名字，盐城必然是因为其悠久的产盐历史。一查资料果然早在西...",
       "source_url": "https://blog.pursuitus.com",
-      "category": "Blogs"
-    },
-    {
-      "title": "我的骑行十年-浙江",
-      "link": "https://zhangke.space/%e6%88%91%e7%9a%84%e9%aa%91%e8%a1%8c%e5%8d%81%e5%b9%b4-%e6%b5%99%e6%b1%9f/?utm_source=rss&utm_medium=rss&utm_campaign=%25e6%2588%2591%25e7%259a%2584%25e9%25aa%2591%25e8%25a1%258c%25e5%258d%2581%25e5%25b9%25b4-%25e6%25b5%2599%25e6%25b1%259f",
-      "date": "2025-02-17 22:03",
-      "author": "张可的博客",
-      "timestamp": 1739800996.0,
-      "summary": "骑了十年的山地车，最近终于打算换公路车了，看了一圈最终锁定斯特拉 King 或者斯特拉 95，但问题是 Kin [&#8230;]\nThe post 我的骑行十年-浙江 first appeared on 张可的博客.",
-      "source_url": "https://zhangke.space",
       "category": "Blogs"
     },
     {
@@ -1013,7 +963,7 @@
     },
     {
       "title": "悼友文",
-      "link": "https://justgoidea.com/2025-002/",
+      "link": "https://justgoidea.com/eulogy-for-a-friend/",
       "date": "2025-02-16 06:27",
       "author": "槿呈Goidea",
       "timestamp": 1739658420.0,
@@ -1143,7 +1093,7 @@
     },
     {
       "title": "电子报与博客",
-      "link": "https://justgoidea.com/2025-001/",
+      "link": "https://justgoidea.com/newsletter-and-blog/",
       "date": "2025-02-11 20:19",
       "author": "槿呈Goidea",
       "timestamp": 1739276340.0,
@@ -1542,16 +1492,6 @@
       "category": "Blogs"
     },
     {
-      "title": "大卫•休谟：科学真的存在吗？",
-      "link": "https://zhangke.space/%e5%a4%a7%e5%8d%ab%e4%bc%91%e8%b0%9f%ef%bc%9a%e7%a7%91%e5%ad%a6%e7%9c%9f%e7%9a%84%e5%ad%98%e5%9c%a8%e5%90%97%ef%bc%9f/?utm_source=rss&utm_medium=rss&utm_campaign=%25e5%25a4%25a7%25e5%258d%25ab%25e4%25bc%2591%25e8%25b0%259f%25ef%25bc%259a%25e7%25a7%2591%25e5%25ad%25a6%25e7%259c%259f%25e7%259a%2584%25e5%25ad%2598%25e5%259c%25a8%25e5%2590%2597%25ef%25bc%259f",
-      "date": "2025-01-20 22:30",
-      "author": "张可的博客",
-      "timestamp": 1737383411.0,
-      "summary": "今天来聊一下大卫•休谟的哲学思想，休谟的哲学思想一般被称为怀疑主义，作为在笛卡尔和牛顿哲学思想之后紧跟着的哲学 [&#8230;]\nThe post 大卫•休谟：科学真的存在吗？ first appeared on 张可的博客.",
-      "source_url": "https://zhangke.space",
-      "category": "Blogs"
-    },
-    {
       "title": "My App Defaults 2024",
       "link": "https://imzm.im/my-app-defaults-2024/",
       "date": "2025-01-20 19:14",
@@ -1589,16 +1529,6 @@
       "timestamp": 1737326880.0,
       "summary": "前言\n\n本篇是对 2025-01-06 到 2025-01-12 这周生活的记录与思考。\n这一周整理了自己的房间、抽屉、NAS、线上服务、网络环境等，实现了物理与虚拟空间的断舍离、收纳和优化。\n房间整理\n我大体是一个懒于整理房间或是收纳的人，但由于通常也就是在电脑前工作、学习或是放松，基本上没用到家...",
       "source_url": "https://www.pseudoyu.com/",
-      "category": "Blogs"
-    },
-    {
-      "title": "KRouter 现已支持 Kotlin Multiplatform SPI 机制",
-      "link": "https://zhangke.space/krouter-%e7%8e%b0%e5%b7%b2%e6%94%af%e6%8c%81-kotlin-multiplatform-spi-%e6%9c%ba%e5%88%b6/?utm_source=rss&utm_medium=rss&utm_campaign=krouter-%25e7%258e%25b0%25e5%25b7%25b2%25e6%2594%25af%25e6%258c%2581-kotlin-multiplatform-spi-%25e6%259c%25ba%25e5%2588%25b6",
-      "date": "2025-01-19 19:14",
-      "author": "张可的博客",
-      "timestamp": 1737285272.0,
-      "summary": "KRouter 在前几天发布的新版 1.2.1 已经支持了 Kotlin Multiplatform SPI  [&#8230;]\nThe post KRouter 现已支持 Kotlin Multiplatform SPI 机制 first appeared on 张可的博客.",
-      "source_url": "https://zhangke.space",
       "category": "Blogs"
     },
     {
@@ -1932,16 +1862,6 @@
       "category": "Blogs"
     },
     {
-      "title": "Mastodon&Bluesky 2024 年发展概况",
-      "link": "https://zhangke.space/mastodonbluesky-2024-%e5%b9%b4%e5%8f%91%e5%b1%95%e6%a6%82%e5%86%b5/?utm_source=rss&utm_medium=rss&utm_campaign=mastodonbluesky-2024-%25e5%25b9%25b4%25e5%258f%2591%25e5%25b1%2595%25e6%25a6%2582%25e5%2586%25b5",
-      "date": "2025-01-03 13:43",
-      "author": "张可的博客",
-      "timestamp": 1735883035.0,
-      "summary": "2024 年已经结束，今天来回顾一下 Fediverse 社区的发展情况。现在随着互联网逐渐走向封闭，越来越多 [&#8230;]\nThe post Mastodon&amp;Bluesky 2024 年发展概况 first appeared on 张可的博客.",
-      "source_url": "https://zhangke.space",
-      "category": "Blogs"
-    },
-    {
       "title": "月刊（第28期）：AI 没有体验世界的能力",
       "link": "https://blog.ursb.me/posts/weekly-28/",
       "date": "2025-01-01 16:33",
@@ -2103,7 +2023,7 @@
     },
     {
       "title": "里斯本日记（二）：邂逅塞图巴尔",
-      "link": "https://justgoidea.com/2024-030/",
+      "link": "https://justgoidea.com/lisbon-diary-part-two-encountering-setubal/",
       "date": "2024-12-29 00:37",
       "author": "槿呈Goidea",
       "timestamp": 1735403820.0,
@@ -2193,7 +2113,7 @@
     },
     {
       "title": "Say Goodbye to 2024",
-      "link": "https://justgoidea.com/2024-029/",
+      "link": "https://justgoidea.com/say-goodbye-to-2024/",
       "date": "2024-12-23 22:13",
       "author": "槿呈Goidea",
       "timestamp": 1734963180.0,
@@ -2393,7 +2313,7 @@
     },
     {
       "title": "2024 年数字工具箱",
-      "link": "https://justgoidea.com/2024-028/",
+      "link": "https://justgoidea.com/how-i-computer-in-2024-chinese-version/",
       "date": "2024-12-13 22:56",
       "author": "槿呈Goidea",
       "timestamp": 1734101760.0,
@@ -2459,16 +2379,6 @@
       "timestamp": 1733800560.0,
       "summary": "耗时大半年，终于结束了",
       "source_url": "https://darmau.co/zh",
-      "category": "Blogs"
-    },
-    {
-      "title": "近期看的几部电影",
-      "link": "https://zhangke.space/%e8%bf%91%e6%9c%9f%e7%9c%8b%e7%9a%84%e5%87%a0%e9%83%a8%e7%94%b5%e5%bd%b1/?utm_source=rss&utm_medium=rss&utm_campaign=%25e8%25bf%2591%25e6%259c%259f%25e7%259c%258b%25e7%259a%2584%25e5%2587%25a0%25e9%2583%25a8%25e7%2594%25b5%25e5%25bd%25b1",
-      "date": "2024-12-10 11:10",
-      "author": "张可的博客",
-      "timestamp": 1733800241.0,
-      "summary": "最近买了个 Apple TV 和 Emby 库之后看了不少电影和电视剧，下了班回家躺在沙发上看个电影还是挺舒服 [&#8230;]\nThe post 近期看的几部电影 first appeared on 张可的博客.",
-      "source_url": "https://zhangke.space",
       "category": "Blogs"
     },
     {
@@ -2983,7 +2893,7 @@
     },
     {
       "title": "关于自我成长的实践：结合斯多葛主义、佛教与批判理论的每日修习",
-      "link": "https://justgoidea.com/2024-027/",
+      "link": "https://justgoidea.com/practices-for-self-growth-daily-exercises-combining-stoicism-buddhism-and-critical-theory/",
       "date": "2024-11-10 04:16",
       "author": "槿呈Goidea",
       "timestamp": 1731183360.0,
@@ -3343,7 +3253,7 @@
     },
     {
       "title": "答复 dayu 的问卷",
-      "link": "https://justgoidea.com/2024-026/",
+      "link": "https://justgoidea.com/responding-to-dayus-questionnaire/",
       "date": "2024-10-19 04:32",
       "author": "槿呈Goidea",
       "timestamp": 1729283520.0,
@@ -3603,7 +3513,7 @@
     },
     {
       "title": "里斯本日记（一）",
-      "link": "https://justgoidea.com/2024-025/",
+      "link": "https://justgoidea.com/lisbon-diary-part-one/",
       "date": "2024-09-30 04:07",
       "author": "槿呈Goidea",
       "timestamp": 1727640420.0,
@@ -3719,16 +3629,6 @@
       "timestamp": 1726599600.0,
       "summary": "前言\n\n本篇是对 2024-09-09 到 2024-09-17 这周生活的记录与思考。\n《社交网络》与 Ego\n\n我和学姐从职业、爱好到性格都有非常多的不同，但并不是会相融的类型，因此常常也会去尝试或试图理解对方的 passion 所在，即使会常常发现更多的差异。\n这周和学姐突然聊到为什么喜欢写代...",
       "source_url": "https://www.pseudoyu.com/",
-      "category": "Blogs"
-    },
-    {
-      "title": "半生荒唐 只因有你",
-      "link": "https://wangyurui.com/posts/piao-jiu-wei-feng-chen-41d36c8e",
-      "date": "2024-09-16 15:19",
-      "author": "太隐",
-      "timestamp": 1726471149.0,
-      "summary": "我有一瓢酒，足以慰风尘",
-      "source_url": "https://wangyurui.com/",
       "category": "Blogs"
     },
     {
@@ -8322,6 +8222,16 @@
       "category": "Blogs"
     },
     {
+      "title": "在听什么",
+      "link": "https://kowyo.com/music/",
+      "date": "1-01-01 08:06",
+      "author": "Kowyo",
+      "timestamp": -62135596800.0,
+      "summary": "无摘要",
+      "source_url": "https://kowyo.com/",
+      "category": "Blogs"
+    },
+    {
       "title": "时刻",
       "link": "https://kowyo.com/moments/",
       "date": "1-01-01 08:06",
@@ -8372,156 +8282,6 @@
       "category": "Blogs"
     },
     {
-      "title": "Human-specific transposable elements shaped the evolution of craniofacial development through regulation of neural crest migration",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.04.04.647334v1?rss=1",
-      "date": "2025-04-06 08:00",
-      "author": "bioRxiv Subject Collection: Genomics",
-      "timestamp": 1743897600.0,
-      "summary": "Craniofacial development and neural crest specification are evolutionarily conserved processes, yet subtle modifications to their gene regulatory netw...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "Refining filtering criteria for accurate taxonomic classification of ancient metagenomic data",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.03.31.646431v1?rss=1",
-      "date": "2025-04-05 08:00",
-      "author": "bioRxiv Subject Collection: Bioinformatics",
-      "timestamp": 1743811200.0,
-      "summary": "Taxonomic profiling is a key component of ancient metagenomic analysis, however it is also susceptible to false-positive identifications. In particula...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "Integrating experimental feedback improves generative models for biological sequences",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.03.31.646327v1?rss=1",
-      "date": "2025-04-05 08:00",
-      "author": "bioRxiv Subject Collection: Bioinformatics",
-      "timestamp": 1743811200.0,
-      "summary": "Generative probabilistic models have shown promise in designing artificial RNA and protein sequences but often suffer from high rates of false positiv...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "Unified integration of spatial transcriptomics across platforms",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.03.31.646238v1?rss=1",
-      "date": "2025-04-05 08:00",
-      "author": "bioRxiv Subject Collection: Bioinformatics",
-      "timestamp": 1743811200.0,
-      "summary": "Spatial transcriptomics (ST) has transformed our understanding of tissue architecture and cellular interactions, but integrating ST data across platfo...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "SCORCH2: a generalised heterogeneous consensus model for high-enrichment interaction-based virtual screening",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.03.31.646332v1?rss=1",
-      "date": "2025-04-05 08:00",
-      "author": "bioRxiv Subject Collection: Bioinformatics",
-      "timestamp": 1743811200.0,
-      "summary": "The discovery of effective therapeutics remains a complex, costly, and time-consuming endeavor, characterized by high failure rates and significant re...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "FootprintCharter: unsupervised detection and quantification of footprints in single molecule footprinting data",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.03.31.646464v1?rss=1",
-      "date": "2025-04-05 08:00",
-      "author": "bioRxiv Subject Collection: Bioinformatics",
-      "timestamp": 1743811200.0,
-      "summary": "Single molecule footprinting profiles the heterogeneity of TF occupancy at cis-regulatory elements across cell populations at unprecedented resolution...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "Dissecting Opioid Effects in Cell-Cell Communication Within the Ventral Tegmental Area",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.03.31.646196v1?rss=1",
-      "date": "2025-04-05 08:00",
-      "author": "bioRxiv Subject Collection: Bioinformatics",
-      "timestamp": 1743811200.0,
-      "summary": "Opioid use disorders (OUD) exacerbate the complexity of neurocognitive impairments and neurodevelopmental disorders, with poorly understood molecular ...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "PEAS: Detection of Clustered Differences in Genomic Data",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.03.31.646436v1?rss=1",
-      "date": "2025-04-05 08:00",
-      "author": "bioRxiv Subject Collection: Bioinformatics",
-      "timestamp": 1743811200.0,
-      "summary": "Motivation: Studies of genetically-distinct individuals have shown that differences in marks of transcriptional regulation such as chromatin accessibi...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "Cumulating MS Signal enables polyclonal antibody analysis",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.03.31.645874v1?rss=1",
-      "date": "2025-04-05 08:00",
-      "author": "bioRxiv Subject Collection: Bioinformatics",
-      "timestamp": 1743811200.0,
-      "summary": "Unraveling the complexities of protein systems via Mass Spectrometry (MS), particularly polyclonal antibodies, demands innovative analytical strategie...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "NeSyDPP4-QSAR: A Neuro-Symbolic AI Approach for Potent DPP-4-Inhibitor Discovery in Diabetes Treatment",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.03.31.646336v1?rss=1",
-      "date": "2025-04-05 08:00",
-      "author": "bioRxiv Subject Collection: Bioinformatics",
-      "timestamp": 1743811200.0,
-      "summary": "Diabetes Mellitus (DM) is a global epidemic and among the top ten leading causes of mortality (WHO, 2019), projected to rank seventh by 2030. The US N...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "Extremely Early Flowering and Large Grain Isogenic Japonica Rice Koshihikari Integrated with Gene e1 and GW2",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.03.31.646432v1?rss=1",
-      "date": "2025-04-05 08:00",
-      "author": "bioRxiv Subject Collection: Genomics",
-      "timestamp": 1743811200.0,
-      "summary": "The extremely early flowering/large-grain isogenic Koshihikari was developed by combining the large-grain allele, GW2, derived from Inochinoichi with ...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "Single-cell RNA Sequencing Analysis of Sputum Cell Transcriptomes Reveals Pathways and Communication Networks That Contribute to the Pathogenesis of Asthma",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.03.31.646405v1?rss=1",
-      "date": "2025-04-05 08:00",
-      "author": "bioRxiv Subject Collection: Genomics",
-      "timestamp": 1743811200.0,
-      "summary": "Background Asthma is driven by complex interactions amongst structural airway cells, cells of the immune system, and the environmental. While sputum c...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "Reduced taurine transporter expression in lymphoblastoid cell lines from Alzheimer's disease patients compared with age-matched controls: Therapeutic implications?",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.03.31.646363v1?rss=1",
-      "date": "2025-04-05 08:00",
-      "author": "bioRxiv Subject Collection: Genomics",
-      "timestamp": 1743811200.0,
-      "summary": "Taurine is an atypical amino acid that cannot form peptide bonds and thus does not take place in building proteins. Yet, taurine takes part in regulat...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "Unraveling the Genomic and Phylogenetic Complexity of the understudied microfungus Basidiobolus: Insights from 19 Newly Sequenced Genomes",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.03.31.646025v1?rss=1",
-      "date": "2025-04-05 08:00",
-      "author": "bioRxiv Subject Collection: Genomics",
-      "timestamp": 1743811200.0,
-      "summary": "Basidiobolus is a globally distributed genus of early-diverging fungi within Zoopagomycota, known for its presence in diverse ecological niches rangin...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "Understanding the Role of Toggle Genes in Chronic Lymphocytic Leukemia Proliferation",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.03.31.646494v1?rss=1",
-      "date": "2025-04-05 08:00",
-      "author": "bioRxiv Subject Collection: Genomics",
-      "timestamp": 1743811200.0,
-      "summary": "Cancer cell populations, such as chronic lymphocytic leukemia (CLL), are characterized by aberrant proliferation and plasticity: cells may switch betw...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
       "title": "The Estonian Biobank’s journey from biobanking to personalized medicine",
       "link": "https://www.nature.com/articles/s41467-025-58465-3",
       "date": "2025-04-05 08:00",
@@ -8539,146 +8299,6 @@
       "timestamp": 1743811200.0,
       "summary": "无摘要",
       "source_url": "https://www.nature.com/subjects/genomics",
-      "category": "Papers"
-    },
-    {
-      "title": "FedNolowe: A Normalized Loss-Based Weighted Aggregation Strategy for Robust Federated Learning in Heterogeneous Environments",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.03.30.646222v1?rss=1",
-      "date": "2025-04-04 08:00",
-      "author": "bioRxiv Subject Collection: Bioinformatics",
-      "timestamp": 1743724800.0,
-      "summary": "Federated Learning supports collaborative model training across distributed clients while keeping sensitive data decentralized. Still, non-independent...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "Integration of nuclear morphology and 3D imaging to profile cellular neighborhoods",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.03.31.646356v1?rss=1",
-      "date": "2025-04-04 08:00",
-      "author": "bioRxiv Subject Collection: Bioinformatics",
-      "timestamp": 1743724800.0,
-      "summary": "Nuclear morphology is an indicator of cellular function and disease states, as changes in nuclear size, shape, and texture often reflect underlying di...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "A statistical framework for inferring genetic requirements from embryo-scale single-cell sequencing experiments",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.04.03.646654v1?rss=1",
-      "date": "2025-04-04 08:00",
-      "author": "bioRxiv Subject Collection: Bioinformatics",
-      "timestamp": 1743724800.0,
-      "summary": "Improvements in single-cell sequencing protocols have democratized their use for phenotyping at organism-scale and molecular resolution, but interpret...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "HyDrop v2: Scalable atlas construction for training sequence-to-function models",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.04.02.646792v1?rss=1",
-      "date": "2025-04-04 08:00",
-      "author": "bioRxiv Subject Collection: Bioinformatics",
-      "timestamp": 1743724800.0,
-      "summary": "Deciphering cis-regulatory logic underlying cell type identity is a fundamental question in biology. Single-cell chromatin accessibility (scATAC-seq) ...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "Chromatin as a Coevolutionary Graph: Modeling the Interplay of Replication with Chromatin Dynamics",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.03.31.646315v1?rss=1",
-      "date": "2025-04-04 08:00",
-      "author": "bioRxiv Subject Collection: Bioinformatics",
-      "timestamp": 1743724800.0,
-      "summary": "Modeling DNA replication poses significant challenges due to the intricate interplay of biophysical processes and the need for precise parameter optim...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "Predicting microsatellite instability from whole slide images using texture features",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.03.30.646246v1?rss=1",
-      "date": "2025-04-04 08:00",
-      "author": "bioRxiv Subject Collection: Bioinformatics",
-      "timestamp": 1743724800.0,
-      "summary": "Identifying MSI in whole slide images (WSIs), one of the most widely used diagnostic imaging formats, is of great importance and in demand. In this st...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "Comparison and Optimization of Cellular Neighbor Preference Methods for Quantitative Tissue Analysis",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.03.31.646289v1?rss=1",
-      "date": "2025-04-04 08:00",
-      "author": "bioRxiv Subject Collection: Bioinformatics",
-      "timestamp": 1743724800.0,
-      "summary": "Studying the spatial distribution of cell types in tissues is essential for understanding their function in health and disease. A widely used spatial ...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "SPDEv3.0: A Multidisciplinary Integrated Data Analysis Platform",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.03.30.646234v1?rss=1",
-      "date": "2025-04-04 08:00",
-      "author": "bioRxiv Subject Collection: Bioinformatics",
-      "timestamp": 1743724800.0,
-      "summary": "Plant research encounters significant challenges in integrating multidisciplinary data and ensuring compatibility among diverse analytical methods. Th...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "Inverse signal importance in real exposome: How do biological systems dynamically prioritize multiple environmental signals?",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.03.31.646257v1?rss=1",
-      "date": "2025-04-04 08:00",
-      "author": "bioRxiv Subject Collection: Bioinformatics",
-      "timestamp": 1743724800.0,
-      "summary": "Living organisms integrate multiple signals from their exposome --the totality of environmental influences experienced throughout life --to adapt to c...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "High-throughput RNA and Single-cell RNA Sequencing to Identify Sepsis associated Molecular Mechanisms and the Blood Immune Cell Landscape",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.03.31.646322v1?rss=1",
-      "date": "2025-04-04 08:00",
-      "author": "bioRxiv Subject Collection: Bioinformatics",
-      "timestamp": 1743724800.0,
-      "summary": "Abstract Sepsis, a leading cause of death in intensive care units (ICUs), is a complex systemic inflammatory response to infection with high morbidity...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "Adaptively integrated sequencing and assembly of near-complete genomes",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.03.31.646505v1?rss=1",
-      "date": "2025-04-04 08:00",
-      "author": "bioRxiv Subject Collection: Genomics",
-      "timestamp": 1743724800.0,
-      "summary": "Recent advances in long-read sequencing (LRS) and assembly algorithms have made it possible to create highly complete genome assemblies for humans, an...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "Spatial transcriptomics AI agent charts hPSC-pancreas maturation in vivo",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.04.01.646731v1?rss=1",
-      "date": "2025-04-04 08:00",
-      "author": "bioRxiv Subject Collection: Genomics",
-      "timestamp": 1743724800.0,
-      "summary": "Spatial transcriptomics has revolutionized our understanding of tissue organization by simultaneously capturing gene expression and spatial localizati...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "BRCA1 is a molecular correlate of cell proliferation in human brain development and in Group 3 and 4 medulloblastoma",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.04.03.646803v1?rss=1",
-      "date": "2025-04-04 08:00",
-      "author": "bioRxiv Subject Collection: Genomics",
-      "timestamp": 1743724800.0,
-      "summary": "The role of the BRCA1-mediated DNA damage repair pathway in regulating human brain development remains unknown, although it has been studied in mouse ...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "Neural stem cell epigenomes and fate bias are temporally coordinated during corticogenesis",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.04.03.647013v1?rss=1",
-      "date": "2025-04-04 08:00",
-      "author": "bioRxiv Subject Collection: Genomics",
-      "timestamp": 1743724800.0,
-      "summary": "The cerebral cortex orchestrates complex cognitive functions, yet how its distinct temporal lineages are molecularly patterned during development rema...",
-      "source_url": "https://biorxiv.org",
       "category": "Papers"
     },
     {
@@ -8742,216 +8362,6 @@
       "category": "Papers"
     },
     {
-      "title": "Deciphering complex interactions between LTR retrotransposons and three Papaver species using LTR_Stream",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.03.30.646164v1?rss=1",
-      "date": "2025-04-03 08:00",
-      "author": "bioRxiv Subject Collection: Bioinformatics",
-      "timestamp": 1743638400.0,
-      "summary": "Long terminal repeat retrotransposons (LTR-RTs), a major type of class I transposable elements (TEs), are the most abundant repeat element in plants. ...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "Pathogenicity Patterns in Cytochrome P450 Family",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.03.30.646180v1?rss=1",
-      "date": "2025-04-03 08:00",
-      "author": "bioRxiv Subject Collection: Bioinformatics",
-      "timestamp": 1743638400.0,
-      "summary": "Cytochrome P450 proteins play a crucial role in human metabolism, from the production of hormones to drug metabolism. While multiple commonly known va...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "SpaceBF: Spatial coexpression analysis using Bayesian Fused approaches in spatial omics datasets",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.03.29.646124v1?rss=1",
-      "date": "2025-04-03 08:00",
-      "author": "bioRxiv Subject Collection: Bioinformatics",
-      "timestamp": 1743638400.0,
-      "summary": "Advancements in spatial omics technologies have enabled the measurement of expression profiles of different molecules, such as genes (using spatial tr...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "Learning interpretable representation for context-specific transcription regulatory networks using a foundation model",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.03.29.646077v1?rss=1",
-      "date": "2025-04-03 08:00",
-      "author": "bioRxiv Subject Collection: Bioinformatics",
-      "timestamp": 1743638400.0,
-      "summary": "Gene expression is shaped by transcription regulatory networks (TRNs), where transcription regulators interact within regulatory elements in a context...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "Extending differential gene expression testing to handle genome aneuploidy in cancer",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.03.29.646108v1?rss=1",
-      "date": "2025-04-03 08:00",
-      "author": "bioRxiv Subject Collection: Bioinformatics",
-      "timestamp": 1743638400.0,
-      "summary": "Genome aneuploidy, characterized by Copy Number Variations (CNVs), profoundly alters gene expression in cancer. CNVs can directly influence transcript...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "TRUHiC: A TRansformer-embedded U-2 Net to enhance Hi-C data for 3D chromatin structure characterization",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.03.29.646133v1?rss=1",
-      "date": "2025-04-03 08:00",
-      "author": "bioRxiv Subject Collection: Bioinformatics",
-      "timestamp": 1743638400.0,
-      "summary": "High-throughput chromosome conformation capture sequencing (Hi-C) is a key technology for studying the three-dimensional (3D) structure of genomes and...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "Pairwise Attention: Leveraging Mass Differences to Enhance De Novo Sequencing of Mass Spectra",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.03.28.645943v1?rss=1",
-      "date": "2025-04-03 08:00",
-      "author": "bioRxiv Subject Collection: Bioinformatics",
-      "timestamp": 1743638400.0,
-      "summary": "A fundamental challenge in mass spectrometry-based proteomics is determining which peptide generated a given MS2 spectrum. Peptide sequencing typicall...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "Natural language processing of gene descriptions for overrepresentation analysis with GeneTEA",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.03.28.646026v1?rss=1",
-      "date": "2025-04-03 08:00",
-      "author": "bioRxiv Subject Collection: Bioinformatics",
-      "timestamp": 1743638400.0,
-      "summary": "Overrepresentation analysis (ORA) is used to identify the biological relationships in a list of genes by testing gene sets for enrichment in the query...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "Evidence of off-target probe binding in the 10x Genomics Xenium v1 Human Breast Gene Expression Panel compromises accuracy of spatial transcriptomic profiling",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.03.31.646342v1?rss=1",
-      "date": "2025-04-03 08:00",
-      "author": "bioRxiv Subject Collection: Bioinformatics",
-      "timestamp": 1743638400.0,
-      "summary": "The accuracy of spatial gene expression profiles generated by probe-based in situ spatially-resolved transcriptomic technologies depends on the specif...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "LncMamba: A Deep Learning Model for lncRNA Localization Prediction Based on the Mamba Model",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.03.29.646080v1?rss=1",
-      "date": "2025-04-03 08:00",
-      "author": "bioRxiv Subject Collection: Bioinformatics",
-      "timestamp": 1743638400.0,
-      "summary": "Accurate prediction of long non-coding RNA (lncRNA) subcellular localization is crucial for understanding its biological functions. In this study, we ...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "Differential T cell receptor gene expression analysis using the Wilcoxon test with similarity-based weighting",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.03.28.645951v1?rss=1",
-      "date": "2025-04-03 08:00",
-      "author": "bioRxiv Subject Collection: Bioinformatics",
-      "timestamp": 1743638400.0,
-      "summary": "To better understand immune responses, comparing the abundance of T cell receptors (TCRs) between conditions can provide insights into which T cells h...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "Defining effective strategies to integrate multi-sample single-nucleus ATAC-seq datasets via a multimodal-guided approach",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.04.02.646871v1?rss=1",
-      "date": "2025-04-03 08:00",
-      "author": "bioRxiv Subject Collection: Genomics",
-      "timestamp": 1743638400.0,
-      "summary": "Background Chromatin accessibility, measured via single-nucleus Assay for Transposase-Accessible Chromatin with sequencing (snATAC-seq), can reveal th...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "A Telomere-to-Telomere Diploid Reference Genome and Centromere Structure of the Chinese Quartet",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.03.30.646227v1?rss=1",
-      "date": "2025-04-03 08:00",
-      "author": "bioRxiv Subject Collection: Genomics",
-      "timestamp": 1743638400.0,
-      "summary": "Recent advances in sequencing technologies have enabled the complete assembly of human genomes from telomere to telomere (T2T), resolving previously i...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "MarpolBase: Genome database for Marchantia polymorpha featuring high quality reference genome sequences",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.03.30.646155v1?rss=1",
-      "date": "2025-04-03 08:00",
-      "author": "bioRxiv Subject Collection: Genomics",
-      "timestamp": 1743638400.0,
-      "summary": "The liverwort Marchantia polymorpha is a key model organism for understanding land plant evolution, development, and gene regulation. To support the g...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "Ancestral origin and structural characteristics of non-syntenic homologous chromosomes in abalones",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.04.02.641744v1?rss=1",
-      "date": "2025-04-03 08:00",
-      "author": "bioRxiv Subject Collection: Genomics",
-      "timestamp": 1743638400.0,
-      "summary": "Structural variation is increasingly recognized as a pivotal contributor to genomic diversity in marine invertebrates, yet its extent and evolutionary...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "Development of a core genome multilocus sequence typing (cgMLST) scheme and life identification number (LIN) code classification system for Staphylococcus aureus",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.03.29.646111v1?rss=1",
-      "date": "2025-04-03 08:00",
-      "author": "bioRxiv Subject Collection: Genomics",
-      "timestamp": 1743638400.0,
-      "summary": "Staphylococcus aureus infects both humans and animals, and antimicrobial resistance, including multidrug resistance, complicates treatment of S. aureu...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "Neisseria gonorrhoeae LIN codes: a Robust, Multi-Resolution Lineage Nomenclature",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.03.28.646058v1?rss=1",
-      "date": "2025-04-03 08:00",
-      "author": "bioRxiv Subject Collection: Genomics",
-      "timestamp": 1743638400.0,
-      "summary": "Investigation of the bacterial pathogen Neisseria gonorrhoeae is complicated by extensive horizontal gene transfer: a process which disrupts phylogene...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "Entry and exit of Fragilariopsis cylindrus diatoms from the polar night: evidence for chromatin-mediated genome control",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.04.02.646770v1?rss=1",
-      "date": "2025-04-03 08:00",
-      "author": "bioRxiv Subject Collection: Genomics",
-      "timestamp": 1743638400.0,
-      "summary": "Regulation of the epigenome landscape plays a crucial role in adaptation to environmental changes. However, the molecular mechanisms by which epigenom...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "Improving interpretability of transcription factor binding models with DNA shape features",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.04.01.646034v1?rss=1",
-      "date": "2025-04-03 08:00",
-      "author": "bioRxiv Subject Collection: Genomics",
-      "timestamp": 1743638400.0,
-      "summary": "Deep learning models in genomics that predict molecular phenotypes from DNA sequence traditionally focus on one-hot encoded representations. Here, we ...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "Expression spectrum of TE-derived transcripts in human adult tissues",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.03.29.646092v1?rss=1",
-      "date": "2025-04-03 08:00",
-      "author": "bioRxiv Subject Collection: Genomics",
-      "timestamp": 1743638400.0,
-      "summary": "Transposable elements (TEs) are vital components of eukaryotic genomes and have played a critical role in genome evolution. Although most TEs are sile...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "CREsted: modeling genomic and synthetic cell type-specific enhancers across tissues and species",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.04.02.646812v1?rss=1",
-      "date": "2025-04-03 08:00",
-      "author": "bioRxiv Subject Collection: Genomics",
-      "timestamp": 1743638400.0,
-      "summary": "Sequence-based deep learning models have become the state of the art for the analysis of the genomic regulatory code. Particularly for transcriptional...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
       "title": "Profiling of runs of homozygosity from whole-genome sequence data in Japanese biobank",
       "link": "https://www.nature.com/articles/s10038-025-01331-3",
       "date": "2025-04-03 08:00",
@@ -8999,86 +8409,6 @@
       "timestamp": 1743638400.0,
       "summary": "无摘要",
       "source_url": "https://www.nature.com/subjects/genomics",
-      "category": "Papers"
-    },
-    {
-      "title": "Beyond genetic indicators: how reproductive mode and hybridization challenge freshwater mussel conservation",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.03.28.645956v1?rss=1",
-      "date": "2025-04-02 08:00",
-      "author": "bioRxiv Subject Collection: Genomics",
-      "timestamp": 1743552000.0,
-      "summary": "Genetic diversity is a fundamental component of biodiversity that should be monitored and preserved. Unionid freshwater mussels provide essential ecos...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "Response to Tabin et al-Concerns about ancient DNA sequences reported from a Late Pleistocene individual from Southeast Asia",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.03.29.646132v1?rss=1",
-      "date": "2025-04-02 08:00",
-      "author": "bioRxiv Subject Collection: Genomics",
-      "timestamp": 1743552000.0,
-      "summary": "Tabin et al1 suspect a high error rate and abnormal error content in the MZR genome data from our published study2, from which they raised concerns ab...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "Machine learning-predicted chromatin organization landscape across pediatric tumors",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.03.28.645984v1?rss=1",
-      "date": "2025-04-02 08:00",
-      "author": "bioRxiv Subject Collection: Genomics",
-      "timestamp": 1743552000.0,
-      "summary": "Structural variants (SVs) are increasingly recognized as important contributors to oncogenesis through their effects on 3D genome folding. Recent adva...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "Female-biased vascular smooth muscle cell gene regulatory networks predict MYH9 as a key regulator of fibrous plaque phenotype",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.03.28.645955v1?rss=1",
-      "date": "2025-04-02 08:00",
-      "author": "bioRxiv Subject Collection: Genomics",
-      "timestamp": 1743552000.0,
-      "summary": "Atherosclerosis, a chronic inflammatory condition driving coronary artery disease (CAD), manifests in two primary plaque types: unstable atheromatous ...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "Protocol for Extracting Circulating Cell-Free DNA from Murine Saliva: Insights into Oral and Systemic Disease Research",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.03.31.645839v1?rss=1",
-      "date": "2025-04-02 08:00",
-      "author": "bioRxiv Subject Collection: Genomics",
-      "timestamp": 1743552000.0,
-      "summary": "Circulating cell-free DNA (cfDNA) consists of small fragments of extracellular DNA from mammalian and bacterial cells found in bodily fluids such as b...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "KhufuEnv, an auxiliary toolkit for building computational pipelines for plant and animal breeding",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.03.28.645917v1?rss=1",
-      "date": "2025-04-02 08:00",
-      "author": "bioRxiv Subject Collection: Genomics",
-      "timestamp": 1743552000.0,
-      "summary": "In the era of short and long read sequencing, vast amounts of DNA sequencing data are being generated. While a variety of tools exist for analyzing an...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "A new genome assembly of the pea cultivar Cameor provides resources for functional genomics and genetics",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.04.01.645976v1?rss=1",
-      "date": "2025-04-02 08:00",
-      "author": "bioRxiv Subject Collection: Genomics",
-      "timestamp": 1743552000.0,
-      "summary": "Significant improvements in sequencing technologies have allowed the development of more contiguous genome assemblies in many plant species. The pea g...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "The information content of species: formal definitions of pangenome complexity track with bacterial lifestyle",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.03.28.645969v1?rss=1",
-      "date": "2025-04-02 08:00",
-      "author": "bioRxiv Subject Collection: Genomics",
-      "timestamp": 1743552000.0,
-      "summary": "The information content encoded in the genomes of species varies across the microbial tree of life. Bacterial lifestyle has been shown to drive this i...",
-      "source_url": "https://biorxiv.org",
       "category": "Papers"
     },
     {
@@ -9139,26 +8469,6 @@
       "timestamp": 1743552000.0,
       "summary": "无摘要",
       "source_url": "https://www.nature.com/subjects/bioinformatics",
-      "category": "Papers"
-    },
-    {
-      "title": "CRISPR/Cas9-mediated editing of the ADE2 locus in Saccharomyces cerevisiae: targeted mutagenesis and homology-directed repair",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.03.30.646154v1?rss=1",
-      "date": "2025-04-01 08:00",
-      "author": "bioRxiv Subject Collection: Genomics",
-      "timestamp": 1743465600.0,
-      "summary": "The CRISPR/Cas9 system, derived from the adaptive immune defence of bacteria and archaea, has emerged as a powerful tool for genome engineering by ena...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "Disentangling the impact of abiotic and biotic environmental factors and dispersal dynamics on bacterial pangenome fluidity",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.03.27.645760v1?rss=1",
-      "date": "2025-04-01 08:00",
-      "author": "bioRxiv Subject Collection: Genomics",
-      "timestamp": 1743465600.0,
-      "summary": "Understanding how bacterial pangenomes originate and evolve is crucial for predicting evolutionary trajectories and uncovering ecological interactions...",
-      "source_url": "https://biorxiv.org",
       "category": "Papers"
     },
     {
