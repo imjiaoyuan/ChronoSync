@@ -8372,6 +8372,36 @@
       "category": "Blogs"
     },
     {
+      "title": "Refining filtering criteria for accurate taxonomic classification of ancient metagenomic data",
+      "link": "https://www.biorxiv.org/content/10.1101/2025.03.31.646431v1?rss=1",
+      "date": "2025-04-05 08:00",
+      "author": "bioRxiv Subject Collection: Bioinformatics",
+      "timestamp": 1743811200.0,
+      "summary": "Taxonomic profiling is a key component of ancient metagenomic analysis, however it is also susceptible to false-positive identifications. In particula...",
+      "source_url": "https://biorxiv.org",
+      "category": "Papers"
+    },
+    {
+      "title": "Integrating experimental feedback improves generative models for biological sequences",
+      "link": "https://www.biorxiv.org/content/10.1101/2025.03.31.646327v1?rss=1",
+      "date": "2025-04-05 08:00",
+      "author": "bioRxiv Subject Collection: Bioinformatics",
+      "timestamp": 1743811200.0,
+      "summary": "Generative probabilistic models have shown promise in designing artificial RNA and protein sequences but often suffer from high rates of false positiv...",
+      "source_url": "https://biorxiv.org",
+      "category": "Papers"
+    },
+    {
+      "title": "Unified integration of spatial transcriptomics across platforms",
+      "link": "https://www.biorxiv.org/content/10.1101/2025.03.31.646238v1?rss=1",
+      "date": "2025-04-05 08:00",
+      "author": "bioRxiv Subject Collection: Bioinformatics",
+      "timestamp": 1743811200.0,
+      "summary": "Spatial transcriptomics (ST) has transformed our understanding of tissue architecture and cellular interactions, but integrating ST data across platfo...",
+      "source_url": "https://biorxiv.org",
+      "category": "Papers"
+    },
+    {
       "title": "SCORCH2: a generalised heterogeneous consensus model for high-enrichment interaction-based virtual screening",
       "link": "https://www.biorxiv.org/content/10.1101/2025.03.31.646332v1?rss=1",
       "date": "2025-04-05 08:00",
@@ -8428,6 +8458,56 @@
       "author": "bioRxiv Subject Collection: Bioinformatics",
       "timestamp": 1743811200.0,
       "summary": "Diabetes Mellitus (DM) is a global epidemic and among the top ten leading causes of mortality (WHO, 2019), projected to rank seventh by 2030. The US N...",
+      "source_url": "https://biorxiv.org",
+      "category": "Papers"
+    },
+    {
+      "title": "Extremely Early Flowering and Large Grain Isogenic Japonica Rice Koshihikari Integrated with Gene e1 and GW2",
+      "link": "https://www.biorxiv.org/content/10.1101/2025.03.31.646432v1?rss=1",
+      "date": "2025-04-05 08:00",
+      "author": "bioRxiv Subject Collection: Genomics",
+      "timestamp": 1743811200.0,
+      "summary": "The extremely early flowering/large-grain isogenic Koshihikari was developed by combining the large-grain allele, GW2, derived from Inochinoichi with ...",
+      "source_url": "https://biorxiv.org",
+      "category": "Papers"
+    },
+    {
+      "title": "Single-cell RNA Sequencing Analysis of Sputum Cell Transcriptomes Reveals Pathways and Communication Networks That Contribute to the Pathogenesis of Asthma",
+      "link": "https://www.biorxiv.org/content/10.1101/2025.03.31.646405v1?rss=1",
+      "date": "2025-04-05 08:00",
+      "author": "bioRxiv Subject Collection: Genomics",
+      "timestamp": 1743811200.0,
+      "summary": "Background Asthma is driven by complex interactions amongst structural airway cells, cells of the immune system, and the environmental. While sputum c...",
+      "source_url": "https://biorxiv.org",
+      "category": "Papers"
+    },
+    {
+      "title": "Reduced taurine transporter expression in lymphoblastoid cell lines from Alzheimer's disease patients compared with age-matched controls: Therapeutic implications?",
+      "link": "https://www.biorxiv.org/content/10.1101/2025.03.31.646363v1?rss=1",
+      "date": "2025-04-05 08:00",
+      "author": "bioRxiv Subject Collection: Genomics",
+      "timestamp": 1743811200.0,
+      "summary": "Taurine is an atypical amino acid that cannot form peptide bonds and thus does not take place in building proteins. Yet, taurine takes part in regulat...",
+      "source_url": "https://biorxiv.org",
+      "category": "Papers"
+    },
+    {
+      "title": "Unraveling the Genomic and Phylogenetic Complexity of the understudied microfungus Basidiobolus: Insights from 19 Newly Sequenced Genomes",
+      "link": "https://www.biorxiv.org/content/10.1101/2025.03.31.646025v1?rss=1",
+      "date": "2025-04-05 08:00",
+      "author": "bioRxiv Subject Collection: Genomics",
+      "timestamp": 1743811200.0,
+      "summary": "Basidiobolus is a globally distributed genus of early-diverging fungi within Zoopagomycota, known for its presence in diverse ecological niches rangin...",
+      "source_url": "https://biorxiv.org",
+      "category": "Papers"
+    },
+    {
+      "title": "Understanding the Role of Toggle Genes in Chronic Lymphocytic Leukemia Proliferation",
+      "link": "https://www.biorxiv.org/content/10.1101/2025.03.31.646494v1?rss=1",
+      "date": "2025-04-05 08:00",
+      "author": "bioRxiv Subject Collection: Genomics",
+      "timestamp": 1743811200.0,
+      "summary": "Cancer cell populations, such as chronic lymphocytic leukemia (CLL), are characterized by aberrant proliferation and plasticity: cells may switch betw...",
       "source_url": "https://biorxiv.org",
       "category": "Papers"
     },
@@ -8762,16 +8842,6 @@
       "category": "Papers"
     },
     {
-      "title": "Sketch, capture and layout phylogenies",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.04.01.646633v1?rss=1",
-      "date": "2025-04-03 08:00",
-      "author": "bioRxiv Subject Collection: Bioinformatics",
-      "timestamp": 1743638400.0,
-      "summary": "Phylogenetic trees and networks play a central role in biology, bioinformatics, and mathematical biology, and producing clear, informative visualizati...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
       "title": "Defining effective strategies to integrate multi-sample single-nucleus ATAC-seq datasets via a multimodal-guided approach",
       "link": "https://www.biorxiv.org/content/10.1101/2025.04.02.646871v1?rss=1",
       "date": "2025-04-03 08:00",
@@ -8919,26 +8989,6 @@
       "timestamp": 1743638400.0,
       "summary": "无摘要",
       "source_url": "https://www.nature.com/subjects/genomics",
-      "category": "Papers"
-    },
-    {
-      "title": "Tracing the Shared Foundations of Gene Expression and Chromatin Structure",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.03.31.646349v1?rss=1",
-      "date": "2025-04-02 08:00",
-      "author": "bioRxiv Subject Collection: Bioinformatics",
-      "timestamp": 1743552000.0,
-      "summary": "The three-dimensional organization of chromatin into topologically associating domains (TADs) may impact gene regulation by bringing distant genes int...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "Comprehensive Analysis of CRISPR Array Repeat Mutations Reveals Subtype-Specific Patterns and Links to Spacer Dynamics",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.04.02.646798v1?rss=1",
-      "date": "2025-04-02 08:00",
-      "author": "bioRxiv Subject Collection: Bioinformatics",
-      "timestamp": 1743552000.0,
-      "summary": "CRISPR Cas systems are adaptive immune mechanisms in bacteria and archaea that protect against invading genetic elements by integrating short fragment...",
-      "source_url": "https://biorxiv.org",
       "category": "Papers"
     },
     {
@@ -9112,46 +9162,6 @@
       "category": "Papers"
     },
     {
-      "title": "Illuminating the mystery of thylacine extinction: a role for relaxed selection and gene loss",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.03.27.645633v1?rss=1",
-      "date": "2025-04-01 08:00",
-      "author": "bioRxiv Subject Collection: Genomics",
-      "timestamp": 1743465600.0,
-      "summary": "Gene loss shapes lineage-specific traits but is often overlooked in species survival. In this study, we investigate the role of ancestral gene loss us...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "Trypanosoma cruzi Has 32 Chromosomes: A Telomere-to-Telomere Assembly Defines Its Karyotype.",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.03.27.645724v1?rss=1",
-      "date": "2025-04-01 08:00",
-      "author": "bioRxiv Subject Collection: Genomics",
-      "timestamp": 1743465600.0,
-      "summary": "Trypanosoma cruzi, the causative agent of Chagas disease, exhibits remarkable genomic plasticity and possesses an expanded genome rich in multigene fa...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "Multimodal epigenetic and enhancer network remodeling shape the transcriptional landscape of beige adipocytes",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.03.28.645896v1?rss=1",
-      "date": "2025-04-01 08:00",
-      "author": "bioRxiv Subject Collection: Genomics",
-      "timestamp": 1743465600.0,
-      "summary": "Epigenetic regulation is a key determinant of adipocyte fate and function, conferring phenotypic plasticity to adipose tissue in response to metabolic...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "Exonic enhancers are a widespread class of dual-function regulatory elements",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.03.27.645641v1?rss=1",
-      "date": "2025-04-01 08:00",
-      "author": "bioRxiv Subject Collection: Genomics",
-      "timestamp": 1743465600.0,
-      "summary": "Exonic enhancers (EEs) occupy an under-appreciated niche in gene regulation. By integrating transcription factor binding, chromatin accessibility, and...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
       "title": "Analysis of allohexaploid wheatgrass genome reveals its Y haplome origin in Triticeae and high-altitude adaptation",
       "link": "https://www.nature.com/articles/s41467-025-58341-0",
       "date": "2025-04-01 08:00",
@@ -9299,16 +9309,6 @@
       "timestamp": 1743379200.0,
       "summary": "无摘要",
       "source_url": "https://www.nature.com/subjects/bioinformatics",
-      "category": "Papers"
-    },
-    {
-      "title": "A Single-Cell Atlas of RNA Alternative Splicing in the Glioma-Immune Ecosystem",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.03.26.645511v1?rss=1",
-      "date": "2025-03-30 08:00",
-      "author": "bioRxiv Subject Collection: Genomics",
-      "timestamp": 1743292800.0,
-      "summary": "Single-cell analysis has refined our understanding of cellular heterogeneity in glioma, yet RNA alternative splicing (AS)--a critical layer of transcr...",
-      "source_url": "https://biorxiv.org",
       "category": "Papers"
     },
     {
