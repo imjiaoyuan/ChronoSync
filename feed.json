@@ -5082,6 +5082,16 @@
       "category": "Blogs"
     },
     {
+      "title": "一个六岁开源项目的崩溃与新生",
+      "link": "https://xlog.app/api/redirection?characterId=10&noteId=2532",
+      "date": "2024-03-11 03:29",
+      "author": "Hi, DIYgod",
+      "timestamp": 1710098945.0,
+      "summary": "我有一个维护了六年的开源项目—— RSSHub，它正在面临崩溃\n\n表面上，它有接近 30k Stars、900 多 Contributors、每月 3 亿多次请求和数不清的用户、每月几十刀的赞助、有源源不断的 issue 和 pr、代码几乎每天更新，非常健康和充满活力",
+      "source_url": "https://diygod.cc",
+      "category": "Blogs"
+    },
+    {
       "title": "2024 香港银行开户指北",
       "link": "https://kowyo.com/post/my-first-master-card/",
       "date": "2024-03-10 22:07",
@@ -5282,6 +5292,16 @@
       "category": "Blogs"
     },
     {
+      "title": "和帕鲁生活在一起的两周",
+      "link": "https://xlog.app/api/redirection?characterId=10&noteId=2510",
+      "date": "2024-02-19 03:20",
+      "author": "Hi, DIYgod",
+      "timestamp": 1708284033.0,
+      "summary": "哪个小男孩没幻想过生活在这样一个充满宝可梦伙伴的世界，它们能听懂且愿意倾听我们说话，有着不同的特点和强大的技能，而且都很可爱，我们可以跟它们睡觉吃饭、并肩作战探索世界，永远不再孤独，不管是谁都可以找到最适合自己的宝可梦",
+      "source_url": "https://diygod.cc",
+      "category": "Blogs"
+    },
+    {
       "title": "A collection of some useful websites",
       "link": "https://www.mengke.me/blog/202402/LearningWebsites",
       "date": "2024-02-18 08:00",
@@ -5452,6 +5472,16 @@
       "category": "Blogs"
     },
     {
+      "title": "Twitter 对开源项目发起 DDoS 攻击",
+      "link": "https://xlog.app/api/redirection?characterId=10&noteId=2456",
+      "date": "2024-01-28 18:24",
+      "author": "Hi, DIYgod",
+      "timestamp": 1706437493.0,
+      "summary": "背景 Twitter 被马斯克收购后，从去年 8 月开始，他们对开源第三方集成和第三方客户端进行了一系列明里暗里的打压和攻击，这样做是为了阻止用户通过非官方客户端访问和使用 Twitter，来增加公司的广告和会员营收\n\n而开源社区中以 Nitter 和 RSSHub…",
+      "source_url": "https://diygod.cc",
+      "category": "Blogs"
+    },
+    {
       "title": "也来谈谈这次的 Bulma + UnoCSS 界面重写",
       "link": "https://blog.gxres.net/posts/talk-about-rebuild-with-bulma-and-unocss",
       "date": "2024-01-28 08:00",
@@ -5519,6 +5549,16 @@
       "timestamp": 1705674947.0,
       "summary": "记录时间：12.22 – 1.18\n太阳经过星座：人马座｜Sagittarius\n最亮恒星：箕宿三 Kaus Australis\n本月事件\n\n圣诞节假期去朋友家住了几天。她们家两个大人带两个小孩确实辛苦。我问朋友为什么决定生第二个，她说很向往那种大家庭的氛围，确实人与人之前的追求不同。甘蔗没有两头甜...",
       "source_url": "https://thirdshire.com/",
+      "category": "Blogs"
+    },
+    {
+      "title": "如何优雅编译一个 Markdown 文档",
+      "link": "https://xlog.app/api/redirection?characterId=10&noteId=2434",
+      "date": "2024-01-18 20:50",
+      "author": "Hi, DIYgod",
+      "timestamp": 1705582237.0,
+      "summary": "Markdown 是一种广泛使用的轻量级标记语言，允许人们使用易读易写的纯文本格式编写文档，也是 xLog 主要使用的文章格式，本文就以 xLog Flavored Markdown 为例来说明如何优雅地解析一个 Markdown 文档",
+      "source_url": "https://diygod.cc",
       "category": "Blogs"
     },
     {
@@ -5599,6 +5639,16 @@
       "timestamp": 1704816779.0,
       "summary": "那么现在将它带到康涅狄格州，让它在荆棘中间，在藤蔓当中像小狗一样，像豹子一样跑来跑去。\nThe post 生活的幻觉｜2023年播客总结 appeared first on To the Lighthouse.",
       "source_url": "https://owlswims.com/",
+      "category": "Blogs"
+    },
+    {
+      "title": "2023 平稳过渡",
+      "link": "https://xlog.app/api/redirection?characterId=10&noteId=2358",
+      "date": "2024-01-08 22:23",
+      "author": "Hi, DIYgod",
+      "timestamp": 1704723798.0,
+      "summary": "发小觉得今年经历了巨大的变化，从苏格兰搬到新加坡，从未婚到已婚，从一家两口变成了一家三口，但我觉得都在预料之中，所以感觉还算很平稳",
+      "source_url": "https://diygod.cc",
       "category": "Blogs"
     },
     {
@@ -5809,6 +5859,16 @@
       "timestamp": 1702824003.0,
       "summary": "“博客教”信徒们大家好，欢迎收看“一博真相”，我是主播不加盐。 众所周知，由于“博客教”形式宗和质料宗的信徒对教义的理解存在较大的分歧，经常出现两宗派信徒互掐的现象，甚至扬言要让对方滚出“博客教”。但...",
       "source_url": "https://www.ntiy.com",
+      "category": "Blogs"
+    },
+    {
+      "title": "轻松创建一万个 Twitter 账号",
+      "link": "https://xlog.app/api/redirection?characterId=10&noteId=2292",
+      "date": "2023-12-15 18:14",
+      "author": "Hi, DIYgod",
+      "timestamp": 1702635286.0,
+      "summary": "Twitter 在 8 月决定了全面限制公开访问和 API 接口，导致第三方集成均无法再正常工作。开放用户数据被绑架成私人敛财工具，曾经的 Open Web 标杆 Twitter 竟沦落到这种境地，数字奴隶制在最不应该的地方出现，令人唏嘘",
+      "source_url": "https://diygod.cc",
       "category": "Blogs"
     },
     {
@@ -6372,6 +6432,16 @@
       "category": "Blogs"
     },
     {
+      "title": "优雅使用 Cloudflare WARP 应对  RSSHub 反爬难题",
+      "link": "https://xlog.app/api/redirection?characterId=10&noteId=2022",
+      "date": "2023-08-18 06:01",
+      "author": "Hi, DIYgod",
+      "timestamp": 1692309711.0,
+      "summary": "🕊️ 本文送给更开放的互联网 起因是看到 @geekbb 介绍 Warp 的推文。尽管 Warp 已经发布了很长时间，就保护 IP 隐私而言，它并没有 iCloud Private Relay 好用，我也没有魔法上网的需求。但是我突然意识到，我还是有隐藏 IP 的需求。\n\n在开…",
+      "source_url": "https://diygod.cc",
+      "category": "Blogs"
+    },
+    {
       "title": "月刊（第22期）：当下的快乐",
       "link": "https://blog.ursb.me/posts/weekly-22/",
       "date": "2023-08-13 15:55",
@@ -6379,6 +6449,16 @@
       "timestamp": 1691913336.0,
       "summary": "本篇是对二〇二三年五月至八月生活的记录与思考。\n最近周末比较忙导致断更了，感谢催更同学的关注：\n💐 当下的快乐\n本文标题来源于莪默·伽亚谟《鲁拜集》——“享受当下的快乐，因为这一刻正是你的人生。”\n\nPS. 我一直把月刊中的文章定位为“自我对话”，只有对话结果满意的文章我才会拿出来修整一番重新在博客...",
       "source_url": "https://blog.ursb.me/",
+      "category": "Blogs"
+    },
+    {
+      "title": "在博客融入一个跨平台作品集",
+      "link": "https://xlog.app/api/redirection?characterId=10&noteId=1957",
+      "date": "2023-08-08 06:34",
+      "author": "Hi, DIYgod",
+      "timestamp": 1691447658.0,
+      "summary": "长久以来# 我一直将个人博客视为一个理想的展示个人 IP 的 “个人网站”，而不仅仅是发布文章的平台。我曾在 2014 年初学编程时使用 WordPress 建站 《世界，你好！》；入了前端坑后，在 2017 年我转向了 Hexo 《做了一点微小的改动》；Web3 飞升后…",
+      "source_url": "https://diygod.cc",
       "category": "Blogs"
     },
     {
@@ -6469,6 +6549,16 @@
       "timestamp": 1689582747.0,
       "summary": "期待已久的碟中谍7终于上映，按照顶配 IMAX 观影。时长163分钟是系列最长，观影结束后最大的问题也出现在这 [&#8230;]",
       "source_url": "https://imzm.im",
+      "category": "Blogs"
+    },
+    {
+      "title": "对 Newsletter 说不",
+      "link": "https://xlog.app/api/redirection?characterId=10&noteId=1825",
+      "date": "2023-07-13 02:31",
+      "author": "Hi, DIYgod",
+      "timestamp": 1689186673.0,
+      "summary": "衰退无处不在，这是很正常的现象。人们自然而然地更倾向于短平快的消费方式。然而，我一直无法忍受的一种奇怪趋势是，在一些地方，人们将 RSS 抛弃，转而使用 Newsletter。 本质上，电子邮件是一种私密的双向通信机制，而 RSS 是一种开放的单向通信机制…",
+      "source_url": "https://diygod.cc",
       "category": "Blogs"
     },
     {
@@ -6662,6 +6752,16 @@
       "category": "Blogs"
     },
     {
+      "title": "4 月新番太好看了！吹爆！",
+      "link": "https://xlog.app/api/redirection?characterId=10&noteId=1614",
+      "date": "2023-05-25 07:32",
+      "author": "Hi, DIYgod",
+      "timestamp": 1684971149.0,
+      "summary": "今年从 1 月就一直没什么好看的作品，到了 4 月突然爆发，让我非常激动。现在播出过半了，是时候好好说说感受了 以下当然不能囊括 4 月所有的好作品，因为实在太多了，只是说一说符合我口味的几部，按我个人的喜爱程度来排序\n\n以下会包含大量剧透，还没看的小伙伴请酌情观看\n\n鬼灭之刃刀匠…",
+      "source_url": "https://diygod.cc",
+      "category": "Blogs"
+    },
+    {
       "title": "MacOS 窗口管理器 yabai 玩耍笔记",
       "link": "https://thiscute.world/posts/macos-window-manager-yabai-usage/?utm_source=atom_feed",
       "date": "2023-05-22 12:24",
@@ -6762,6 +6862,16 @@
       "category": "Blogs"
     },
     {
+      "title": "我得了软件更新强迫症",
+      "link": "https://xlog.app/api/redirection?characterId=10&noteId=914",
+      "date": "2023-04-09 07:00",
+      "author": "Hi, DIYgod",
+      "timestamp": 1680994800.0,
+      "summary": "我必须让身边所有软件都保持最新版本，就像走路不能踩到地砖缝缝一样，没有意义，但也危害不大，所以我放任它发展",
+      "source_url": "https://diygod.cc",
+      "category": "Blogs"
+    },
+    {
       "title": "月刊（第20期）：重启人生",
       "link": "https://blog.ursb.me/posts/weekly-20/",
       "date": "2023-04-02 21:53",
@@ -6769,6 +6879,16 @@
       "timestamp": 1680443630.0,
       "summary": "本篇是对二〇二三年三月生活的记录与思考。\n🎬 本月书影音\n\n在读：小说 |《德米安》 | ★★★★★\n在读：小说 |《少年巴比伦》| ★★★★★\n在读：文学 |《西方文学史》| ★★★★☆\n看完：日剧 |《重启人生》| ★★★★★★\n看完：韩剧 |《黑暗荣耀》 | ★★★★★\n看完：美剧 |《最后生...",
       "source_url": "https://blog.ursb.me/",
+      "category": "Blogs"
+    },
+    {
+      "title": "令我痛心的三部反乌托邦动漫",
+      "link": "https://xlog.app/api/redirection?characterId=10&noteId=764",
+      "date": "2023-04-02 12:50",
+      "author": "Hi, DIYgod",
+      "timestamp": 1680411000.0,
+      "summary": "四月对我而言是一个充满悲伤的月份。尽管《四月是你的谎言》已经过去了很多年，但每当看到「四月」这两个字，仍会立刻触发我的 PTSD，再加上今天我刚读完一本反乌托邦题材的小说《来自新世界》。多种思绪糅杂在一起，让我不禁回想起了那些令我痛心的「重量级」反乌托邦动漫",
+      "source_url": "https://diygod.cc",
       "category": "Blogs"
     },
     {
@@ -8272,6 +8392,26 @@
       "category": "Papers"
     },
     {
+      "title": "Unsupervised Whole-Genome Representation Learning Captures Bacterial Phenotypes",
+      "link": "https://www.biorxiv.org/content/10.1101/2025.04.01.646674v1?rss=1",
+      "date": "2025-04-06 08:00",
+      "author": "bioRxiv Subject Collection: Bioinformatics",
+      "timestamp": 1743897600.0,
+      "summary": "Shifting from hand-crafted to learned representations of data has revolutionized fields like natural language processing and computer vision. Despite ...",
+      "source_url": "https://biorxiv.org",
+      "category": "Papers"
+    },
+    {
+      "title": "Enhancing variant detection in complex genomes: leveraging linked reads for robust SNP, Indel, and structural variant analysis",
+      "link": "https://www.biorxiv.org/content/10.1101/2025.03.31.646392v1?rss=1",
+      "date": "2025-04-06 08:00",
+      "author": "bioRxiv Subject Collection: Bioinformatics",
+      "timestamp": 1743897600.0,
+      "summary": "Accurate detection of genetic variants, including single nucleotide polymorphisms (SNPs), small insertions and deletions (INDELs), and structural vari...",
+      "source_url": "https://biorxiv.org",
+      "category": "Papers"
+    },
+    {
       "title": "SnoBIRD: A tool to identify C/D box snoRNAs and refine their annotation across all eukaryotes",
       "link": "https://www.biorxiv.org/content/10.1101/2025.04.01.646650v1?rss=1",
       "date": "2025-04-06 08:00",
@@ -8298,6 +8438,36 @@
       "author": "bioRxiv Subject Collection: Bioinformatics",
       "timestamp": 1743897600.0,
       "summary": "Actual versions of hifiasm often produce unbalanced haplotype contigs for autopolyploid genome assemblies. Adding a contraint on the distribution of p...",
+      "source_url": "https://biorxiv.org",
+      "category": "Papers"
+    },
+    {
+      "title": "GSK3B inhibition partially reverses brain ethanol-induced transcriptomic changes in C57BL/6J mice: Expression network co-analysis with human genome-wide association studies",
+      "link": "https://www.biorxiv.org/content/10.1101/2025.04.03.647116v1?rss=1",
+      "date": "2025-04-06 08:00",
+      "author": "bioRxiv Subject Collection: Genomics",
+      "timestamp": 1743897600.0,
+      "summary": "Alcohol use disorder (AUD) is a chronic behavioral disease with greater than 50% of its risk due to complex genetic contributions. Existing pharmacolo...",
+      "source_url": "https://biorxiv.org",
+      "category": "Papers"
+    },
+    {
+      "title": "Clinical and Genomic Characterization of Recalcitrant Enterococcal Bacteremia: A Multicenter Prospective Cohort Study (VENOUS)",
+      "link": "https://www.biorxiv.org/content/10.1101/2025.04.01.645485v1?rss=1",
+      "date": "2025-04-06 08:00",
+      "author": "bioRxiv Subject Collection: Genomics",
+      "timestamp": 1743897600.0,
+      "summary": "Background. Patients with recalcitrant enterococcal bloodstream infections are at greater risk of adverse outcomes. We identified patients in the 2016...",
+      "source_url": "https://biorxiv.org",
+      "category": "Papers"
+    },
+    {
+      "title": "Joint profiling of 5mC, 5hmC, and the transcriptome in single cells identifies factors responsible for genome-wide DNA methylation erasure in human primordial germ cell maturation",
+      "link": "https://www.biorxiv.org/content/10.1101/2025.04.01.646736v1?rss=1",
+      "date": "2025-04-06 08:00",
+      "author": "bioRxiv Subject Collection: Genomics",
+      "timestamp": 1743897600.0,
+      "summary": "Reprogramming of DNA methylation plays a vital role in the establishment of cell identity during early mammalian development. To gain deeper mechanist...",
       "source_url": "https://biorxiv.org",
       "category": "Papers"
     },
@@ -8822,26 +8992,6 @@
       "category": "Papers"
     },
     {
-      "title": "Pairwise Attention: Leveraging Mass Differences to Enhance De Novo Sequencing of Mass Spectra",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.03.28.645943v1?rss=1",
-      "date": "2025-04-03 08:00",
-      "author": "bioRxiv Subject Collection: Bioinformatics",
-      "timestamp": 1743638400.0,
-      "summary": "A fundamental challenge in mass spectrometry-based proteomics is determining which peptide generated a given MS2 spectrum. Peptide sequencing typicall...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "Natural language processing of gene descriptions for overrepresentation analysis with GeneTEA",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.03.28.646026v1?rss=1",
-      "date": "2025-04-03 08:00",
-      "author": "bioRxiv Subject Collection: Bioinformatics",
-      "timestamp": 1743638400.0,
-      "summary": "Overrepresentation analysis (ORA) is used to identify the biological relationships in a list of genes by testing gene sets for enrichment in the query...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
       "title": "Defining effective strategies to integrate multi-sample single-nucleus ATAC-seq datasets via a multimodal-guided approach",
       "link": "https://www.biorxiv.org/content/10.1101/2025.04.02.646871v1?rss=1",
       "date": "2025-04-03 08:00",
@@ -8932,16 +9082,6 @@
       "category": "Papers"
     },
     {
-      "title": "CREsted: modeling genomic and synthetic cell type-specific enhancers across tissues and species",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.04.02.646812v1?rss=1",
-      "date": "2025-04-03 08:00",
-      "author": "bioRxiv Subject Collection: Genomics",
-      "timestamp": 1743638400.0,
-      "summary": "Sequence-based deep learning models have become the state of the art for the analysis of the genomic regulatory code. Particularly for transcriptional...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
       "title": "Profiling of runs of homozygosity from whole-genome sequence data in Japanese biobank",
       "link": "https://www.nature.com/articles/s10038-025-01331-3",
       "date": "2025-04-03 08:00",
@@ -8989,26 +9129,6 @@
       "timestamp": 1743638400.0,
       "summary": "无摘要",
       "source_url": "https://www.nature.com/subjects/genomics",
-      "category": "Papers"
-    },
-    {
-      "title": "Beyond genetic indicators: how reproductive mode and hybridization challenge freshwater mussel conservation",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.03.28.645956v1?rss=1",
-      "date": "2025-04-02 08:00",
-      "author": "bioRxiv Subject Collection: Genomics",
-      "timestamp": 1743552000.0,
-      "summary": "Genetic diversity is a fundamental component of biodiversity that should be monitored and preserved. Unionid freshwater mussels provide essential ecos...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "Response to Tabin et al-Concerns about ancient DNA sequences reported from a Late Pleistocene individual from Southeast Asia",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.03.29.646132v1?rss=1",
-      "date": "2025-04-02 08:00",
-      "author": "bioRxiv Subject Collection: Genomics",
-      "timestamp": 1743552000.0,
-      "summary": "Tabin et al1 suspect a high error rate and abnormal error content in the MZR genome data from our published study2, from which they raised concerns ab...",
-      "source_url": "https://biorxiv.org",
       "category": "Papers"
     },
     {
