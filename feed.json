@@ -392,16 +392,6 @@
       "category": "Blogs"
     },
     {
-      "title": "Hammperspoon 真乃神器也",
-      "link": "https://www.gaojinan.com/hammerspoon.html",
-      "date": "2025-03-12 10:05",
-      "author": "搞机男",
-      "timestamp": 1741745100.0,
-      "summary": "Hammerspoon 是一个 macOS 上的自动化脚本工具，它将 macOS 系统的底层操作封装成了一堆接口，而且原生支持 lua 脚本，通过编码能实现很多牛逼/好玩的功能。下面是几个我目前...",
-      "source_url": "https://www.gaojinan.com/",
-      "category": "Blogs"
-    },
-    {
       "title": "卡牌构筑类桌游核心规则之五",
       "link": "https://blog.codingnow.com/2025/03/dbg_rules_5.html",
       "date": "2025-03-12 09:30",
@@ -3219,16 +3209,6 @@
       "timestamp": 1730212322.0,
       "summary": "沉默之沙 https://yukieyun.net/monthly-recap/2024-08-recap/ -八月还是干了很多事的，但都是繁琐人类生活里一些不得不做的事，并无多少意趣可言，决定摘录一点毛象嘟嘟凑数。\n房产投资小笑话\n\n今天听到的最好笑的一句话：王大爷已经活了八十岁了，他是没死过，但...",
       "source_url": "https://yukieyun.net/",
-      "category": "Blogs"
-    },
-    {
-      "title": "三年期腾讯云轻量服务器要到期了",
-      "link": "https://www.gaojinan.com/tencent-lighthouse-3years.html",
-      "date": "2024-10-28 11:13",
-      "author": "搞机男",
-      "timestamp": 1730085180.0,
-      "summary": "三年期的腾讯云轻量服务器要到期了刚看了一下 uptime，900天，万万没想到这么久没重启，下一次重启居然是因为自己要过期了哈哈",
-      "source_url": "https://www.gaojinan.com/",
       "category": "Blogs"
     },
     {
@@ -7072,16 +7052,6 @@
       "category": "Blogs"
     },
     {
-      "title": "华为悦盒 EC6108V9C 海纳思系统 Linux 刷机 安装 WIFI 驱动",
-      "link": "https://www.gaojinan.com/huawei-tvbox-ec6108-v9c.html",
-      "date": "2023-02-10 12:10",
-      "author": "搞机男",
-      "timestamp": 1676002200.0,
-      "summary": "按照 https://www.ecoo.top/usbflash/usbflash.html 教程把1001版本的固件刷好，重启。下载附件，解压缩后用 scp 或者 sftp 或者 xshell...",
-      "source_url": "https://www.gaojinan.com/",
-      "category": "Blogs"
-    },
-    {
       "title": "如何在服务器上部署一个基于 Node.js 的 TiddlyWiki",
       "link": "https://imzm.im/how-to-host-a-nodejs-version-tiddlywiki/",
       "date": "2023-02-09 14:16",
@@ -7742,16 +7712,6 @@
       "category": "Blogs"
     },
     {
-      "title": "大玩具入手~Tesla Model Y 标续",
-      "link": "https://www.gaojinan.com/tesla-model-y.html",
-      "date": "2021-12-12 20:59",
-      "author": "搞机男",
-      "timestamp": 1639313940.0,
-      "summary": "今天入手了一台大玩具哈哈~Tesla Model Y 标续版，零百5.6。等我开一段时间再水一篇和媳妇的 Q5 的对比测评~ 虽然咱不是专业测车的，水一水总是可以的吧hh陆续更新一下晒太阳挂牌啦...",
-      "source_url": "https://www.gaojinan.com/",
-      "category": "Blogs"
-    },
-    {
       "title": "从十二个愤怒的男人说起",
       "link": "https://blog.drpika.com/%E6%80%9D%E8%80%83/2021-11-22.html",
       "date": "2021-11-22 02:38",
@@ -7832,26 +7792,6 @@
       "category": "Blogs"
     },
     {
-      "title": "红米(小米) AirDots 蓝牙配对机制解密",
-      "link": "https://www.gaojinan.com/redmi-airdots-bluetooth-pair.html",
-      "date": "2021-04-07 14:20",
-      "author": "搞机男",
-      "timestamp": 1617776400.0,
-      "summary": "红米在 2019 年发布的这个 AirDots 一代虽然真的是白菜价，但是俗话说得好，一分价钱一分货，这东西便宜归便宜，用也是真的难用。我上上个月花了 36 块钱从 PDD 上搞了一台，刚拿到手...",
-      "source_url": "https://www.gaojinan.com/",
-      "category": "Blogs"
-    },
-    {
-      "title": "通过 UEFI Shell 添加引导的正确姿势",
-      "link": "https://www.gaojinan.com/uefi-shell-add-entry-for-windows-opencore.html",
-      "date": "2021-03-26 10:38",
-      "author": "搞机男",
-      "timestamp": 1616726280.0,
-      "summary": "最简单的插入姿势是：进入UEFI Shell，查看 EFI 文件所在的 fsV假如你的是 fs0，那么如何判断 fs0 目录下面就是 EFI 呢，可以这样验证：Shell&gt; ls fs0:...",
-      "source_url": "https://www.gaojinan.com/",
-      "category": "Blogs"
-    },
-    {
       "title": "读《蒂姆·库克传》",
       "link": "https://lutaonan.com/blog/reading-tim-cook",
       "date": "2021-03-14 08:00",
@@ -7869,16 +7809,6 @@
       "timestamp": 1615248000.0,
       "summary": "我在很早前已经听说过 Svelte, 但是一直没有机会在新的项目真正地用上。最近在尝试模仿实现一个 Roam Research 的编辑器，考虑到可能会有大量和 DOM 交互的逻辑，所以我趁这个机会选择了 Svelte, 目前这个编辑器的已经完成了大部分的功能，开源在 https://github.c...",
       "source_url": "https://lutaonan.com",
-      "category": "Blogs"
-    },
-    {
-      "title": "macOS Big Sur 下安装 pip2 (pip)",
-      "link": "https://www.gaojinan.com/macos-big-sur-python2-pip.html",
-      "date": "2021-03-01 14:16",
-      "author": "搞机男",
-      "timestamp": 1614579360.0,
-      "summary": "macOS Big Sur 默认调用的 Python 版本是 2.7.16，而非 Python3，但是比较奇怪的是，这个系统自带的 pip 版本又是 pip3，没有 pip2，这就导致有些情况下...",
-      "source_url": "https://www.gaojinan.com/",
       "category": "Blogs"
     },
     {
@@ -7919,16 +7849,6 @@
       "timestamp": 1610236800.0,
       "summary": "COVID-19 疫情最严重的时候我在广州，记得我 12 月底从杭州飞回广州的时候，根本没有想到事情会发展得和 SARS 一样严重。印象中那个时候的关键词是：安静，冷空气，未知。不知道这样的情况会持续多久，每天关注着 Telegram 的 Broadcast 看新增的感染有多少。同时还远程办公着，做...",
       "source_url": "https://lutaonan.com",
-      "category": "Blogs"
-    },
-    {
-      "title": "Android 11 刷入 Magisk 模块后无法开机的解决方法",
-      "link": "https://www.gaojinan.com/android-11-magisk-cant-boot-solve.html",
-      "date": "2020-12-31 09:53",
-      "author": "搞机男",
-      "timestamp": 1609379580.0,
-      "summary": "我的机器是 OnePlus 8 Pro, 这几天刷了一加刚出的 Android 11，刷了之后其他的都还好，只是 TWRP 没有能用的了，官方没有发布，XDA 上有一个开发者修改的，可惜还不支持...",
-      "source_url": "https://www.gaojinan.com/",
       "category": "Blogs"
     },
     {
@@ -7979,16 +7899,6 @@
       "timestamp": 1603130709.0,
       "summary": "Serverless 概念初探，腾云扣钉的差异化转型之路",
       "source_url": "https://blog.drpika.com/",
-      "category": "Blogs"
-    },
-    {
-      "title": "Filco 87 双模忍者圣手二代蓝牙连接正确方法",
-      "link": "https://www.gaojinan.com/filco-87-bluetooth.html",
-      "date": "2020-09-23 17:35",
-      "author": "搞机男",
-      "timestamp": 1600853700.0,
-      "summary": "PS：万年不更的我又更了！！！这键盘买了三年多了，一直没有搞懂这个谜一样的蓝牙连接逻辑，今天终于在知乎上看到一篇相关的操作教程，试了一下很靠谱，所以就更一篇博客记录一下。",
-      "source_url": "https://www.gaojinan.com/",
       "category": "Blogs"
     },
     {
@@ -8139,16 +8049,6 @@
       "timestamp": 1581724800.0,
       "summary": "你是否曾遇到过如下情况：\n\n应该给这个分区分配多少空间？另一个呢？\n我正在覆写一个文件，突然间设备断电了！我的源文件和更改全都损坏了！\n硬 RAID 卡太贵了，mdadm 用起来又太麻烦...\n我不想用 RAID，但是想把两块硬盘上的空间分配至一个分区中，有没有除了用 LVM 外的其它办法？\nLUK...",
       "source_url": "https://www.eaimty.com",
-      "category": "Blogs"
-    },
-    {
-      "title": "ArchLinux Manjaro Xfce 首装配置",
-      "link": "https://www.gaojinan.com/archlinux-manjaro-xfce-post-first-install.html",
-      "date": "2020-02-14 14:33",
-      "author": "搞机男",
-      "timestamp": 1581661980.0,
-      "summary": "昨天给家里那台老 X220 装了个 Manjaro 的 XFCE 版， 这里记录一下安装完成之后的配置过程。",
-      "source_url": "https://www.gaojinan.com/",
       "category": "Blogs"
     },
     {
@@ -8482,6 +8382,16 @@
       "category": "Blogs"
     },
     {
+      "title": "SnoBIRD: A tool to identify C/D box snoRNAs and refine their annotation across all eukaryotes",
+      "link": "https://www.biorxiv.org/content/10.1101/2025.04.01.646650v1?rss=1",
+      "date": "2025-04-06 08:00",
+      "author": "bioRxiv Subject Collection: Bioinformatics",
+      "timestamp": 1743897600.0,
+      "summary": "Small nucleolar RNAs (snoRNAs), a group of noncoding RNAs present amongst all eukaryotes, are most extensively characterized for their regulation of r...",
+      "source_url": "https://biorxiv.org",
+      "category": "Papers"
+    },
+    {
       "title": "SpatialAgent: An Autonomous AI Agent for Spatial Biology",
       "link": "https://www.biorxiv.org/content/10.1101/2025.04.03.646459v1?rss=1",
       "date": "2025-04-06 08:00",
@@ -8498,6 +8408,66 @@
       "author": "bioRxiv Subject Collection: Bioinformatics",
       "timestamp": 1743897600.0,
       "summary": "Actual versions of hifiasm often produce unbalanced haplotype contigs for autopolyploid genome assemblies. Adding a contraint on the distribution of p...",
+      "source_url": "https://biorxiv.org",
+      "category": "Papers"
+    },
+    {
+      "title": "A high-quality chromosome-level genome of an undescribed Meretrix species using Nanopore and Hi-C technologies",
+      "link": "https://www.biorxiv.org/content/10.1101/2025.04.01.646383v1?rss=1",
+      "date": "2025-04-06 08:00",
+      "author": "bioRxiv Subject Collection: Genomics",
+      "timestamp": 1743897600.0,
+      "summary": "Meretrix is a commercially valuable bivalve genus in Asia, but only one reference genome has hindered comprehensive genetic studies and germplasm reso...",
+      "source_url": "https://biorxiv.org",
+      "category": "Papers"
+    },
+    {
+      "title": "Sex Chromosome Turnover and Structural Interspecific Genome Divergence Shapes Meiotic Outcomes in Hybridizing Cobitis",
+      "link": "https://www.biorxiv.org/content/10.1101/2025.04.01.646337v1?rss=1",
+      "date": "2025-04-06 08:00",
+      "author": "bioRxiv Subject Collection: Genomics",
+      "timestamp": 1743897600.0,
+      "summary": "It has been empirically established that genome mixing between divergent species can trigger meiotic aberrations, ultimately leading to the emergence ...",
+      "source_url": "https://biorxiv.org",
+      "category": "Papers"
+    },
+    {
+      "title": "Genomic Insights into the Evolution of Carnivory in the Giant Butterwort, Pinguicula gigantea: Chromosome-Level Assembly and Phylogenomic Analysis",
+      "link": "https://www.biorxiv.org/content/10.1101/2025.04.05.646448v1?rss=1",
+      "date": "2025-04-06 08:00",
+      "author": "bioRxiv Subject Collection: Genomics",
+      "timestamp": 1743897600.0,
+      "summary": "Carnivorous plants provide a powerful system for studying plant morphological and physiological evolution. These plants capture and digest prey for nu...",
+      "source_url": "https://biorxiv.org",
+      "category": "Papers"
+    },
+    {
+      "title": "A new chromosome-level genome assembly for western painted turtle Chrysemys picta belli, a model for extreme physiological adaptations",
+      "link": "https://www.biorxiv.org/content/10.1101/2025.04.01.646645v1?rss=1",
+      "date": "2025-04-06 08:00",
+      "author": "bioRxiv Subject Collection: Genomics",
+      "timestamp": 1743897600.0,
+      "summary": "The western painted turtle, Chrysemys picta bellii, has the greatest tolerance to anoxia of any tetrapod studied to date. These turtles reside in the ...",
+      "source_url": "https://biorxiv.org",
+      "category": "Papers"
+    },
+    {
+      "title": "Chromosome-level genome assembly of Tamarindus indica",
+      "link": "https://www.biorxiv.org/content/10.1101/2025.04.01.646601v1?rss=1",
+      "date": "2025-04-06 08:00",
+      "author": "bioRxiv Subject Collection: Genomics",
+      "timestamp": 1743897600.0,
+      "summary": "Tamarindus indica is the sole member of the genus Tamarindus of the Leguminosae family. It is a multipurpose horticultural plant, with every part of t...",
+      "source_url": "https://biorxiv.org",
+      "category": "Papers"
+    },
+    {
+      "title": "De novo genome assemblies of the dwarf honey bee subgenus Micrapis: Apis andreniformis and Apis florea",
+      "link": "https://www.biorxiv.org/content/10.1101/2025.04.01.646657v1?rss=1",
+      "date": "2025-04-06 08:00",
+      "author": "bioRxiv Subject Collection: Genomics",
+      "timestamp": 1743897600.0,
+      "summary": "The Micrapis subgenus, which includes the black dwarf honey bee (Apis andreniformis) and the red dwarf honey bee (Apis florea), remains underrepresent...",
       "source_url": "https://biorxiv.org",
       "category": "Papers"
     },
@@ -8972,16 +8942,6 @@
       "category": "Papers"
     },
     {
-      "title": "Evidence of off-target probe binding in the 10x Genomics Xenium v1 Human Breast Gene Expression Panel compromises accuracy of spatial transcriptomic profiling",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.03.31.646342v1?rss=1",
-      "date": "2025-04-03 08:00",
-      "author": "bioRxiv Subject Collection: Bioinformatics",
-      "timestamp": 1743638400.0,
-      "summary": "The accuracy of spatial gene expression profiles generated by probe-based in situ spatially-resolved transcriptomic technologies depends on the specif...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
       "title": "Defining effective strategies to integrate multi-sample single-nucleus ATAC-seq datasets via a multimodal-guided approach",
       "link": "https://www.biorxiv.org/content/10.1101/2025.04.02.646871v1?rss=1",
       "date": "2025-04-03 08:00",
@@ -9162,56 +9122,6 @@
       "category": "Papers"
     },
     {
-      "title": "Female-biased vascular smooth muscle cell gene regulatory networks predict MYH9 as a key regulator of fibrous plaque phenotype",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.03.28.645955v1?rss=1",
-      "date": "2025-04-02 08:00",
-      "author": "bioRxiv Subject Collection: Genomics",
-      "timestamp": 1743552000.0,
-      "summary": "Atherosclerosis, a chronic inflammatory condition driving coronary artery disease (CAD), manifests in two primary plaque types: unstable atheromatous ...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "Protocol for Extracting Circulating Cell-Free DNA from Murine Saliva: Insights into Oral and Systemic Disease Research",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.03.31.645839v1?rss=1",
-      "date": "2025-04-02 08:00",
-      "author": "bioRxiv Subject Collection: Genomics",
-      "timestamp": 1743552000.0,
-      "summary": "Circulating cell-free DNA (cfDNA) consists of small fragments of extracellular DNA from mammalian and bacterial cells found in bodily fluids such as b...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "KhufuEnv, an auxiliary toolkit for building computational pipelines for plant and animal breeding",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.03.28.645917v1?rss=1",
-      "date": "2025-04-02 08:00",
-      "author": "bioRxiv Subject Collection: Genomics",
-      "timestamp": 1743552000.0,
-      "summary": "In the era of short and long read sequencing, vast amounts of DNA sequencing data are being generated. While a variety of tools exist for analyzing an...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "A new genome assembly of the pea cultivar Cameor provides resources for functional genomics and genetics",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.04.01.645976v1?rss=1",
-      "date": "2025-04-02 08:00",
-      "author": "bioRxiv Subject Collection: Genomics",
-      "timestamp": 1743552000.0,
-      "summary": "Significant improvements in sequencing technologies have allowed the development of more contiguous genome assemblies in many plant species. The pea g...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "The information content of species: formal definitions of pangenome complexity track with bacterial lifestyle",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.03.28.645969v1?rss=1",
-      "date": "2025-04-02 08:00",
-      "author": "bioRxiv Subject Collection: Genomics",
-      "timestamp": 1743552000.0,
-      "summary": "The information content encoded in the genomes of species varies across the microbial tree of life. Bacterial lifestyle has been shown to drive this i...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
       "title": "Reactivation of retrotransposable elements is associated with environmental stress and ageing",
       "link": "https://www.nature.com/articles/s41576-025-00829-y",
       "date": "2025-04-02 08:00",
@@ -9269,16 +9179,6 @@
       "timestamp": 1743552000.0,
       "summary": "无摘要",
       "source_url": "https://www.nature.com/subjects/bioinformatics",
-      "category": "Papers"
-    },
-    {
-      "title": "CRISPR/Cas9-mediated editing of the ADE2 locus in Saccharomyces cerevisiae: targeted mutagenesis and homology-directed repair",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.03.30.646154v1?rss=1",
-      "date": "2025-04-01 08:00",
-      "author": "bioRxiv Subject Collection: Genomics",
-      "timestamp": 1743465600.0,
-      "summary": "The CRISPR/Cas9 system, derived from the adaptive immune defence of bacteria and archaea, has emerged as a powerful tool for genome engineering by ena...",
-      "source_url": "https://biorxiv.org",
       "category": "Papers"
     },
     {
