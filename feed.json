@@ -1232,16 +1232,6 @@
       "category": "Blogs"
     },
     {
-      "title": "2.7 闪击济南记录",
-      "link": "https://blog.tonyding.net/archives/29/",
-      "date": "2025-02-08 23:26",
-      "author": "Tony Ding's Blog",
-      "timestamp": 1739028360.0,
-      "summary": "开卡/蠢材吧/闲逛/享受一等座",
-      "source_url": "https://blog.tonyding.net/",
-      "category": "Blogs"
-    },
-    {
       "title": "2024年度最别开生面的新生态",
       "link": "https://www.darknavy.org/zh/darknavy_insight/the_most_groundbreaking_new_security_ecosystem_of_2024/",
       "date": "2025-02-08 17:10",
@@ -4282,16 +4272,6 @@
       "category": "Blogs"
     },
     {
-      "title": "冲动消费喜加一：小米手环 9 陶瓷特别版半日简评",
-      "link": "https://blog.tonyding.net/archives/26/",
-      "date": "2024-07-21 21:40",
-      "author": "Tony Ding's Blog",
-      "timestamp": 1721569200.0,
-      "summary": "我也不知道怎么就被陶瓷给迷住了...",
-      "source_url": "https://blog.tonyding.net/",
-      "category": "Blogs"
-    },
-    {
       "title": "北河三｜2024年7月小结",
       "link": "https://thirdshire.com/july-recap-2024/",
       "date": "2024-07-21 11:29",
@@ -4399,16 +4379,6 @@
       "timestamp": 1719883194.0,
       "summary": "在更新到 openssh-9.8p1 之后，现存的 SSH 守护进程将无法再接受新的连接（详见 https:/ [&#8230;]",
       "source_url": "https://www.archlinuxcn.org",
-      "category": "Blogs"
-    },
-    {
-      "title": "ThinkPad X1 Tablet Gen 2 Hackintosh 配置手记",
-      "link": "https://blog.tonyding.net/archives/20/",
-      "date": "2024-06-30 17:42",
-      "author": "Tony Ding's Blog",
-      "timestamp": 1719740520.0,
-      "summary": "很久没折腾过黑果了，一是手上没有合适装的设备（主力机是 11 代，而经手过的几个玩具都是性能差到完全没动力去花时间的存在），二是...没时间没精力，毕竟配 EFI 这个活干过的都知道有多折磨人。...",
-      "source_url": "https://blog.tonyding.net/",
       "category": "Blogs"
     },
     {
@@ -5112,16 +5082,6 @@
       "category": "Blogs"
     },
     {
-      "title": "一个六岁开源项目的崩溃与新生",
-      "link": "https://xlog.app/api/redirection?characterId=10&noteId=2532",
-      "date": "2024-03-11 03:29",
-      "author": "Hi, DIYgod",
-      "timestamp": 1710098945.0,
-      "summary": "我有一个维护了六年的开源项目—— RSSHub，它正在面临崩溃\n\n表面上，它有接近 30k Stars、900 多 Contributors、每月 3 亿多次请求和数不清的用户、每月几十刀的赞助、有源源不断的 issue 和 pr、代码几乎每天更新，非常健康和充满活力",
-      "source_url": "https://diygod.cc",
-      "category": "Blogs"
-    },
-    {
       "title": "2024 香港银行开户指北",
       "link": "https://kowyo.com/post/my-first-master-card/",
       "date": "2024-03-10 22:07",
@@ -5322,16 +5282,6 @@
       "category": "Blogs"
     },
     {
-      "title": "和帕鲁生活在一起的两周",
-      "link": "https://xlog.app/api/redirection?characterId=10&noteId=2510",
-      "date": "2024-02-19 03:20",
-      "author": "Hi, DIYgod",
-      "timestamp": 1708284033.0,
-      "summary": "哪个小男孩没幻想过生活在这样一个充满宝可梦伙伴的世界，它们能听懂且愿意倾听我们说话，有着不同的特点和强大的技能，而且都很可爱，我们可以跟它们睡觉吃饭、并肩作战探索世界，永远不再孤独，不管是谁都可以找到最适合自己的宝可梦",
-      "source_url": "https://diygod.cc",
-      "category": "Blogs"
-    },
-    {
       "title": "A collection of some useful websites",
       "link": "https://www.mengke.me/blog/202402/LearningWebsites",
       "date": "2024-02-18 08:00",
@@ -5442,16 +5392,6 @@
       "category": "Blogs"
     },
     {
-      "title": "OnePlus Ace Pro 简评",
-      "link": "https://blog.tonyding.net/archives/16/",
-      "date": "2024-02-11 22:51",
-      "author": "Tony Ding's Blog",
-      "timestamp": 1707663060.0,
-      "summary": "这回旋镖打回来的有点快...",
-      "source_url": "https://blog.tonyding.net/",
-      "category": "Blogs"
-    },
-    {
       "title": "我的年度工具折腾之旅",
       "link": "https://tw93.fun/2024-02-09/tools.html",
       "date": "2024-02-09 08:00",
@@ -5459,16 +5399,6 @@
       "timestamp": 1707436800.0,
       "summary": "最近趁着过年有空，将一年自己使用的比较不错的 Mac 软件、网站、生活好物给整理了一下，保持着简单易用美观的原则，期待当你有同样选择纠结的时候的一些帮助。\n\nMac 软件\n\n今年没有过多的折腾软件，更多是在持续使用的基础上去做些优化让自己用起来更舒服，尽量不用两种功能类似的软件，保持简单易用美观的原...",
       "source_url": "https://tw93.fun",
-      "category": "Blogs"
-    },
-    {
-      "title": "Pixel 7a 三月体验",
-      "link": "https://blog.tonyding.net/archives/14/",
-      "date": "2024-02-04 20:33",
-      "author": "Tony Ding's Blog",
-      "timestamp": 1707049980.0,
-      "summary": "本来应该是两周体验的...",
-      "source_url": "https://blog.tonyding.net/",
       "category": "Blogs"
     },
     {
@@ -5519,16 +5449,6 @@
       "timestamp": 1706461137.0,
       "summary": "文章是 2023-08-07 写的，后面就完全忘掉这回事了，今天偶然翻到它才想起要整理发布下&hellip;所以注意文章中的时间线是 2023 年 8 月。\n\n零、前言我从今年 5 月份初收到了内测板的 Lichee Pi 4A，这是当下性能最高的 RISC-V 开发板之一，不过当时没怎么折腾。",
       "source_url": "https://thiscute.world/",
-      "category": "Blogs"
-    },
-    {
-      "title": "Twitter 对开源项目发起 DDoS 攻击",
-      "link": "https://xlog.app/api/redirection?characterId=10&noteId=2456",
-      "date": "2024-01-28 18:24",
-      "author": "Hi, DIYgod",
-      "timestamp": 1706437493.0,
-      "summary": "背景 Twitter 被马斯克收购后，从去年 8 月开始，他们对开源第三方集成和第三方客户端进行了一系列明里暗里的打压和攻击，这样做是为了阻止用户通过非官方客户端访问和使用 Twitter，来增加公司的广告和会员营收\n\n而开源社区中以 Nitter 和 RSSHub…",
-      "source_url": "https://diygod.cc",
       "category": "Blogs"
     },
     {
@@ -5599,16 +5519,6 @@
       "timestamp": 1705674947.0,
       "summary": "记录时间：12.22 – 1.18\n太阳经过星座：人马座｜Sagittarius\n最亮恒星：箕宿三 Kaus Australis\n本月事件\n\n圣诞节假期去朋友家住了几天。她们家两个大人带两个小孩确实辛苦。我问朋友为什么决定生第二个，她说很向往那种大家庭的氛围，确实人与人之前的追求不同。甘蔗没有两头甜...",
       "source_url": "https://thirdshire.com/",
-      "category": "Blogs"
-    },
-    {
-      "title": "如何优雅编译一个 Markdown 文档",
-      "link": "https://xlog.app/api/redirection?characterId=10&noteId=2434",
-      "date": "2024-01-18 20:50",
-      "author": "Hi, DIYgod",
-      "timestamp": 1705582237.0,
-      "summary": "Markdown 是一种广泛使用的轻量级标记语言，允许人们使用易读易写的纯文本格式编写文档，也是 xLog 主要使用的文章格式，本文就以 xLog Flavored Markdown 为例来说明如何优雅地解析一个 Markdown 文档",
-      "source_url": "https://diygod.cc",
       "category": "Blogs"
     },
     {
@@ -5689,16 +5599,6 @@
       "timestamp": 1704816779.0,
       "summary": "那么现在将它带到康涅狄格州，让它在荆棘中间，在藤蔓当中像小狗一样，像豹子一样跑来跑去。\nThe post 生活的幻觉｜2023年播客总结 appeared first on To the Lighthouse.",
       "source_url": "https://owlswims.com/",
-      "category": "Blogs"
-    },
-    {
-      "title": "2023 平稳过渡",
-      "link": "https://xlog.app/api/redirection?characterId=10&noteId=2358",
-      "date": "2024-01-08 22:23",
-      "author": "Hi, DIYgod",
-      "timestamp": 1704723798.0,
-      "summary": "发小觉得今年经历了巨大的变化，从苏格兰搬到新加坡，从未婚到已婚，从一家两口变成了一家三口，但我觉得都在预料之中，所以感觉还算很平稳",
-      "source_url": "https://diygod.cc",
       "category": "Blogs"
     },
     {
@@ -5909,16 +5809,6 @@
       "timestamp": 1702824003.0,
       "summary": "“博客教”信徒们大家好，欢迎收看“一博真相”，我是主播不加盐。 众所周知，由于“博客教”形式宗和质料宗的信徒对教义的理解存在较大的分歧，经常出现两宗派信徒互掐的现象，甚至扬言要让对方滚出“博客教”。但...",
       "source_url": "https://www.ntiy.com",
-      "category": "Blogs"
-    },
-    {
-      "title": "轻松创建一万个 Twitter 账号",
-      "link": "https://xlog.app/api/redirection?characterId=10&noteId=2292",
-      "date": "2023-12-15 18:14",
-      "author": "Hi, DIYgod",
-      "timestamp": 1702635286.0,
-      "summary": "Twitter 在 8 月决定了全面限制公开访问和 API 接口，导致第三方集成均无法再正常工作。开放用户数据被绑架成私人敛财工具，曾经的 Open Web 标杆 Twitter 竟沦落到这种境地，数字奴隶制在最不应该的地方出现，令人唏嘘",
-      "source_url": "https://diygod.cc",
       "category": "Blogs"
     },
     {
@@ -6482,16 +6372,6 @@
       "category": "Blogs"
     },
     {
-      "title": "优雅使用 Cloudflare WARP 应对  RSSHub 反爬难题",
-      "link": "https://xlog.app/api/redirection?characterId=10&noteId=2022",
-      "date": "2023-08-18 06:01",
-      "author": "Hi, DIYgod",
-      "timestamp": 1692309711.0,
-      "summary": "🕊️ 本文送给更开放的互联网 起因是看到 @geekbb 介绍 Warp 的推文。尽管 Warp 已经发布了很长时间，就保护 IP 隐私而言，它并没有 iCloud Private Relay 好用，我也没有魔法上网的需求。但是我突然意识到，我还是有隐藏 IP 的需求。\n\n在开…",
-      "source_url": "https://diygod.cc",
-      "category": "Blogs"
-    },
-    {
       "title": "月刊（第22期）：当下的快乐",
       "link": "https://blog.ursb.me/posts/weekly-22/",
       "date": "2023-08-13 15:55",
@@ -6499,16 +6379,6 @@
       "timestamp": 1691913336.0,
       "summary": "本篇是对二〇二三年五月至八月生活的记录与思考。\n最近周末比较忙导致断更了，感谢催更同学的关注：\n💐 当下的快乐\n本文标题来源于莪默·伽亚谟《鲁拜集》——“享受当下的快乐，因为这一刻正是你的人生。”\n\nPS. 我一直把月刊中的文章定位为“自我对话”，只有对话结果满意的文章我才会拿出来修整一番重新在博客...",
       "source_url": "https://blog.ursb.me/",
-      "category": "Blogs"
-    },
-    {
-      "title": "在博客融入一个跨平台作品集",
-      "link": "https://xlog.app/api/redirection?characterId=10&noteId=1957",
-      "date": "2023-08-08 06:34",
-      "author": "Hi, DIYgod",
-      "timestamp": 1691447658.0,
-      "summary": "长久以来# 我一直将个人博客视为一个理想的展示个人 IP 的 “个人网站”，而不仅仅是发布文章的平台。我曾在 2014 年初学编程时使用 WordPress 建站 《世界，你好！》；入了前端坑后，在 2017 年我转向了 Hexo 《做了一点微小的改动》；Web3 飞升后…",
-      "source_url": "https://diygod.cc",
       "category": "Blogs"
     },
     {
@@ -6599,16 +6469,6 @@
       "timestamp": 1689582747.0,
       "summary": "期待已久的碟中谍7终于上映，按照顶配 IMAX 观影。时长163分钟是系列最长，观影结束后最大的问题也出现在这 [&#8230;]",
       "source_url": "https://imzm.im",
-      "category": "Blogs"
-    },
-    {
-      "title": "对 Newsletter 说不",
-      "link": "https://xlog.app/api/redirection?characterId=10&noteId=1825",
-      "date": "2023-07-13 02:31",
-      "author": "Hi, DIYgod",
-      "timestamp": 1689186673.0,
-      "summary": "衰退无处不在，这是很正常的现象。人们自然而然地更倾向于短平快的消费方式。然而，我一直无法忍受的一种奇怪趋势是，在一些地方，人们将 RSS 抛弃，转而使用 Newsletter。 本质上，电子邮件是一种私密的双向通信机制，而 RSS 是一种开放的单向通信机制…",
-      "source_url": "https://diygod.cc",
       "category": "Blogs"
     },
     {
@@ -6712,16 +6572,6 @@
       "category": "Blogs"
     },
     {
-      "title": "一波三折的 ThinkPad X13 Gen2 工程机体验",
-      "link": "https://blog.tonyding.net/archives/12/",
-      "date": "2023-06-14 22:11",
-      "author": "Tony Ding's Blog",
-      "timestamp": 1686751860.0,
-      "summary": "我终于还是抛弃了 SPX...",
-      "source_url": "https://blog.tonyding.net/",
-      "category": "Blogs"
-    },
-    {
       "title": "发生在计算机内存里的进化：解密遗传算法(Genetic Algorithm)",
       "link": "https://www.longluo.me/blog/genetic-algorithm/",
       "date": "2023-06-12 08:32",
@@ -6809,16 +6659,6 @@
       "timestamp": 1685319347.0,
       "summary": "本期共有 44 个项目，包含 C 项目 (2)，C# 项目 (2)，C++ 项目 (4)，Go 项目 (5)，Java 项目 (3)，JavaScript 项目 (5)，PHP 项目 (2)，Python 项目 (5)，Rust 项目 (3)，Swift 项目 (2)，人工智能 (4)，其它 (5)...",
       "source_url": "https://hellogithub.com",
-      "category": "Blogs"
-    },
-    {
-      "title": "4 月新番太好看了！吹爆！",
-      "link": "https://xlog.app/api/redirection?characterId=10&noteId=1614",
-      "date": "2023-05-25 07:32",
-      "author": "Hi, DIYgod",
-      "timestamp": 1684971149.0,
-      "summary": "今年从 1 月就一直没什么好看的作品，到了 4 月突然爆发，让我非常激动。现在播出过半了，是时候好好说说感受了 以下当然不能囊括 4 月所有的好作品，因为实在太多了，只是说一说符合我口味的几部，按我个人的喜爱程度来排序\n\n以下会包含大量剧透，还没看的小伙伴请酌情观看\n\n鬼灭之刃刀匠…",
-      "source_url": "https://diygod.cc",
       "category": "Blogs"
     },
     {
@@ -6922,16 +6762,6 @@
       "category": "Blogs"
     },
     {
-      "title": "我得了软件更新强迫症",
-      "link": "https://xlog.app/api/redirection?characterId=10&noteId=914",
-      "date": "2023-04-09 07:00",
-      "author": "Hi, DIYgod",
-      "timestamp": 1680994800.0,
-      "summary": "我必须让身边所有软件都保持最新版本，就像走路不能踩到地砖缝缝一样，没有意义，但也危害不大，所以我放任它发展",
-      "source_url": "https://diygod.cc",
-      "category": "Blogs"
-    },
-    {
       "title": "月刊（第20期）：重启人生",
       "link": "https://blog.ursb.me/posts/weekly-20/",
       "date": "2023-04-02 21:53",
@@ -6939,16 +6769,6 @@
       "timestamp": 1680443630.0,
       "summary": "本篇是对二〇二三年三月生活的记录与思考。\n🎬 本月书影音\n\n在读：小说 |《德米安》 | ★★★★★\n在读：小说 |《少年巴比伦》| ★★★★★\n在读：文学 |《西方文学史》| ★★★★☆\n看完：日剧 |《重启人生》| ★★★★★★\n看完：韩剧 |《黑暗荣耀》 | ★★★★★\n看完：美剧 |《最后生...",
       "source_url": "https://blog.ursb.me/",
-      "category": "Blogs"
-    },
-    {
-      "title": "令我痛心的三部反乌托邦动漫",
-      "link": "https://xlog.app/api/redirection?characterId=10&noteId=764",
-      "date": "2023-04-02 12:50",
-      "author": "Hi, DIYgod",
-      "timestamp": 1680411000.0,
-      "summary": "四月对我而言是一个充满悲伤的月份。尽管《四月是你的谎言》已经过去了很多年，但每当看到「四月」这两个字，仍会立刻触发我的 PTSD，再加上今天我刚读完一本反乌托邦题材的小说《来自新世界》。多种思绪糅杂在一起，让我不禁回想起了那些令我痛心的「重量级」反乌托邦动漫",
-      "source_url": "https://diygod.cc",
       "category": "Blogs"
     },
     {
@@ -7132,16 +6952,6 @@
       "category": "Blogs"
     },
     {
-      "title": "Galaxy S21 FE 半年简评",
-      "link": "https://blog.tonyding.net/archives/11/",
-      "date": "2023-01-21 22:35",
-      "author": "Tony Ding's Blog",
-      "timestamp": 1674311700.0,
-      "summary": "稍微写写手上这台我又吹又骂了近半年的机器吧（",
-      "source_url": "https://blog.tonyding.net/",
-      "category": "Blogs"
-    },
-    {
       "title": "2022 年终总结",
       "link": "https://lutaonan.com/blog/2022-summary",
       "date": "2023-01-09 08:00",
@@ -7202,16 +7012,6 @@
       "category": "Blogs"
     },
     {
-      "title": "意料之外的螃蟹：中信银行 FIFA 世界杯主题 Visa 借记卡",
-      "link": "https://blog.tonyding.net/archives/9/",
-      "date": "2022-12-05 10:24",
-      "author": "Tony Ding's Blog",
-      "timestamp": 1670207040.0,
-      "summary": "（文章最后更新：2025.2.9）我也没想到我一个压根不踢球也不看世界杯的人，会为了一张世界杯联名的卡折腾那么久...",
-      "source_url": "https://blog.tonyding.net/",
-      "category": "Blogs"
-    },
-    {
       "title": "月刊（第16期）：个人信息流分享",
       "link": "https://blog.ursb.me/posts/weekly-16/",
       "date": "2022-12-03 20:48",
@@ -7252,16 +7052,6 @@
       "category": "Blogs"
     },
     {
-      "title": "特别的第一张卡：兴业银行美国运通借记卡体验",
-      "link": "https://blog.tonyding.net/archives/6/",
-      "date": "2022-11-12 23:29",
-      "author": "Tony Ding's Blog",
-      "timestamp": 1668266940.0,
-      "summary": "（文章最后更新：2025.2.9）第一篇文章，就先说说这张卡好了。",
-      "source_url": "https://blog.tonyding.net/",
-      "category": "Blogs"
-    },
-    {
       "title": "我们都是新穷人",
       "link": "https://hutusi.com/articles/the-new-poor",
       "date": "2022-11-06 21:21",
@@ -7269,16 +7059,6 @@
       "timestamp": 1667740860.0,
       "summary": "《新约·马太福音》中说：“富人进入天堂比骆驼穿过针眼还要难。”古往今来，无论是民间传说，还是文学作品，富人大多是以贪婪、吝啬、狡诈等负面形象出现，而穷人大多正直、善良，嫉恶如仇。也就是说，道德高尚者往往以穷人的身份出现，他们安贫乐道，视金钱如粪土。从某种意义上说，贫穷是一件美德。这符合广大老百姓的期...",
       "source_url": "https://hutusi.com/",
-      "category": "Blogs"
-    },
-    {
-      "title": "终于又把 blog 建起来了",
-      "link": "https://blog.tonyding.net/archives/1/",
-      "date": "2022-11-05 12:35",
-      "author": "Tony Ding's Blog",
-      "timestamp": 1667622900.0,
-      "summary": "这也不是我第一次建 blog 了，两年前那段封锁的日子里，我就在一台开着玩的 Vultr 机器上建了一个 Typecho，甚至还写了两篇完全没人看的文章。但毕竟是开着玩，那个站以及那两篇文章不到...",
-      "source_url": "https://blog.tonyding.net/",
       "category": "Blogs"
     },
     {
@@ -8482,6 +8262,16 @@
       "category": "Blogs"
     },
     {
+      "title": "Single-cell transcriptome integrated with genome-wide association study reveals heterogeneity of carotid and femoral plaques and its association with plaque stability",
+      "link": "https://www.nature.com/articles/s41598-025-96434-4",
+      "date": "2025-04-07 08:00",
+      "author": "Bioinformatics : nature.com subject feeds",
+      "timestamp": 1743984000.0,
+      "summary": "无摘要",
+      "source_url": "https://www.nature.com/subjects/bioinformatics",
+      "category": "Papers"
+    },
+    {
       "title": "SnoBIRD: A tool to identify C/D box snoRNAs and refine their annotation across all eukaryotes",
       "link": "https://www.biorxiv.org/content/10.1101/2025.04.01.646650v1?rss=1",
       "date": "2025-04-06 08:00",
@@ -8508,6 +8298,16 @@
       "author": "bioRxiv Subject Collection: Bioinformatics",
       "timestamp": 1743897600.0,
       "summary": "Actual versions of hifiasm often produce unbalanced haplotype contigs for autopolyploid genome assemblies. Adding a contraint on the distribution of p...",
+      "source_url": "https://biorxiv.org",
+      "category": "Papers"
+    },
+    {
+      "title": "Comparative analysis of mammalian adaptive immune loci revealed spectacular divergence and common genetic patterns",
+      "link": "https://www.biorxiv.org/content/10.1101/2025.04.01.646651v1?rss=1",
+      "date": "2025-04-06 08:00",
+      "author": "bioRxiv Subject Collection: Genomics",
+      "timestamp": 1743897600.0,
+      "summary": "Adaptive immune responses are mediated by the production of adaptive immune receptors, antibodies and T-cell receptors, that bind antigens, thus causi...",
       "source_url": "https://biorxiv.org",
       "category": "Papers"
     },
@@ -9212,16 +9012,6 @@
       "category": "Papers"
     },
     {
-      "title": "Machine learning-predicted chromatin organization landscape across pediatric tumors",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.03.28.645984v1?rss=1",
-      "date": "2025-04-02 08:00",
-      "author": "bioRxiv Subject Collection: Genomics",
-      "timestamp": 1743552000.0,
-      "summary": "Structural variants (SVs) are increasingly recognized as important contributors to oncogenesis through their effects on 3D genome folding. Recent adva...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
       "title": "Reactivation of retrotransposable elements is associated with environmental stress and ageing",
       "link": "https://www.nature.com/articles/s41576-025-00829-y",
       "date": "2025-04-02 08:00",
@@ -9667,16 +9457,6 @@
       "date": "2025-02-28 08:00",
       "author": "Bioinformatics : nature.com subject feeds",
       "timestamp": 1740700800.0,
-      "summary": "无摘要",
-      "source_url": "https://www.nature.com/subjects/bioinformatics",
-      "category": "Papers"
-    },
-    {
-      "title": "Mass-spectrometry-based proteomics: from single cells to clinical applications",
-      "link": "https://www.nature.com/articles/s41586-025-08584-0",
-      "date": "2025-02-26 08:00",
-      "author": "Bioinformatics : nature.com subject feeds",
-      "timestamp": 1740528000.0,
       "summary": "无摘要",
       "source_url": "https://www.nature.com/subjects/bioinformatics",
       "category": "Papers"
