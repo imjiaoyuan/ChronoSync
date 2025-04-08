@@ -8482,6 +8482,26 @@
       "category": "Blogs"
     },
     {
+      "title": "RAG-ESM: Improving pretrained protein language models via sequence retrieval",
+      "link": "https://www.biorxiv.org/content/10.1101/2025.04.02.646805v1?rss=1",
+      "date": "2025-04-08 08:00",
+      "author": "bioRxiv Subject Collection: Bioinformatics",
+      "timestamp": 1744070400.0,
+      "summary": "Protein language models are significantly advancing the modeling of sequence-function relationships. However, most of them are not directly informed o...",
+      "source_url": "https://biorxiv.org",
+      "category": "Papers"
+    },
+    {
+      "title": "Nuc3DMap delineates finer nucleosome-based three-dimensional chromatin architecture",
+      "link": "https://www.biorxiv.org/content/10.1101/2025.04.03.647017v1?rss=1",
+      "date": "2025-04-08 08:00",
+      "author": "bioRxiv Subject Collection: Bioinformatics",
+      "timestamp": 1744070400.0,
+      "summary": "Currently, there lacks a method to delineate finer nucleosome-based 3D chromatin architecture. In this study, we develop a novel computational method,...",
+      "source_url": "https://biorxiv.org",
+      "category": "Papers"
+    },
+    {
       "title": "SPAC: a scalable, integrated enterprise platform for end-to-end single cell spatial analysis of multiplexed tissue imaging",
       "link": "https://www.biorxiv.org/content/10.1101/2025.04.02.646782v1?rss=1",
       "date": "2025-04-08 08:00",
@@ -8569,6 +8589,16 @@
       "timestamp": 1744070400.0,
       "summary": "无摘要",
       "source_url": "https://www.nature.com/subjects/genomics",
+      "category": "Papers"
+    },
+    {
+      "title": "MSFragger-DDA+ enhances peptide identification sensitivity with full isolation window search",
+      "link": "https://www.nature.com/articles/s41467-025-58728-z",
+      "date": "2025-04-08 08:00",
+      "author": "Bioinformatics : nature.com subject feeds",
+      "timestamp": 1744070400.0,
+      "summary": "无摘要",
+      "source_url": "https://www.nature.com/subjects/bioinformatics",
       "category": "Papers"
     },
     {
@@ -9099,26 +9129,6 @@
       "timestamp": 1743811200.0,
       "summary": "无摘要",
       "source_url": "https://www.nature.com/subjects/genomics",
-      "category": "Papers"
-    },
-    {
-      "title": "FedNolowe: A Normalized Loss-Based Weighted Aggregation Strategy for Robust Federated Learning in Heterogeneous Environments",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.03.30.646222v1?rss=1",
-      "date": "2025-04-04 08:00",
-      "author": "bioRxiv Subject Collection: Bioinformatics",
-      "timestamp": 1743724800.0,
-      "summary": "Federated Learning supports collaborative model training across distributed clients while keeping sensitive data decentralized. Still, non-independent...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "Integration of nuclear morphology and 3D imaging to profile cellular neighborhoods",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.03.31.646356v1?rss=1",
-      "date": "2025-04-04 08:00",
-      "author": "bioRxiv Subject Collection: Bioinformatics",
-      "timestamp": 1743724800.0,
-      "summary": "Nuclear morphology is an indicator of cellular function and disease states, as changes in nuclear size, shape, and texture often reflect underlying di...",
-      "source_url": "https://biorxiv.org",
       "category": "Papers"
     },
     {
@@ -9664,16 +9674,6 @@
     {
       "title": "Integrating DNA metabarcoding and morphological analysis improves marine zooplankton biodiversity assessment",
       "link": "https://www.nature.com/articles/s41598-025-89684-9",
-      "date": "2025-03-01 08:00",
-      "author": "Bioinformatics : nature.com subject feeds",
-      "timestamp": 1740787200.0,
-      "summary": "无摘要",
-      "source_url": "https://www.nature.com/subjects/bioinformatics",
-      "category": "Papers"
-    },
-    {
-      "title": "MurG as a potential target of quercetin in Staphylococcus aureus supported by evidence from subtractive proteomics and molecular dynamics",
-      "link": "https://www.nature.com/articles/s41598-025-90395-4",
       "date": "2025-03-01 08:00",
       "author": "Bioinformatics : nature.com subject feeds",
       "timestamp": 1740787200.0,
