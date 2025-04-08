@@ -2,6 +2,16 @@
   "update_time": "2025-04-08",
   "articles": [
     {
+      "title": "稀缺大脑",
+      "link": "https://imzm.im/scarcity-brain/",
+      "date": "2025-04-08 14:45",
+      "author": "陈仓颉",
+      "timestamp": 1744094736.0,
+      "summary": "Scarcity Brain，作者 Michael Easter。本书内容稍显冗长啰嗦，用了大量讲故事的叙事手 [&#8230;]",
+      "source_url": "https://imzm.im",
+      "category": "Blogs"
+    },
+    {
       "title": "棱镜通讯 No.113  亚伦·斯沃兹（Aaron Swartz）",
       "link": "https://wangyurui.com/posts/leng-jing-tong-xun-no-113-ya-lun-si-wo-zi-aaron-e760e0ca",
       "date": "2025-04-06 19:46",
@@ -7649,16 +7659,6 @@
       "timestamp": 1647187200.0,
       "summary": "本文大致是一篇原创文章，但是参考了许多网络资料，都列在文末的「参考」中了。\n\n更新记录\n2021-01-17: 完成 TLS 协议简介、数字证书介绍、数字证书的申请或生成方法、mTLS 介绍、TLS 协议的破解手段\n2022-03-13 ~ 2022-03-14: 重新整理补充，改写为《写给开发人员...",
       "source_url": "https://thiscute.world/",
-      "category": "Blogs"
-    },
-    {
-      "title": "几种笔记软件的使用感受",
-      "link": "https://imzm.im/note-taking-apps/",
-      "date": "2022-03-10 17:07",
-      "author": "陈仓颉",
-      "timestamp": 1646903243.0,
-      "summary": "这两年是一头扎入笔记工具这个领域的两年，寻求各种软件如何与工作和生活结合，把它们使用出 “生产力工具” 的效果 [&#8230;]",
-      "source_url": "https://imzm.im",
       "category": "Blogs"
     },
     {
