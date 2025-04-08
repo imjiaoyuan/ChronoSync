@@ -8482,6 +8482,16 @@
       "category": "Blogs"
     },
     {
+      "title": "A systematic assessment of single-cell language model configurations",
+      "link": "https://www.biorxiv.org/content/10.1101/2025.04.02.646825v1?rss=1",
+      "date": "2025-04-08 08:00",
+      "author": "bioRxiv Subject Collection: Bioinformatics",
+      "timestamp": 1744070400.0,
+      "summary": "Transformers pre-trained on single-cell transcriptomic data have recently been applied to a series of tasks, earning them the title of foundation mode...",
+      "source_url": "https://biorxiv.org",
+      "category": "Papers"
+    },
+    {
       "title": "Reconstruction and exploitation of a dedicated Genome-Scale Metabolic Model of the human pathogen C. neoformans",
       "link": "https://www.biorxiv.org/content/10.1101/2025.04.02.646762v1?rss=1",
       "date": "2025-04-08 08:00",
@@ -9058,16 +9068,6 @@
       "author": "bioRxiv Subject Collection: Bioinformatics",
       "timestamp": 1743811200.0,
       "summary": "Generative probabilistic models have shown promise in designing artificial RNA and protein sequences but often suffer from high rates of false positiv...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "Unified integration of spatial transcriptomics across platforms",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.03.31.646238v1?rss=1",
-      "date": "2025-04-05 08:00",
-      "author": "bioRxiv Subject Collection: Bioinformatics",
-      "timestamp": 1743811200.0,
-      "summary": "Spatial transcriptomics (ST) has transformed our understanding of tissue architecture and cellular interactions, but integrating ST data across platfo...",
       "source_url": "https://biorxiv.org",
       "category": "Papers"
     },
