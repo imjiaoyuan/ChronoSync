@@ -2,6 +2,16 @@
   "update_time": "2025-04-08",
   "articles": [
     {
+      "title": "卡牌构筑类桌游核心规则之六",
+      "link": "https://blog.codingnow.com/2025/04/dbg_rules_6.html",
+      "date": "2025-04-08 21:10",
+      "author": "云风的 BLOG",
+      "timestamp": 1744117854.0,
+      "summary": "这次介绍两款在国内人气不高的卡牌构筑类桌游。游戏都还不错，可能是因为没有中文版，所以身边没见什么朋友玩。 首先是 XenoShyft 。它的最初版全名为 XenoShyft: Onslaught (2015) ，后来又出了一个可以独立玩的扩展 XenoShyft: Dreadmire (2017) ...",
+      "source_url": "https://blog.codingnow.com/",
+      "category": "Blogs"
+    },
+    {
       "title": "稀缺大脑",
       "link": "https://imzm.im/scarcity-brain/",
       "date": "2025-04-08 14:45",
@@ -499,16 +509,6 @@
       "timestamp": 1741478400.0,
       "summary": "自从去年搞了拍照耳机眼镜，我对算力就越来越感兴趣，预计很快就能看到类似算力装甲的东西出现。\n首先，我一直十分反感显示屏。如果你放两块不同刷新率或亮度或色彩显示屏在我面前，我也许能看出这两个不一样，但如果仅考虑现实的东西本身，大脑会直接抽象出实体概念，然后忽略掉所有细节，也就识别不同显示屏的区别。因此...",
       "source_url": "https://yufree.cn/cn/",
-      "category": "Blogs"
-    },
-    {
-      "title": "咕咕了一年的新个人主页介绍",
-      "link": "https://idealclover.top/archives/643/",
-      "date": "2025-03-07 20:00",
-      "author": "idealclover",
-      "timestamp": 1741348800.0,
-      "summary": "可能很早前就有朋友注意到了，咱换了个新的 个人主页。然鹅虽然很早前就写完了代码上了线，却一直没有写个比较完整的介绍。当时想动笔，结果发现真是巧了，好多东西被 SkyWT 在他的新主页中说完了（人...",
-      "source_url": "https://idealclover.top/",
       "category": "Blogs"
     },
     {
@@ -2032,16 +2032,6 @@
       "category": "Blogs"
     },
     {
-      "title": "所以我放弃了双持—兼谈折叠屏手机使用体验",
-      "link": "https://idealclover.top/archives/642/",
-      "date": "2024-12-31 19:38",
-      "author": "idealclover",
-      "timestamp": 1735645080.0,
-      "summary": "在翠儿还在上学的时候，有写过 一篇文章 讲过，自己在使用小屏 iPhone+大屏 Android 的双持组合，分离了社交与娱乐需求。时过境迁，随着咱进入社会，对手机有了新的需求，也放弃了之前的双...",
-      "source_url": "https://idealclover.top/",
-      "category": "Blogs"
-    },
-    {
       "title": "记导出 Android 版 NTQQ 聊天记录",
       "link": "https://cyp0633.icu/post/android-qqnt-export/",
       "date": "2024-12-31 16:46",
@@ -2912,16 +2902,6 @@
       "category": "Blogs"
     },
     {
-      "title": "好评喵：轻松生成商品/服务评价",
-      "link": "https://idealclover.top/archives/641/",
-      "date": "2024-11-17 15:17",
-      "author": "idealclover",
-      "timestamp": 1731827820.0,
-      "summary": "开新项目咯！好吧其实也不新了 XD之前在豆包上已经有 2.2w 人用过了~ 这次决定重新正式发布啦！是否还在被【好评返现】【评价赠菜】憋评价困扰？【好评喵】助你一键生成短评！",
-      "source_url": "https://idealclover.top/",
-      "category": "Blogs"
-    },
-    {
       "title": "WeekNote 2024-46",
       "link": "https://hp-l.github.io/2024/11/15/172813/",
       "date": "2024-11-15 17:28",
@@ -3029,16 +3009,6 @@
       "timestamp": 1731164607.0,
       "summary": "歌德一生曾写过很多作品，但在中国最出名的莫过于《少年维特的烦恼》和《浮士德》了，但这两部作品在创作时间上也有两个“极端”，前者写完只用了四个星期，而后者整整写了六十年。有人说，《浮士德》世界上最难读的文学作品之一，它的体裁是诗剧，全书字数将近9万字，包含了歌德一生在哲学、文学、宗教、美学等领域的思想...",
       "source_url": "https://wangyurui.com/",
-      "category": "Blogs"
-    },
-    {
-      "title": "2024 Q3总结：灰烬里重新生根发芽",
-      "link": "https://idealclover.top/archives/640/",
-      "date": "2024-11-09 18:30",
-      "author": "idealclover",
-      "timestamp": 1731148200.0,
-      "summary": "// ⚠️ 前有悲伤警告 | 幼稚文风碎碎念警告 | 不知所云警告 | 主观含量高警告 | 本文禁止转载// ⚠️ 总之，酌情观看对于我这么一个恨不得三年总结放在一起发的拖更大鸽来说，发一个季度...",
-      "source_url": "https://idealclover.top/",
       "category": "Blogs"
     },
     {
@@ -3612,16 +3582,6 @@
       "category": "Blogs"
     },
     {
-      "title": "应急储备包制作经验分享：打造个人应急“救生圈”",
-      "link": "https://idealclover.top/archives/639/",
-      "date": "2024-09-30 18:10",
-      "author": "idealclover",
-      "timestamp": 1727691000.0,
-      "summary": "最近实在是太鸽了 XD 实在忍不了了，决定还是写点东西无广，仅个人经验分享，如果能帮到你最好~（咱这小菜鸡也接不到广的 XD 笑死）似乎最近几年，世界越来越不安分。无论是改变了每个人生活的疫情，...",
-      "source_url": "https://idealclover.top/",
-      "category": "Blogs"
-    },
-    {
       "title": "生信爱好者周刊（第 142 期）：聊聊你最近正在关注的某个领域或者研究热点吧？",
       "link": "https://openbiox.github.io/weekly/issue-142/",
       "date": "2024-09-30 08:02",
@@ -3839,16 +3799,6 @@
       "timestamp": 1725408000.0,
       "summary": "最近在用 Vite + Vue 3 模板做一个小项目，正好需要配置 SSG 和路由，故写下本文、给其他有需要的站长做一个参考。",
       "source_url": "https://blog.gxres.net/",
-      "category": "Blogs"
-    },
-    {
-      "title": "Ant 引擎的一些改进计划",
-      "link": "https://blog.codingnow.com/2024/09/ant_plans.html",
-      "date": "2024-09-03 11:21",
-      "author": "云风的 BLOG",
-      "timestamp": 1725333669.0,
-      "summary": "我独自开发游戏已经有三个月了。这三个月里，我是 Ant Engine 唯一活跃用户，这是一个很好的机会来挖掘对于一个独立游戏开发者来说，引擎哪些地方有缺失。现阶段，我还是希望把精力放在游戏开发上多一些，所以引擎方面恰恰够用就好。虽然，完善引擎这件事做起来会更愉快，因为这些工作对于我比较顺畅，容易想清...",
-      "source_url": "https://blog.codingnow.com/",
       "category": "Blogs"
     },
     {
@@ -5282,16 +5232,6 @@
       "category": "Blogs"
     },
     {
-      "title": "2021-2023年终总结：跃入人海，潮起潮落",
-      "link": "https://idealclover.top/archives/637/",
-      "date": "2024-02-23 18:15",
-      "author": "idealclover",
-      "timestamp": 1708683300.0,
-      "summary": "🤔 嘛，确实很久没更新近况了 🤪在后台评论以及邮件中，总能收到来自朋友们的关心（以及对年终总结的催更 XD），不过每每提笔时却又百感交集，一时竟不知该如何总结。前前后后新建过十来个文档，但最终都...",
-      "source_url": "https://idealclover.top/",
-      "category": "Blogs"
-    },
-    {
       "title": "OS as Code - 我的 NixOS 使用体会",
       "link": "https://thiscute.world/posts/my-experience-of-nixos/?utm_source=atom_feed",
       "date": "2024-02-21 16:26",
@@ -5969,16 +5909,6 @@
       "timestamp": 1701604747.0,
       "summary": "双11的时候入手了一个 Kobo Libra2, 一直没找到时间鼓捣，这周终于有时间自定义了一下了，毕竟我购买这个设备就是为了更方便的使用 epub 格式的电子书，以及能比 Kindle 多一点可以 Hack 的部分。这篇文章记录一下我的设置，以防下次需要重置。\n我目前还没有深入使用，所以还不确定这...",
       "source_url": "https://www.owenyoung.com",
-      "category": "Blogs"
-    },
-    {
-      "title": "用AI为Typecho博客文章生成摘要吧！",
-      "link": "https://idealclover.top/archives/636/",
-      "date": "2023-12-03 15:11",
-      "author": "idealclover",
-      "timestamp": 1701587460.0,
-      "summary": "😭 实在是太久没更新了呜呜呜有细心的读者（或者用 RSS 订阅的读者）已经注意到咧，这两天俺的博客突然多了一栏 AI 摘要，会显示在每篇文章的顶端。最近大语言模型风风火火，便琢磨着给自己的博客文...",
-      "source_url": "https://idealclover.top/",
       "category": "Blogs"
     },
     {
@@ -7402,16 +7332,6 @@
       "category": "Blogs"
     },
     {
-      "title": "Caritas APP 2.0 版本发布",
-      "link": "https://idealclover.top/archives/635/",
-      "date": "2022-08-21 16:28",
-      "author": "idealclover",
-      "timestamp": 1661070480.0,
-      "summary": "知乎原文 https://zhuanlan.zhihu.com/p/556201282 欢迎去捧个场～想写这样的一款 APP，于是就写了。感谢 @大卫 提供的 1.0 版本、图标等关键信息感谢 ...",
-      "source_url": "https://idealclover.top/",
-      "category": "Blogs"
-    },
-    {
       "title": "读《九宫格写作法》",
       "link": "https://lutaonan.com/blog/read-grid-writing-method",
       "date": "2022-08-20 08:00",
@@ -7552,16 +7472,6 @@
       "category": "Blogs"
     },
     {
-      "title": "友链屋 - 建个网站订阅友链们的更新~",
-      "link": "https://idealclover.top/archives/634/",
-      "date": "2022-05-22 16:16",
-      "author": "idealclover",
-      "timestamp": 1653207360.0,
-      "summary": "网站链接：https://blogroll.icl.moe/项目地址：https://github.com/idealclover/Friend-Link-House因为这个 blog 别骂了别...",
-      "source_url": "https://idealclover.top/",
-      "category": "Blogs"
-    },
-    {
       "title": "NAT 网关、NAT 穿越以及虚拟网络",
       "link": "https://thiscute.world/posts/about-nat/?utm_source=atom_feed",
       "date": "2022-05-13 11:46",
@@ -7599,16 +7509,6 @@
       "timestamp": 1651677300.0,
       "summary": "FinOps 是一种不断发展的云财务管理学科和文化实践，通过帮助工程、财务、技术和业务团队在数据驱动的预算分配上进行协作，使成本预算能够产生最大的业务价值。",
       "source_url": "https://thiscute.world/",
-      "category": "Blogs"
-    },
-    {
-      "title": "（22.05.04 更新）为博客添加 COVID-19 疫情地图",
-      "link": "https://idealclover.top/archives/632/",
-      "date": "2022-05-04 17:30",
-      "author": "idealclover",
-      "timestamp": 1651656600.0,
-      "summary": "2022/05/04 更新：可能疫情刚开始的时候我们谁都没能想到，始于2020的这场疫情竟然会这样持久。项目原作者看来也已经不维护这个项目了，数据/地图都已经停止更新了。因此趁着五一假期，自己抢...",
-      "source_url": "https://idealclover.top/",
       "category": "Blogs"
     },
     {
@@ -9017,7 +8917,7 @@
       "date": "2025-04-05 08:00",
       "author": "bioRxiv Subject Collection: Genomics",
       "timestamp": 1743811200.0,
-      "summary": "Background Asthma is driven by complex interactions amongst structural airway cells, cells of the immune system, and the environmental. While sputum c...",
+      "summary": "BackgroundAsthma is driven by complex interactions amongst structural airway cells, cells of the immune system, and the environmental. While sputum ce...",
       "source_url": "https://biorxiv.org",
       "category": "Papers"
     },
