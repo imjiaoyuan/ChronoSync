@@ -8482,6 +8482,16 @@
       "category": "Blogs"
     },
     {
+      "title": "Stoichiometric Insights into SARS-CoV-2 Spike-ACE2 Binding Across Variants",
+      "link": "https://www.biorxiv.org/content/10.1101/2025.04.04.647209v1?rss=1",
+      "date": "2025-04-07 08:00",
+      "author": "bioRxiv Subject Collection: Bioinformatics",
+      "timestamp": 1743984000.0,
+      "summary": "The SARS-CoV-2 spike protein binds to the angiotensin-converting enzyme 2 (ACE2) receptor to mediate viral entry, with mutations in different variants...",
+      "source_url": "https://biorxiv.org",
+      "category": "Papers"
+    },
+    {
       "title": "Synthesizing human-specific spike-in standards for RNA-seq experiments and assessing their technical performance",
       "link": "https://www.biorxiv.org/content/10.1101/2025.04.01.646725v1?rss=1",
       "date": "2025-04-07 08:00",
@@ -9068,16 +9078,6 @@
       "author": "bioRxiv Subject Collection: Bioinformatics",
       "timestamp": 1743724800.0,
       "summary": "Living organisms integrate multiple signals from their exposome --the totality of environmental influences experienced throughout life --to adapt to c...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "High-throughput RNA and Single-cell RNA Sequencing to Identify Sepsis associated Molecular Mechanisms and the Blood Immune Cell Landscape",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.03.31.646322v1?rss=1",
-      "date": "2025-04-04 08:00",
-      "author": "bioRxiv Subject Collection: Bioinformatics",
-      "timestamp": 1743724800.0,
-      "summary": "Sepsis, a leading cause of death in intensive care units (ICUs), is a complex systemic inflammatory response to infection with high morbidity and mort...",
       "source_url": "https://biorxiv.org",
       "category": "Papers"
     },
