@@ -8482,6 +8482,66 @@
       "category": "Blogs"
     },
     {
+      "title": "Reconstruction and exploitation of a dedicated Genome-Scale Metabolic Model of the human pathogen C. neoformans",
+      "link": "https://www.biorxiv.org/content/10.1101/2025.04.02.646762v1?rss=1",
+      "date": "2025-04-08 08:00",
+      "author": "bioRxiv Subject Collection: Bioinformatics",
+      "timestamp": 1744070400.0,
+      "summary": "C. neoformans is notorious for causing severe pulmonary and central nervous system infections, particularly in immunocompromised patients. High mortal...",
+      "source_url": "https://biorxiv.org",
+      "category": "Papers"
+    },
+    {
+      "title": "Quartformer: An Accurate Deep LearningFramework for Phylogenetic TreeConstruction",
+      "link": "https://www.biorxiv.org/content/10.1101/2025.04.05.646867v1?rss=1",
+      "date": "2025-04-08 08:00",
+      "author": "bioRxiv Subject Collection: Bioinformatics",
+      "timestamp": 1744070400.0,
+      "summary": "The construction of phylogenetic trees is a fundamental task in evolutionary biology, with the inference of tree topologies being particularly challen...",
+      "source_url": "https://biorxiv.org",
+      "category": "Papers"
+    },
+    {
+      "title": "A modular, Galaxy-based immunopeptidogenomic (iPepGen) analysis pipeline for discovery, verification, and prioritization of candidate cancer neoantigen peptides",
+      "link": "https://www.biorxiv.org/content/10.1101/2025.04.07.647596v1?rss=1",
+      "date": "2025-04-08 08:00",
+      "author": "bioRxiv Subject Collection: Bioinformatics",
+      "timestamp": 1744070400.0,
+      "summary": "Background Characterizing peptide antigens, processed from tumor-specific proteoforms, and bound to the major histocompatibility complex, is critical ...",
+      "source_url": "https://biorxiv.org",
+      "category": "Papers"
+    },
+    {
+      "title": "High-resolution reconstruction of cell-type specific transcriptional regulatory processes from bulk sequencing samples",
+      "link": "https://www.biorxiv.org/content/10.1101/2025.04.02.646189v1?rss=1",
+      "date": "2025-04-08 08:00",
+      "author": "bioRxiv Subject Collection: Bioinformatics",
+      "timestamp": 1744070400.0,
+      "summary": "Biological systems exhibit remarkable heterogeneity, characterized by intricate interplay among diverse cell types. Resolving the regulatory processes...",
+      "source_url": "https://biorxiv.org",
+      "category": "Papers"
+    },
+    {
+      "title": "AdapToR: Adaptive Topological Regression for quantitative structure-activity relationship modeling",
+      "link": "https://www.biorxiv.org/content/10.1101/2025.04.02.646801v1?rss=1",
+      "date": "2025-04-08 08:00",
+      "author": "bioRxiv Subject Collection: Bioinformatics",
+      "timestamp": 1744070400.0,
+      "summary": "Quantitative structure-activity relationship (QSAR) modeling has become a critical tool in drug design. Recently proposed Topological Regression (TR),...",
+      "source_url": "https://biorxiv.org",
+      "category": "Papers"
+    },
+    {
+      "title": "Breaking the barrier of human-annotated training data for machine-learning-aided plant research using aerial imagery",
+      "link": "https://www.biorxiv.org/content/10.1101/2025.04.02.646808v1?rss=1",
+      "date": "2025-04-08 08:00",
+      "author": "bioRxiv Subject Collection: Bioinformatics",
+      "timestamp": 1744070400.0,
+      "summary": "Machine learning (ML) can accelerate biological research. However, the adoption of such tools to facilitate phenotyping based on sensor data has been ...",
+      "source_url": "https://biorxiv.org",
+      "category": "Papers"
+    },
+    {
       "title": "RAG-ESM: Improving pretrained protein language models via sequence retrieval",
       "link": "https://www.biorxiv.org/content/10.1101/2025.04.02.646805v1?rss=1",
       "date": "2025-04-08 08:00",
@@ -8568,6 +8628,16 @@
       "author": "bioRxiv Subject Collection: Bioinformatics",
       "timestamp": 1744070400.0,
       "summary": "Single-cell multi-modal omics, remarked as \"Method of the Year 2019\" by Nature Methods, provides valuable insights into complex tissues. Recent advanc...",
+      "source_url": "https://biorxiv.org",
+      "category": "Papers"
+    },
+    {
+      "title": "Historic transposon mobilisation waves create distinct pools of adaptive variants in a major crop pathogen",
+      "link": "https://www.biorxiv.org/content/10.1101/2025.04.02.646807v1?rss=1",
+      "date": "2025-04-08 08:00",
+      "author": "bioRxiv Subject Collection: Genomics",
+      "timestamp": 1744070400.0,
+      "summary": "Transposable elements (TEs) can drive the evolution of host-pathogen interactions and gains in antimicrobial resistance. However, how adaptive TEs ari...",
       "source_url": "https://biorxiv.org",
       "category": "Papers"
     },
@@ -9002,66 +9072,6 @@
       "category": "Papers"
     },
     {
-      "title": "SCORCH2: a generalised heterogeneous consensus model for high-enrichment interaction-based virtual screening",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.03.31.646332v1?rss=1",
-      "date": "2025-04-05 08:00",
-      "author": "bioRxiv Subject Collection: Bioinformatics",
-      "timestamp": 1743811200.0,
-      "summary": "The discovery of effective therapeutics remains a complex, costly, and time-consuming endeavor, characterized by high failure rates and significant re...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "FootprintCharter: unsupervised detection and quantification of footprints in single molecule footprinting data",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.03.31.646464v1?rss=1",
-      "date": "2025-04-05 08:00",
-      "author": "bioRxiv Subject Collection: Bioinformatics",
-      "timestamp": 1743811200.0,
-      "summary": "Single molecule footprinting profiles the heterogeneity of TF occupancy at cis-regulatory elements across cell populations at unprecedented resolution...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "Dissecting Opioid Effects in Cell-Cell Communication Within the Ventral Tegmental Area",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.03.31.646196v1?rss=1",
-      "date": "2025-04-05 08:00",
-      "author": "bioRxiv Subject Collection: Bioinformatics",
-      "timestamp": 1743811200.0,
-      "summary": "Opioid use disorders (OUD) exacerbate the complexity of neurocognitive impairments and neurodevelopmental disorders, with poorly understood molecular ...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "PEAS: Detection of Clustered Differences in Genomic Data",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.03.31.646436v1?rss=1",
-      "date": "2025-04-05 08:00",
-      "author": "bioRxiv Subject Collection: Bioinformatics",
-      "timestamp": 1743811200.0,
-      "summary": "Motivation: Studies of genetically-distinct individuals have shown that differences in marks of transcriptional regulation such as chromatin accessibi...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "Cumulating MS Signal enables polyclonal antibody analysis",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.03.31.645874v1?rss=1",
-      "date": "2025-04-05 08:00",
-      "author": "bioRxiv Subject Collection: Bioinformatics",
-      "timestamp": 1743811200.0,
-      "summary": "Unraveling the complexities of protein systems via Mass Spectrometry (MS), particularly polyclonal antibodies, demands innovative analytical strategie...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "NeSyDPP4-QSAR: A Neuro-Symbolic AI Approach for Potent DPP-4-Inhibitor Discovery in Diabetes Treatment",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.03.31.646336v1?rss=1",
-      "date": "2025-04-05 08:00",
-      "author": "bioRxiv Subject Collection: Bioinformatics",
-      "timestamp": 1743811200.0,
-      "summary": "Diabetes Mellitus (DM) is a global epidemic and among the top ten leading causes of mortality (WHO, 2019), projected to rank seventh by 2030. The US N...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
       "title": "Extremely Early Flowering and Large Grain Isogenic Japonica Rice Koshihikari Integrated with Gene e1 and GW2",
       "link": "https://www.biorxiv.org/content/10.1101/2025.03.31.646432v1?rss=1",
       "date": "2025-04-05 08:00",
@@ -9229,16 +9239,6 @@
       "timestamp": 1743724800.0,
       "summary": "无摘要",
       "source_url": "https://www.nature.com/subjects/bioinformatics",
-      "category": "Papers"
-    },
-    {
-      "title": "Defining effective strategies to integrate multi-sample single-nucleus ATAC-seq datasets via a multimodal-guided approach",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.04.02.646871v1?rss=1",
-      "date": "2025-04-03 08:00",
-      "author": "bioRxiv Subject Collection: Genomics",
-      "timestamp": 1743638400.0,
-      "summary": "BackgroundChromatin accessibility, measured via single-nucleus Assay for Transposase-Accessible Chromatin with sequencing (snATAC-seq), can reveal the...",
-      "source_url": "https://biorxiv.org",
       "category": "Papers"
     },
     {
