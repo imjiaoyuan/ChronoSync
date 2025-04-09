@@ -42,6 +42,16 @@
       "category": "Blogs"
     },
     {
+      "title": "磨刀不误砍柴工|NOTE",
+      "link": "https://hp-l.github.io/2025/04/07/233224/",
+      "date": "2025-04-07 23:32",
+      "author": "子書承宇",
+      "timestamp": 1744039944.0,
+      "summary": "无摘要",
+      "source_url": "https://hp-l.github.io/",
+      "category": "Blogs"
+    },
+    {
       "title": "棱镜通讯 No.113  亚伦·斯沃兹（Aaron Swartz）",
       "link": "https://wangyurui.com/posts/leng-jing-tong-xun-no-113-ya-lun-si-wo-zi-aaron-e760e0ca",
       "date": "2025-04-06 19:46",
@@ -3139,16 +3149,6 @@
       "timestamp": 1730704839.0,
       "summary": "前言\n\n我在三个月前作为第一批用户体验到了 Follow 这一产品，很兴奋，使用了一周后就写了一篇文章「周报 #67 - 使用 follow 重塑我的信息输入系统」分享了对 Follow 的一些想法。\n而现在三个月过去了，Follow 本身迎来了许多更新，正式开启了 beta 测试；其在我日常信息输...",
       "source_url": "https://www.pseudoyu.com/",
-      "category": "Blogs"
-    },
-    {
-      "title": "电路中用到的复数",
-      "link": "https://hp-l.github.io/2024/11/04/113536/",
-      "date": "2024-11-04 11:35",
-      "author": "子書承宇",
-      "timestamp": 1730691336.0,
-      "summary": "无摘要",
-      "source_url": "https://hp-l.github.io/",
       "category": "Blogs"
     },
     {
@@ -8392,6 +8392,86 @@
       "category": "Blogs"
     },
     {
+      "title": "Genomic Tokenizer: Toward a biology-driven tokenization in transformer models for DNA sequences",
+      "link": "https://www.biorxiv.org/content/10.1101/2025.04.02.646836v1?rss=1",
+      "date": "2025-04-09 08:00",
+      "author": "bioRxiv Subject Collection: Bioinformatics",
+      "timestamp": 1744156800.0,
+      "summary": "Summary: Transformer models are revolutionizing sequence analysis across various domains, from natural language processing to genomics. These models r...",
+      "source_url": "https://biorxiv.org",
+      "category": "Papers"
+    },
+    {
+      "title": "RNAchat: Integrating machine learning algorithms to identify metapathways based on clinical and multi-omics data",
+      "link": "https://www.biorxiv.org/content/10.1101/2025.04.02.646761v1?rss=1",
+      "date": "2025-04-09 08:00",
+      "author": "bioRxiv Subject Collection: Bioinformatics",
+      "timestamp": 1744156800.0,
+      "summary": "Background: Understanding the global interactions among cellular pathways and types is essential for unraveling the complex biological mechanisms that...",
+      "source_url": "https://biorxiv.org",
+      "category": "Papers"
+    },
+    {
+      "title": "ReCycled: A Tool to Reset the Start of Circular Bacterial Chromosomes",
+      "link": "https://www.biorxiv.org/content/10.1101/2025.04.07.647662v1?rss=1",
+      "date": "2025-04-09 08:00",
+      "author": "bioRxiv Subject Collection: Bioinformatics",
+      "timestamp": 1744156800.0,
+      "summary": "Summary (two sentences): For many publicly available bacterial genomes the chromosome start is not set at the replication initiation protein. This is ...",
+      "source_url": "https://biorxiv.org",
+      "category": "Papers"
+    },
+    {
+      "title": "A Bioinformatic Investigation into the Role of ITGB1 in Cancer Prognosis and Therapeutic Resistance",
+      "link": "https://www.biorxiv.org/content/10.1101/2025.04.06.647487v1?rss=1",
+      "date": "2025-04-09 08:00",
+      "author": "bioRxiv Subject Collection: Bioinformatics",
+      "timestamp": 1744156800.0,
+      "summary": "Integrin {beta}1 is a crucial transmembrane protein that regulates cellular adhesion, migration, and signal transduction, processes essential for canc...",
+      "source_url": "https://biorxiv.org",
+      "category": "Papers"
+    },
+    {
+      "title": "CoExpPhylo - A Novel Pipeline for Biosynthesis Gene Discovery",
+      "link": "https://www.biorxiv.org/content/10.1101/2025.04.03.647051v1?rss=1",
+      "date": "2025-04-09 08:00",
+      "author": "bioRxiv Subject Collection: Bioinformatics",
+      "timestamp": 1744156800.0,
+      "summary": "Background The rapid advancement of sequencing technologies has drastically increased the availability of plant genomic and transcriptomic data, shift...",
+      "source_url": "https://biorxiv.org",
+      "category": "Papers"
+    },
+    {
+      "title": "The South American MicroBiome Archive (saMBA): Enriching the healthy microbiome concept by evaluating uniqueness and biodiversity of neglected populations",
+      "link": "https://www.biorxiv.org/content/10.1101/2025.04.03.647034v1?rss=1",
+      "date": "2025-04-09 08:00",
+      "author": "bioRxiv Subject Collection: Bioinformatics",
+      "timestamp": 1744156800.0,
+      "summary": "The composition and function of the human gut microbiome has been linked to multiple health outcomes across all world regions, often with region-speci...",
+      "source_url": "https://biorxiv.org",
+      "category": "Papers"
+    },
+    {
+      "title": "Identification of ESBL-producing enterobacterales from vegetable plants in a rural area of Madagascar: insights into AMR transmission at the human-animal-environment-plant interface",
+      "link": "https://www.biorxiv.org/content/10.1101/2025.04.06.647499v1?rss=1",
+      "date": "2025-04-09 08:00",
+      "author": "bioRxiv Subject Collection: Genomics",
+      "timestamp": 1744156800.0,
+      "summary": "Extended-spectrum b-lactamases (ESBL)-producing enterobacterales are considered a key indicator for antimicrobial resistance (AMR) epidemiological sur...",
+      "source_url": "https://biorxiv.org",
+      "category": "Papers"
+    },
+    {
+      "title": "Moroccan genome project: genomic insight into a North African population",
+      "link": "https://www.nature.com/articles/s42003-025-08020-z",
+      "date": "2025-04-09 08:00",
+      "author": "Genomics : nature.com subject feeds",
+      "timestamp": 1744156800.0,
+      "summary": "无摘要",
+      "source_url": "https://www.nature.com/subjects/genomics",
+      "category": "Papers"
+    },
+    {
       "title": "OmniSplice: a framework-free splicing event reporter",
       "link": "https://www.biorxiv.org/content/10.1101/2025.04.06.647416v1?rss=1",
       "date": "2025-04-08 08:00",
@@ -8632,46 +8712,6 @@
       "category": "Papers"
     },
     {
-      "title": "Datavzrd: Rapid programming- and maintenance-free interactive visualization and communication of tabular data",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.04.03.647146v1?rss=1",
-      "date": "2025-04-08 08:00",
-      "author": "bioRxiv Subject Collection: Bioinformatics",
-      "timestamp": 1744070400.0,
-      "summary": "Tabular data, often scattered across multiple tables, is the primary output of data analyses in virtually all scientific fields. Exchange and communic...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "CanASM: A comprehensive database for genome-wide allele-specific DNA methylation identification and annotation in cancer",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.04.03.646980v1?rss=1",
-      "date": "2025-04-08 08:00",
-      "author": "bioRxiv Subject Collection: Bioinformatics",
-      "timestamp": 1744070400.0,
-      "summary": "Allele-specific DNA methylation (ASM) provides critical insights into the complex genetic and epigenetic mechanisms regulating gene transcription. Eme...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "PyVADesign: a Python-based cloning tool for one-step generation of large mutant libraries",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.04.04.647202v1?rss=1",
-      "date": "2025-04-08 08:00",
-      "author": "bioRxiv Subject Collection: Bioinformatics",
-      "timestamp": 1744070400.0,
-      "summary": "Motivation: The generation and analysis of diverse mutants of a protein is a powerful tool for understanding protein function. However, generating suc...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "Benchmarking single-cell multi-modal data integrations",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.04.01.646578v1?rss=1",
-      "date": "2025-04-08 08:00",
-      "author": "bioRxiv Subject Collection: Bioinformatics",
-      "timestamp": 1744070400.0,
-      "summary": "Single-cell multi-modal omics, remarked as \"Method of the Year 2019\" by Nature Methods, provides valuable insights into complex tissues. Recent advanc...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
       "title": "A Proposed Statistical Approach for Conducting Longitudinal Assessment of Circulating Tumor DNA",
       "link": "https://www.biorxiv.org/content/10.1101/2025.04.03.646973v1?rss=1",
       "date": "2025-04-08 08:00",
@@ -8779,26 +8819,6 @@
       "timestamp": 1744070400.0,
       "summary": "无摘要",
       "source_url": "https://www.nature.com/subjects/bioinformatics",
-      "category": "Papers"
-    },
-    {
-      "title": "Stoichiometric Insights into SARS-CoV-2 Spike-ACE2 Binding Across Variants",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.04.04.647209v1?rss=1",
-      "date": "2025-04-07 08:00",
-      "author": "bioRxiv Subject Collection: Bioinformatics",
-      "timestamp": 1743984000.0,
-      "summary": "The SARS-CoV-2 spike protein binds to the angiotensin-converting enzyme 2 (ACE2) receptor to mediate viral entry, with mutations in different variants...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "Synthesizing human-specific spike-in standards for RNA-seq experiments and assessing their technical performance",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.04.01.646725v1?rss=1",
-      "date": "2025-04-07 08:00",
-      "author": "bioRxiv Subject Collection: Bioinformatics",
-      "timestamp": 1743984000.0,
-      "summary": "Using spike-in standards for RNA-seq experiments is critical to evaluate technical bias introduced during sample preparation, sequencing and analysis....",
-      "source_url": "https://biorxiv.org",
       "category": "Papers"
     },
     {
@@ -9058,16 +9078,6 @@
       "author": "bioRxiv Subject Collection: Genomics",
       "timestamp": 1743811200.0,
       "summary": "BackgroundAsthma is driven by complex interactions amongst structural airway cells, cells of the immune system, and the environmental. While sputum ce...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "Reduced taurine transporter expression in lymphoblastoid cell lines from Alzheimer's disease patients compared with age-matched controls: Therapeutic implications?",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.03.31.646363v1?rss=1",
-      "date": "2025-04-05 08:00",
-      "author": "bioRxiv Subject Collection: Genomics",
-      "timestamp": 1743811200.0,
-      "summary": "Taurine is an atypical amino acid that cannot form peptide bonds and thus does not take place in building proteins. Yet, taurine takes part in regulat...",
       "source_url": "https://biorxiv.org",
       "category": "Papers"
     },
@@ -9364,16 +9374,6 @@
     {
       "title": "Whole-genome sequencing of myeloproliferative neoplasms revealed dynamic clonal changes in the fibrotic or leukemic transformation and novel FOXP1 mutations in the fibrotic transformation",
       "link": "https://www.nature.com/articles/s41375-025-02576-9",
-      "date": "2025-03-31 08:00",
-      "author": "Genomics : nature.com subject feeds",
-      "timestamp": 1743379200.0,
-      "summary": "无摘要",
-      "source_url": "https://www.nature.com/subjects/genomics",
-      "category": "Papers"
-    },
-    {
-      "title": "Haplotype-resolved genome assembly of the tetraploid Youcha tree Camellia meiocarpa Hu",
-      "link": "https://www.nature.com/articles/s41597-025-04887-z",
       "date": "2025-03-31 08:00",
       "author": "Genomics : nature.com subject feeds",
       "timestamp": 1743379200.0,
