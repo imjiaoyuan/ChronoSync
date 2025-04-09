@@ -12,6 +12,16 @@
       "category": "Blogs"
     },
     {
+      "title": "现代浏览器插件开发指南",
+      "link": "https://lutaonan.com/blog/browser-extension-development-guide",
+      "date": "2025-04-09 08:00",
+      "author": "Randy's Blog",
+      "timestamp": 1744156800.0,
+      "summary": "最近又写了一本小书。\n这本小书定价 29 元，你可以在 这里 购买 PDF 版本。如果你有特殊需求，也可以购买 Markdown + PDF 版本，价格是 49 元（为了增加盗版成本）。\n\n这本书篇幅不长，但因为比较小众，所以定价稍高，请读者自行斟酌购买。\n\n这是一本关于浏览器插件开发的书。这本书面...",
+      "source_url": "https://lutaonan.com",
+      "category": "Blogs"
+    },
+    {
       "title": "卡牌构筑类桌游核心规则之六",
       "link": "https://blog.codingnow.com/2025/04/dbg_rules_6.html",
       "date": "2025-04-08 21:10",
@@ -8029,16 +8039,6 @@
       "timestamp": 1583193600.0,
       "summary": "没错，才用了不到一年，我的灵刃就需要返修了。\n发生了什么？\n\nA 面 Logo 不亮，屏幕有些的漏光，特别是左下角，而性能也不知为何“衰弱”了\n我这台的 3DMark Time Spy 显卡跑分只有不到四千分，灵刃 15 2018 精英版的 1070 Max-Q 在正常情况下跑 4500~4600 ...",
       "source_url": "https://www.eaimty.com",
-      "category": "Blogs"
-    },
-    {
-      "title": "好产品帮助用户变得更好 - 读 Badass: Making Users Awesome",
-      "link": "https://lutaonan.com/blog/read-badass-making-users-awesome",
-      "date": "2020-03-01 08:00",
-      "author": "Randy's Blog",
-      "timestamp": 1583020800.0,
-      "summary": "如何让用户愿意花钱购买你的软件 / 服务 ？\n如果你也在思考这个问题，那么你一定要读一读 Kathy Sierra 写的 Badass: Making Users Awesome (中文译作《 用户思维+ 好产品让用户为自己尖叫 》)\n想象一下，有一天，你看到有人在网上写了一篇如何记账和理财的文章，...",
-      "source_url": "https://lutaonan.com",
       "category": "Blogs"
     },
     {
