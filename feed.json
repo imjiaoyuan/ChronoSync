@@ -2122,16 +2122,6 @@
       "category": "Blogs"
     },
     {
-      "title": "时间与人生——我的 2024 总结",
-      "link": "https://xlog.app/api/redirection?characterId=73858&noteId=53",
-      "date": "2024-12-29 18:07",
-      "author": "旅行者的随想",
-      "timestamp": 1735466825.0,
-      "summary": "人生本就是无法回头的旅程，放心大胆地向前走就好。 题记\n\n转眼间已经又一年过去啦！能平安度过真是可喜可贺可喜可贺呀！还在看我博客的朋友们，跟着我一起，回顾今年的足迹吧！\n\n回顾\n关于博客\n\n之前博客框架一直用的 Hugo，然后部署在 Vercel 的，前段时间全部迁移到 xLog 上来…",
-      "source_url": "https://besscroft.com",
-      "category": "Blogs"
-    },
-    {
       "title": "隐说 No.3  儿时的梦想",
       "link": "https://wangyurui.com/posts/yin-shuo-no-3-er-shi-de-meng-xiang-5c915627",
       "date": "2024-12-29 12:09",
@@ -4712,16 +4702,6 @@
       "category": "Blogs"
     },
     {
-      "title": "Next SSR 开发与实践",
-      "link": "https://xlog.app/api/redirection?characterId=73858&noteId=1",
-      "date": "2024-05-05 00:24",
-      "author": "旅行者的随想",
-      "timestamp": 1714839840.0,
-      "summary": "前言 五一假期期间，我发布了 PicImpact 的第一个公开版本，是 Kamera 的下一代产品，使用 Next.js 开发，而 kamera 是用的 Nuxt3 开发的。前端的 SSR 框架，并不像后端的框架那么好用，后端的各种中间件、开发模型、面向切面编程（AOP…",
-      "source_url": "https://besscroft.com",
-      "category": "Blogs"
-    },
-    {
       "title": "为什么是日本",
       "link": "https://darmau.co/zh/article/why-japan",
       "date": "2024-05-02 11:09",
@@ -4969,16 +4949,6 @@
       "timestamp": 1712361600.0,
       "summary": "一天夜晚里我正在刷推文，刷到了一个我关注的 dalao 发的推文，源头是「DNSPod 创始人奶罩把一个抽象员工开了」。然后我在那里留下了我的疑惑，成功被扣上了我自认为的「帽子」。嗯，故事就是这么开始的。",
       "source_url": "https://blog.gxres.net/",
-      "category": "Blogs"
-    },
-    {
-      "title": "GitHub - besscroft/PicImpact: PicImpact，分享你和世界！",
-      "link": "https://xlog.app/api/redirection?characterId=73858&noteId=8",
-      "date": "2024-04-03 11:43",
-      "author": "旅行者的随想",
-      "timestamp": 1712115780.0,
-      "summary": "PicImpact，分享你和世界！. Contribute to besscroft/PicImpact development by creating an account on GitHub.",
-      "source_url": "https://besscroft.com",
       "category": "Blogs"
     },
     {
@@ -5842,16 +5812,6 @@
       "category": "Blogs"
     },
     {
-      "title": "基于 K3s + Kilo 的跨云 Kubernetes 集群",
-      "link": "https://xlog.app/api/redirection?characterId=73858&noteId=49",
-      "date": "2023-12-19 23:55",
-      "author": "旅行者的随想",
-      "timestamp": 1703001300.0,
-      "summary": "前言 自从白嫖了 Oracle Cloud 的云服务之后，一直使用的 24 G 大内存云服务器跑的 Kubernetes，也有 2 年多了吧？（记不清了）上一版本的方案，可以看我这篇文章👉Dynamic k8s 集群实现方案\n\n至于为啥我要更换方式呢？主要还是要部署的东西日渐增加…",
-      "source_url": "https://besscroft.com",
-      "category": "Blogs"
-    },
-    {
       "title": "cody waite",
       "link": "https://www.longluo.me/blog/cody-waite/",
       "date": "2023-12-19 20:10",
@@ -6362,16 +6322,6 @@
       "category": "Blogs"
     },
     {
-      "title": "嗯学英语核心业务设计实践",
-      "link": "https://xlog.app/api/redirection?characterId=73858&noteId=48",
-      "date": "2023-08-31 16:12",
-      "author": "旅行者的随想",
-      "timestamp": 1693469520.0,
-      "summary": "前言 最近在设计开发嗯学英语项目，今天想简单讲点儿故事，一个关于英语学习软件背后复杂的技术设计思考，以及我打算如何实践，让它以何种方式运作。\n\n摸索\n\n英语类学习软件我用过不少，使用时间最长的，那自然是多邻国了。你看你学了这么久英语了哈，如果现在要你来做一款英语学习软件，你要如何设计…",
-      "source_url": "https://besscroft.com",
-      "category": "Blogs"
-    },
-    {
       "title": "2023.7-8 精神食粮",
       "link": "https://owlswims.com/2023-7-8-mentalfood/",
       "date": "2023-08-31 00:23",
@@ -6792,16 +6742,6 @@
       "category": "Blogs"
     },
     {
-      "title": "如何使用 Cloudflare 保护云服务——扫盲“WAF”及其它招数",
-      "link": "https://xlog.app/api/redirection?characterId=73858&noteId=47",
-      "date": "2023-05-19 08:30",
-      "author": "旅行者的随想",
-      "timestamp": 1684456200.0,
-      "summary": "前言 五一前后抽时间维护了一下个人云服务，把集群全部重构了一部分。那几天访问的朋友们应该能看到一个简单的 “维护页面”。新的个人云架构，这里就不多讲了，毕竟不是本篇的内容，感兴趣的朋友可以看我之前文章（老架构）。这次改进了之前的诸多不合理的地方，顺便把 IP 和证书全部更换了一遍…",
-      "source_url": "https://besscroft.com",
-      "category": "Blogs"
-    },
-    {
       "title": "我的笔记管理法",
       "link": "https://lutaonan.com/blog/how-do-i-take-note",
       "date": "2023-05-13 08:00",
@@ -6849,16 +6789,6 @@
       "timestamp": 1682641232.0,
       "summary": "本期共有 45 个项目，包含 C 项目 (3)，C# 项目 (3)，C++ 项目 (4)，Go 项目 (5)，Java 项目 (3)，JavaScript 项目 (5)，Kotlin 项目 (1)，Objective-C 项目 (1)，Python 项目 (5)，Rust 项目 (2)，Swift ...",
       "source_url": "https://hellogithub.com",
-      "category": "Blogs"
-    },
-    {
-      "title": "时间与人生——我的第一个开源产品经历",
-      "link": "https://xlog.app/api/redirection?characterId=73858&noteId=46",
-      "date": "2023-04-26 17:07",
-      "author": "旅行者的随想",
-      "timestamp": 1682500020.0,
-      "summary": "前言 前几天发布了 DiyFile v0.5.0 版本，算是做出了一个不算好看但基本能用的版本，今天就来聊一聊整个过程吧。\n\n项目准备\n为什么我想做它？\n\n这个原因也很简单，当你学会一个新技术之后，把它用起来，最好的方法就是写一个项目。我也挺想开一个工作室，虽然不知道能不能走出这一步…",
-      "source_url": "https://besscroft.com",
       "category": "Blogs"
     },
     {
@@ -6932,16 +6862,6 @@
       "category": "Blogs"
     },
     {
-      "title": "时间与人生——编码的意义",
-      "link": "https://xlog.app/api/redirection?characterId=73858&noteId=45",
-      "date": "2023-03-20 11:38",
-      "author": "旅行者的随想",
-      "timestamp": 1679283480.0,
-      "summary": "其实这篇文章我本打算用 “开源的意义” 为标题的，但本质上现阶段开源对于我来说，核心就是编码。本文我从一个普通从业者的视角，来聊一聊我的经历、想法与思考。 由来\n兴趣\n\n第一次买编程书籍，是 2015 年的时候了，当时还在读高二。我记得是数学选修二还是哪本书来着…",
-      "source_url": "https://besscroft.com",
-      "category": "Blogs"
-    },
-    {
       "title": "近期使用电脑的一些习惯改变",
       "link": "https://imzm.im/how-i-change-about-using-pc/",
       "date": "2023-03-14 15:33",
@@ -6999,16 +6919,6 @@
       "timestamp": 1677543091.0,
       "summary": "本期共有 42 个项目，包含 C 项目 (3)，C# 项目 (3)，C++ 项目 (4)，Go 项目 (5)，Java 项目 (2)，JavaScript 项目 (5)，Kotlin 项目 (1)，Python 项目 (5)，Rust 项目 (3)，Swift 项目 (1)，人工智能 (2)，其它 ...",
       "source_url": "https://hellogithub.com",
-      "category": "Blogs"
-    },
-    {
-      "title": "时间与人生——网络、生活",
-      "link": "https://xlog.app/api/redirection?characterId=73858&noteId=44",
-      "date": "2023-02-27 15:40",
-      "author": "旅行者的随想",
-      "timestamp": 1677483600.0,
-      "summary": "好像挺久没有写下文字了，不知道是因为大脑想休息，还是单纯的懒。 赛博社交\n\n这个月解散了一个 6 年的 QQ 群，虽然基本上算是个死群了，但是有时候屁事儿也多，实在是没精力去维护，干脆解散了。群里面大多数的人，实际上我根本就不认识，实际上这个群的成立本身就没有很强的目的性…",
-      "source_url": "https://besscroft.com",
       "category": "Blogs"
     },
     {
@@ -7112,16 +7022,6 @@
       "category": "Blogs"
     },
     {
-      "title": "珍珠之歌——我的 2022 总结",
-      "link": "https://xlog.app/api/redirection?characterId=73858&noteId=43",
-      "date": "2022-12-31 10:00",
-      "author": "旅行者的随想",
-      "timestamp": 1672452001.0,
-      "summary": "这便是你长路的纪行，这便是你们的珍珠之歌。 题记\n\n这篇年终总结是 2022 年的，当你看到这篇文章的时候，说明 2022 年已经过去了。今年真的过的挺快的，并且放开后还是第一批阳的，在我写这篇总结的时候，我的咳嗽仍然还没好。\n\n原本标题应该叫做《时间与人生 —— 我的 2022…",
-      "source_url": "https://besscroft.com",
-      "category": "Blogs"
-    },
-    {
       "title": "HelloGitHub 第 81 期",
       "link": "https://hellogithub.com/periodical/volume/81",
       "date": "2022-12-28 08:05",
@@ -7169,16 +7069,6 @@
       "timestamp": 1669559883.0,
       "summary": "本文介绍我使用 PVE 的一些心得（不保证正确 emmmm），可能需要一定使用经验才能顺畅阅读。\n\n前言我在去年的文章 「QEMU/KVM 虚拟化环境的搭建与使用」 中介绍了如何使用\nQEMU/KVM 作为桌面虚拟化软件，其功能对标开源免费的Oracle VM VirtualBox 以及收费但是用户...",
       "source_url": "https://thiscute.world/",
-      "category": "Blogs"
-    },
-    {
-      "title": "基于 Kubernetes 和 SkyWalking 的 Spring 微服务监控实践",
-      "link": "https://xlog.app/api/redirection?characterId=73858&noteId=42",
-      "date": "2022-11-17 16:08",
-      "author": "旅行者的随想",
-      "timestamp": 1668672531.0,
-      "summary": "前言 最近在哔哩哔哩做了一期直播技术分享，算是人生中第一次吧🙂内容是基于 Kubernetes 和 Skywalking 的 Spring 微服务监控实践，实现 Spring 云原生可观测性。自己排练的时候，准备了一个多小时的内容，结果直播时太紧张，半个多小时就讲完了😂\n\nht…",
-      "source_url": "https://besscroft.com",
       "category": "Blogs"
     },
     {
@@ -7249,16 +7139,6 @@
       "timestamp": 1664723100.0,
       "summary": "看完张宏杰的《饥饿的盛世》，对乾隆的认识加深了些。历史学家说清朝的没落是从乾隆开始的，而这有西方崛起东方衰落的历史趋势，但也跟乾隆的性格有很大关系。乾隆治下，中国的人口首次突破三亿，实际控制的领土面积也达到了历史的巅峰。而另一方面，闭关锁国、奴性臣民也达到了历史的巅峰。说清史，不得不说乾隆。",
       "source_url": "https://hutusi.com/",
-      "category": "Blogs"
-    },
-    {
-      "title": "Dynamic k8s 集群实现方案",
-      "link": "https://xlog.app/api/redirection?characterId=73858&noteId=41",
-      "date": "2022-09-29 09:43",
-      "author": "旅行者的随想",
-      "timestamp": 1664415832.0,
-      "summary": "前言 本文要探讨的，是一种极低成本，但是可用度较高的 K8S 集群方案，提供多种实现思路，以及部分可实现方案。我踩过一些坑，在现有资源下，其实有很多种玩法，但如果有小伙伴问：你怎么不用 xxx 家的 xx 服务啊？怎么不用 xxx 方式啊？\n\n说到底，如果你是为了 “生产级…",
-      "source_url": "https://besscroft.com",
       "category": "Blogs"
     },
     {
@@ -8382,6 +8262,66 @@
       "category": "Blogs"
     },
     {
+      "title": "Large-scale conformational analysis explains G-quadruplex topological landscape",
+      "link": "https://www.biorxiv.org/content/10.1101/2025.04.03.646972v1?rss=1",
+      "date": "2025-04-08 08:00",
+      "author": "bioRxiv Subject Collection: Bioinformatics",
+      "timestamp": 1744070400.0,
+      "summary": "G-quadruplexes (G4) are four-stranded nucleic acid structures formed within sequences containing repeated guanine tracts separated by loop regions. Ab...",
+      "source_url": "https://biorxiv.org",
+      "category": "Papers"
+    },
+    {
+      "title": "REvolutionH-tl: A Fast and Robust Tool for Decoding Evolutionary Gene Histories",
+      "link": "https://www.biorxiv.org/content/10.1101/2025.04.03.646975v1?rss=1",
+      "date": "2025-04-08 08:00",
+      "author": "bioRxiv Subject Collection: Bioinformatics",
+      "timestamp": 1744070400.0,
+      "summary": "REvolutionH-tl is a fast, scalable, and integrated software platform for inferring orthology relationships, gene trees, species trees, and reconciled ...",
+      "source_url": "https://biorxiv.org",
+      "category": "Papers"
+    },
+    {
+      "title": "Conditional Deep Learning Model Reveals Translation Elongation Determinants during Amino Acid Deprivation",
+      "link": "https://www.biorxiv.org/content/10.1101/2025.04.03.646988v1?rss=1",
+      "date": "2025-04-08 08:00",
+      "author": "bioRxiv Subject Collection: Bioinformatics",
+      "timestamp": 1744070400.0,
+      "summary": "Translation elongation plays a key role in cellular homeostasis, and dysregulation of this process has been implicated in various diseases and metabol...",
+      "source_url": "https://biorxiv.org",
+      "category": "Papers"
+    },
+    {
+      "title": "PG-SCUnK: measuring pangenome graph representativeness using Single-Copy and Universal K-mers",
+      "link": "https://www.biorxiv.org/content/10.1101/2025.04.03.646777v1?rss=1",
+      "date": "2025-04-08 08:00",
+      "author": "bioRxiv Subject Collection: Bioinformatics",
+      "timestamp": 1744070400.0,
+      "summary": "Motivation: Pangenome graphs integrate multiple assemblies to represent non-redundant genetic diversity. However, current evaluations of pangenome gra...",
+      "source_url": "https://biorxiv.org",
+      "category": "Papers"
+    },
+    {
+      "title": "Robust Consensus Nuclear and Cell Segmentation",
+      "link": "https://www.biorxiv.org/content/10.1101/2025.04.03.646876v1?rss=1",
+      "date": "2025-04-08 08:00",
+      "author": "bioRxiv Subject Collection: Bioinformatics",
+      "timestamp": 1744070400.0,
+      "summary": "Cell segmentation is a crucial step in numerous biomedical imaging endeavors; so much so that the community is flooded with publicly available, state-...",
+      "source_url": "https://biorxiv.org",
+      "category": "Papers"
+    },
+    {
+      "title": "Using Monoids for the Integration of Genomic and Metabolic Parameters in the Prediction of Phenotypes in Regulatory Cascades.",
+      "link": "https://www.biorxiv.org/content/10.1101/2025.04.03.646970v1?rss=1",
+      "date": "2025-04-08 08:00",
+      "author": "bioRxiv Subject Collection: Bioinformatics",
+      "timestamp": 1744070400.0,
+      "summary": "Molecular network modeling requires the use of mathematical and computational formalisms for a robust and accurate prediction of phenotypes. Furthermo...",
+      "source_url": "https://biorxiv.org",
+      "category": "Papers"
+    },
+    {
       "title": "Single-Cell Multiomic Analysis of Circadian Rhythmicity in Mouse Liver",
       "link": "https://www.biorxiv.org/content/10.1101/2025.04.03.647044v1?rss=1",
       "date": "2025-04-08 08:00",
@@ -8692,36 +8632,6 @@
       "category": "Papers"
     },
     {
-      "title": "Fast and memory efficient searching of large-scale mass spectrometry data using Tide",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.04.01.646675v1?rss=1",
-      "date": "2025-04-07 08:00",
-      "author": "bioRxiv Subject Collection: Bioinformatics",
-      "timestamp": 1743984000.0,
-      "summary": "Over the past 30 years, software for searching tandem mass spectrometry data against a protein database has improved dramatically in speed and statist...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "Intratumor Heterogeneity Through the Lens of Gene Regulatory Networks",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.04.01.646625v1?rss=1",
-      "date": "2025-04-07 08:00",
-      "author": "bioRxiv Subject Collection: Bioinformatics",
-      "timestamp": 1743984000.0,
-      "summary": "Tumors exhibit highly heterogeneous genomic and transcriptomic landscapes. Characterization of this intratumor heterogeneity (ITH) and its implication...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "SAUNA - Simulated Annealing for Unique Nucleosome Arrangements from Cell-Free DNA-Sequencing Data",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.04.01.646532v1?rss=1",
-      "date": "2025-04-07 08:00",
-      "author": "bioRxiv Subject Collection: Bioinformatics",
-      "timestamp": 1743984000.0,
-      "summary": "The analysis of cell-free DNA (cfDNA) offers a non-invasive approach for cancer detection and monitoring. Nucleosome positioning, inferred from cfDNA ...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
       "title": "Viral community diversity in the rhizosphere of the foundation salt marsh plant Spartina alterniflora",
       "link": "https://www.biorxiv.org/content/10.1101/2025.04.03.647062v1?rss=1",
       "date": "2025-04-07 08:00",
@@ -8829,36 +8739,6 @@
       "timestamp": 1743984000.0,
       "summary": "无摘要",
       "source_url": "https://www.nature.com/subjects/bioinformatics",
-      "category": "Papers"
-    },
-    {
-      "title": "Unsupervised Whole-Genome Representation Learning Captures Bacterial Phenotypes",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.04.01.646674v1?rss=1",
-      "date": "2025-04-06 08:00",
-      "author": "bioRxiv Subject Collection: Bioinformatics",
-      "timestamp": 1743897600.0,
-      "summary": "Shifting from hand-crafted to learned representations of data has revolutionized fields like natural language processing and computer vision. Despite ...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "Enhancing variant detection in complex genomes: leveraging linked reads for robust SNP, Indel, and structural variant analysis",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.03.31.646392v1?rss=1",
-      "date": "2025-04-06 08:00",
-      "author": "bioRxiv Subject Collection: Bioinformatics",
-      "timestamp": 1743897600.0,
-      "summary": "Accurate detection of genetic variants, including single nucleotide polymorphisms (SNPs), small insertions and deletions (INDELs), and structural vari...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "SnoBIRD: A tool to identify C/D box snoRNAs and refine their annotation across all eukaryotes",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.04.01.646650v1?rss=1",
-      "date": "2025-04-06 08:00",
-      "author": "bioRxiv Subject Collection: Bioinformatics",
-      "timestamp": 1743897600.0,
-      "summary": "Small nucleolar RNAs (snoRNAs), a group of noncoding RNAs present amongst all eukaryotes, are most extensively characterized for their regulation of r...",
-      "source_url": "https://biorxiv.org",
       "category": "Papers"
     },
     {
