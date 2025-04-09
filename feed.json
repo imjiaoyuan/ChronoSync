@@ -2,6 +2,16 @@
   "update_time": "2025-04-09",
   "articles": [
     {
+      "title": "周报 #90 - OVH 服务器、Coolify 与对 AI Coding 的思考",
+      "link": "https://www.pseudoyu.com/posts/weekly_review_90",
+      "date": "2025-04-09 10:44",
+      "author": "pseudoyu",
+      "timestamp": 1744166640.0,
+      "summary": "前言\n\n本篇是对 2025-03-31 到 2025-04-06 这周生活的记录与思考。\n搬回杭州已经接近一年了，租的房子也差不多到期了，于是火速看了两天房子，最终在不远处选了另一套，虽然又要经历一次痛苦的搬家，但新家的空间布局还挺满意的，也当作一种生活状态的调整了。\n除了物理意义上的搬家外，我的所...",
+      "source_url": "https://www.pseudoyu.com/",
+      "category": "Blogs"
+    },
+    {
       "title": "卡牌构筑类桌游核心规则之六",
       "link": "https://blog.codingnow.com/2025/04/dbg_rules_6.html",
       "date": "2025-04-08 21:10",
@@ -4269,16 +4279,6 @@
       "timestamp": 1721606400.0,
       "summary": "RivaTuner Statistics Server （下称 RTSS）能够根据用户设定的悬浮窗样式，在特定应用/游戏中显示实时性能数据。它并不像游戏加加等程序一样是个开箱即用的工具，因此仍然需要进行一些摸索。\n初始设置\n安装环节在此略过，本文需要 RTSS 和 HWiNFO64。\n打开 RTSS...",
       "source_url": "https://cyp0633.icu/",
-      "category": "Blogs"
-    },
-    {
-      "title": "从零开始搭建你的免费博客评论系统（Remark42 + fly.io）",
-      "link": "https://www.pseudoyu.com/zh/2024/07/22/free_commenting_system_using_remark42_and_flyio",
-      "date": "2024-07-22 01:10",
-      "author": "pseudoyu",
-      "timestamp": 1721581842.0,
-      "summary": "前言\n在「2024 年了，我的博客有了什么变化」一文中，我介绍了自己使用 Serverless 平台和一些开源项目搭建的博客系统，也开启了这个系列教程来记录搭建和部署全过程。\n本篇是关于评论系统的解决方案。\n评论系统迭代\n\n我常常觉得评论不仅仅是读者与作者之间的沟通互动，其内容本身也是文章的一部分，...",
-      "source_url": "https://www.pseudoyu.com/",
       "category": "Blogs"
     },
     {
