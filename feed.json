@@ -1,5 +1,5 @@
 {
-  "update_time": "2025-04-09",
+  "update_time": "2025-04-10",
   "articles": [
     {
       "title": "周报 #90 - OVH 服务器、Coolify 与对 AI Coding 的思考",
@@ -8392,6 +8392,46 @@
       "category": "Blogs"
     },
     {
+      "title": "A global P-Process map to avoid P-value abuse",
+      "link": "https://www.biorxiv.org/content/10.1101/2025.04.06.646254v1?rss=1",
+      "date": "2025-04-09 08:00",
+      "author": "bioRxiv Subject Collection: Bioinformatics",
+      "timestamp": 1744156800.0,
+      "summary": "P-abuse is serious in difference identification analysis of data. How to avoid P-abuse is a huge challenge. Here, we evolve P-value (a single value) t...",
+      "source_url": "https://biorxiv.org",
+      "category": "Papers"
+    },
+    {
+      "title": "Self-contrastive learning enables interference-resilient and generalizable fluorescence microscopy signal detection without interference modeling",
+      "link": "https://www.biorxiv.org/content/10.1101/2025.04.08.645087v1?rss=1",
+      "date": "2025-04-09 08:00",
+      "author": "bioRxiv Subject Collection: Bioinformatics",
+      "timestamp": 1744156800.0,
+      "summary": "Every weak signal in fluorescence microscopy may contain critical biological information. However, the interference resilience required to detect such...",
+      "source_url": "https://biorxiv.org",
+      "category": "Papers"
+    },
+    {
+      "title": "Robin: An Advanced Tool for Comparative Loop Caller Result Analysis Leveraging Large Language Models",
+      "link": "https://www.biorxiv.org/content/10.1101/2025.04.05.646688v1?rss=1",
+      "date": "2025-04-09 08:00",
+      "author": "bioRxiv Subject Collection: Bioinformatics",
+      "timestamp": 1744156800.0,
+      "summary": "There has been significant interest in genomics research, leading to the development of numerous new methods. One notable area of progress is in chrom...",
+      "source_url": "https://biorxiv.org",
+      "category": "Papers"
+    },
+    {
+      "title": "Bridging data gaps: predicting inadequate micronutrient intake with machine learning",
+      "link": "https://www.biorxiv.org/content/10.1101/2025.04.08.647715v1?rss=1",
+      "date": "2025-04-09 08:00",
+      "author": "bioRxiv Subject Collection: Bioinformatics",
+      "timestamp": 1744156800.0,
+      "summary": "Identifying populations at risk of inadequate micronutrient intake is useful for governments and humanitarian organizations in low- and middle-income ...",
+      "source_url": "https://biorxiv.org",
+      "category": "Papers"
+    },
+    {
       "title": "Genomic Tokenizer: Toward a biology-driven tokenization in transformer models for DNA sequences",
       "link": "https://www.biorxiv.org/content/10.1101/2025.04.02.646836v1?rss=1",
       "date": "2025-04-09 08:00",
@@ -8452,6 +8492,16 @@
       "category": "Papers"
     },
     {
+      "title": "Gap-free genomes and transcriptomes uncover race-specific effectors in watermelon wilt pathogen Fusarium oxysporum f. sp. niveum",
+      "link": "https://www.biorxiv.org/content/10.1101/2025.04.04.647254v1?rss=1",
+      "date": "2025-04-09 08:00",
+      "author": "bioRxiv Subject Collection: Genomics",
+      "timestamp": 1744156800.0,
+      "summary": "Watermelon (Citrullus lanatus L.) is one of the world's most economically important fruit crops, yet it is susceptible to devastating diseases such as...",
+      "source_url": "https://biorxiv.org",
+      "category": "Papers"
+    },
+    {
       "title": "Identification of ESBL-producing enterobacterales from vegetable plants in a rural area of Madagascar: insights into AMR transmission at the human-animal-environment-plant interface",
       "link": "https://www.biorxiv.org/content/10.1101/2025.04.06.647499v1?rss=1",
       "date": "2025-04-09 08:00",
@@ -8462,8 +8512,78 @@
       "category": "Papers"
     },
     {
+      "title": "Long-awaited ape genomes give new insights into their evolution — and ours",
+      "link": "https://www.nature.com/articles/d41586-025-01121-z",
+      "date": "2025-04-09 08:00",
+      "author": "Genomics : nature.com subject feeds",
+      "timestamp": 1744156800.0,
+      "summary": "无摘要",
+      "source_url": "https://www.nature.com/subjects/genomics",
+      "category": "Papers"
+    },
+    {
+      "title": "Complete sequencing of ape genomes",
+      "link": "https://www.nature.com/articles/s41586-025-08816-3",
+      "date": "2025-04-09 08:00",
+      "author": "Genomics : nature.com subject feeds",
+      "timestamp": 1744156800.0,
+      "summary": "无摘要",
+      "source_url": "https://www.nature.com/subjects/genomics",
+      "category": "Papers"
+    },
+    {
+      "title": "Complete ape genomes offer a close-up view of human evolution",
+      "link": "https://www.nature.com/articles/d41586-025-00912-8",
+      "date": "2025-04-09 08:00",
+      "author": "Genomics : nature.com subject feeds",
+      "timestamp": 1744156800.0,
+      "summary": "无摘要",
+      "source_url": "https://www.nature.com/subjects/genomics",
+      "category": "Papers"
+    },
+    {
+      "title": "What makes us human? Milestone ape genomes promise clues",
+      "link": "https://www.nature.com/articles/d41586-025-01079-y",
+      "date": "2025-04-09 08:00",
+      "author": "Genomics : nature.com subject feeds",
+      "timestamp": 1744156800.0,
+      "summary": "无摘要",
+      "source_url": "https://www.nature.com/subjects/genomics",
+      "category": "Papers"
+    },
+    {
+      "title": "Efficient and robust search of microbial genomes via phylogenetic compression",
+      "link": "https://www.nature.com/articles/s41592-025-02625-2",
+      "date": "2025-04-09 08:00",
+      "author": "Genomics : nature.com subject feeds",
+      "timestamp": 1744156800.0,
+      "summary": "无摘要",
+      "source_url": "https://www.nature.com/subjects/genomics",
+      "category": "Papers"
+    },
+    {
       "title": "Moroccan genome project: genomic insight into a North African population",
       "link": "https://www.nature.com/articles/s42003-025-08020-z",
+      "date": "2025-04-09 08:00",
+      "author": "Genomics : nature.com subject feeds",
+      "timestamp": 1744156800.0,
+      "summary": "无摘要",
+      "source_url": "https://www.nature.com/subjects/genomics",
+      "category": "Papers"
+    },
+    {
+      "title": "Translational genomics of osteoarthritis in 1,962,069 individuals",
+      "link": "https://www.nature.com/articles/s41586-025-08771-z",
+      "date": "2025-04-09 08:00",
+      "author": "Genomics : nature.com subject feeds",
+      "timestamp": 1744156800.0,
+      "summary": "无摘要",
+      "source_url": "https://www.nature.com/subjects/genomics",
+      "category": "Papers"
+    },
+    {
+      "title": "Timing and trajectory of BCR::ABL1-driven chronic myeloid leukaemia",
+      "link": "https://www.nature.com/articles/s41586-025-08817-2",
       "date": "2025-04-09 08:00",
       "author": "Genomics : nature.com subject feeds",
       "timestamp": 1744156800.0,
@@ -8668,46 +8788,6 @@
       "author": "bioRxiv Subject Collection: Bioinformatics",
       "timestamp": 1744070400.0,
       "summary": "Protein language models are significantly advancing the modeling of sequence-function relationships. However, most of them are not directly informed o...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "Nuc3DMap delineates finer nucleosome-based three-dimensional chromatin architecture",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.04.03.647017v1?rss=1",
-      "date": "2025-04-08 08:00",
-      "author": "bioRxiv Subject Collection: Bioinformatics",
-      "timestamp": 1744070400.0,
-      "summary": "Currently, there lacks a method to delineate finer nucleosome-based 3D chromatin architecture. In this study, we develop a novel computational method,...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "SPAC: a scalable, integrated enterprise platform for end-to-end single cell spatial analysis of multiplexed tissue imaging",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.04.02.646782v1?rss=1",
-      "date": "2025-04-08 08:00",
-      "author": "bioRxiv Subject Collection: Bioinformatics",
-      "timestamp": 1744070400.0,
-      "summary": "Background: Multiplexed tissue imaging enables the simultaneous detection of dozens of proteins at single-cell resolution, providing unprecedented ins...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "RNAcompare: Integrating machine learning algorithms to unveil the similarities of phenotypes based on clinical, multi-omics using Rheumatoid Arthritis and Heart Failure as Case Studies",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.04.02.646760v1?rss=1",
-      "date": "2025-04-08 08:00",
-      "author": "bioRxiv Subject Collection: Bioinformatics",
-      "timestamp": 1744070400.0,
-      "summary": "Background: Gene expression analysis is crucial for understanding the biological mechanisms underlying patient subgroup differences. However, most exi...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "Repurposing without Reinventing the Wheel - Ensemble Models for Differential Analysis",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.04.07.647549v1?rss=1",
-      "date": "2025-04-08 08:00",
-      "author": "bioRxiv Subject Collection: Bioinformatics",
-      "timestamp": 1744070400.0,
-      "summary": "Inspired by ensemble models in machine learning, we propose a general framework for aggregating multiple distinct base models to enhance the power of ...",
       "source_url": "https://biorxiv.org",
       "category": "Papers"
     },
@@ -8947,7 +9027,7 @@
       "date": "2025-04-06 08:00",
       "author": "bioRxiv Subject Collection: Genomics",
       "timestamp": 1743897600.0,
-      "summary": "Background. Patients with recalcitrant enterococcal bloodstream infections are at greater risk of adverse outcomes. We identified patients in the 2016...",
+      "summary": "BackgroundPatients with recalcitrant enterococcal bloodstream infections are at greater risk of adverse outcomes. We identified patients in the 2016-2...",
       "source_url": "https://biorxiv.org",
       "category": "Papers"
     },
@@ -9068,16 +9148,6 @@
       "author": "bioRxiv Subject Collection: Genomics",
       "timestamp": 1743811200.0,
       "summary": "The extremely early flowering/large-grain isogenic Koshihikari was developed by combining the large-grain allele, GW2, derived from Inochinoichi with ...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "Single-cell RNA Sequencing Analysis of Sputum Cell Transcriptomes Reveals Pathways and Communication Networks That Contribute to the Pathogenesis of Asthma",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.03.31.646405v1?rss=1",
-      "date": "2025-04-05 08:00",
-      "author": "bioRxiv Subject Collection: Genomics",
-      "timestamp": 1743811200.0,
-      "summary": "BackgroundAsthma is driven by complex interactions amongst structural airway cells, cells of the immune system, and the environmental. While sputum ce...",
       "source_url": "https://biorxiv.org",
       "category": "Papers"
     },
@@ -9292,46 +9362,6 @@
       "category": "Papers"
     },
     {
-      "title": "The genomic structure of complex chromosomal rearrangement at the Fm locus in black-bone Silkie chicken",
-      "link": "https://www.nature.com/articles/s42003-025-07825-2",
-      "date": "2025-04-01 08:00",
-      "author": "Genomics : nature.com subject feeds",
-      "timestamp": 1743465600.0,
-      "summary": "无摘要",
-      "source_url": "https://www.nature.com/subjects/genomics",
-      "category": "Papers"
-    },
-    {
-      "title": "Pig and quail CpG methylation datasets from short and long read sequencing technologies",
-      "link": "https://www.nature.com/articles/s41597-025-04769-4",
-      "date": "2025-04-01 08:00",
-      "author": "Genomics : nature.com subject feeds",
-      "timestamp": 1743465600.0,
-      "summary": "无摘要",
-      "source_url": "https://www.nature.com/subjects/genomics",
-      "category": "Papers"
-    },
-    {
-      "title": "Somatic NAP1L1 p.D349E promotes cardiac hypertrophy through cGAS-STING-IFN signaling",
-      "link": "https://www.nature.com/articles/s41467-025-58453-7",
-      "date": "2025-04-01 08:00",
-      "author": "Genomics : nature.com subject feeds",
-      "timestamp": 1743465600.0,
-      "summary": "无摘要",
-      "source_url": "https://www.nature.com/subjects/genomics",
-      "category": "Papers"
-    },
-    {
-      "title": "Genomic basis of non-human-primate diversity and adaptation",
-      "link": "https://www.nature.com/articles/s44358-025-00039-8",
-      "date": "2025-04-01 08:00",
-      "author": "Genomics : nature.com subject feeds",
-      "timestamp": 1743465600.0,
-      "summary": "无摘要",
-      "source_url": "https://www.nature.com/subjects/genomics",
-      "category": "Papers"
-    },
-    {
       "title": "ShennongAlpha: an AI-driven sharing and collaboration platform for intelligent curation, acquisition, and translation of natural medicinal material knowledge",
       "link": "https://www.nature.com/articles/s41421-025-00776-2",
       "date": "2025-04-01 08:00",
@@ -9349,36 +9379,6 @@
       "timestamp": 1743465600.0,
       "summary": "无摘要",
       "source_url": "https://www.nature.com/subjects/bioinformatics",
-      "category": "Papers"
-    },
-    {
-      "title": "Near telomere-to-telomere genome assembly of the blackspot tuskfish (Choerodon schoenleinii)",
-      "link": "https://www.nature.com/articles/s41597-025-04893-1",
-      "date": "2025-03-31 08:00",
-      "author": "Genomics : nature.com subject feeds",
-      "timestamp": 1743379200.0,
-      "summary": "无摘要",
-      "source_url": "https://www.nature.com/subjects/genomics",
-      "category": "Papers"
-    },
-    {
-      "title": "23andMe plans to sell its huge genetic database: could science benefit?",
-      "link": "https://www.nature.com/articles/d41586-025-01004-3",
-      "date": "2025-03-31 08:00",
-      "author": "Genomics : nature.com subject feeds",
-      "timestamp": 1743379200.0,
-      "summary": "无摘要",
-      "source_url": "https://www.nature.com/subjects/genomics",
-      "category": "Papers"
-    },
-    {
-      "title": "Whole-genome sequencing of myeloproliferative neoplasms revealed dynamic clonal changes in the fibrotic or leukemic transformation and novel FOXP1 mutations in the fibrotic transformation",
-      "link": "https://www.nature.com/articles/s41375-025-02576-9",
-      "date": "2025-03-31 08:00",
-      "author": "Genomics : nature.com subject feeds",
-      "timestamp": 1743379200.0,
-      "summary": "无摘要",
-      "source_url": "https://www.nature.com/subjects/genomics",
       "category": "Papers"
     },
     {
