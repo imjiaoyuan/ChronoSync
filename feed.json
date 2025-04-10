@@ -1,6 +1,16 @@
 {
-  "update_time": "2025-04-10",
+  "update_time": "2025-04-11",
   "articles": [
+    {
+      "title": "对数和自然对数的底",
+      "link": "https://blog.codingnow.com/2025/04/log_e.html",
+      "date": "2025-04-10 22:52",
+      "author": "云风的 BLOG",
+      "timestamp": 1744296760.0,
+      "summary": "最近读了一本书：《数学的雨伞下》。阅读体验非常好，这本书用浅显的语言，科普了许多深刻的道理。这本书所介绍的知识结构比较类似我挺喜欢的另一本《从一到无穷大》，但讲解更为细致一些，以至于如果事先明白这些知识，甚至会觉得有些冗长。但细细品味，会觉得理解能更深一层。 我在通读完一遍之后，这几天带着儿子精读。...",
+      "source_url": "https://blog.codingnow.com/",
+      "category": "Blogs"
+    },
     {
       "title": "周报 #90 - OVH 服务器、Coolify 与对 AI Coding 的思考",
       "link": "https://www.pseudoyu.com/posts/weekly_review_90",
@@ -3719,16 +3729,6 @@
       "timestamp": 1727136000.0,
       "summary": "CoreProtect 是一个用于快速数据记录和反窃听的 Minecraft 服务器插件，常见用法便是查询箱子被哪些玩家摸过。但是，如果你需要使用 CoreProtect 的最新特性，你必须自行编译插件，或是捐助作者、得到其编译的开发版插件。正好，有一个开服的朋友找我编译 CoreProtect，整...",
       "source_url": "https://blog.gxres.net/",
-      "category": "Blogs"
-    },
-    {
-      "title": "最近玩的几个游戏",
-      "link": "https://blog.codingnow.com/2024/09/few_games.html",
-      "date": "2024-09-23 16:47",
-      "author": "云风的 BLOG",
-      "timestamp": 1727081239.0,
-      "summary": "这个月没有写什么程序。月初停下手头的开发工作，花了一周时间，作为 Indieplay 评委试玩了 200 多个参选游戏中的 100 多个。这个工作暂停之后，我就对前两个月对自己想做的游戏产生了许多疑惑。虽然写了不少代码，但仅限于基础玩法的外在功能：我实现了一整套类似边缘世界和缺氧里的工人系统，让小人...",
-      "source_url": "https://blog.codingnow.com/",
       "category": "Blogs"
     },
     {
@@ -8392,6 +8392,26 @@
       "category": "Blogs"
     },
     {
+      "title": "Exo-Tox: Identifying Exotoxins from secreted bacterial proteins",
+      "link": "https://www.biorxiv.org/content/10.1101/2025.04.04.647182v1?rss=1",
+      "date": "2025-04-10 08:00",
+      "author": "bioRxiv Subject Collection: Bioinformatics",
+      "timestamp": 1744243200.0,
+      "summary": "Bacterial exotoxins are secreted proteins able to affect target cells, and associated with diseases. Their accurate identification can enhance drug di...",
+      "source_url": "https://biorxiv.org",
+      "category": "Papers"
+    },
+    {
+      "title": "Generating three-dimensional genome structures with a variational quantum algorithm",
+      "link": "https://www.biorxiv.org/content/10.1101/2025.04.06.647452v1?rss=1",
+      "date": "2025-04-10 08:00",
+      "author": "bioRxiv Subject Collection: Bioinformatics",
+      "timestamp": 1744243200.0,
+      "summary": "Chromosome conformation capture (3C) experiments have revealed the underlying spatial interactions that govern three-dimensional (3D) genome organizat...",
+      "source_url": "https://biorxiv.org",
+      "category": "Papers"
+    },
+    {
       "title": "EnviroAmpDesigner, a tool for designing high specificity multiplex PCR primer panels for detecting and subtyping a target organism in environmental surveillance samples",
       "link": "https://www.biorxiv.org/content/10.1101/2025.04.10.648097v1?rss=1",
       "date": "2025-04-10 08:00",
@@ -8459,6 +8479,36 @@
       "timestamp": 1744243200.0,
       "summary": "While individual Mendelian diseases (diseases caused by a single gene) are rare, their aggregate number is significant. Discovering which gene causes ...",
       "source_url": "https://biorxiv.org",
+      "category": "Papers"
+    },
+    {
+      "title": "Solanum pan-genome highlights paralog diversification",
+      "link": "https://www.nature.com/articles/s41588-025-02178-2",
+      "date": "2025-04-10 08:00",
+      "author": "Genomics : nature.com subject feeds",
+      "timestamp": 1744243200.0,
+      "summary": "无摘要",
+      "source_url": "https://www.nature.com/subjects/genomics",
+      "category": "Papers"
+    },
+    {
+      "title": "The PCOS-endometrial cell atlas",
+      "link": "https://www.nature.com/articles/s41588-025-02180-8",
+      "date": "2025-04-10 08:00",
+      "author": "Genomics : nature.com subject feeds",
+      "timestamp": 1744243200.0,
+      "summary": "无摘要",
+      "source_url": "https://www.nature.com/subjects/genomics",
+      "category": "Papers"
+    },
+    {
+      "title": "Somatic mutations in the stomach",
+      "link": "https://www.nature.com/articles/s41588-025-02181-7",
+      "date": "2025-04-10 08:00",
+      "author": "Genomics : nature.com subject feeds",
+      "timestamp": 1744243200.0,
+      "summary": "无摘要",
+      "source_url": "https://www.nature.com/subjects/genomics",
       "category": "Papers"
     },
     {
@@ -8892,26 +8942,6 @@
       "category": "Papers"
     },
     {
-      "title": "Single-Cell Multiomic Analysis of Circadian Rhythmicity in Mouse Liver",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.04.03.647044v1?rss=1",
-      "date": "2025-04-08 08:00",
-      "author": "bioRxiv Subject Collection: Bioinformatics",
-      "timestamp": 1744070400.0,
-      "summary": "From bacteria to humans, most organisms showcase inherent 24-hour circadian rhythms, best exemplified by the sleep-wake cycle. These rhythms are remar...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "Metric Validation for Detection of Delayed and Directed Coupling",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.04.02.646886v1?rss=1",
-      "date": "2025-04-08 08:00",
-      "author": "bioRxiv Subject Collection: Bioinformatics",
-      "timestamp": 1744070400.0,
-      "summary": "Background: The brain functions as a complex network of billions of interconnected neurons, coordinating processes from basic reflexes to high-level c...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
       "title": "A Proposed Statistical Approach for Conducting Longitudinal Assessment of Circulating Tumor DNA",
       "link": "https://www.biorxiv.org/content/10.1101/2025.04.03.646973v1?rss=1",
       "date": "2025-04-08 08:00",
@@ -9337,36 +9367,6 @@
       "date": "2025-04-03 08:00",
       "author": "Genomics : nature.com subject feeds",
       "timestamp": 1743638400.0,
-      "summary": "无摘要",
-      "source_url": "https://www.nature.com/subjects/genomics",
-      "category": "Papers"
-    },
-    {
-      "title": "Lineage-specific microbial protein prediction enables large-scale exploration of protein ecology within the human gut",
-      "link": "https://www.nature.com/articles/s41467-025-58442-w",
-      "date": "2025-04-03 08:00",
-      "author": "Genomics : nature.com subject feeds",
-      "timestamp": 1743638400.0,
-      "summary": "无摘要",
-      "source_url": "https://www.nature.com/subjects/genomics",
-      "category": "Papers"
-    },
-    {
-      "title": "Reactivation of retrotransposable elements is associated with environmental stress and ageing",
-      "link": "https://www.nature.com/articles/s41576-025-00829-y",
-      "date": "2025-04-02 08:00",
-      "author": "Genomics : nature.com subject feeds",
-      "timestamp": 1743552000.0,
-      "summary": "无摘要",
-      "source_url": "https://www.nature.com/subjects/genomics",
-      "category": "Papers"
-    },
-    {
-      "title": "Revealed: first DNA profiles of ancient people who roamed a lush Sahara",
-      "link": "https://www.nature.com/articles/d41586-025-01020-3",
-      "date": "2025-04-02 08:00",
-      "author": "Genomics : nature.com subject feeds",
-      "timestamp": 1743552000.0,
       "summary": "无摘要",
       "source_url": "https://www.nature.com/subjects/genomics",
       "category": "Papers"
