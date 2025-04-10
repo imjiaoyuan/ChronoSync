@@ -8392,6 +8392,56 @@
       "category": "Blogs"
     },
     {
+      "title": "STEAMBOAT: Attention-based multiscale delineation of cellular interactions in tissues",
+      "link": "https://www.biorxiv.org/content/10.1101/2025.04.06.647437v1?rss=1",
+      "date": "2025-04-10 08:00",
+      "author": "bioRxiv Subject Collection: Bioinformatics",
+      "timestamp": 1744243200.0,
+      "summary": "Spatial-omics technologies profile cells in their native spatial context within tissues, enabling more complete understanding of cellular properties. ...",
+      "source_url": "https://biorxiv.org",
+      "category": "Papers"
+    },
+    {
+      "title": "Integrative Single-Cell RNA and ATAC Sequencing Reveals the Impact of Chronic Cigarette Smoking on Lung Epithelial Responses to Influenza and Hyperoxia",
+      "link": "https://www.biorxiv.org/content/10.1101/2025.04.06.647429v1?rss=1",
+      "date": "2025-04-10 08:00",
+      "author": "bioRxiv Subject Collection: Bioinformatics",
+      "timestamp": 1744243200.0,
+      "summary": "Cigarette smoke (CS) is a significant risk factor for developing acute respiratory distress syndrome (ARDS), but the cellular and molecular mechanisms...",
+      "source_url": "https://biorxiv.org",
+      "category": "Papers"
+    },
+    {
+      "title": "Two telomere-to-telomere, gap-free genome assemblies and comparisons revealed the conserved key genes associated with sugar accumulation in Rubus genus",
+      "link": "https://www.biorxiv.org/content/10.1101/2025.04.09.646780v1?rss=1",
+      "date": "2025-04-10 08:00",
+      "author": "bioRxiv Subject Collection: Genomics",
+      "timestamp": 1744243200.0,
+      "summary": "Two telomere-to-telomere, gap-free genome for Rubus species were sequenced and assembled by using an integrative approach that combined ultra-long rea...",
+      "source_url": "https://biorxiv.org",
+      "category": "Papers"
+    },
+    {
+      "title": "Shared genomic architecture of the brain white matter structural connectome and intelligence",
+      "link": "https://www.biorxiv.org/content/10.1101/2025.04.09.647917v1?rss=1",
+      "date": "2025-04-10 08:00",
+      "author": "bioRxiv Subject Collection: Genomics",
+      "timestamp": 1744243200.0,
+      "summary": "White matter (WM) connections, which facilitate communication between brain regions, substantially impact intellectual performance. However, the share...",
+      "source_url": "https://biorxiv.org",
+      "category": "Papers"
+    },
+    {
+      "title": "MENDELSEEK: An algorithm that predicts Mendelian Genes and elucidates what makes them special",
+      "link": "https://www.biorxiv.org/content/10.1101/2025.04.06.647432v1?rss=1",
+      "date": "2025-04-10 08:00",
+      "author": "bioRxiv Subject Collection: Genomics",
+      "timestamp": 1744243200.0,
+      "summary": "While individual Mendelian diseases (diseases caused by a single gene) are rare, their aggregate number is significant. Discovering which gene causes ...",
+      "source_url": "https://biorxiv.org",
+      "category": "Papers"
+    },
+    {
       "title": "Haplotype-resolved genomes of Trichophyton mentagrophytes and Trichophyton tonsurans",
       "link": "https://www.nature.com/articles/s41597-025-04835-x",
       "date": "2025-04-10 08:00",
@@ -8419,6 +8469,16 @@
       "timestamp": 1744243200.0,
       "summary": "无摘要",
       "source_url": "https://www.nature.com/subjects/genomics",
+      "category": "Papers"
+    },
+    {
+      "title": "Single-cell and spatial RNA sequencing identify divergent microenvironments and progression signatures in early- versus late-onset prostate cancer",
+      "link": "https://www.nature.com/articles/s43587-025-00842-0",
+      "date": "2025-04-10 08:00",
+      "author": "Bioinformatics : nature.com subject feeds",
+      "timestamp": 1744243200.0,
+      "summary": "无摘要",
+      "source_url": "https://www.nature.com/subjects/bioinformatics",
       "category": "Papers"
     },
     {
@@ -8852,26 +8912,6 @@
       "category": "Papers"
     },
     {
-      "title": "A systematic assessment of single-cell language model configurations",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.04.02.646825v1?rss=1",
-      "date": "2025-04-08 08:00",
-      "author": "bioRxiv Subject Collection: Bioinformatics",
-      "timestamp": 1744070400.0,
-      "summary": "Transformers pre-trained on single-cell transcriptomic data have recently been applied to a series of tasks, earning them the title of foundation mode...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "Reconstruction and exploitation of a dedicated Genome-Scale Metabolic Model of the human pathogen C. neoformans",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.04.02.646762v1?rss=1",
-      "date": "2025-04-08 08:00",
-      "author": "bioRxiv Subject Collection: Bioinformatics",
-      "timestamp": 1744070400.0,
-      "summary": "C. neoformans is notorious for causing severe pulmonary and central nervous system infections, particularly in immunocompromised patients. High mortal...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
       "title": "A Proposed Statistical Approach for Conducting Longitudinal Assessment of Circulating Tumor DNA",
       "link": "https://www.biorxiv.org/content/10.1101/2025.04.03.646973v1?rss=1",
       "date": "2025-04-08 08:00",
@@ -9168,36 +9208,6 @@
       "author": "bioRxiv Subject Collection: Genomics",
       "timestamp": 1743897600.0,
       "summary": "The western painted turtle, Chrysemys picta bellii, has the greatest tolerance to anoxia of any tetrapod studied to date. These turtles reside in the ...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "Chromosome-level genome assembly of Tamarindus indica",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.04.01.646601v1?rss=1",
-      "date": "2025-04-06 08:00",
-      "author": "bioRxiv Subject Collection: Genomics",
-      "timestamp": 1743897600.0,
-      "summary": "Tamarindus indica is the sole member of the genus Tamarindus of the Leguminosae family. It is a multipurpose horticultural plant, with every part of t...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "De novo genome assemblies of the dwarf honey bee subgenus Micrapis: Apis andreniformis and Apis florea",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.04.01.646657v1?rss=1",
-      "date": "2025-04-06 08:00",
-      "author": "bioRxiv Subject Collection: Genomics",
-      "timestamp": 1743897600.0,
-      "summary": "The Micrapis subgenus, which includes the black dwarf honey bee (Apis andreniformis) and the red dwarf honey bee (Apis florea), remains underrepresent...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "Single-Cell Multiomics Reveals Regulatory Mechanisms of CAR T Cell Persistence and Dysfunction in Multiple Myeloma",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.04.01.646378v1?rss=1",
-      "date": "2025-04-06 08:00",
-      "author": "bioRxiv Subject Collection: Genomics",
-      "timestamp": 1743897600.0,
-      "summary": "Understanding the mechanisms that drive chimeric antigen receptor (CAR) T cell function and persistence in multiple myeloma (MM) remains a critical ch...",
       "source_url": "https://biorxiv.org",
       "category": "Papers"
     },
@@ -9577,16 +9587,6 @@
       "date": "2025-03-13 08:00",
       "author": "Bioinformatics : nature.com subject feeds",
       "timestamp": 1741824000.0,
-      "summary": "无摘要",
-      "source_url": "https://www.nature.com/subjects/bioinformatics",
-      "category": "Papers"
-    },
-    {
-      "title": "Investigating ferroptosis-related genes NFE2L2 in neutrophils for ankylosing spondylitis: therapeutic potential of cassia twigs",
-      "link": "https://www.nature.com/articles/s41598-025-88775-x",
-      "date": "2025-03-10 08:00",
-      "author": "Bioinformatics : nature.com subject feeds",
-      "timestamp": 1741564800.0,
       "summary": "无摘要",
       "source_url": "https://www.nature.com/subjects/bioinformatics",
       "category": "Papers"
