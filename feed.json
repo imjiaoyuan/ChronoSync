@@ -8392,6 +8392,26 @@
       "category": "Blogs"
     },
     {
+      "title": "EnviroAmpDesigner, a tool for designing high specificity multiplex PCR primer panels for detecting and subtyping a target organism in environmental surveillance samples",
+      "link": "https://www.biorxiv.org/content/10.1101/2025.04.10.648097v1?rss=1",
+      "date": "2025-04-10 08:00",
+      "author": "bioRxiv Subject Collection: Bioinformatics",
+      "timestamp": 1744243200.0,
+      "summary": "Amplicon sequencing is a popular method for understanding the diversity of bacterial communities in environmental or similar samples as exemplified by...",
+      "source_url": "https://biorxiv.org",
+      "category": "Papers"
+    },
+    {
+      "title": "OBE-DB: A Computational Tool and Web Server for the Prediction of Antiobesity Drugs",
+      "link": "https://www.biorxiv.org/content/10.1101/2025.04.10.648110v1?rss=1",
+      "date": "2025-04-10 08:00",
+      "author": "bioRxiv Subject Collection: Bioinformatics",
+      "timestamp": 1744243200.0,
+      "summary": "The huge obesity prevalence and its associated metabolic disorders highlight the urgent need for new therapeutic strategies beyond lifestyle intervent...",
+      "source_url": "https://biorxiv.org",
+      "category": "Papers"
+    },
+    {
       "title": "STEAMBOAT: Attention-based multiscale delineation of cellular interactions in tissues",
       "link": "https://www.biorxiv.org/content/10.1101/2025.04.06.647437v1?rss=1",
       "date": "2025-04-10 08:00",
@@ -8888,26 +8908,6 @@
       "author": "bioRxiv Subject Collection: Bioinformatics",
       "timestamp": 1744070400.0,
       "summary": "Background: The brain functions as a complex network of billions of interconnected neurons, coordinating processes from basic reflexes to high-level c...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "Physicochemical and microbiome changes in queso crema de Chiapas during ripening",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.04.02.646936v1?rss=1",
-      "date": "2025-04-08 08:00",
-      "author": "bioRxiv Subject Collection: Bioinformatics",
-      "timestamp": 1744070400.0,
-      "summary": "The dynamic transformations of physicochemical, microbiological, and metagenomic profiles in Queso Crema de Chiapas were studied during distinct ripen...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "ATOMICA: Learning Universal Representations of Intermolecular Interactions",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.04.02.646906v1?rss=1",
-      "date": "2025-04-08 08:00",
-      "author": "bioRxiv Subject Collection: Bioinformatics",
-      "timestamp": 1744070400.0,
-      "summary": "Molecular interactions underlie nearly all biological processes, but most machine learning models treat molecules in isolation or specialize in a sing...",
       "source_url": "https://biorxiv.org",
       "category": "Papers"
     },
