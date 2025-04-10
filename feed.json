@@ -3842,6 +3842,16 @@
       "category": "Blogs"
     },
     {
+      "title": "记录一次 Apple Vision Pro 体验",
+      "link": "https://xlog.app/api/redirection?characterId=56433&noteId=12",
+      "date": "2024-09-09 02:42",
+      "author": "梦墨不会做梦💤",
+      "timestamp": 1725820950.0,
+      "summary": "本文图片均由小米 14 Ultra 直出。 前言\n\nApple Vision Pro，\n 作为 WWDC23 的 One More Thing，一经推出便万众瞩目，\n 今年 6 月份，随着国行的推出，国内的预约体验正式开放，\n 我对这台设备有着浓厚兴趣，恰好最近有空，遂前往本地的…",
+      "source_url": "https://xlog.dreamo.ink",
+      "category": "Blogs"
+    },
+    {
       "title": "周报 #72 - 滑板体验、Rust Conf 与 Follow 公测（含邀请码）",
       "link": "https://www.pseudoyu.com/zh/2024/09/08/weekly_review_20240908",
       "date": "2024-09-08 16:00",
@@ -4049,6 +4059,16 @@
       "timestamp": 1723731300.0,
       "summary": "彻底重塑城市和生活方式",
       "source_url": "https://darmau.co/zh",
+      "category": "Blogs"
+    },
+    {
+      "title": "随便聊聊最近买的物件",
+      "link": "https://xlog.app/api/redirection?characterId=56433&noteId=9",
+      "date": "2024-08-15 15:29",
+      "author": "梦墨不会做梦💤",
+      "timestamp": 1723706959.0,
+      "summary": "最近买了不少东西，眼看博客好久没更新文字了，那就聚合起来写一堆简评证明一下我还活着。",
+      "source_url": "https://xlog.dreamo.ink",
       "category": "Blogs"
     },
     {
@@ -4369,6 +4389,16 @@
       "timestamp": 1720569600.0,
       "summary": "好不容易再次充满干劲，趁着这个机会把 Sliver Complex 的登陆页给重写一下，顺便尝试一下之前就想试一试的 Svelte 与 SvelteKit。",
       "source_url": "https://blog.gxres.net/",
+      "category": "Blogs"
+    },
+    {
+      "title": "记录一次学マス角色模型解包",
+      "link": "https://xlog.app/api/redirection?characterId=56433&noteId=8",
+      "date": "2024-07-09 21:35",
+      "author": "梦墨不会做梦💤",
+      "timestamp": 1720532139.0,
+      "summary": "很喜欢学マス的小偶像建模，遂解之",
+      "source_url": "https://xlog.dreamo.ink",
       "category": "Blogs"
     },
     {
@@ -6562,6 +6592,26 @@
       "category": "Blogs"
     },
     {
+      "title": "TinHiFi T4 - 净",
+      "link": "https://xlog.app/api/redirection?characterId=56433&noteId=7",
+      "date": "2023-07-20 11:35",
+      "author": "梦墨不会做梦💤",
+      "timestamp": 1689824148.0,
+      "summary": "干净且均衡。",
+      "source_url": "https://xlog.dreamo.ink",
+      "category": "Blogs"
+    },
+    {
+      "title": "百元内卷终点？——水月雨 竹2",
+      "link": "https://xlog.app/api/redirection?characterId=56433&noteId=5",
+      "date": "2023-07-20 10:58",
+      "author": "梦墨不会做梦💤",
+      "timestamp": 1689821885.0,
+      "summary": "2019年的银色飞船到2022年的竹1，水月雨在百元价位的竞争力越来越强，\n2023年7月，水月雨推出了竹2，打着「内卷终点」的slogen，欲求「薄纱一切」。",
+      "source_url": "https://xlog.dreamo.ink",
+      "category": "Blogs"
+    },
+    {
       "title": "本站已彻底和大陆脱钩",
       "link": "https://darmau.co/zh/article/completely-detached-from-mainland",
       "date": "2023-07-20 10:25",
@@ -6719,6 +6769,36 @@
       "timestamp": 1686355200.0,
       "summary": "冯大辉 Fenng 发了一条 Tweet 问\n\n对于各位高考过来人，如果成绩只能上二本，要不要复读？\n\n以下是我的想法。\n我当时考到的是二本，除了学费贵一点之外，我觉得都挺好的。我个人的浅见是，命运是没有人能预测的，复读和不复读是两个不同的分支。当然这说了等于没说。所以我来试试纸上谈兵一下：\n我们假...",
       "source_url": "https://lutaonan.com",
+      "category": "Blogs"
+    },
+    {
+      "title": "为网页添加FontAwesome支持",
+      "link": "https://xlog.app/api/redirection?characterId=56433&noteId=4",
+      "date": "2023-06-09 21:23",
+      "author": "梦墨不会做梦💤",
+      "timestamp": 1686317012.0,
+      "summary": "🤔",
+      "source_url": "https://xlog.dreamo.ink",
+      "category": "Blogs"
+    },
+    {
+      "title": "SBC-XQ 蓝牙编码的音频质量",
+      "link": "https://xlog.app/api/redirection?characterId=56433&noteId=2",
+      "date": "2023-06-09 20:58",
+      "author": "梦墨不会做梦💤",
+      "timestamp": 1686315520.0,
+      "summary": "翻译了一篇关于SBC-XQ的文章。",
+      "source_url": "https://xlog.dreamo.ink",
+      "category": "Blogs"
+    },
+    {
+      "title": "Linux运行游戏问题及解决方案汇总",
+      "link": "https://xlog.app/api/redirection?characterId=56433&noteId=1",
+      "date": "2023-06-09 20:49",
+      "author": "梦墨不会做梦💤",
+      "timestamp": 1686314985.0,
+      "summary": "记录一下在Linux环境下玩游戏遇到的问题以及解决方案。",
+      "source_url": "https://xlog.dreamo.ink",
       "category": "Blogs"
     },
     {
@@ -7362,6 +7442,16 @@
       "category": "Blogs"
     },
     {
+      "title": "识听巡回：MoonDrop 晓 3.5mm ver.",
+      "link": "https://xlog.app/api/redirection?characterId=56433&noteId=6",
+      "date": "2022-08-14 00:00",
+      "author": "梦墨不会做梦💤",
+      "timestamp": 1660406400.0,
+      "summary": "一篇普通的晓尾巴测评。",
+      "source_url": "https://xlog.dreamo.ink",
+      "category": "Blogs"
+    },
+    {
       "title": "分布式数据库的一致性问题与共识算法",
       "link": "https://thiscute.world/posts/consistency-and-consensus-algorithm/?utm_source=atom_feed",
       "date": "2022-08-07 04:11",
@@ -7549,6 +7639,16 @@
       "timestamp": 1651363200.0,
       "summary": "对于我来说，我一直认为自己缺少做决策的能力。成年人的生活不像学生时代，所有的题目都有固定答案。所有的选择都不存在绝对的对和错，它只是在人的一生 checkout 了一个新的 branch. 我总是不知道应该如何做决定。\n刚好看到了 Jeff Bezos 曾经谈到了自己是如何做决定的，他称之为 Reg...",
       "source_url": "https://lutaonan.com",
+      "category": "Blogs"
+    },
+    {
+      "title": "Fedora 折騰日記 ver 1.0",
+      "link": "https://xlog.app/api/redirection?characterId=56433&noteId=3",
+      "date": "2022-04-04 00:00",
+      "author": "梦墨不会做梦💤",
+      "timestamp": 1649001600.0,
+      "summary": "調教 Fedora ，讓ta更好的爲你服務（",
+      "source_url": "https://xlog.dreamo.ink",
       "category": "Blogs"
     },
     {
@@ -8392,6 +8492,26 @@
       "category": "Blogs"
     },
     {
+      "title": "Menger_Curvature : a MDAKit implementation to decipher the dynamics, curvatures and flexibilities of polymeric backbones at the residue level",
+      "link": "https://www.biorxiv.org/content/10.1101/2025.04.04.647214v1?rss=1",
+      "date": "2025-04-10 08:00",
+      "author": "bioRxiv Subject Collection: Bioinformatics",
+      "timestamp": 1744243200.0,
+      "summary": "Characterizing the dynamics of the backbone of flexible polymers such as Intrinsically Disordered Regions and Proteins (IDRs and IDPs) has proven to b...",
+      "source_url": "https://biorxiv.org",
+      "category": "Papers"
+    },
+    {
+      "title": "Label-free droplet image analysis with Cellprofiler",
+      "link": "https://www.biorxiv.org/content/10.1101/2025.04.04.647160v1?rss=1",
+      "date": "2025-04-10 08:00",
+      "author": "bioRxiv Subject Collection: Bioinformatics",
+      "timestamp": 1744243200.0,
+      "summary": "Droplet microfluidic methods used for microbiological experiments are fast, cost-effective, and provide high-throughput data. However, analysis of suc...",
+      "source_url": "https://biorxiv.org",
+      "category": "Papers"
+    },
+    {
       "title": "Exo-Tox: Identifying Exotoxins from secreted bacterial proteins",
       "link": "https://www.biorxiv.org/content/10.1101/2025.04.04.647182v1?rss=1",
       "date": "2025-04-10 08:00",
@@ -8928,26 +9048,6 @@
       "author": "bioRxiv Subject Collection: Bioinformatics",
       "timestamp": 1744070400.0,
       "summary": "MotivationPangenome graphs integrate multiple assemblies to represent non-redundant genetic diversity. However, current evaluations of pangenome graph...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "Robust Consensus Nuclear and Cell Segmentation",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.04.03.646876v1?rss=1",
-      "date": "2025-04-08 08:00",
-      "author": "bioRxiv Subject Collection: Bioinformatics",
-      "timestamp": 1744070400.0,
-      "summary": "Cell segmentation is a crucial step in numerous biomedical imaging endeavors; so much so that the community is flooded with publicly available, state-...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "Using Monoids for the Integration of Genomic and Metabolic Parameters in the Prediction of Phenotypes in Regulatory Cascades.",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.04.03.646970v1?rss=1",
-      "date": "2025-04-08 08:00",
-      "author": "bioRxiv Subject Collection: Bioinformatics",
-      "timestamp": 1744070400.0,
-      "summary": "Molecular network modeling requires the use of mathematical and computational formalisms for a robust and accurate prediction of phenotypes. Furthermo...",
       "source_url": "https://biorxiv.org",
       "category": "Papers"
     },
