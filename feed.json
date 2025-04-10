@@ -1292,6 +1292,16 @@
       "category": "Blogs"
     },
     {
+      "title": "2.7 闪击济南记录",
+      "link": "https://blog.tonyding.net/archives/29/",
+      "date": "2025-02-08 23:26",
+      "author": "Tony Ding's Blog",
+      "timestamp": 1739028360.0,
+      "summary": "开卡/蠢材吧/闲逛/享受一等座",
+      "source_url": "https://blog.tonyding.net/",
+      "category": "Blogs"
+    },
+    {
       "title": "2024年度最别开生面的新生态",
       "link": "https://www.darknavy.org/zh/darknavy_insight/the_most_groundbreaking_new_security_ecosystem_of_2024/",
       "date": "2025-02-08 17:10",
@@ -3832,16 +3842,6 @@
       "category": "Blogs"
     },
     {
-      "title": "记录一次 Apple Vision Pro 体验",
-      "link": "https://xlog.app/api/redirection?characterId=56433&noteId=12",
-      "date": "2024-09-09 02:42",
-      "author": "梦墨不会做梦💤",
-      "timestamp": 1725820950.0,
-      "summary": "本文图片均由小米 14 Ultra 直出。 前言\n\nApple Vision Pro，\n 作为 WWDC23 的 One More Thing，一经推出便万众瞩目，\n 今年 6 月份，随着国行的推出，国内的预约体验正式开放，\n 我对这台设备有着浓厚兴趣，恰好最近有空，遂前往本地的…",
-      "source_url": "https://xlog.dreamo.ink",
-      "category": "Blogs"
-    },
-    {
       "title": "周报 #72 - 滑板体验、Rust Conf 与 Follow 公测（含邀请码）",
       "link": "https://www.pseudoyu.com/zh/2024/09/08/weekly_review_20240908",
       "date": "2024-09-08 16:00",
@@ -4049,16 +4049,6 @@
       "timestamp": 1723731300.0,
       "summary": "彻底重塑城市和生活方式",
       "source_url": "https://darmau.co/zh",
-      "category": "Blogs"
-    },
-    {
-      "title": "随便聊聊最近买的物件",
-      "link": "https://xlog.app/api/redirection?characterId=56433&noteId=9",
-      "date": "2024-08-15 15:29",
-      "author": "梦墨不会做梦💤",
-      "timestamp": 1723706959.0,
-      "summary": "最近买了不少东西，眼看博客好久没更新文字了，那就聚合起来写一堆简评证明一下我还活着。",
-      "source_url": "https://xlog.dreamo.ink",
       "category": "Blogs"
     },
     {
@@ -4292,6 +4282,16 @@
       "category": "Blogs"
     },
     {
+      "title": "冲动消费喜加一：小米手环 9 陶瓷特别版半日简评",
+      "link": "https://blog.tonyding.net/archives/26/",
+      "date": "2024-07-21 21:40",
+      "author": "Tony Ding's Blog",
+      "timestamp": 1721569200.0,
+      "summary": "我也不知道怎么就被陶瓷给迷住了...",
+      "source_url": "https://blog.tonyding.net/",
+      "category": "Blogs"
+    },
+    {
       "title": "北河三｜2024年7月小结",
       "link": "https://thirdshire.com/july-recap-2024/",
       "date": "2024-07-21 11:29",
@@ -4372,16 +4372,6 @@
       "category": "Blogs"
     },
     {
-      "title": "记录一次学マス角色模型解包",
-      "link": "https://xlog.app/api/redirection?characterId=56433&noteId=8",
-      "date": "2024-07-09 21:35",
-      "author": "梦墨不会做梦💤",
-      "timestamp": 1720532139.0,
-      "summary": "很喜欢学マス的小偶像建模，遂解之",
-      "source_url": "https://xlog.dreamo.ink",
-      "category": "Blogs"
-    },
-    {
       "title": "聊一聊 Google 云盘的无限空间！",
       "link": "https://blog.illsky.com/posts/weixin-google-cloud-drive/",
       "date": "2024-07-06 08:00",
@@ -4399,6 +4389,16 @@
       "timestamp": 1719883194.0,
       "summary": "在更新到 openssh-9.8p1 之后，现存的 SSH 守护进程将无法再接受新的连接（详见 https:/ [&#8230;]",
       "source_url": "https://www.archlinuxcn.org",
+      "category": "Blogs"
+    },
+    {
+      "title": "ThinkPad X1 Tablet Gen 2 Hackintosh 配置手记",
+      "link": "https://blog.tonyding.net/archives/20/",
+      "date": "2024-06-30 17:42",
+      "author": "Tony Ding's Blog",
+      "timestamp": 1719740520.0,
+      "summary": "很久没折腾过黑果了，一是手上没有合适装的设备（主力机是 11 代，而经手过的几个玩具都是性能差到完全没动力去花时间的存在），二是...没时间没精力，毕竟配 EFI 这个活干过的都知道有多折磨人。...",
+      "source_url": "https://blog.tonyding.net/",
       "category": "Blogs"
     },
     {
@@ -5442,6 +5442,16 @@
       "category": "Blogs"
     },
     {
+      "title": "OnePlus Ace Pro 简评",
+      "link": "https://blog.tonyding.net/archives/16/",
+      "date": "2024-02-11 22:51",
+      "author": "Tony Ding's Blog",
+      "timestamp": 1707663060.0,
+      "summary": "这回旋镖打回来的有点快...",
+      "source_url": "https://blog.tonyding.net/",
+      "category": "Blogs"
+    },
+    {
       "title": "我的年度工具折腾之旅",
       "link": "https://tw93.fun/2024-02-09/tools.html",
       "date": "2024-02-09 08:00",
@@ -5449,6 +5459,16 @@
       "timestamp": 1707436800.0,
       "summary": "最近趁着过年有空，将一年自己使用的比较不错的 Mac 软件、网站、生活好物给整理了一下，保持着简单易用美观的原则，期待当你有同样选择纠结的时候的一些帮助。\n\nMac 软件\n\n今年没有过多的折腾软件，更多是在持续使用的基础上去做些优化让自己用起来更舒服，尽量不用两种功能类似的软件，保持简单易用美观的原...",
       "source_url": "https://tw93.fun",
+      "category": "Blogs"
+    },
+    {
+      "title": "Pixel 7a 三月体验",
+      "link": "https://blog.tonyding.net/archives/14/",
+      "date": "2024-02-04 20:33",
+      "author": "Tony Ding's Blog",
+      "timestamp": 1707049980.0,
+      "summary": "本来应该是两周体验的...",
+      "source_url": "https://blog.tonyding.net/",
       "category": "Blogs"
     },
     {
@@ -6542,26 +6562,6 @@
       "category": "Blogs"
     },
     {
-      "title": "TinHiFi T4 - 净",
-      "link": "https://xlog.app/api/redirection?characterId=56433&noteId=7",
-      "date": "2023-07-20 11:35",
-      "author": "梦墨不会做梦💤",
-      "timestamp": 1689824148.0,
-      "summary": "干净且均衡。",
-      "source_url": "https://xlog.dreamo.ink",
-      "category": "Blogs"
-    },
-    {
-      "title": "百元内卷终点？——水月雨 竹2",
-      "link": "https://xlog.app/api/redirection?characterId=56433&noteId=5",
-      "date": "2023-07-20 10:58",
-      "author": "梦墨不会做梦💤",
-      "timestamp": 1689821885.0,
-      "summary": "2019年的银色飞船到2022年的竹1，水月雨在百元价位的竞争力越来越强，\n2023年7月，水月雨推出了竹2，打着「内卷终点」的slogen，欲求「薄纱一切」。",
-      "source_url": "https://xlog.dreamo.ink",
-      "category": "Blogs"
-    },
-    {
       "title": "本站已彻底和大陆脱钩",
       "link": "https://darmau.co/zh/article/completely-detached-from-mainland",
       "date": "2023-07-20 10:25",
@@ -6692,6 +6692,16 @@
       "category": "Blogs"
     },
     {
+      "title": "一波三折的 ThinkPad X13 Gen2 工程机体验",
+      "link": "https://blog.tonyding.net/archives/12/",
+      "date": "2023-06-14 22:11",
+      "author": "Tony Ding's Blog",
+      "timestamp": 1686751860.0,
+      "summary": "我终于还是抛弃了 SPX...",
+      "source_url": "https://blog.tonyding.net/",
+      "category": "Blogs"
+    },
+    {
       "title": "发生在计算机内存里的进化：解密遗传算法(Genetic Algorithm)",
       "link": "https://www.longluo.me/blog/genetic-algorithm/",
       "date": "2023-06-12 08:32",
@@ -6709,36 +6719,6 @@
       "timestamp": 1686355200.0,
       "summary": "冯大辉 Fenng 发了一条 Tweet 问\n\n对于各位高考过来人，如果成绩只能上二本，要不要复读？\n\n以下是我的想法。\n我当时考到的是二本，除了学费贵一点之外，我觉得都挺好的。我个人的浅见是，命运是没有人能预测的，复读和不复读是两个不同的分支。当然这说了等于没说。所以我来试试纸上谈兵一下：\n我们假...",
       "source_url": "https://lutaonan.com",
-      "category": "Blogs"
-    },
-    {
-      "title": "为网页添加FontAwesome支持",
-      "link": "https://xlog.app/api/redirection?characterId=56433&noteId=4",
-      "date": "2023-06-09 21:23",
-      "author": "梦墨不会做梦💤",
-      "timestamp": 1686317012.0,
-      "summary": "🤔",
-      "source_url": "https://xlog.dreamo.ink",
-      "category": "Blogs"
-    },
-    {
-      "title": "SBC-XQ 蓝牙编码的音频质量",
-      "link": "https://xlog.app/api/redirection?characterId=56433&noteId=2",
-      "date": "2023-06-09 20:58",
-      "author": "梦墨不会做梦💤",
-      "timestamp": 1686315520.0,
-      "summary": "翻译了一篇关于SBC-XQ的文章。",
-      "source_url": "https://xlog.dreamo.ink",
-      "category": "Blogs"
-    },
-    {
-      "title": "Linux运行游戏问题及解决方案汇总",
-      "link": "https://xlog.app/api/redirection?characterId=56433&noteId=1",
-      "date": "2023-06-09 20:49",
-      "author": "梦墨不会做梦💤",
-      "timestamp": 1686314985.0,
-      "summary": "记录一下在Linux环境下玩游戏遇到的问题以及解决方案。",
-      "source_url": "https://xlog.dreamo.ink",
       "category": "Blogs"
     },
     {
@@ -7102,6 +7082,16 @@
       "category": "Blogs"
     },
     {
+      "title": "Galaxy S21 FE 半年简评",
+      "link": "https://blog.tonyding.net/archives/11/",
+      "date": "2023-01-21 22:35",
+      "author": "Tony Ding's Blog",
+      "timestamp": 1674311700.0,
+      "summary": "稍微写写手上这台我又吹又骂了近半年的机器吧（",
+      "source_url": "https://blog.tonyding.net/",
+      "category": "Blogs"
+    },
+    {
       "title": "2022 年终总结",
       "link": "https://lutaonan.com/blog/2022-summary",
       "date": "2023-01-09 08:00",
@@ -7162,6 +7152,16 @@
       "category": "Blogs"
     },
     {
+      "title": "意料之外的螃蟹：中信银行 FIFA 世界杯主题 Visa 借记卡",
+      "link": "https://blog.tonyding.net/archives/9/",
+      "date": "2022-12-05 10:24",
+      "author": "Tony Ding's Blog",
+      "timestamp": 1670207040.0,
+      "summary": "（文章最后更新：2025.2.9）我也没想到我一个压根不踢球也不看世界杯的人，会为了一张世界杯联名的卡折腾那么久...",
+      "source_url": "https://blog.tonyding.net/",
+      "category": "Blogs"
+    },
+    {
       "title": "月刊（第16期）：个人信息流分享",
       "link": "https://blog.ursb.me/posts/weekly-16/",
       "date": "2022-12-03 20:48",
@@ -7202,6 +7202,16 @@
       "category": "Blogs"
     },
     {
+      "title": "特别的第一张卡：兴业银行美国运通借记卡体验",
+      "link": "https://blog.tonyding.net/archives/6/",
+      "date": "2022-11-12 23:29",
+      "author": "Tony Ding's Blog",
+      "timestamp": 1668266940.0,
+      "summary": "（文章最后更新：2025.2.9）第一篇文章，就先说说这张卡好了。",
+      "source_url": "https://blog.tonyding.net/",
+      "category": "Blogs"
+    },
+    {
       "title": "我们都是新穷人",
       "link": "https://hutusi.com/articles/the-new-poor",
       "date": "2022-11-06 21:21",
@@ -7209,6 +7219,16 @@
       "timestamp": 1667740860.0,
       "summary": "《新约·马太福音》中说：“富人进入天堂比骆驼穿过针眼还要难。”古往今来，无论是民间传说，还是文学作品，富人大多是以贪婪、吝啬、狡诈等负面形象出现，而穷人大多正直、善良，嫉恶如仇。也就是说，道德高尚者往往以穷人的身份出现，他们安贫乐道，视金钱如粪土。从某种意义上说，贫穷是一件美德。这符合广大老百姓的期...",
       "source_url": "https://hutusi.com/",
+      "category": "Blogs"
+    },
+    {
+      "title": "终于又把 blog 建起来了",
+      "link": "https://blog.tonyding.net/archives/1/",
+      "date": "2022-11-05 12:35",
+      "author": "Tony Ding's Blog",
+      "timestamp": 1667622900.0,
+      "summary": "这也不是我第一次建 blog 了，两年前那段封锁的日子里，我就在一台开着玩的 Vultr 机器上建了一个 Typecho，甚至还写了两篇完全没人看的文章。但毕竟是开着玩，那个站以及那两篇文章不到...",
+      "source_url": "https://blog.tonyding.net/",
       "category": "Blogs"
     },
     {
@@ -7339,16 +7359,6 @@
       "timestamp": 1660953600.0,
       "summary": "倪爽 在 Twitter 推荐了这本书，对于喜欢写作的我来说很吸引，花了很短时间就把这本书读完了。在这里推荐给大家。这本书主要给认为写不出来文章的人提供一些指南，书的前半部分是方法论，后半部分是写作套路(或者说写作框架)。\n九宫格指的是在写作之前，从文章的中心，可以扩散出 8 个方格，填写和这个中心...",
       "source_url": "https://lutaonan.com",
-      "category": "Blogs"
-    },
-    {
-      "title": "识听巡回：MoonDrop 晓 3.5mm ver.",
-      "link": "https://xlog.app/api/redirection?characterId=56433&noteId=6",
-      "date": "2022-08-14 00:00",
-      "author": "梦墨不会做梦💤",
-      "timestamp": 1660406400.0,
-      "summary": "一篇普通的晓尾巴测评。",
-      "source_url": "https://xlog.dreamo.ink",
       "category": "Blogs"
     },
     {
@@ -7539,16 +7549,6 @@
       "timestamp": 1651363200.0,
       "summary": "对于我来说，我一直认为自己缺少做决策的能力。成年人的生活不像学生时代，所有的题目都有固定答案。所有的选择都不存在绝对的对和错，它只是在人的一生 checkout 了一个新的 branch. 我总是不知道应该如何做决定。\n刚好看到了 Jeff Bezos 曾经谈到了自己是如何做决定的，他称之为 Reg...",
       "source_url": "https://lutaonan.com",
-      "category": "Blogs"
-    },
-    {
-      "title": "Fedora 折騰日記 ver 1.0",
-      "link": "https://xlog.app/api/redirection?characterId=56433&noteId=3",
-      "date": "2022-04-04 00:00",
-      "author": "梦墨不会做梦💤",
-      "timestamp": 1649001600.0,
-      "summary": "調教 Fedora ，讓ta更好的爲你服務（",
-      "source_url": "https://xlog.dreamo.ink",
       "category": "Blogs"
     },
     {
@@ -8532,6 +8532,16 @@
       "category": "Papers"
     },
     {
+      "title": "Chromosome-level genome assembly and annotation of Anthurium amnicola",
+      "link": "https://www.nature.com/articles/s41597-025-04939-4",
+      "date": "2025-04-10 08:00",
+      "author": "Genomics : nature.com subject feeds",
+      "timestamp": 1744243200.0,
+      "summary": "无摘要",
+      "source_url": "https://www.nature.com/subjects/genomics",
+      "category": "Papers"
+    },
+    {
       "title": "Perturb-tracing enables high-content screening of multi-scale 3D genome regulators",
       "link": "https://www.nature.com/articles/s41592-025-02652-z",
       "date": "2025-04-10 08:00",
@@ -8539,6 +8549,16 @@
       "timestamp": 1744243200.0,
       "summary": "无摘要",
       "source_url": "https://www.nature.com/subjects/genomics",
+      "category": "Papers"
+    },
+    {
+      "title": "Single-cell and spatial RNA sequencing identify divergent microenvironments and progression signatures in early- versus late-onset prostate cancer",
+      "link": "https://www.nature.com/articles/s43587-025-00842-0",
+      "date": "2025-04-10 08:00",
+      "author": "Bioinformatics : nature.com subject feeds",
+      "timestamp": 1744243200.0,
+      "summary": "无摘要",
+      "source_url": "https://www.nature.com/subjects/bioinformatics",
       "category": "Papers"
     },
     {
@@ -8907,7 +8927,7 @@
       "date": "2025-04-08 08:00",
       "author": "bioRxiv Subject Collection: Bioinformatics",
       "timestamp": 1744070400.0,
-      "summary": "Motivation: Pangenome graphs integrate multiple assemblies to represent non-redundant genetic diversity. However, current evaluations of pangenome gra...",
+      "summary": "MotivationPangenome graphs integrate multiple assemblies to represent non-redundant genetic diversity. However, current evaluations of pangenome graph...",
       "source_url": "https://biorxiv.org",
       "category": "Papers"
     },
@@ -9352,16 +9372,6 @@
       "category": "Papers"
     },
     {
-      "title": "Transcript-targeted antigen mapping reveals the potential of POSTN splicing junction epitopes in glioblastoma immunotherapy",
-      "link": "https://www.nature.com/articles/s41435-025-00326-6",
-      "date": "2025-04-03 08:00",
-      "author": "Genomics : nature.com subject feeds",
-      "timestamp": 1743638400.0,
-      "summary": "无摘要",
-      "source_url": "https://www.nature.com/subjects/genomics",
-      "category": "Papers"
-    },
-    {
       "title": "A new Similarity Based Adapted Louvain Algorithm (SIMBA) for active module identification in p-value attributed biological networks",
       "link": "https://www.nature.com/articles/s41598-025-95749-6",
       "date": "2025-04-02 08:00",
@@ -9577,16 +9587,6 @@
       "date": "2025-03-13 08:00",
       "author": "Bioinformatics : nature.com subject feeds",
       "timestamp": 1741824000.0,
-      "summary": "无摘要",
-      "source_url": "https://www.nature.com/subjects/bioinformatics",
-      "category": "Papers"
-    },
-    {
-      "title": "Investigating ferroptosis-related genes NFE2L2 in neutrophils for ankylosing spondylitis: therapeutic potential of cassia twigs",
-      "link": "https://www.nature.com/articles/s41598-025-88775-x",
-      "date": "2025-03-10 08:00",
-      "author": "Bioinformatics : nature.com subject feeds",
-      "timestamp": 1741564800.0,
       "summary": "无摘要",
       "source_url": "https://www.nature.com/subjects/bioinformatics",
       "category": "Papers"
