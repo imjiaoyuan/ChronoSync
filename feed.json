@@ -8492,6 +8492,26 @@
       "category": "Blogs"
     },
     {
+      "title": "Tensor-FLAMINGO unravels the complexity of single-cell spatial architectures of genomes at high-resolution",
+      "link": "https://www.nature.com/articles/s41467-025-58674-w",
+      "date": "2025-04-11 08:00",
+      "author": "Bioinformatics : nature.com subject feeds",
+      "timestamp": 1744329600.0,
+      "summary": "无摘要",
+      "source_url": "https://www.nature.com/subjects/bioinformatics",
+      "category": "Papers"
+    },
+    {
+      "title": "Discernibility in explanations: an approach to designing more acceptable and meaningful machine learning models for medicine",
+      "link": "https://www.biorxiv.org/content/10.1101/2025.04.06.647498v1?rss=1",
+      "date": "2025-04-10 08:00",
+      "author": "bioRxiv Subject Collection: Bioinformatics",
+      "timestamp": 1744243200.0,
+      "summary": "Background: Although the benefits of machine learning (ML) are undeniable in healthcare, explainability plays a vital role in improving transparency a...",
+      "source_url": "https://biorxiv.org",
+      "category": "Papers"
+    },
+    {
       "title": "Menger_Curvature : a MDAKit implementation to decipher the dynamics, curvatures and flexibilities of polymeric backbones at the residue level",
       "link": "https://www.biorxiv.org/content/10.1101/2025.04.04.647214v1?rss=1",
       "date": "2025-04-10 08:00",
@@ -9048,16 +9068,6 @@
       "author": "bioRxiv Subject Collection: Bioinformatics",
       "timestamp": 1744070400.0,
       "summary": "Translation elongation plays a key role in cellular homeostasis, and dysregulation of this process has been implicated in various diseases and metabol...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "PG-SCUnK: measuring pangenome graph representativeness using Single-Copy and Universal K-mers",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.04.03.646777v1?rss=1",
-      "date": "2025-04-08 08:00",
-      "author": "bioRxiv Subject Collection: Bioinformatics",
-      "timestamp": 1744070400.0,
-      "summary": "MotivationPangenome graphs integrate multiple assemblies to represent non-redundant genetic diversity. However, current evaluations of pangenome graph...",
       "source_url": "https://biorxiv.org",
       "category": "Papers"
     },
@@ -9677,16 +9687,6 @@
       "date": "2025-03-14 08:00",
       "author": "Bioinformatics : nature.com subject feeds",
       "timestamp": 1741910400.0,
-      "summary": "无摘要",
-      "source_url": "https://www.nature.com/subjects/bioinformatics",
-      "category": "Papers"
-    },
-    {
-      "title": "High-throughput workflow for cultivation and characterization of gut microbiota strains with anti-inflammatory properties and metabolite signature associated with gut-brain communication",
-      "link": "https://www.nature.com/articles/s41598-025-93180-5",
-      "date": "2025-03-13 08:00",
-      "author": "Bioinformatics : nature.com subject feeds",
-      "timestamp": 1741824000.0,
       "summary": "无摘要",
       "source_url": "https://www.nature.com/subjects/bioinformatics",
       "category": "Papers"
