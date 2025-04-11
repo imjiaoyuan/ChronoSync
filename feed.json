@@ -8492,6 +8492,56 @@
       "category": "Blogs"
     },
     {
+      "title": "Assessing simulation-based supervised machine learning for demographic parameter inference from genomic data",
+      "link": "https://www.biorxiv.org/content/10.1101/2025.04.07.647546v1?rss=1",
+      "date": "2025-04-11 08:00",
+      "author": "bioRxiv Subject Collection: Bioinformatics",
+      "timestamp": 1744329600.0,
+      "summary": "The ever-increasing availability of high-throughput DNA sequences and the development of numerous computational methods have led to considerable advan...",
+      "source_url": "https://biorxiv.org",
+      "category": "Papers"
+    },
+    {
+      "title": "scnanoseq: an nf-core pipeline for Oxford Nanopore single-cell RNA-sequencing",
+      "link": "https://www.biorxiv.org/content/10.1101/2025.04.08.647887v1?rss=1",
+      "date": "2025-04-11 08:00",
+      "author": "bioRxiv Subject Collection: Bioinformatics",
+      "timestamp": 1744329600.0,
+      "summary": "Recent advancements in long-read single-cell RNA sequencing (scRNA-seq) have facilitated the quantification of full-length transcripts and isoforms at...",
+      "source_url": "https://biorxiv.org",
+      "category": "Papers"
+    },
+    {
+      "title": "ASMC: investigating the amino acid diversity of enzyme active sites.",
+      "link": "https://www.biorxiv.org/content/10.1101/2025.04.07.647545v1?rss=1",
+      "date": "2025-04-11 08:00",
+      "author": "bioRxiv Subject Collection: Bioinformatics",
+      "timestamp": 1744329600.0,
+      "summary": "Motivation: The analysis of enzyme active sites is essential for understanding their activity in terms of catalyzed reaction and substrate specificity...",
+      "source_url": "https://biorxiv.org",
+      "category": "Papers"
+    },
+    {
+      "title": "Using Cancer Profiles to Identify Synthetic Lethal Therapeutic Targets and Predictive Biomarkers in Cancer Gene Dependency Data",
+      "link": "https://www.biorxiv.org/content/10.1101/2025.04.07.647559v1?rss=1",
+      "date": "2025-04-11 08:00",
+      "author": "bioRxiv Subject Collection: Bioinformatics",
+      "timestamp": 1744329600.0,
+      "summary": "Large scale loss-of-function screens utilising CRISPR or siRNA can provide profound insights into the importance of individual genes for the survival ...",
+      "source_url": "https://biorxiv.org",
+      "category": "Papers"
+    },
+    {
+      "title": "Targeting Ubiquitin-Specific Protease 7 (USP7): A Pharmacophore-Guided Drug Repurposing and Physics-Based Molecular Simulations Study",
+      "link": "https://www.biorxiv.org/content/10.1101/2025.04.07.647568v1?rss=1",
+      "date": "2025-04-11 08:00",
+      "author": "bioRxiv Subject Collection: Bioinformatics",
+      "timestamp": 1744329600.0,
+      "summary": "Ubiquitin-Specific Protease 7 (USP7) has emerged as a critical therapeutic target in cancer due to its regulatory roles of tumor suppressors, oncoprot...",
+      "source_url": "https://biorxiv.org",
+      "category": "Papers"
+    },
+    {
       "title": "Tensor-FLAMINGO unravels the complexity of single-cell spatial architectures of genomes at high-resolution",
       "link": "https://www.nature.com/articles/s41467-025-58674-w",
       "date": "2025-04-11 08:00",
@@ -8932,26 +8982,6 @@
       "category": "Papers"
     },
     {
-      "title": "CoExpPhylo - A Novel Pipeline for Biosynthesis Gene Discovery",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.04.03.647051v1?rss=1",
-      "date": "2025-04-09 08:00",
-      "author": "bioRxiv Subject Collection: Bioinformatics",
-      "timestamp": 1744156800.0,
-      "summary": "Background The rapid advancement of sequencing technologies has drastically increased the availability of plant genomic and transcriptomic data, shift...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "The South American MicroBiome Archive (saMBA): Enriching the healthy microbiome concept by evaluating uniqueness and biodiversity of neglected populations",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.04.03.647034v1?rss=1",
-      "date": "2025-04-09 08:00",
-      "author": "bioRxiv Subject Collection: Bioinformatics",
-      "timestamp": 1744156800.0,
-      "summary": "The composition and function of the human gut microbiome has been linked to multiple health outcomes across all world regions, often with region-speci...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
       "title": "Genomic profiling of active vitamin D colonic responses in African- and European-Americans identifies an ancestry-related regulatory variant of POLB",
       "link": "https://www.biorxiv.org/content/10.1101/2025.04.09.647365v1?rss=1",
       "date": "2025-04-09 08:00",
@@ -9089,36 +9119,6 @@
       "timestamp": 1744156800.0,
       "summary": "无摘要",
       "source_url": "https://www.nature.com/subjects/genomics",
-      "category": "Papers"
-    },
-    {
-      "title": "OmniSplice: a framework-free splicing event reporter",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.04.06.647416v1?rss=1",
-      "date": "2025-04-08 08:00",
-      "author": "bioRxiv Subject Collection: Bioinformatics",
-      "timestamp": 1744070400.0,
-      "summary": "We report the development of a framework-free program to assess splicing events: OmniSplice. This new method comprehensively identifies the end of eve...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "Incorporating Multi-threshold Polygenic Risk in Hippocampal-based Normative Models Improves Cognitive Decline Prediction",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.04.03.646991v1?rss=1",
-      "date": "2025-04-08 08:00",
-      "author": "bioRxiv Subject Collection: Bioinformatics",
-      "timestamp": 1744070400.0,
-      "summary": "Predicting cognitive decline using MRI measures of brain volume is challenging. Normative models capture the evolution of biomarkers over time in a he...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "Large-scale conformational analysis explains G-quadruplex topological landscape",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.04.03.646972v1?rss=1",
-      "date": "2025-04-08 08:00",
-      "author": "bioRxiv Subject Collection: Bioinformatics",
-      "timestamp": 1744070400.0,
-      "summary": "G-quadruplexes (G4) are four-stranded nucleic acid structures formed within sequences containing repeated guanine tracts separated by loop regions. Ab...",
-      "source_url": "https://biorxiv.org",
       "category": "Papers"
     },
     {
