@@ -8502,6 +8502,16 @@
       "category": "Papers"
     },
     {
+      "title": "Spatial artefact detection improves reproducibility of drug screening experiments",
+      "link": "https://www.biorxiv.org/content/10.1101/2025.04.07.647506v1?rss=1",
+      "date": "2025-04-10 08:00",
+      "author": "bioRxiv Subject Collection: Bioinformatics",
+      "timestamp": 1744243200.0,
+      "summary": "Reliable and reproducible drug screening experiments are essential for drug discovery and personalized medicine. Here, we demonstrate how systematic e...",
+      "source_url": "https://biorxiv.org",
+      "category": "Papers"
+    },
+    {
       "title": "Cancer Cell Adaptation to Cycling Hypoxia: Integrating Mathematical Modeling with Experimental Validation of HIF-1 Dynamics",
       "link": "https://www.biorxiv.org/content/10.1101/2025.04.06.647478v1?rss=1",
       "date": "2025-04-10 08:00",
@@ -8598,6 +8608,46 @@
       "author": "bioRxiv Subject Collection: Bioinformatics",
       "timestamp": 1744243200.0,
       "summary": "Cigarette smoke (CS) is a significant risk factor for developing acute respiratory distress syndrome (ARDS), but the cellular and molecular mechanisms...",
+      "source_url": "https://biorxiv.org",
+      "category": "Papers"
+    },
+    {
+      "title": "A modified methyl transferase cofactor to selectively disable gene expression in E. coli",
+      "link": "https://www.biorxiv.org/content/10.1101/2025.04.10.648196v1?rss=1",
+      "date": "2025-04-10 08:00",
+      "author": "bioRxiv Subject Collection: Genomics",
+      "timestamp": 1744243200.0,
+      "summary": "Artificial control of gene expression in bacteria offers interesting prospects for influencing bacterial pathogenicity and antibiotic resistance. We s...",
+      "source_url": "https://biorxiv.org",
+      "category": "Papers"
+    },
+    {
+      "title": "Development of a Comprehensive Analytical Workflow for eDNA Analysis of Vertebrates, Arthropods, and Mollusks",
+      "link": "https://www.biorxiv.org/content/10.1101/2025.04.09.643821v1?rss=1",
+      "date": "2025-04-10 08:00",
+      "author": "bioRxiv Subject Collection: Genomics",
+      "timestamp": 1744243200.0,
+      "summary": "Environmental DNA (eDNA) analysis is a powerful tool for biodiversity monitoring, but conventional methods are often limited to specific taxonomic gro...",
+      "source_url": "https://biorxiv.org",
+      "category": "Papers"
+    },
+    {
+      "title": "Genetic structure of mesophotic and shallow Acropora aculeus on isolated atolls of Eastern Australia",
+      "link": "https://www.biorxiv.org/content/10.1101/2025.04.08.647879v1?rss=1",
+      "date": "2025-04-10 08:00",
+      "author": "bioRxiv Subject Collection: Genomics",
+      "timestamp": 1744243200.0,
+      "summary": "Acropora is the most diverse and widespread coral genus in the world. Although known for its critical ecological role in shallow-water habitats, its a...",
+      "source_url": "https://biorxiv.org",
+      "category": "Papers"
+    },
+    {
+      "title": "Evidence of distal regulations orchestrated by RNAs initiating at short tandem repeats",
+      "link": "https://www.biorxiv.org/content/10.1101/2025.04.10.648102v1?rss=1",
+      "date": "2025-04-10 08:00",
+      "author": "bioRxiv Subject Collection: Genomics",
+      "timestamp": 1744243200.0,
+      "summary": "Short Tandem Repeats (STRs), also called microsatellites, correspond to tandemly repeated short DNA motifs (1 to 6 bp) and are one of the most polymor...",
       "source_url": "https://biorxiv.org",
       "category": "Papers"
     },
@@ -9072,16 +9122,6 @@
       "category": "Papers"
     },
     {
-      "title": "REvolutionH-tl: A Fast and Robust Tool for Decoding Evolutionary Gene Histories",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.04.03.646975v1?rss=1",
-      "date": "2025-04-08 08:00",
-      "author": "bioRxiv Subject Collection: Bioinformatics",
-      "timestamp": 1744070400.0,
-      "summary": "REvolutionH-tl is a fast, scalable, and integrated software platform for inferring orthology relationships, gene trees, species trees, and reconciled ...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
       "title": "A Proposed Statistical Approach for Conducting Longitudinal Assessment of Circulating Tumor DNA",
       "link": "https://www.biorxiv.org/content/10.1101/2025.04.03.646973v1?rss=1",
       "date": "2025-04-08 08:00",
@@ -9318,46 +9358,6 @@
       "author": "bioRxiv Subject Collection: Genomics",
       "timestamp": 1743897600.0,
       "summary": "BackgroundPatients with recalcitrant enterococcal bloodstream infections are at greater risk of adverse outcomes. We identified patients in the 2016-2...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "Joint profiling of 5mC, 5hmC, and the transcriptome in single cells identifies factors responsible for genome-wide DNA methylation erasure in human primordial germ cell maturation",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.04.01.646736v1?rss=1",
-      "date": "2025-04-06 08:00",
-      "author": "bioRxiv Subject Collection: Genomics",
-      "timestamp": 1743897600.0,
-      "summary": "Reprogramming of DNA methylation plays a vital role in the establishment of cell identity during early mammalian development. To gain deeper mechanist...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "Comparative analysis of mammalian adaptive immune loci revealed spectacular divergence and common genetic patterns",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.04.01.646651v1?rss=1",
-      "date": "2025-04-06 08:00",
-      "author": "bioRxiv Subject Collection: Genomics",
-      "timestamp": 1743897600.0,
-      "summary": "Adaptive immune responses are mediated by the production of adaptive immune receptors, antibodies and T-cell receptors, that bind antigens, thus causi...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "A high-quality chromosome-level genome of an undescribed Meretrix species using Nanopore and Hi-C technologies",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.04.01.646383v1?rss=1",
-      "date": "2025-04-06 08:00",
-      "author": "bioRxiv Subject Collection: Genomics",
-      "timestamp": 1743897600.0,
-      "summary": "Meretrix is a commercially valuable bivalve genus in Asia, but only one reference genome has hindered comprehensive genetic studies and germplasm reso...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "Sex Chromosome Turnover and Structural Interspecific Genome Divergence Shapes Meiotic Outcomes in Hybridizing Cobitis",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.04.01.646337v1?rss=1",
-      "date": "2025-04-06 08:00",
-      "author": "bioRxiv Subject Collection: Genomics",
-      "timestamp": 1743897600.0,
-      "summary": "It has been empirically established that genome mixing between divergent species can trigger meiotic aberrations, ultimately leading to the emergence ...",
       "source_url": "https://biorxiv.org",
       "category": "Papers"
     },
