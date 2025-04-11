@@ -2,6 +2,16 @@
   "update_time": "2025-04-11",
   "articles": [
     {
+      "title": "科技爱好者周刊（第 344 期）：制造业正在\"零工化\"",
+      "link": "http://www.ruanyifeng.com/blog/2025/04/weekly-issue-344.html",
+      "date": "2025-04-11 07:39",
+      "author": "阮一峰的网络日志",
+      "timestamp": 1744328395.0,
+      "summary": "这里记录每周值得分享的科技内容，周五发布。\n本杂志开源，欢迎投稿。另有《谁在招人》服务，发布程序员招聘信息。合作请邮件联系（yifeng.ruan@gmail.com）。\n\n封面图\n\n\n\n天津海棠花盛开，茶壶倒出的都是海棠。（via）\n\n制造业正在\"零工化\"\n\n本周分享一篇北京大学张丹丹老师的文章。...",
+      "source_url": "http://www.ruanyifeng.com/blog/",
+      "category": "Blogs"
+    },
+    {
       "title": "对数和自然对数的底",
       "link": "https://blog.codingnow.com/2025/04/log_e.html",
       "date": "2025-04-10 22:52",
@@ -799,16 +809,6 @@
       "timestamp": 1740710499.0,
       "summary": "无摘要",
       "source_url": "https://hp-l.github.io/",
-      "category": "Blogs"
-    },
-    {
-      "title": "科技爱好者周刊（第 339 期）：代币是什么",
-      "link": "http://www.ruanyifeng.com/blog/2025/02/weekly-issue-339.html",
-      "date": "2025-02-28 08:21",
-      "author": "阮一峰的网络日志",
-      "timestamp": 1740702117.0,
-      "summary": "这里记录每周值得分享的科技内容，周五发布。\n本杂志开源，欢迎投稿。另有《谁在招人》服务，发布程序员招聘信息。合作请邮件联系（yifeng.ruan@gmail.com）。\n\n封面图\n\n\n\n西安咸阳国际机场，新开放的 T5 航站楼里面，有一座博物馆，展示机场建设工地发现的文物。（via）\n\n代币是什么...",
-      "source_url": "http://www.ruanyifeng.com/blog/",
       "category": "Blogs"
     },
     {
@@ -8572,6 +8572,16 @@
       "category": "Papers"
     },
     {
+      "title": "distQTL: Distribution Quantitative Trait Loci Identification by Population-Scale Single-Cell Data",
+      "link": "https://www.biorxiv.org/content/10.1101/2025.04.04.647121v1?rss=1",
+      "date": "2025-04-10 08:00",
+      "author": "bioRxiv Subject Collection: Genomics",
+      "timestamp": 1744243200.0,
+      "summary": "Mapping expression quantitative trait loci (eQTLs) is a powerful method to study how genetic variation influences gene expression. Traditional bulk eQ...",
+      "source_url": "https://biorxiv.org",
+      "category": "Papers"
+    },
+    {
       "title": "Two telomere-to-telomere, gap-free genome assemblies and comparisons revealed the conserved key genes associated with sugar accumulation in Rubus genus",
       "link": "https://www.biorxiv.org/content/10.1101/2025.04.09.646780v1?rss=1",
       "date": "2025-04-10 08:00",
@@ -9338,16 +9348,6 @@
       "author": "bioRxiv Subject Collection: Genomics",
       "timestamp": 1743897600.0,
       "summary": "Carnivorous plants provide a powerful system for studying plant morphological and physiological evolution. These plants capture and digest prey for nu...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "A new chromosome-level genome assembly for western painted turtle Chrysemys picta belli, a model for extreme physiological adaptations",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.04.01.646645v1?rss=1",
-      "date": "2025-04-06 08:00",
-      "author": "bioRxiv Subject Collection: Genomics",
-      "timestamp": 1743897600.0,
-      "summary": "The western painted turtle, Chrysemys picta bellii, has the greatest tolerance to anoxia of any tetrapod studied to date. These turtles reside in the ...",
       "source_url": "https://biorxiv.org",
       "category": "Papers"
     },
