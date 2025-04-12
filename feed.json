@@ -8502,6 +8502,26 @@
       "category": "Papers"
     },
     {
+      "title": "The Role of Ribose Modifications on the Structural Stability of Nucleotide Analogs with α-thiotriphosphate at the Active Site of SARS-CoV-2 RdRp",
+      "link": "https://www.biorxiv.org/content/10.1101/2025.04.11.648322v1?rss=1",
+      "date": "2025-04-11 08:00",
+      "author": "bioRxiv Subject Collection: Bioinformatics",
+      "timestamp": 1744329600.0,
+      "summary": "As a promising drug target, RNA-dependent RNA polymerase (RdRp) has attracted much attention recently due to its notable conserved active site, especi...",
+      "source_url": "https://biorxiv.org",
+      "category": "Papers"
+    },
+    {
+      "title": "PERSEUcpp: A machine learning strategy to predictcell-penetrating peptides and their uptake efficiency",
+      "link": "https://www.biorxiv.org/content/10.1101/2025.04.07.647598v1?rss=1",
+      "date": "2025-04-11 08:00",
+      "author": "bioRxiv Subject Collection: Bioinformatics",
+      "timestamp": 1744329600.0,
+      "summary": "Motivation: Cell-penetrating peptides (CPPs) are promising tools for transporting therapeutic molecules into cells without damaging the cellular membr...",
+      "source_url": "https://biorxiv.org",
+      "category": "Papers"
+    },
+    {
       "title": "Ontology-based Protein-Protein Interaction Explanation Using Large Language Models",
       "link": "https://www.biorxiv.org/content/10.1101/2025.04.07.647599v1?rss=1",
       "date": "2025-04-11 08:00",
@@ -8558,6 +8578,26 @@
       "author": "bioRxiv Subject Collection: Bioinformatics",
       "timestamp": 1744329600.0,
       "summary": "Ubiquitin-Specific Protease 7 (USP7) has emerged as a critical therapeutic target in cancer due to its regulatory roles of tumor suppressors, oncoprot...",
+      "source_url": "https://biorxiv.org",
+      "category": "Papers"
+    },
+    {
+      "title": "Shift augmentation improves DNA convolutional neural network indel effect predictions",
+      "link": "https://www.biorxiv.org/content/10.1101/2025.04.07.647656v1?rss=1",
+      "date": "2025-04-11 08:00",
+      "author": "bioRxiv Subject Collection: Genomics",
+      "timestamp": 1744329600.0,
+      "summary": "Determining genetic variant effects on molecular phenotypes like gene expression is a task of paramount importance to medical genetics. DNA convolutio...",
+      "source_url": "https://biorxiv.org",
+      "category": "Papers"
+    },
+    {
+      "title": "Dissecting the genetic basis of drought escape across multiple traits in colonizing Arabidopsis thaliana lineages",
+      "link": "https://www.biorxiv.org/content/10.1101/2025.04.07.647068v1?rss=1",
+      "date": "2025-04-11 08:00",
+      "author": "bioRxiv Subject Collection: Genomics",
+      "timestamp": 1744329600.0,
+      "summary": "Drought response in plants is complex, involving integration across a range of physiological processes. However, our knowledge of how different aspect...",
       "source_url": "https://biorxiv.org",
       "category": "Papers"
     },
@@ -8982,26 +9022,6 @@
       "category": "Papers"
     },
     {
-      "title": "RNAchat: Integrating machine learning algorithms to identify metapathways based on clinical and multi-omics data",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.04.02.646761v1?rss=1",
-      "date": "2025-04-09 08:00",
-      "author": "bioRxiv Subject Collection: Bioinformatics",
-      "timestamp": 1744156800.0,
-      "summary": "Background: Understanding the global interactions among cellular pathways and types is essential for unraveling the complex biological mechanisms that...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "ReCycled: A Tool to Reset the Start of Circular Bacterial Chromosomes",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.04.07.647662v1?rss=1",
-      "date": "2025-04-09 08:00",
-      "author": "bioRxiv Subject Collection: Bioinformatics",
-      "timestamp": 1744156800.0,
-      "summary": "Summary (two sentences): For many publicly available bacterial genomes the chromosome start is not set at the replication initiation protein. This is ...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
       "title": "Genomic profiling of active vitamin D colonic responses in African- and European-Americans identifies an ancestry-related regulatory variant of POLB",
       "link": "https://www.biorxiv.org/content/10.1101/2025.04.09.647365v1?rss=1",
       "date": "2025-04-09 08:00",
@@ -9359,26 +9379,6 @@
       "timestamp": 1743984000.0,
       "summary": "无摘要",
       "source_url": "https://www.nature.com/subjects/bioinformatics",
-      "category": "Papers"
-    },
-    {
-      "title": "GSK3B inhibition partially reverses brain ethanol-induced transcriptomic changes in C57BL/6J mice: Expression network co-analysis with human genome-wide association studies",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.04.03.647116v1?rss=1",
-      "date": "2025-04-06 08:00",
-      "author": "bioRxiv Subject Collection: Genomics",
-      "timestamp": 1743897600.0,
-      "summary": "Alcohol use disorder (AUD) is a chronic behavioral disease with greater than 50% of its risk due to complex genetic contributions. Existing pharmacolo...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "Clinical and Genomic Characterization of Recalcitrant Enterococcal Bacteremia: A Multicenter Prospective Cohort Study (VENOUS)",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.04.01.645485v1?rss=1",
-      "date": "2025-04-06 08:00",
-      "author": "bioRxiv Subject Collection: Genomics",
-      "timestamp": 1743897600.0,
-      "summary": "BackgroundPatients with recalcitrant enterococcal bloodstream infections are at greater risk of adverse outcomes. We identified patients in the 2016-2...",
-      "source_url": "https://biorxiv.org",
       "category": "Papers"
     },
     {
