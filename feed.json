@@ -8492,6 +8492,16 @@
       "category": "Blogs"
     },
     {
+      "title": "SpatioCell: A Deep Learning Algorithm for High-resolution Single-cell Mapping through Deep Integration of Histology Image and Sequencing Data",
+      "link": "https://www.biorxiv.org/content/10.1101/2025.04.07.647590v1?rss=1",
+      "date": "2025-04-12 08:00",
+      "author": "bioRxiv Subject Collection: Bioinformatics",
+      "timestamp": 1744416000.0,
+      "summary": "Spatial transcriptomics (ST) enables gene expression analysis within spatial context of tissues. Since most data are limited to multicellular resoluti...",
+      "source_url": "https://biorxiv.org",
+      "category": "Papers"
+    },
+    {
       "title": "triangulaR: an R package for identifying AIMs and building triangle plots using SNP data from hybrid zones",
       "link": "https://www.nature.com/articles/s41437-025-00760-2",
       "date": "2025-04-12 08:00",
@@ -9012,16 +9022,6 @@
       "category": "Papers"
     },
     {
-      "title": "Genomic Tokenizer: Toward a biology-driven tokenization in transformer models for DNA sequences",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.04.02.646836v1?rss=1",
-      "date": "2025-04-09 08:00",
-      "author": "bioRxiv Subject Collection: Bioinformatics",
-      "timestamp": 1744156800.0,
-      "summary": "SummaryTransformer models are revolutionizing sequence analysis across various domains, from natural language processing to genomics. These models rel...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
       "title": "Genomic profiling of active vitamin D colonic responses in African- and European-Americans identifies an ancestry-related regulatory variant of POLB",
       "link": "https://www.biorxiv.org/content/10.1101/2025.04.09.647365v1?rss=1",
       "date": "2025-04-09 08:00",
@@ -9047,7 +9047,7 @@
       "date": "2025-04-09 08:00",
       "author": "bioRxiv Subject Collection: Genomics",
       "timestamp": 1744156800.0,
-      "summary": "Watermelon (Citrullus lanatus L.) is one of the world's most economically important fruit crops, yet it is susceptible to devastating diseases such as...",
+      "summary": "Watermelon (Citrullus lanatus L.) is one of the worlds most economically important fruit crops, yet it is susceptible to devastating diseases such as ...",
       "source_url": "https://biorxiv.org",
       "category": "Papers"
     },
