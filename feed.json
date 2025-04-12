@@ -2,6 +2,16 @@
   "update_time": "2025-04-12",
   "articles": [
     {
+      "title": "博客印象收集的一些回复",
+      "link": "https://blog.douchi.space/blog-impression-followup/",
+      "date": "2025-04-12 14:19",
+      "author": "椒盐豆豉",
+      "timestamp": 1744438740.0,
+      "summary": "先前我发过一期「博客印象问卷」向本博客的读者们收集对本博客的印象。最近特别想写博客但没有什么想写的题材，干脆来看看这篇问卷里一些有趣/出乎意料的回复好了（其实写这篇还挺矛盾的，因为我非常非常非常讨厌人把自己太当回事，写这种印象回复难免会有这种感觉，但鉴于我太想写东西又实在不想写“干货”了就这么着吧，...",
+      "source_url": "https://blog.douchi.space/",
+      "category": "Blogs"
+    },
+    {
       "title": "科技爱好者周刊（第 344 期）：制造业正在\"零工化\"",
       "link": "http://www.ruanyifeng.com/blog/2025/04/weekly-issue-344.html",
       "date": "2025-04-11 07:39",
@@ -1719,16 +1729,6 @@
       "timestamp": 1737158400.0,
       "summary": "公元2025年1月18日，这是临时驾照过期的日子，过期后如预约路考，需要重新考选择题。\n公元2023年1月18日，这是考选择题的日子，那一天，过了。\n公元2024年8月，刚从国内拔了智齿回美，打算准备路考，不然明年身份证要过期。\n公元2024年9月，坐在了驾校的学员车上，教练让倒车出去，一脸懵逼。\n...",
       "source_url": "https://yufree.cn/cn/",
-      "category": "Blogs"
-    },
-    {
-      "title": "关我辟事 Vol.32：紧锣密鼓",
-      "link": "https://blog.douchi.space/spark-joy-digest-2025-1a/",
-      "date": "2025-01-17 12:48",
-      "author": "椒盐豆豉",
-      "timestamp": 1737089280.0,
-      "summary": "开年第一期，就因为上班和乱七八糟的杂事忙得都没空准时更新。想做的事情一大堆，时间却那么少，真的不理解为什么会有人闲暇时间不知道干嘛啊乁། ˵ ◕ – ◕ ˵ །ㄏ 梳理一下已经干了的事情怎么这么多了，真的难以相信竟然只是新年第一期……\n本期亮点：\n\n我怎么废话这么多，之，播客日记博客好多输出\n人到中...",
-      "source_url": "https://blog.douchi.space/",
       "category": "Blogs"
     },
     {
@@ -8997,7 +8997,7 @@
       "date": "2025-04-09 08:00",
       "author": "bioRxiv Subject Collection: Bioinformatics",
       "timestamp": 1744156800.0,
-      "summary": "There has been significant interest in genomics research, leading to the development of numerous new methods. One notable area of progress is in chrom...",
+      "summary": "BackgroundThere has been significant interest in genomics research, leading to the development of numerous new methods. One notable area of progress i...",
       "source_url": "https://biorxiv.org",
       "category": "Papers"
     },
@@ -9017,7 +9017,7 @@
       "date": "2025-04-09 08:00",
       "author": "bioRxiv Subject Collection: Bioinformatics",
       "timestamp": 1744156800.0,
-      "summary": "Summary: Transformer models are revolutionizing sequence analysis across various domains, from natural language processing to genomics. These models r...",
+      "summary": "SummaryTransformer models are revolutionizing sequence analysis across various domains, from natural language processing to genomics. These models rel...",
       "source_url": "https://biorxiv.org",
       "category": "Papers"
     },
