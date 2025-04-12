@@ -1,5 +1,5 @@
 {
-  "update_time": "2025-04-12",
+  "update_time": "2025-04-13",
   "articles": [
     {
       "title": "博客印象收集的一些回复",
@@ -8502,6 +8502,16 @@
       "category": "Papers"
     },
     {
+      "title": "Local patterns of genetic sharing between neuropsychiatric and insulin resistance-related conditions",
+      "link": "https://www.nature.com/articles/s41398-025-03349-9",
+      "date": "2025-04-12 08:00",
+      "author": "Genomics : nature.com subject feeds",
+      "timestamp": 1744416000.0,
+      "summary": "无摘要",
+      "source_url": "https://www.nature.com/subjects/genomics",
+      "category": "Papers"
+    },
+    {
       "title": "triangulaR: an R package for identifying AIMs and building triangle plots using SNP data from hybrid zones",
       "link": "https://www.nature.com/articles/s41437-025-00760-2",
       "date": "2025-04-12 08:00",
@@ -8807,7 +8817,7 @@
       "date": "2025-04-10 08:00",
       "author": "bioRxiv Subject Collection: Genomics",
       "timestamp": 1744243200.0,
-      "summary": "Two telomere-to-telomere, gap-free genome for Rubus species were sequenced and assembled by using an integrative approach that combined ultra-long rea...",
+      "summary": "Two telomere-to-telomere, gap-free genomes for Rubus species were sequenced and assembled by using an integrative approach that combined ultra-long re...",
       "source_url": "https://biorxiv.org",
       "category": "Papers"
     },
@@ -9484,16 +9494,6 @@
     {
       "title": "Scalable spatial transcriptomics through computational array reconstruction",
       "link": "https://www.nature.com/articles/s41587-025-02612-0",
-      "date": "2025-04-03 08:00",
-      "author": "Genomics : nature.com subject feeds",
-      "timestamp": 1743638400.0,
-      "summary": "无摘要",
-      "source_url": "https://www.nature.com/subjects/genomics",
-      "category": "Papers"
-    },
-    {
-      "title": "Comprehensive germline and somatic profiling of high-risk Thai breast cancer via next-generation sequencing",
-      "link": "https://www.nature.com/articles/s41598-025-95834-w",
       "date": "2025-04-03 08:00",
       "author": "Genomics : nature.com subject feeds",
       "timestamp": 1743638400.0,
