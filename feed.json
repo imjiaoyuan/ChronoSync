@@ -2,6 +2,16 @@
   "update_time": "2025-04-13",
   "articles": [
     {
+      "title": "生信爱好者周刊（第 163 期）：美国公共数据库对中国科研人员禁用",
+      "link": "https://openbiox.github.io/weekly/issue-163/",
+      "date": "2025-04-13 11:14",
+      "author": "生信爱好者周刊",
+      "timestamp": 1744514061.0,
+      "summary": "生信爱好者周刊（第 163 期）：美国公共数据库对中国科研人员禁用&para;\n这里记录每周值得分享的生信相关内容，周日发布。\n本杂志开源（GitHub: openbiox/weekly），欢迎提交 issue，投稿或推荐生信相关内容。\n「生信周刊讨论区」\n封面图&para;\n\n迄今为止最大的脑图 ...",
+      "source_url": "https://openbiox.github.io/weekly/",
+      "category": "Blogs"
+    },
+    {
       "title": "博客印象收集的一些回复",
       "link": "https://blog.douchi.space/blog-impression-followup/",
       "date": "2025-04-12 14:19",
@@ -4259,16 +4269,6 @@
       "timestamp": 1722297600.0,
       "summary": "好久没有打开我的老博客了，今天突然发现访问量突破了一百万，借此机会聊聊我的代码人生 …",
       "source_url": "https://www.mengke.me/blog",
-      "category": "Blogs"
-    },
-    {
-      "title": "生信爱好者周刊（第 133 期）：年轻人的魄力",
-      "link": "https://openbiox.github.io/weekly/issue-133/",
-      "date": "2024-07-28 11:14",
-      "author": "生信爱好者周刊",
-      "timestamp": 1722136474.0,
-      "summary": "生信爱好者周刊（第 133 期）：年轻人的魄力&para;\n这里记录每周值得分享的生信相关内容，周日发布。\n本杂志开源（GitHub: openbiox/weekly），欢迎提交 issue，投稿或推荐生信相关内容。\n「生信周刊讨论区」\n封面图&para;\n\n早期的中文键盘\n本周话题：年轻人的魄力&...",
-      "source_url": "https://openbiox.github.io/weekly/",
       "category": "Blogs"
     },
     {
