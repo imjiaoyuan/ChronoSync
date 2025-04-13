@@ -4562,6 +4562,16 @@
       "category": "Blogs"
     },
     {
+      "title": "昼事夜思劳形骸，常有拨云散雾",
+      "link": "https://blog.drpika.com/%E6%97%A5%E8%AE%B0/2024-06-04.html",
+      "date": "2024-06-04 20:20",
+      "author": "DrPika's Blog",
+      "timestamp": 1717503615.0,
+      "summary": "日复一日的机械工作中，时常还是会有一些小确幸。",
+      "source_url": "https://blog.drpika.com/",
+      "category": "Blogs"
+    },
+    {
       "title": "🗼 五月底去了一趟日本，记录一下我的游记和攻略",
       "link": "https://www.mengke.me/blog/202405/Travels_In_Japan",
       "date": "2024-05-31 08:00",
@@ -6392,6 +6402,16 @@
       "category": "Blogs"
     },
     {
+      "title": "杂谈医疗反腐风暴，医改将改向何方？",
+      "link": "https://blog.drpika.com/%E6%80%9D%E8%80%83/2023-09-03.html",
+      "date": "2023-09-03 23:20",
+      "author": "DrPika's Blog",
+      "timestamp": 1693754415.0,
+      "summary": "医方、患方、药企、医保四个人打麻将，主打一个零和博弈，纪委监委斩不断腐败的根，得换谁来？本文仅代表个人不成熟的观点。",
+      "source_url": "https://blog.drpika.com/",
+      "category": "Blogs"
+    },
+    {
       "title": "奥本海默",
       "link": "https://imzm.im/oppenheimer/",
       "date": "2023-09-03 21:47",
@@ -7572,6 +7592,16 @@
       "category": "Blogs"
     },
     {
+      "title": "流水账：记一位患肝癌的大叔",
+      "link": "https://blog.drpika.com/%E5%8C%BB%E8%B7%AF/2022-05-07.html",
+      "date": "2022-05-07 13:17",
+      "author": "DrPika's Blog",
+      "timestamp": 1651900631.0,
+      "summary": "因为疾病而不得不拖累亲人并最终与相爱之人们的分离实在是太令人伤痛的事情。",
+      "source_url": "https://blog.drpika.com/",
+      "category": "Blogs"
+    },
+    {
       "title": "分布式状态机共识协议 Copilot——论文阅读：Tolerating Slowdowns in Replicated State Machines using Copilots",
       "link": "https://www.eaimty.com/2022/tolerating-slowdowns-in-replicated-state-machines-using-copilots/",
       "date": "2022-05-07 08:00",
@@ -7712,6 +7742,16 @@
       "category": "Blogs"
     },
     {
+      "title": "做自己的英雄",
+      "link": "https://blog.drpika.com/%E6%97%A5%E8%AE%B0/2022-02-16.html",
+      "date": "2022-02-16 00:12",
+      "author": "DrPika's Blog",
+      "timestamp": 1644941548.0,
+      "summary": "我们的痛苦源于欲望与能力的不符。",
+      "source_url": "https://blog.drpika.com/",
+      "category": "Blogs"
+    },
+    {
       "title": "将 git 仓库作为数据库的动态 CMS：hummingbird",
       "link": "https://www.eaimty.com/2021/hummingbird/",
       "date": "2021-12-20 08:00",
@@ -7729,6 +7769,16 @@
       "timestamp": 1639313940.0,
       "summary": "今天入手了一台大玩具哈哈~Tesla Model Y 标续版，零百5.6。等我开一段时间再水一篇和媳妇的 Q5 的对比测评~ 虽然咱不是专业测车的，水一水总是可以的吧hh陆续更新一下晒太阳挂牌啦...",
       "source_url": "https://www.gaojinan.com/",
+      "category": "Blogs"
+    },
+    {
+      "title": "从十二个愤怒的男人说起",
+      "link": "https://blog.drpika.com/%E6%80%9D%E8%80%83/2021-11-22.html",
+      "date": "2021-11-22 02:38",
+      "author": "DrPika's Blog",
+      "timestamp": 1637519881.0,
+      "summary": "关于独立思考与舆论。",
+      "source_url": "https://blog.drpika.com/",
       "category": "Blogs"
     },
     {
@@ -7759,6 +7809,16 @@
       "timestamp": 1631664000.0,
       "summary": "Pangu 是一个有名的用来在全角字符与半角字符间添加空格的库，支持多种语言，其中 Node.js 版 pangu.js 可以作为命令行前端来使用。\n但是由于是 Node.js，想要用 pangu 就需要装很多依赖，类 Unix 系统有包管理还好说，在 Windows 平台下装 node 只为了用 ...",
       "source_url": "https://www.eaimty.com",
+      "category": "Blogs"
+    },
+    {
+      "title": "动心忍性，热血转凉",
+      "link": "https://blog.drpika.com/%E5%8C%BB%E8%B7%AF/2021-08-24.html",
+      "date": "2021-08-24 01:32",
+      "author": "DrPika's Blog",
+      "timestamp": 1629739975.0,
+      "summary": "罗翔说：“许多法律学的好的同学，学着学着已经丧失人性了。” 医学僧又何尝不是如此。",
+      "source_url": "https://blog.drpika.com/",
       "category": "Blogs"
     },
     {
@@ -7852,6 +7912,16 @@
       "category": "Blogs"
     },
     {
+      "title": "“被浪漫”的那些日子",
+      "link": "https://blog.drpika.com/%E6%97%A5%E8%AE%B0/2021-02-03.html",
+      "date": "2021-02-03 03:15",
+      "author": "DrPika's Blog",
+      "timestamp": 1612293305.0,
+      "summary": "你的动态很久没有提到过宇宙、银河、梦想和文学了。怎么，是不是和我一样去搬砖了？",
+      "source_url": "https://blog.drpika.com/",
+      "category": "Blogs"
+    },
+    {
       "title": "做这个世界的生产者",
       "link": "https://lutaonan.com/blog/be-a-creator",
       "date": "2021-01-27 08:00",
@@ -7892,6 +7962,16 @@
       "category": "Blogs"
     },
     {
+      "title": "科普短篇：肺结节诊断里的爱恨纠葛",
+      "link": "https://blog.drpika.com/%E5%8C%BB%E8%B7%AF/2020-11-06.html",
+      "date": "2020-11-06 01:25",
+      "author": "DrPika's Blog",
+      "timestamp": 1604597110.0,
+      "summary": "借 “常熟银行群体肺结节事件” 谈谈为什么我更推荐体检时选择做CT而不是X线检查。注意：本文内容仅代表个人看法，不构成任何医疗建议。",
+      "source_url": "https://blog.drpika.com/",
+      "category": "Blogs"
+    },
+    {
       "title": "请不要让你的博客仅存在于互联网档案馆",
       "link": "https://www.eaimty.com/2020/do-not-let-your-blog-exist-only-in-the-internet-archive/",
       "date": "2020-10-28 08:00",
@@ -7899,6 +7979,26 @@
       "timestamp": 1603843200.0,
       "summary": "晚上睡不着，于是翻了翻博客里之前的那些评论，发现之前的评论者们所留下的网址，已经有一大半无法访问了...\n我觉得这是一件很可悲的事。人们认真创造的网页、写成的文字已不再存在于它们最初产生的地方了。\n互联网档案馆是什么？它是一个非营利组织，运营着一个“时光机”项目，存档它的爬虫所能收集到的所有开放网页...",
       "source_url": "https://www.eaimty.com",
+      "category": "Blogs"
+    },
+    {
+      "title": "留恋吗，所有的旧时光",
+      "link": "https://blog.drpika.com/%E6%97%A5%E8%AE%B0/2020-10-25.html",
+      "date": "2020-10-25 11:55",
+      "author": "DrPika's Blog",
+      "timestamp": 1603598109.0,
+      "summary": "最是遗憾，惹人心弦——《风犬少年的天空》观后碎念",
+      "source_url": "https://blog.drpika.com/",
+      "category": "Blogs"
+    },
+    {
+      "title": "零基础使用新版Coding搭建自动化部署的极速访问静态博客",
+      "link": "https://blog.drpika.com/%E6%8A%80%E6%9C%AF/2020-10-20.html",
+      "date": "2020-10-20 02:05",
+      "author": "DrPika's Blog",
+      "timestamp": 1603130709.0,
+      "summary": "Serverless 概念初探，腾云扣钉的差异化转型之路",
+      "source_url": "https://blog.drpika.com/",
       "category": "Blogs"
     },
     {
@@ -7932,6 +8032,26 @@
       "category": "Blogs"
     },
     {
+      "title": "被网警约谈了",
+      "link": "https://blog.drpika.com/%E6%97%A5%E8%AE%B0/2020-08-31.html",
+      "date": "2020-08-31 21:40",
+      "author": "DrPika's Blog",
+      "timestamp": 1598881229.0,
+      "summary": "我以为这事只存在于网络奇谈轶事中，没想到自己真的碰到了。",
+      "source_url": "https://blog.drpika.com/",
+      "category": "Blogs"
+    },
+    {
+      "title": "期待IPV6的普及",
+      "link": "https://blog.drpika.com/%E6%97%A5%E8%AE%B0/2020-08-30.html",
+      "date": "2020-08-30 22:31",
+      "author": "DrPika's Blog",
+      "timestamp": 1598797889.0,
+      "summary": "买了一台（黑）群晖，好用，开心。",
+      "source_url": "https://blog.drpika.com/",
+      "category": "Blogs"
+    },
+    {
       "title": "网页自适应系统暗色模式的 W3C 新规范：prefers-color-scheme",
       "link": "https://www.eaimty.com/2020/prefers-color-scheme/",
       "date": "2020-08-02 08:00",
@@ -7939,6 +8059,16 @@
       "timestamp": 1596326400.0,
       "summary": "近几年，各个主流操作系统都逐渐开始重视暗色模式，从而改善用户在环境光亮低时的阅读体验。随着水果在 iOS 13 与 macOS Mojave 中添加了暗色模式，除了 Linux 以外所有的主流操作系统都已经实现了系统层级的暗色模式。Linux 由于 DE、WM 的种类繁杂暂时没有统一的标准，但目前可...",
       "source_url": "https://www.eaimty.com",
+      "category": "Blogs"
+    },
+    {
+      "title": "南山必胜客与社会主义法治",
+      "link": "https://blog.drpika.com/%E6%80%9D%E8%80%83/2020-07-11.html",
+      "date": "2020-07-11 23:43",
+      "author": "DrPika's Blog",
+      "timestamp": 1594482212.0,
+      "summary": "马克思告诫人们，不要低估资本无孔不入的侵蚀性。",
+      "source_url": "https://blog.drpika.com/",
       "category": "Blogs"
     },
     {
@@ -7969,6 +8099,16 @@
       "timestamp": 1589328000.0,
       "summary": "争论框架是个无聊的事情，有一天在开车的时候我突然想到选框架和选车是一样的。\nReact 就像手动挡，Vue 就像自动挡。你不能因为你会开手动挡就看不起开自动挡的，我想正常的驾驶员在城市代步都会选择开自动挡。我只想代个步，为什么不把复杂的事情交给变速箱呢。\n当你要下赛道，你可能要选择手动档。因为你相信...",
       "source_url": "https://lutaonan.com",
+      "category": "Blogs"
+    },
+    {
+      "title": "友情、爱情与孤独",
+      "link": "https://blog.drpika.com/%E6%97%A5%E8%AE%B0/2020-04-18.html",
+      "date": "2020-04-18 22:20",
+      "author": "DrPika's Blog",
+      "timestamp": 1587219615.0,
+      "summary": "我的室友说，感情经历一张白纸的人，都是直男，当你不直了，你就变渣了。这么一想，直男也没什么不好。",
+      "source_url": "https://blog.drpika.com/",
       "category": "Blogs"
     },
     {
@@ -8032,6 +8172,16 @@
       "category": "Blogs"
     },
     {
+      "title": "关于民航总医院恶性伤医事件的一点引申思考",
+      "link": "https://blog.drpika.com/%E6%80%9D%E8%80%83/2019-12-30.html",
+      "date": "2019-12-30 22:43",
+      "author": "DrPika's Blog",
+      "timestamp": 1577717012.0,
+      "summary": "当医务人员把患者放在了对立面，医患关系永无宁日。",
+      "source_url": "https://blog.drpika.com/",
+      "category": "Blogs"
+    },
+    {
       "title": "将 Atom 改造为一个简单的 C/C++ IDE",
       "link": "https://www.eaimty.com/2019/atom-c-ide/",
       "date": "2019-10-06 08:00",
@@ -8039,6 +8189,16 @@
       "timestamp": 1570320000.0,
       "summary": "如果你符合以下这些特点，这篇文章会很有用：\n\n单纯喜欢 Atom 的人\n单纯觉得 VS 难用的人\n有洁癖，不愿使用闭源软件的人\n讨厌微软的人\n喜欢折腾的人（其实折腾 Atom 也不是非常难）\n\n当然，即使你不属于上面这几类人，也应该体验一下使用 Atom 的感觉，因为只有对比过后才能知道哪个更适合自...",
       "source_url": "https://www.eaimty.com",
+      "category": "Blogs"
+    },
+    {
+      "title": "“一只巴掌拍不响”的医患关系",
+      "link": "https://blog.drpika.com/%E6%80%9D%E8%80%83/2019-09-23.html",
+      "date": "2019-09-23 20:43",
+      "author": "DrPika's Blog",
+      "timestamp": 1569242612.0,
+      "summary": "患者没信任，医者无担当，医生每一次做临床决策时都掺杂进大量避险的杂念，是每一个医生和患者的悲哀。",
+      "source_url": "https://blog.drpika.com/",
       "category": "Blogs"
     },
     {
@@ -8052,6 +8212,16 @@
       "category": "Blogs"
     },
     {
+      "title": "三十年迷思：历史的记忆",
+      "link": "https://blog.drpika.com/%E6%80%9D%E8%80%83/2019-04-20.html",
+      "date": "2019-04-20 00:43",
+      "author": "DrPika's Blog",
+      "timestamp": 1555692212.0,
+      "summary": "近段时间，华为P系列称王背后的那个男人——徕卡的一支概念宣传片悄然传播在大陆互联网中，我才意识到，距离那场令国人三缄其口的风波，在今年迎来了三十周年的“纪念日”。",
+      "source_url": "https://blog.drpika.com/",
+      "category": "Blogs"
+    },
+    {
       "title": "2019",
       "link": "https://www.eaimty.com/2019/2019/",
       "date": "2019-02-09 08:00",
@@ -8059,6 +8229,16 @@
       "timestamp": 1549670400.0,
       "summary": "这篇文章本应 1 月初就发出来，结果...😂就像 Win10 的“10 月更新”一样，不说了\n自开博到现在也已经有 3 年了，去年摸了一整年鱼，加起来只发了 7 篇文章...\n学校那边也越来越忙，今年上半年过去后可能就会好些吧。\n那么，这一年我到底干了些什么呢？\n\n摸鱼\n摸鱼\n摸鱼\n\n仔细想来，这一...",
       "source_url": "https://www.eaimty.com",
+      "category": "Blogs"
+    },
+    {
+      "title": "支持中国工人阶级大幅涨薪是“曲线卖国”？",
+      "link": "https://blog.drpika.com/%E6%80%9D%E8%80%83/2018-12-16.html",
+      "date": "2018-12-16 13:38",
+      "author": "DrPika's Blog",
+      "timestamp": 1544938709.0,
+      "summary": "有理有据，令人信服",
+      "source_url": "https://blog.drpika.com/",
       "category": "Blogs"
     },
     {
@@ -8072,6 +8252,46 @@
       "category": "Blogs"
     },
     {
+      "title": "从“游戏严管”、“网游限量”谈起",
+      "link": "https://blog.drpika.com/%E6%80%9D%E8%80%83/2018-09-04.html",
+      "date": "2018-09-04 19:07",
+      "author": "DrPika's Blog",
+      "timestamp": 1536059252.0,
+      "summary": "在这个无论做什么都要先通过考试的社会，却有一门对社会发展影响极其深远的职业是不需要任何资格认证的，这怎么能不令人毛骨悚然呢？",
+      "source_url": "https://blog.drpika.com/",
+      "category": "Blogs"
+    },
+    {
+      "title": "“人到中年”",
+      "link": "https://blog.drpika.com/%E6%97%A5%E8%AE%B0/2018-09-01.html",
+      "date": "2018-09-01 23:07",
+      "author": "DrPika's Blog",
+      "timestamp": 1535814452.0,
+      "summary": "记一个中年人的生活。",
+      "source_url": "https://blog.drpika.com/",
+      "category": "Blogs"
+    },
+    {
+      "title": "季夏的普通一天",
+      "link": "https://blog.drpika.com/%E6%97%A5%E8%AE%B0/2018-08-12.html",
+      "date": "2018-08-12 23:07",
+      "author": "DrPika's Blog",
+      "timestamp": 1534086452.0,
+      "summary": "小布尔乔亚者的深夜反思。",
+      "source_url": "https://blog.drpika.com/",
+      "category": "Blogs"
+    },
+    {
+      "title": "2018年7月10日晚 《药神》观后一周有感",
+      "link": "https://blog.drpika.com/%E5%8C%BB%E8%B7%AF/2018-07-10.html",
+      "date": "2018-07-10 19:35",
+      "author": "DrPika's Blog",
+      "timestamp": 1531222511.0,
+      "summary": "实习了一个半月，见了不少人间百态。近一周上映的电影《我不是药神》虚构改编的现实甚至还不如在我在医院经历的现实那样沉重。",
+      "source_url": "https://blog.drpika.com/",
+      "category": "Blogs"
+    },
+    {
       "title": "搞一台Acer C720 Chromebook玩玩",
       "link": "https://www.eaimty.com/2018/chromebook/",
       "date": "2018-07-07 08:00",
@@ -8079,6 +8299,26 @@
       "timestamp": 1530921600.0,
       "summary": "这篇文章的草稿已经躺在数据库里近一个半月了，今天终于又想起了它的存在，于是写完了它。\n\n为什么要买这台机器\n之前组装自用台式机的时候，我有一个很严重的失误：把所有心思都花在了减小机器的体积上，完全没有考虑散热的问题...装好的机器的确很小，大约只有一本五三练习册那么大：\n\n（忽略我的灵魂走线）\n但同...",
       "source_url": "https://www.eaimty.com",
+      "category": "Blogs"
+    },
+    {
+      "title": "拥有一个自己的博客有多难？",
+      "link": "https://blog.drpika.com/%E6%8A%80%E6%9C%AF/2018-07-03.html",
+      "date": "2018-07-03 22:13",
+      "author": "DrPika's Blog",
+      "timestamp": 1530627192.0,
+      "summary": "同样，像大多数游戏那样，取决于自己的水平与倾向，构建自己的网上公开博客也有不同方式、不同难度可选。本文是一篇献给小白的 Hexo 博客程序搭建教程。",
+      "source_url": "https://blog.drpika.com/",
+      "category": "Blogs"
+    },
+    {
+      "title": "你来到了没有知识存在的荒原",
+      "link": "https://blog.drpika.com/%E6%8A%80%E6%9C%AF/2018-06-10.html",
+      "date": "2018-06-10 00:11",
+      "author": "DrPika's Blog",
+      "timestamp": 1528560695.0,
+      "summary": "<script src=\"/assets/js/APlayer.min.js\" cla",
+      "source_url": "https://blog.drpika.com/",
       "category": "Blogs"
     },
     {
@@ -8099,6 +8339,66 @@
       "timestamp": 1525305600.0,
       "summary": "之前的几年中，我一直使用网易云音乐作为音乐平台，在各平台上安装的也基本都是网易云音乐和一款本地播放器（foobar2000 或 phonograph）。\n最近的某日，我因为好奇新版本在 Android 上升级了今年年初发布的网易云音乐 5.0...\n5 秒后，我在 App info 界面中点击了 u...",
       "source_url": "https://www.eaimty.com",
+      "category": "Blogs"
+    },
+    {
+      "title": "由忆引思：“田佳良事件”与“思想入党”",
+      "link": "https://blog.drpika.com/%E6%80%9D%E8%80%83/2018-04-27.html",
+      "date": "2018-04-27 10:30",
+      "author": "DrPika's Blog",
+      "timestamp": 1524796219.0,
+      "summary": "还有十天大学期间最后一个理论学习的学期就要以考试的方式结束了，忆往昔三年学生会经历峥嵘有感；顺便就曾同为院学生会副主席和学生党员的田佳良的不良行为引发广泛讨论的事件谈谈对“思想入党”的个人见解。",
+      "source_url": "https://blog.drpika.com/",
+      "category": "Blogs"
+    },
+    {
+      "title": "关于#鸿茅药酒案反转#的一点思考",
+      "link": "https://blog.drpika.com/%E6%80%9D%E8%80%83/2018-04-17.html",
+      "date": "2018-04-17 19:10",
+      "author": "DrPika's Blog",
+      "timestamp": 1523963445.0,
+      "summary": "前几篇博文唱了很多赞歌，今天就唱唱“反调”。",
+      "source_url": "https://blog.drpika.com/",
+      "category": "Blogs"
+    },
+    {
+      "title": "大国崛起与国家尊严",
+      "link": "https://blog.drpika.com/%E6%80%9D%E8%80%83/2018-04-14.html",
+      "date": "2018-04-14 19:32",
+      "author": "DrPika's Blog",
+      "timestamp": 1523705546.0,
+      "summary": "昨天，川普伙同梅姨、马克龙一起绕过了国内议会直接宣布对叙利亚发动“精准打击”，比起上次侵略伊拉克还知道找个“证据”，这次连“洗衣粉”都懒得掏出来糊弄一下两院和联合国了。",
+      "source_url": "https://blog.drpika.com/",
+      "category": "Blogs"
+    },
+    {
+      "title": "自我奋斗与历史的行程",
+      "link": "https://blog.drpika.com/%E6%80%9D%E8%80%83/2018-04-05.html",
+      "date": "2018-04-05 01:35",
+      "author": "DrPika's Blog",
+      "timestamp": 1522863316.0,
+      "summary": "作为一个初级膜法师，浅谈一下我认知中的膜法与“他”。",
+      "source_url": "https://blog.drpika.com/",
+      "category": "Blogs"
+    },
+    {
+      "title": "《厉害了我的国》观后感",
+      "link": "https://blog.drpika.com/%E6%80%9D%E8%80%83/2018-04-02.html",
+      "date": "2018-04-02 12:03",
+      "author": "DrPika's Blog",
+      "timestamp": 1522641814.0,
+      "summary": "由于是党支部公费组织观看的，所以看之前就知道看完后肯定会有“政治任务”，为了避免一个观后感写两次，此篇观后感的立场也会偏红专（当然我本来就红专，只是会和谐掉一些根据党章规定不适合出现的文字）。",
+      "source_url": "https://blog.drpika.com/",
+      "category": "Blogs"
+    },
+    {
+      "title": "2018年3月31日晚",
+      "link": "https://blog.drpika.com/%E6%97%A5%E8%AE%B0/2018-03-31.html",
+      "date": "2018-03-31 18:30",
+      "author": "DrPika's Blog",
+      "timestamp": 1522492245.0,
+      "summary": "在知道不用勉强也行以后，自己就会止步不前。",
+      "source_url": "https://blog.drpika.com/",
       "category": "Blogs"
     },
     {
