@@ -1,5 +1,5 @@
 {
-  "update_time": "2025-04-13",
+  "update_time": "2025-04-14",
   "articles": [
     {
       "title": "猫鱼周刊 vol. 061 第二次机会",
@@ -8402,16 +8402,6 @@
       "category": "Papers"
     },
     {
-      "title": "Genome-wide identification of the TGF-β superfamily and their expression in the Chinese mitten crab Eriocheir sinensis",
-      "link": "https://www.nature.com/articles/s41598-025-97772-z",
-      "date": "2025-04-13 08:00",
-      "author": "Bioinformatics : nature.com subject feeds",
-      "timestamp": 1744502400.0,
-      "summary": "无摘要",
-      "source_url": "https://www.nature.com/subjects/bioinformatics",
-      "category": "Papers"
-    },
-    {
       "title": "SpatioCell: A Deep Learning Algorithm for High-resolution Single-cell Mapping through Deep Integration of Histology Image and Sequencing Data",
       "link": "https://www.biorxiv.org/content/10.1101/2025.04.07.647590v1?rss=1",
       "date": "2025-04-12 08:00",
@@ -9584,6 +9574,16 @@
     {
       "title": "GraphBAN: An inductive graph-based approach for enhanced prediction of compound-protein interactions",
       "link": "https://www.nature.com/articles/s41467-025-57536-9",
+      "date": "2025-03-18 08:00",
+      "author": "Bioinformatics : nature.com subject feeds",
+      "timestamp": 1742256000.0,
+      "summary": "无摘要",
+      "source_url": "https://www.nature.com/subjects/bioinformatics",
+      "category": "Papers"
+    },
+    {
+      "title": "Application of rapid evaporative ionization mass spectrometry in preclinical and clinical analyses of steatotic liver tissues and cells",
+      "link": "https://www.nature.com/articles/s41598-025-93305-w",
       "date": "2025-03-18 08:00",
       "author": "Bioinformatics : nature.com subject feeds",
       "timestamp": 1742256000.0,
