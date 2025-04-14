@@ -8492,6 +8492,16 @@
       "category": "Blogs"
     },
     {
+      "title": "scContrast: A contrastive learning based approach for encoding single-cell gene expression data",
+      "link": "https://www.biorxiv.org/content/10.1101/2025.04.07.647292v1?rss=1",
+      "date": "2025-04-14 08:00",
+      "author": "bioRxiv Subject Collection: Genomics",
+      "timestamp": 1744588800.0,
+      "summary": "Single-cell RNA sequencing (scRNA-seq) captures gene expression at a individual cell resolution, which reveals critical insights into cellular diversi...",
+      "source_url": "https://biorxiv.org",
+      "category": "Papers"
+    },
+    {
       "title": "Beyond peptide targeting sequences: machine learning of cellular condensate localization",
       "link": "https://www.nature.com/articles/s41422-025-01115-6",
       "date": "2025-04-14 08:00",
@@ -9368,16 +9378,6 @@
       "author": "bioRxiv Subject Collection: Genomics",
       "timestamp": 1743984000.0,
       "summary": "The Genome Sequence Archive Family (GSA family) provides a suite of database resources for archiving, retrieving, and sharing multi-omics data for the...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "Integrated single-cell and spatial multiomic analysis reveals widespread reactivation of developmental programs in diseased human hearts",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.04.01.646460v1?rss=1",
-      "date": "2025-04-07 08:00",
-      "author": "bioRxiv Subject Collection: Genomics",
-      "timestamp": 1743984000.0,
-      "summary": "The first organ to develop in utero, the human heart undergoes significant changes during development and must sustain its function over a lifetime. T...",
       "source_url": "https://biorxiv.org",
       "category": "Papers"
     },
