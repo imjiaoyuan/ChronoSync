@@ -8492,6 +8492,16 @@
       "category": "Blogs"
     },
     {
+      "title": "Beyond peptide targeting sequences: machine learning of cellular condensate localization",
+      "link": "https://www.nature.com/articles/s41422-025-01115-6",
+      "date": "2025-04-14 08:00",
+      "author": "Bioinformatics : nature.com subject feeds",
+      "timestamp": 1744588800.0,
+      "summary": "无摘要",
+      "source_url": "https://www.nature.com/subjects/bioinformatics",
+      "category": "Papers"
+    },
+    {
       "title": "LimbLab: Pipeline for 3D Analysis and Visualisation of Limb Bud Gene Expression",
       "link": "https://www.biorxiv.org/content/10.1101/2025.04.08.647723v1?rss=1",
       "date": "2025-04-13 08:00",
@@ -9677,16 +9687,6 @@
       "date": "2025-03-19 08:00",
       "author": "Bioinformatics : nature.com subject feeds",
       "timestamp": 1742342400.0,
-      "summary": "无摘要",
-      "source_url": "https://www.nature.com/subjects/bioinformatics",
-      "category": "Papers"
-    },
-    {
-      "title": "GraphBAN: An inductive graph-based approach for enhanced prediction of compound-protein interactions",
-      "link": "https://www.nature.com/articles/s41467-025-57536-9",
-      "date": "2025-03-18 08:00",
-      "author": "Bioinformatics : nature.com subject feeds",
-      "timestamp": 1742256000.0,
       "summary": "无摘要",
       "source_url": "https://www.nature.com/subjects/bioinformatics",
       "category": "Papers"
