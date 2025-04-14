@@ -8492,6 +8492,26 @@
       "category": "Blogs"
     },
     {
+      "title": "Easydecon: A Lightweight Workflow for Cell Type Analysis in High-Definition Spatial Transcriptomics Assays",
+      "link": "https://www.biorxiv.org/content/10.1101/2025.04.08.647764v1?rss=1",
+      "date": "2025-04-14 08:00",
+      "author": "bioRxiv Subject Collection: Bioinformatics",
+      "timestamp": 1744588800.0,
+      "summary": "Spatial transcriptomics enables mapping gene expression within tissue structures. VisiumHD by 10x Genomics advances this further, offering near-single...",
+      "source_url": "https://biorxiv.org",
+      "category": "Papers"
+    },
+    {
+      "title": "CODAvision: best practices and a user-friendly interface for rapid, customizable segmentation of medical images",
+      "link": "https://www.biorxiv.org/content/10.1101/2025.04.11.648464v1?rss=1",
+      "date": "2025-04-14 08:00",
+      "author": "bioRxiv Subject Collection: Bioinformatics",
+      "timestamp": 1744588800.0,
+      "summary": "Image-based machine learning tools have emerged as powerful resources for analyzing medical images, with deep learning-based semantic segmentation com...",
+      "source_url": "https://biorxiv.org",
+      "category": "Papers"
+    },
+    {
       "title": "Molecular Mimicry Between Epstein-Barr Virus and Human Herpesvirus-6 Proteins and Central Nervous System Proteins: Implications for T and B Cell Immunogenicity in an In Silico Study.",
       "link": "https://www.biorxiv.org/content/10.1101/2025.04.02.646883v1?rss=1",
       "date": "2025-04-14 08:00",
@@ -8892,16 +8912,6 @@
       "category": "Papers"
     },
     {
-      "title": "Integrative Single-Cell RNA and ATAC Sequencing Reveals the Impact of Chronic Cigarette Smoking on Lung Epithelial Responses to Influenza and Hyperoxia",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.04.06.647429v1?rss=1",
-      "date": "2025-04-10 08:00",
-      "author": "bioRxiv Subject Collection: Bioinformatics",
-      "timestamp": 1744243200.0,
-      "summary": "Cigarette smoke (CS) is a significant risk factor for developing acute respiratory distress syndrome (ARDS), but the cellular and molecular mechanisms...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
       "title": "A modified methyl transferase cofactor to selectively disable gene expression in E. coli",
       "link": "https://www.biorxiv.org/content/10.1101/2025.04.10.648196v1?rss=1",
       "date": "2025-04-10 08:00",
@@ -9079,16 +9089,6 @@
       "timestamp": 1744243200.0,
       "summary": "无摘要",
       "source_url": "https://www.nature.com/subjects/bioinformatics",
-      "category": "Papers"
-    },
-    {
-      "title": "In Silico Characterization of a Hypothetical Protein from Pseudomonas aeruginosa LESB58: A Structural and Functional Perspective.",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.04.06.647430v1?rss=1",
-      "date": "2025-04-09 08:00",
-      "author": "bioRxiv Subject Collection: Bioinformatics",
-      "timestamp": 1744156800.0,
-      "summary": "BackgroundPseudomonas aeruginosa LESB58 is an omnipresent opportunistic bacteria that causes both acute and persistent infections in immunocompromised...",
-      "source_url": "https://biorxiv.org",
       "category": "Papers"
     },
     {
