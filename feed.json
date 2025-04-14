@@ -8492,6 +8492,16 @@
       "category": "Blogs"
     },
     {
+      "title": "Curated and harmonised transcriptomics datasets of interstitial lung diseases",
+      "link": "https://www.biorxiv.org/content/10.1101/2025.04.08.647776v1?rss=1",
+      "date": "2025-04-14 08:00",
+      "author": "bioRxiv Subject Collection: Bioinformatics",
+      "timestamp": 1744588800.0,
+      "summary": "This study provides manually curated and homogenised transcriptomics data of interstitial lung disease (ILD) patients retrieved from the NCBI Gene Exp...",
+      "source_url": "https://biorxiv.org",
+      "category": "Papers"
+    },
+    {
       "title": "scContrast: A contrastive learning based approach for encoding single-cell gene expression data",
       "link": "https://www.biorxiv.org/content/10.1101/2025.04.07.647292v1?rss=1",
       "date": "2025-04-14 08:00",
@@ -9078,16 +9088,6 @@
       "author": "bioRxiv Subject Collection: Bioinformatics",
       "timestamp": 1744156800.0,
       "summary": "The accurate estimation of fiber orientation distributions (fODFs) in diffusion magnetic resonance imaging (MRI) is crucial for understanding early br...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "Diversity of diazotrophs in the Northern Pacific Ocean and sensitivity of the symbiotic unicellular cyanobacteria (UCYN-A) to inorganic nitrogen availability",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.04.05.647397v1?rss=1",
-      "date": "2025-04-09 08:00",
-      "author": "bioRxiv Subject Collection: Bioinformatics",
-      "timestamp": 1744156800.0,
-      "summary": "This study investigates the diversity and nutrient responses of diazotrophs, nitrogen-fixing microorganisms critical for marine productivity, across a...",
       "source_url": "https://biorxiv.org",
       "category": "Papers"
     },
