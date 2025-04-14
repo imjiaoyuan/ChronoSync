@@ -2,6 +2,16 @@
   "update_time": "2025-04-14",
   "articles": [
     {
+      "title": "冲着生产力来，带着娱乐性走，曲面宽屏第二次尝试——Dell U4025QW",
+      "link": "https://blog.douchi.space/curved-wide-sceen-dell-U4025QW/",
+      "date": "2025-04-14 13:45",
+      "author": "椒盐豆豉",
+      "timestamp": 1744609500.0,
+      "summary": "从消费主义（暂时）毕业了好久没写测评了，也好久没写 desk setup 了，不过一是这两年生产力工具没有太大变化，二是前阵子写过 Tech I use everyday cover 掉了大部分 desk setup，就不赘述了，刚好一看新屏幕用了 4 个月了，流程也都稳定了，那就来直接写写这两年硬...",
+      "source_url": "https://blog.douchi.space/",
+      "category": "Blogs"
+    },
+    {
       "title": "猫鱼周刊 vol. 061 第二次机会",
       "link": "https://ameow.xyz/archives/weekly-061",
       "date": "2025-04-13 19:58",
@@ -1589,16 +1599,6 @@
       "timestamp": 1737667683.0,
       "summary": "大多数人通常是这样用 AI 的：他们会问“巴以冲突的原因是什么？“或者”量子计算是如何工作的？“ 而 AI 会尽职尽责地提供一个概括，通常是一个平衡的、中庸的解释，听起来很合理，但缺乏深度。\n我大多数时候也是这样用的，因为这很自然，当我们手握一个看似无所不知的强大工具时，第一反应确实是让它告诉我们该...",
       "source_url": "https://www.owenyoung.com",
-      "category": "Blogs"
-    },
-    {
-      "title": "一些值得升级的事物",
-      "link": "https://blog.douchi.space/gears-worth-upgrading/",
-      "date": "2025-01-23 13:38",
-      "author": "椒盐豆豉",
-      "timestamp": 1737610680.0,
-      "summary": "隐约记得几年前写过一篇类似题材的博客「值得花钱/不值得花钱的事物」，随手从 backlog 里提出来没想到又在 patreon 投票中平票，但因为有高级糖妈投这个选项所以胜出了。也好，反正消费主义升级换代快，外加我都搬两次家了日常习惯也不一样，四年多过去了又有一些新“值得升级”，刚好就来写一写。",
-      "source_url": "https://blog.douchi.space/",
       "category": "Blogs"
     },
     {
@@ -8492,13 +8492,73 @@
       "category": "Blogs"
     },
     {
-      "title": "Beyond peptide targeting sequences: machine learning of cellular condensate localization",
-      "link": "https://www.nature.com/articles/s41422-025-01115-6",
-      "date": "2025-04-14 08:00",
-      "author": "Bioinformatics : nature.com subject feeds",
-      "timestamp": 1744588800.0,
-      "summary": "无摘要",
-      "source_url": "https://www.nature.com/subjects/bioinformatics",
+      "title": "LimbLab: Pipeline for 3D Analysis and Visualisation of Limb Bud Gene Expression",
+      "link": "https://www.biorxiv.org/content/10.1101/2025.04.08.647723v1?rss=1",
+      "date": "2025-04-13 08:00",
+      "author": "bioRxiv Subject Collection: Bioinformatics",
+      "timestamp": 1744502400.0,
+      "summary": "Motivation: Although some aspects of limb development can be treated as a 2D problem, a true understanding of the morphogenesis and patterning require...",
+      "source_url": "https://biorxiv.org",
+      "category": "Papers"
+    },
+    {
+      "title": "SCARF: Single Cell ATAC-seq and RNA-seq Foundation model",
+      "link": "https://www.biorxiv.org/content/10.1101/2025.04.07.647689v1?rss=1",
+      "date": "2025-04-13 08:00",
+      "author": "bioRxiv Subject Collection: Bioinformatics",
+      "timestamp": 1744502400.0,
+      "summary": "Recent advances in single-cell multi-omics have provided unprecedented insights into gene regulation by jointly profiling transcriptomic (scRNA-seq) a...",
+      "source_url": "https://biorxiv.org",
+      "category": "Papers"
+    },
+    {
+      "title": "Dividing out quantification uncertainty enables assessment of differential transcript usage with diffSplice",
+      "link": "https://www.biorxiv.org/content/10.1101/2025.04.07.647659v1?rss=1",
+      "date": "2025-04-13 08:00",
+      "author": "bioRxiv Subject Collection: Bioinformatics",
+      "timestamp": 1744502400.0,
+      "summary": "Differential transcript usage (DTU) refers to changes in the relative abundance of transcript isoforms of the same gene between experimental condition...",
+      "source_url": "https://biorxiv.org",
+      "category": "Papers"
+    },
+    {
+      "title": "PepPCBench is a Comprehensive Benchmark for Protein-Peptide Complex Structure Prediction with AlphaFold3",
+      "link": "https://www.biorxiv.org/content/10.1101/2025.04.08.647699v1?rss=1",
+      "date": "2025-04-13 08:00",
+      "author": "bioRxiv Subject Collection: Bioinformatics",
+      "timestamp": 1744502400.0,
+      "summary": "Peptides mediate up to 40% of protein-protein interactions (PPIs), offering high specificity and the ability to target binding sites inaccessible to s...",
+      "source_url": "https://biorxiv.org",
+      "category": "Papers"
+    },
+    {
+      "title": "FetchM: Streamlining Genome and Metadata Integration for Microbial Comparative Genomics",
+      "link": "https://www.biorxiv.org/content/10.1101/2025.04.08.647722v1?rss=1",
+      "date": "2025-04-13 08:00",
+      "author": "bioRxiv Subject Collection: Bioinformatics",
+      "timestamp": 1744502400.0,
+      "summary": "FetchM is a Python-based tool for fetching, analyzing, and combining bacterial genomic metadata from the NCBI Genome database and associated sample me...",
+      "source_url": "https://biorxiv.org",
+      "category": "Papers"
+    },
+    {
+      "title": "Evaluating gene representation in spatial transcriptomics across pre-designed panels",
+      "link": "https://www.biorxiv.org/content/10.1101/2025.04.07.647642v1?rss=1",
+      "date": "2025-04-13 08:00",
+      "author": "bioRxiv Subject Collection: Bioinformatics",
+      "timestamp": 1744502400.0,
+      "summary": "Spatial transcriptomics (ST) has revolutionized our understanding of gene expression within tissues by preserving spatial context. Over the past few y...",
+      "source_url": "https://biorxiv.org",
+      "category": "Papers"
+    },
+    {
+      "title": "GLASS: A Graph Learning Algorithm for Screening Splice-Aware Alignments of Long-Read RNA-seq",
+      "link": "https://www.biorxiv.org/content/10.1101/2025.04.07.647681v1?rss=1",
+      "date": "2025-04-13 08:00",
+      "author": "bioRxiv Subject Collection: Bioinformatics",
+      "timestamp": 1744502400.0,
+      "summary": "With the continuous development of third-generation RNA-seq, obtaining accurate splice-aware alignments for the long RNA-seq reads to reference genome...",
+      "source_url": "https://biorxiv.org",
       "category": "Papers"
     },
     {
@@ -8998,76 +9058,6 @@
       "author": "bioRxiv Subject Collection: Bioinformatics",
       "timestamp": 1744156800.0,
       "summary": "This study investigates the diversity and nutrient responses of diazotrophs, nitrogen-fixing microorganisms critical for marine productivity, across a...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "Spatial Metagene Discovery and Associated Molecular Pattern Characterization in Spatial Transcriptomics and Multi-Omics using SEPAR",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.04.05.647412v1?rss=1",
-      "date": "2025-04-09 08:00",
-      "author": "bioRxiv Subject Collection: Bioinformatics",
-      "timestamp": 1744156800.0,
-      "summary": "Spatially resolved transcriptomics (SRT) has transformed biomedical research by enabling gene expression profiling at near- or sub-cellular resolution...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "In Silico Evaluation and Therapeutic Targeting of LVDD9B Protein for WSSV Inhibition: Molecular and Ecological Insights for Aquaculture Solutions",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.04.05.647344v1?rss=1",
-      "date": "2025-04-09 08:00",
-      "author": "bioRxiv Subject Collection: Bioinformatics",
-      "timestamp": 1744156800.0,
-      "summary": "BackgroundThis study aimed to investigate structural dynamics, binding interactions, stability, pharmacokinetics, ecological risks, and bioactivity of...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "Quantifying Uncertainty in Phasor-Based Time-Domain Fluorescence Lifetime Imaging Microscopy",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.04.04.647302v1?rss=1",
-      "date": "2025-04-09 08:00",
-      "author": "bioRxiv Subject Collection: Bioinformatics",
-      "timestamp": 1744156800.0,
-      "summary": "The phasor approach to time-domain fluorescence lifetime imaging microscopy (FLIM) offers a powerful, fit-free method for analyzing complex fluorescen...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "A global P-Process map to avoid P-value abuse",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.04.06.646254v1?rss=1",
-      "date": "2025-04-09 08:00",
-      "author": "bioRxiv Subject Collection: Bioinformatics",
-      "timestamp": 1744156800.0,
-      "summary": "P-abuse is serious in difference identification analysis of data. How to avoid P-abuse is a huge challenge. Here, we evolve P-value (a single value) t...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "Self-contrastive learning enables interference-resilient and generalizable fluorescence microscopy signal detection without interference modeling",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.04.08.645087v1?rss=1",
-      "date": "2025-04-09 08:00",
-      "author": "bioRxiv Subject Collection: Bioinformatics",
-      "timestamp": 1744156800.0,
-      "summary": "Every weak signal in fluorescence microscopy may contain critical biological information. However, the interference resilience required to detect such...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "Robin: An Advanced Tool for Comparative Loop Caller Result Analysis Leveraging Large Language Models",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.04.05.646688v1?rss=1",
-      "date": "2025-04-09 08:00",
-      "author": "bioRxiv Subject Collection: Bioinformatics",
-      "timestamp": 1744156800.0,
-      "summary": "BackgroundThere has been significant interest in genomics research, leading to the development of numerous new methods. One notable area of progress i...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "Bridging data gaps: predicting inadequate micronutrient intake with machine learning",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.04.08.647715v1?rss=1",
-      "date": "2025-04-09 08:00",
-      "author": "bioRxiv Subject Collection: Bioinformatics",
-      "timestamp": 1744156800.0,
-      "summary": "Identifying populations at risk of inadequate micronutrient intake is useful for governments and humanitarian organizations in low- and middle-income ...",
       "source_url": "https://biorxiv.org",
       "category": "Papers"
     },
@@ -9687,6 +9677,16 @@
       "date": "2025-03-19 08:00",
       "author": "Bioinformatics : nature.com subject feeds",
       "timestamp": 1742342400.0,
+      "summary": "无摘要",
+      "source_url": "https://www.nature.com/subjects/bioinformatics",
+      "category": "Papers"
+    },
+    {
+      "title": "GraphBAN: An inductive graph-based approach for enhanced prediction of compound-protein interactions",
+      "link": "https://www.nature.com/articles/s41467-025-57536-9",
+      "date": "2025-03-18 08:00",
+      "author": "Bioinformatics : nature.com subject feeds",
+      "timestamp": 1742256000.0,
       "summary": "无摘要",
       "source_url": "https://www.nature.com/subjects/bioinformatics",
       "category": "Papers"
