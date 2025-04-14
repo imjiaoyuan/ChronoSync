@@ -1,5 +1,5 @@
 {
-  "update_time": "2025-04-14",
+  "update_time": "2025-04-15",
   "articles": [
     {
       "title": "冲着生产力来，带着娱乐性走，曲面宽屏第二次尝试——Dell U4025QW",
@@ -8492,6 +8492,16 @@
       "category": "Blogs"
     },
     {
+      "title": "Molecular Mimicry Between Epstein-Barr Virus and Human Herpesvirus-6 Proteins and Central Nervous System Proteins: Implications for T and B Cell Immunogenicity in an In Silico Study.",
+      "link": "https://www.biorxiv.org/content/10.1101/2025.04.02.646883v1?rss=1",
+      "date": "2025-04-14 08:00",
+      "author": "bioRxiv Subject Collection: Bioinformatics",
+      "timestamp": 1744588800.0,
+      "summary": "Background: The Epstein-Barr virus (EBV) and human herpesvirus 6 (HHV-6) are frequently linked to neuropsychiatric illnesses such as multiple sclerosi...",
+      "source_url": "https://biorxiv.org",
+      "category": "Papers"
+    },
+    {
       "title": "Curated and harmonised transcriptomics datasets of interstitial lung diseases",
       "link": "https://www.biorxiv.org/content/10.1101/2025.04.08.647776v1?rss=1",
       "date": "2025-04-14 08:00",
@@ -9078,16 +9088,6 @@
       "author": "bioRxiv Subject Collection: Bioinformatics",
       "timestamp": 1744156800.0,
       "summary": "BackgroundPseudomonas aeruginosa LESB58 is an omnipresent opportunistic bacteria that causes both acute and persistent infections in immunocompromised...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "Domain shifts in infant brain diffusion MRI: Quantification and mitigation for fODF estimation",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.04.04.647303v1?rss=1",
-      "date": "2025-04-09 08:00",
-      "author": "bioRxiv Subject Collection: Bioinformatics",
-      "timestamp": 1744156800.0,
-      "summary": "The accurate estimation of fiber orientation distributions (fODFs) in diffusion magnetic resonance imaging (MRI) is crucial for understanding early br...",
       "source_url": "https://biorxiv.org",
       "category": "Papers"
     },
