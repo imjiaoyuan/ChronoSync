@@ -2182,6 +2182,16 @@
       "category": "Blogs"
     },
     {
+      "title": "时间与人生——我的 2024 总结",
+      "link": "https://xlog.app/api/redirection?characterId=73858&noteId=53",
+      "date": "2024-12-29 18:07",
+      "author": "旅行者的随想",
+      "timestamp": 1735466825.0,
+      "summary": "人生本就是无法回头的旅程，放心大胆地向前走就好。 题记\n\n转眼间已经又一年过去啦！能平安度过真是可喜可贺可喜可贺呀！还在看我博客的朋友们，跟着我一起，回顾今年的足迹吧！\n\n回顾\n关于博客\n\n之前博客框架一直用的 Hugo，然后部署在 Vercel 的，前段时间全部迁移到 xLog 上来…",
+      "source_url": "https://besscroft.com",
+      "category": "Blogs"
+    },
+    {
       "title": "隐说 No.3  儿时的梦想",
       "link": "https://wangyurui.com/posts/yin-shuo-no-3-er-shi-de-meng-xiang-5c915627",
       "date": "2024-12-29 12:09",
@@ -4742,6 +4752,16 @@
       "category": "Blogs"
     },
     {
+      "title": "Next SSR 开发与实践",
+      "link": "https://xlog.app/api/redirection?characterId=73858&noteId=1",
+      "date": "2024-05-05 00:24",
+      "author": "旅行者的随想",
+      "timestamp": 1714839840.0,
+      "summary": "前言 五一假期期间，我发布了 PicImpact 的第一个公开版本，是 Kamera 的下一代产品，使用 Next.js 开发，而 kamera 是用的 Nuxt3 开发的。前端的 SSR 框架，并不像后端的框架那么好用，后端的各种中间件、开发模型、面向切面编程（AOP…",
+      "source_url": "https://besscroft.com",
+      "category": "Blogs"
+    },
+    {
       "title": "为什么是日本",
       "link": "https://darmau.co/zh/article/why-japan",
       "date": "2024-05-02 11:09",
@@ -5002,6 +5022,16 @@
       "category": "Blogs"
     },
     {
+      "title": "GitHub - besscroft/PicImpact: PicImpact，分享你和世界！",
+      "link": "https://xlog.app/api/redirection?characterId=73858&noteId=8",
+      "date": "2024-04-03 11:43",
+      "author": "旅行者的随想",
+      "timestamp": 1712115780.0,
+      "summary": "PicImpact，分享你和世界！. Contribute to besscroft/PicImpact development by creating an account on GitHub.",
+      "source_url": "https://besscroft.com",
+      "category": "Blogs"
+    },
+    {
       "title": "xz 软件包被植入后门",
       "link": "https://www.archlinuxcn.org/the-xz-package-has-been-backdoored/",
       "date": "2024-03-30 06:43",
@@ -5109,6 +5139,16 @@
       "timestamp": 1710443760.0,
       "summary": "非常 productive 的一周，上了不少网课。一到周四晚上有种 pre-weekend 的感觉，就奖励自己打一下游戏。 Klei 没有辜负我的期待，超灵秘法社 launch 没多久就小更了一次，开了两种新地",
       "source_url": "http://bamboobone9.com/",
+      "category": "Blogs"
+    },
+    {
+      "title": "一个六岁开源项目的崩溃与新生",
+      "link": "https://xlog.app/api/redirection?characterId=10&noteId=2532",
+      "date": "2024-03-11 03:29",
+      "author": "Hi, DIYgod",
+      "timestamp": 1710098945.0,
+      "summary": "我有一个维护了六年的开源项目—— RSSHub，它正在面临崩溃\n\n表面上，它有接近 30k Stars、900 多 Contributors、每月 3 亿多次请求和数不清的用户、每月几十刀的赞助、有源源不断的 issue 和 pr、代码几乎每天更新，非常健康和充满活力",
+      "source_url": "https://diygod.cc",
       "category": "Blogs"
     },
     {
@@ -5312,6 +5352,16 @@
       "category": "Blogs"
     },
     {
+      "title": "和帕鲁生活在一起的两周",
+      "link": "https://xlog.app/api/redirection?characterId=10&noteId=2510",
+      "date": "2024-02-19 03:20",
+      "author": "Hi, DIYgod",
+      "timestamp": 1708284033.0,
+      "summary": "哪个小男孩没幻想过生活在这样一个充满宝可梦伙伴的世界，它们能听懂且愿意倾听我们说话，有着不同的特点和强大的技能，而且都很可爱，我们可以跟它们睡觉吃饭、并肩作战探索世界，永远不再孤独，不管是谁都可以找到最适合自己的宝可梦",
+      "source_url": "https://diygod.cc",
+      "category": "Blogs"
+    },
+    {
       "title": "A collection of some useful websites",
       "link": "https://www.mengke.me/blog/202402/LearningWebsites",
       "date": "2024-02-18 08:00",
@@ -5502,6 +5552,16 @@
       "category": "Blogs"
     },
     {
+      "title": "Twitter 对开源项目发起 DDoS 攻击",
+      "link": "https://xlog.app/api/redirection?characterId=10&noteId=2456",
+      "date": "2024-01-28 18:24",
+      "author": "Hi, DIYgod",
+      "timestamp": 1706437493.0,
+      "summary": "背景 Twitter 被马斯克收购后，从去年 8 月开始，他们对开源第三方集成和第三方客户端进行了一系列明里暗里的打压和攻击，这样做是为了阻止用户通过非官方客户端访问和使用 Twitter，来增加公司的广告和会员营收\n\n而开源社区中以 Nitter 和 RSSHub…",
+      "source_url": "https://diygod.cc",
+      "category": "Blogs"
+    },
+    {
       "title": "也来谈谈这次的 Bulma + UnoCSS 界面重写",
       "link": "https://blog.gxres.net/posts/talk-about-rebuild-with-bulma-and-unocss",
       "date": "2024-01-28 08:00",
@@ -5569,6 +5629,16 @@
       "timestamp": 1705674947.0,
       "summary": "记录时间：12.22 – 1.18\n太阳经过星座：人马座｜Sagittarius\n最亮恒星：箕宿三 Kaus Australis\n本月事件\n\n圣诞节假期去朋友家住了几天。她们家两个大人带两个小孩确实辛苦。我问朋友为什么决定生第二个，她说很向往那种大家庭的氛围，确实人与人之前的追求不同。甘蔗没有两头甜...",
       "source_url": "https://thirdshire.com/",
+      "category": "Blogs"
+    },
+    {
+      "title": "如何优雅编译一个 Markdown 文档",
+      "link": "https://xlog.app/api/redirection?characterId=10&noteId=2434",
+      "date": "2024-01-18 20:50",
+      "author": "Hi, DIYgod",
+      "timestamp": 1705582237.0,
+      "summary": "Markdown 是一种广泛使用的轻量级标记语言，允许人们使用易读易写的纯文本格式编写文档，也是 xLog 主要使用的文章格式，本文就以 xLog Flavored Markdown 为例来说明如何优雅地解析一个 Markdown 文档",
+      "source_url": "https://diygod.cc",
       "category": "Blogs"
     },
     {
@@ -5649,6 +5719,16 @@
       "timestamp": 1704816779.0,
       "summary": "那么现在将它带到康涅狄格州，让它在荆棘中间，在藤蔓当中像小狗一样，像豹子一样跑来跑去。\nThe post 生活的幻觉｜2023年播客总结 appeared first on To the Lighthouse.",
       "source_url": "https://owlswims.com/",
+      "category": "Blogs"
+    },
+    {
+      "title": "2023 平稳过渡",
+      "link": "https://xlog.app/api/redirection?characterId=10&noteId=2358",
+      "date": "2024-01-08 22:23",
+      "author": "Hi, DIYgod",
+      "timestamp": 1704723798.0,
+      "summary": "发小觉得今年经历了巨大的变化，从苏格兰搬到新加坡，从未婚到已婚，从一家两口变成了一家三口，但我觉得都在预料之中，所以感觉还算很平稳",
+      "source_url": "https://diygod.cc",
       "category": "Blogs"
     },
     {
@@ -5832,6 +5912,16 @@
       "category": "Blogs"
     },
     {
+      "title": "基于 K3s + Kilo 的跨云 Kubernetes 集群",
+      "link": "https://xlog.app/api/redirection?characterId=73858&noteId=49",
+      "date": "2023-12-19 23:55",
+      "author": "旅行者的随想",
+      "timestamp": 1703001300.0,
+      "summary": "前言 自从白嫖了 Oracle Cloud 的云服务之后，一直使用的 24 G 大内存云服务器跑的 Kubernetes，也有 2 年多了吧？（记不清了）上一版本的方案，可以看我这篇文章👉Dynamic k8s 集群实现方案\n\n至于为啥我要更换方式呢？主要还是要部署的东西日渐增加…",
+      "source_url": "https://besscroft.com",
+      "category": "Blogs"
+    },
+    {
       "title": "cody waite",
       "link": "https://www.longluo.me/blog/cody-waite/",
       "date": "2023-12-19 20:10",
@@ -5849,6 +5939,16 @@
       "timestamp": 1702824003.0,
       "summary": "“博客教”信徒们大家好，欢迎收看“一博真相”，我是主播不加盐。 众所周知，由于“博客教”形式宗和质料宗的信徒对教义的理解存在较大的分歧，经常出现两宗派信徒互掐的现象，甚至扬言要让对方滚出“博客教”。但...",
       "source_url": "https://www.ntiy.com",
+      "category": "Blogs"
+    },
+    {
+      "title": "轻松创建一万个 Twitter 账号",
+      "link": "https://xlog.app/api/redirection?characterId=10&noteId=2292",
+      "date": "2023-12-15 18:14",
+      "author": "Hi, DIYgod",
+      "timestamp": 1702635286.0,
+      "summary": "Twitter 在 8 月决定了全面限制公开访问和 API 接口，导致第三方集成均无法再正常工作。开放用户数据被绑架成私人敛财工具，曾经的 Open Web 标杆 Twitter 竟沦落到这种境地，数字奴隶制在最不应该的地方出现，令人唏嘘",
+      "source_url": "https://diygod.cc",
       "category": "Blogs"
     },
     {
@@ -6332,6 +6432,16 @@
       "category": "Blogs"
     },
     {
+      "title": "嗯学英语核心业务设计实践",
+      "link": "https://xlog.app/api/redirection?characterId=73858&noteId=48",
+      "date": "2023-08-31 16:12",
+      "author": "旅行者的随想",
+      "timestamp": 1693469520.0,
+      "summary": "前言 最近在设计开发嗯学英语项目，今天想简单讲点儿故事，一个关于英语学习软件背后复杂的技术设计思考，以及我打算如何实践，让它以何种方式运作。\n\n摸索\n\n英语类学习软件我用过不少，使用时间最长的，那自然是多邻国了。你看你学了这么久英语了哈，如果现在要你来做一款英语学习软件，你要如何设计…",
+      "source_url": "https://besscroft.com",
+      "category": "Blogs"
+    },
+    {
       "title": "2023.7-8 精神食粮",
       "link": "https://owlswims.com/2023-7-8-mentalfood/",
       "date": "2023-08-31 00:23",
@@ -6402,6 +6512,16 @@
       "category": "Blogs"
     },
     {
+      "title": "优雅使用 Cloudflare WARP 应对  RSSHub 反爬难题",
+      "link": "https://xlog.app/api/redirection?characterId=10&noteId=2022",
+      "date": "2023-08-18 06:01",
+      "author": "Hi, DIYgod",
+      "timestamp": 1692309711.0,
+      "summary": "🕊️ 本文送给更开放的互联网 起因是看到 @geekbb 介绍 Warp 的推文。尽管 Warp 已经发布了很长时间，就保护 IP 隐私而言，它并没有 iCloud Private Relay 好用，我也没有魔法上网的需求。但是我突然意识到，我还是有隐藏 IP 的需求。\n\n在开…",
+      "source_url": "https://diygod.cc",
+      "category": "Blogs"
+    },
+    {
       "title": "月刊（第22期）：当下的快乐",
       "link": "https://blog.ursb.me/posts/weekly-22/",
       "date": "2023-08-13 15:55",
@@ -6409,6 +6529,16 @@
       "timestamp": 1691913336.0,
       "summary": "本篇是对二〇二三年五月至八月生活的记录与思考。\n最近周末比较忙导致断更了，感谢催更同学的关注：\n💐 当下的快乐\n本文标题来源于莪默·伽亚谟《鲁拜集》——“享受当下的快乐，因为这一刻正是你的人生。”\n\nPS. 我一直把月刊中的文章定位为“自我对话”，只有对话结果满意的文章我才会拿出来修整一番重新在博客...",
       "source_url": "https://blog.ursb.me/",
+      "category": "Blogs"
+    },
+    {
+      "title": "在博客融入一个跨平台作品集",
+      "link": "https://xlog.app/api/redirection?characterId=10&noteId=1957",
+      "date": "2023-08-08 06:34",
+      "author": "Hi, DIYgod",
+      "timestamp": 1691447658.0,
+      "summary": "长久以来# 我一直将个人博客视为一个理想的展示个人 IP 的 “个人网站”，而不仅仅是发布文章的平台。我曾在 2014 年初学编程时使用 WordPress 建站 《世界，你好！》；入了前端坑后，在 2017 年我转向了 Hexo 《做了一点微小的改动》；Web3 飞升后…",
+      "source_url": "https://diygod.cc",
       "category": "Blogs"
     },
     {
@@ -6499,6 +6629,16 @@
       "timestamp": 1689582747.0,
       "summary": "期待已久的碟中谍7终于上映，按照顶配 IMAX 观影。时长163分钟是系列最长，观影结束后最大的问题也出现在这 [&#8230;]",
       "source_url": "https://imzm.im",
+      "category": "Blogs"
+    },
+    {
+      "title": "对 Newsletter 说不",
+      "link": "https://xlog.app/api/redirection?characterId=10&noteId=1825",
+      "date": "2023-07-13 02:31",
+      "author": "Hi, DIYgod",
+      "timestamp": 1689186673.0,
+      "summary": "衰退无处不在，这是很正常的现象。人们自然而然地更倾向于短平快的消费方式。然而，我一直无法忍受的一种奇怪趋势是，在一些地方，人们将 RSS 抛弃，转而使用 Newsletter。 本质上，电子邮件是一种私密的双向通信机制，而 RSS 是一种开放的单向通信机制…",
+      "source_url": "https://diygod.cc",
       "category": "Blogs"
     },
     {
@@ -6702,6 +6842,16 @@
       "category": "Blogs"
     },
     {
+      "title": "4 月新番太好看了！吹爆！",
+      "link": "https://xlog.app/api/redirection?characterId=10&noteId=1614",
+      "date": "2023-05-25 07:32",
+      "author": "Hi, DIYgod",
+      "timestamp": 1684971149.0,
+      "summary": "今年从 1 月就一直没什么好看的作品，到了 4 月突然爆发，让我非常激动。现在播出过半了，是时候好好说说感受了 以下当然不能囊括 4 月所有的好作品，因为实在太多了，只是说一说符合我口味的几部，按我个人的喜爱程度来排序\n\n以下会包含大量剧透，还没看的小伙伴请酌情观看\n\n鬼灭之刃刀匠…",
+      "source_url": "https://diygod.cc",
+      "category": "Blogs"
+    },
+    {
       "title": "MacOS 窗口管理器 yabai 玩耍笔记",
       "link": "https://thiscute.world/posts/macos-window-manager-yabai-usage/?utm_source=atom_feed",
       "date": "2023-05-22 12:24",
@@ -6719,6 +6869,16 @@
       "timestamp": 1684550615.0,
       "summary": "By Long Luo\n最近在书店里看到一本 《数学的奥秘》\n，原著是 《The Secret Life of Equations: The 50 Greatest Equations and\nHow They Work》\n，讲的是最伟大的数学方程式起源、构成、含义和应用。书的内容并不多，我看了其中...",
       "source_url": "https://www.longluo.me/",
+      "category": "Blogs"
+    },
+    {
+      "title": "如何使用 Cloudflare 保护云服务——扫盲“WAF”及其它招数",
+      "link": "https://xlog.app/api/redirection?characterId=73858&noteId=47",
+      "date": "2023-05-19 08:30",
+      "author": "旅行者的随想",
+      "timestamp": 1684456200.0,
+      "summary": "前言 五一前后抽时间维护了一下个人云服务，把集群全部重构了一部分。那几天访问的朋友们应该能看到一个简单的 “维护页面”。新的个人云架构，这里就不多讲了，毕竟不是本篇的内容，感兴趣的朋友可以看我之前文章（老架构）。这次改进了之前的诸多不合理的地方，顺便把 IP 和证书全部更换了一遍…",
+      "source_url": "https://besscroft.com",
       "category": "Blogs"
     },
     {
@@ -6772,6 +6932,16 @@
       "category": "Blogs"
     },
     {
+      "title": "时间与人生——我的第一个开源产品经历",
+      "link": "https://xlog.app/api/redirection?characterId=73858&noteId=46",
+      "date": "2023-04-26 17:07",
+      "author": "旅行者的随想",
+      "timestamp": 1682500020.0,
+      "summary": "前言 前几天发布了 DiyFile v0.5.0 版本，算是做出了一个不算好看但基本能用的版本，今天就来聊一聊整个过程吧。\n\n项目准备\n为什么我想做它？\n\n这个原因也很简单，当你学会一个新技术之后，把它用起来，最好的方法就是写一个项目。我也挺想开一个工作室，虽然不知道能不能走出这一步…",
+      "source_url": "https://besscroft.com",
+      "category": "Blogs"
+    },
+    {
       "title": "GPD Win Max 2 Review",
       "link": "https://imzm.im/gpd-win-max-2-review/",
       "date": "2023-04-23 11:09",
@@ -6782,6 +6952,16 @@
       "category": "Blogs"
     },
     {
+      "title": "我得了软件更新强迫症",
+      "link": "https://xlog.app/api/redirection?characterId=10&noteId=914",
+      "date": "2023-04-09 07:00",
+      "author": "Hi, DIYgod",
+      "timestamp": 1680994800.0,
+      "summary": "我必须让身边所有软件都保持最新版本，就像走路不能踩到地砖缝缝一样，没有意义，但也危害不大，所以我放任它发展",
+      "source_url": "https://diygod.cc",
+      "category": "Blogs"
+    },
+    {
       "title": "月刊（第20期）：重启人生",
       "link": "https://blog.ursb.me/posts/weekly-20/",
       "date": "2023-04-02 21:53",
@@ -6789,6 +6969,16 @@
       "timestamp": 1680443630.0,
       "summary": "本篇是对二〇二三年三月生活的记录与思考。\n🎬 本月书影音\n\n在读：小说 |《德米安》 | ★★★★★\n在读：小说 |《少年巴比伦》| ★★★★★\n在读：文学 |《西方文学史》| ★★★★☆\n看完：日剧 |《重启人生》| ★★★★★★\n看完：韩剧 |《黑暗荣耀》 | ★★★★★\n看完：美剧 |《最后生...",
       "source_url": "https://blog.ursb.me/",
+      "category": "Blogs"
+    },
+    {
+      "title": "令我痛心的三部反乌托邦动漫",
+      "link": "https://xlog.app/api/redirection?characterId=10&noteId=764",
+      "date": "2023-04-02 12:50",
+      "author": "Hi, DIYgod",
+      "timestamp": 1680411000.0,
+      "summary": "四月对我而言是一个充满悲伤的月份。尽管《四月是你的谎言》已经过去了很多年，但每当看到「四月」这两个字，仍会立刻触发我的 PTSD，再加上今天我刚读完一本反乌托邦题材的小说《来自新世界》。多种思绪糅杂在一起，让我不禁回想起了那些令我痛心的「重量级」反乌托邦动漫",
+      "source_url": "https://diygod.cc",
       "category": "Blogs"
     },
     {
@@ -6819,6 +7009,16 @@
       "timestamp": 1679702400.0,
       "summary": "一\n今天是我的 28 岁生日。\n在 2016 年的生日，我在博客写下了一篇《21 岁我想说的》，那年我进入了「大厂」，获得了世俗意义的「成功」，于是写下了这篇充满雄心壮志的文章。我觉得我离自己想要的「成功」越来越接近，我终于要用技术让别人刮目相看，用技术做点有意义的事情，帮助公司的业务 move f...",
       "source_url": "https://lutaonan.com",
+      "category": "Blogs"
+    },
+    {
+      "title": "时间与人生——编码的意义",
+      "link": "https://xlog.app/api/redirection?characterId=73858&noteId=45",
+      "date": "2023-03-20 11:38",
+      "author": "旅行者的随想",
+      "timestamp": 1679283480.0,
+      "summary": "其实这篇文章我本打算用 “开源的意义” 为标题的，但本质上现阶段开源对于我来说，核心就是编码。本文我从一个普通从业者的视角，来聊一聊我的经历、想法与思考。 由来\n兴趣\n\n第一次买编程书籍，是 2015 年的时候了，当时还在读高二。我记得是数学选修二还是哪本书来着…",
+      "source_url": "https://besscroft.com",
       "category": "Blogs"
     },
     {
@@ -6879,6 +7079,16 @@
       "timestamp": 1677543091.0,
       "summary": "本期共有 42 个项目，包含 C 项目 (3)，C# 项目 (3)，C++ 项目 (4)，Go 项目 (5)，Java 项目 (2)，JavaScript 项目 (5)，Kotlin 项目 (1)，Python 项目 (5)，Rust 项目 (3)，Swift 项目 (1)，人工智能 (2)，其它 ...",
       "source_url": "https://hellogithub.com",
+      "category": "Blogs"
+    },
+    {
+      "title": "时间与人生——网络、生活",
+      "link": "https://xlog.app/api/redirection?characterId=73858&noteId=44",
+      "date": "2023-02-27 15:40",
+      "author": "旅行者的随想",
+      "timestamp": 1677483600.0,
+      "summary": "好像挺久没有写下文字了，不知道是因为大脑想休息，还是单纯的懒。 赛博社交\n\n这个月解散了一个 6 年的 QQ 群，虽然基本上算是个死群了，但是有时候屁事儿也多，实在是没精力去维护，干脆解散了。群里面大多数的人，实际上我根本就不认识，实际上这个群的成立本身就没有很强的目的性…",
+      "source_url": "https://besscroft.com",
       "category": "Blogs"
     },
     {
@@ -6992,6 +7202,16 @@
       "category": "Blogs"
     },
     {
+      "title": "珍珠之歌——我的 2022 总结",
+      "link": "https://xlog.app/api/redirection?characterId=73858&noteId=43",
+      "date": "2022-12-31 10:00",
+      "author": "旅行者的随想",
+      "timestamp": 1672452001.0,
+      "summary": "这便是你长路的纪行，这便是你们的珍珠之歌。 题记\n\n这篇年终总结是 2022 年的，当你看到这篇文章的时候，说明 2022 年已经过去了。今年真的过的挺快的，并且放开后还是第一批阳的，在我写这篇总结的时候，我的咳嗽仍然还没好。\n\n原本标题应该叫做《时间与人生 —— 我的 2022…",
+      "source_url": "https://besscroft.com",
+      "category": "Blogs"
+    },
+    {
       "title": "HelloGitHub 第 81 期",
       "link": "https://hellogithub.com/periodical/volume/81",
       "date": "2022-12-28 08:05",
@@ -7049,6 +7269,16 @@
       "timestamp": 1669559883.0,
       "summary": "本文介绍我使用 PVE 的一些心得（不保证正确 emmmm），可能需要一定使用经验才能顺畅阅读。\n\n前言我在去年的文章 「QEMU/KVM 虚拟化环境的搭建与使用」 中介绍了如何使用\nQEMU/KVM 作为桌面虚拟化软件，其功能对标开源免费的Oracle VM VirtualBox 以及收费但是用户...",
       "source_url": "https://thiscute.world/",
+      "category": "Blogs"
+    },
+    {
+      "title": "基于 Kubernetes 和 SkyWalking 的 Spring 微服务监控实践",
+      "link": "https://xlog.app/api/redirection?characterId=73858&noteId=42",
+      "date": "2022-11-17 16:08",
+      "author": "旅行者的随想",
+      "timestamp": 1668672531.0,
+      "summary": "前言 最近在哔哩哔哩做了一期直播技术分享，算是人生中第一次吧🙂内容是基于 Kubernetes 和 Skywalking 的 Spring 微服务监控实践，实现 Spring 云原生可观测性。自己排练的时候，准备了一个多小时的内容，结果直播时太紧张，半个多小时就讲完了😂\n\nht…",
+      "source_url": "https://besscroft.com",
       "category": "Blogs"
     },
     {
@@ -7139,6 +7369,16 @@
       "timestamp": 1664723100.0,
       "summary": "看完张宏杰的《饥饿的盛世》，对乾隆的认识加深了些。历史学家说清朝的没落是从乾隆开始的，而这有西方崛起东方衰落的历史趋势，但也跟乾隆的性格有很大关系。乾隆治下，中国的人口首次突破三亿，实际控制的领土面积也达到了历史的巅峰。而另一方面，闭关锁国、奴性臣民也达到了历史的巅峰。说清史，不得不说乾隆。",
       "source_url": "https://hutusi.com/",
+      "category": "Blogs"
+    },
+    {
+      "title": "Dynamic k8s 集群实现方案",
+      "link": "https://xlog.app/api/redirection?characterId=73858&noteId=41",
+      "date": "2022-09-29 09:43",
+      "author": "旅行者的随想",
+      "timestamp": 1664415832.0,
+      "summary": "前言 本文要探讨的，是一种极低成本，但是可用度较高的 K8S 集群方案，提供多种实现思路，以及部分可实现方案。我踩过一些坑，在现有资源下，其实有很多种玩法，但如果有小伙伴问：你怎么不用 xxx 家的 xx 服务啊？怎么不用 xxx 方式啊？\n\n说到底，如果你是为了 “生产级…",
+      "source_url": "https://besscroft.com",
       "category": "Blogs"
     },
     {
