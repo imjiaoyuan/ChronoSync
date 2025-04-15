@@ -8492,6 +8492,46 @@
       "category": "Blogs"
     },
     {
+      "title": "Hepatic isomiR landscaping reveals new biological insights into metabolic dysfunction in steatotic liver disease",
+      "link": "https://www.biorxiv.org/content/10.1101/2025.04.08.647685v1?rss=1",
+      "date": "2025-04-15 08:00",
+      "author": "bioRxiv Subject Collection: Bioinformatics",
+      "timestamp": 1744675200.0,
+      "summary": "Post-transcriptionally modified microRNA (miRNA), called isomiRs, expand the repertoire of transcripts that can leveraged for therapeutic targets and ...",
+      "source_url": "https://biorxiv.org",
+      "category": "Papers"
+    },
+    {
+      "title": "ANOMALY: A Snakemake pipeline for identifying NuMTs from Long-Read Sequencing Data",
+      "link": "https://www.biorxiv.org/content/10.1101/2025.04.08.647704v1?rss=1",
+      "date": "2025-04-15 08:00",
+      "author": "bioRxiv Subject Collection: Bioinformatics",
+      "timestamp": 1744675200.0,
+      "summary": "Motivation Nuclear mitochondrial DNA segments (NuMT) can significantly affect cellular processes, including cancer development and disease progression...",
+      "source_url": "https://biorxiv.org",
+      "category": "Papers"
+    },
+    {
+      "title": "FLASH-MM: fast and scalable single-cell differential expression analysis using linear mixed-effects models",
+      "link": "https://www.biorxiv.org/content/10.1101/2025.04.08.647860v1?rss=1",
+      "date": "2025-04-15 08:00",
+      "author": "bioRxiv Subject Collection: Bioinformatics",
+      "timestamp": 1744675200.0,
+      "summary": "Single-cell RNA sequencing (scRNA-seq) enables detailed comparisons of gene expression across cells and conditions. Single-cell differential expressio...",
+      "source_url": "https://biorxiv.org",
+      "category": "Papers"
+    },
+    {
+      "title": "Circuit Mining in Transcriptomics Data",
+      "link": "https://www.biorxiv.org/content/10.1101/2025.04.09.647750v1?rss=1",
+      "date": "2025-04-15 08:00",
+      "author": "bioRxiv Subject Collection: Bioinformatics",
+      "timestamp": 1744675200.0,
+      "summary": "A central goal in neuropharmacological research is to alter brain function by targeting genes whose expression is specific to the corresponding brain ...",
+      "source_url": "https://biorxiv.org",
+      "category": "Papers"
+    },
+    {
       "title": "These are the most-cited research papers of all time",
       "link": "https://www.nature.com/articles/d41586-025-01124-w",
       "date": "2025-04-15 08:00",
@@ -8777,7 +8817,7 @@
       "date": "2025-04-11 08:00",
       "author": "bioRxiv Subject Collection: Bioinformatics",
       "timestamp": 1744329600.0,
-      "summary": "Motivation: Cell-penetrating peptides (CPPs) are promising tools for transporting therapeutic molecules into cells without damaging the cellular membr...",
+      "summary": "MotivationCell-penetrating peptides (CPPs) are promising tools for transporting therapeutic molecules into cells without damaging the cellular membran...",
       "source_url": "https://biorxiv.org",
       "category": "Papers"
     },
@@ -8907,7 +8947,7 @@
       "date": "2025-04-10 08:00",
       "author": "bioRxiv Subject Collection: Bioinformatics",
       "timestamp": 1744243200.0,
-      "summary": "Background: Although the benefits of machine learning (ML) are undeniable in healthcare, explainability plays a vital role in improving transparency a...",
+      "summary": "BackgroundAlthough the benefits of machine learning (ML) are undeniable in health-care, explainability plays a vital role in improving transparency an...",
       "source_url": "https://biorxiv.org",
       "category": "Papers"
     },
@@ -8918,46 +8958,6 @@
       "author": "bioRxiv Subject Collection: Bioinformatics",
       "timestamp": 1744243200.0,
       "summary": "Characterizing the dynamics of the backbone of flexible polymers such as Intrinsically Disordered Regions and Proteins (IDRs and IDPs) has proven to b...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "Label-free droplet image analysis with Cellprofiler",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.04.04.647160v1?rss=1",
-      "date": "2025-04-10 08:00",
-      "author": "bioRxiv Subject Collection: Bioinformatics",
-      "timestamp": 1744243200.0,
-      "summary": "Droplet microfluidic methods used for microbiological experiments are fast, cost-effective, and provide high-throughput data. However, analysis of suc...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "Exo-Tox: Identifying Exotoxins from secreted bacterial proteins",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.04.04.647182v1?rss=1",
-      "date": "2025-04-10 08:00",
-      "author": "bioRxiv Subject Collection: Bioinformatics",
-      "timestamp": 1744243200.0,
-      "summary": "BackgroundBacterial exotoxins are secreted proteins able to affect target cells, and associated with diseases. Their accurate identification can enhan...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "Generating three-dimensional genome structures with a variational quantum algorithm",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.04.06.647452v1?rss=1",
-      "date": "2025-04-10 08:00",
-      "author": "bioRxiv Subject Collection: Bioinformatics",
-      "timestamp": 1744243200.0,
-      "summary": "Chromosome conformation capture (3C) experiments have revealed the underlying spatial interactions that govern three-dimensional (3D) genome organizat...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "EnviroAmpDesigner, a tool for designing high specificity multiplex PCR primer panels for detecting and subtyping a target organism in environmental surveillance samples",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.04.10.648097v1?rss=1",
-      "date": "2025-04-10 08:00",
-      "author": "bioRxiv Subject Collection: Bioinformatics",
-      "timestamp": 1744243200.0,
-      "summary": "BackgroundAmplicon sequencing is a popular method for understanding the diversity of bacterial communities in environmental or similar samples as exem...",
       "source_url": "https://biorxiv.org",
       "category": "Papers"
     },
