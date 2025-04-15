@@ -8492,6 +8492,16 @@
       "category": "Blogs"
     },
     {
+      "title": "Male XIST expression in cardiac pseudo-glia does not induce X chromosome inactivation",
+      "link": "https://www.biorxiv.org/content/10.1101/2025.04.09.648005v1?rss=1",
+      "date": "2025-04-15 08:00",
+      "author": "bioRxiv Subject Collection: Bioinformatics",
+      "timestamp": 1744675200.0,
+      "summary": "XIST is a long non-coding RNA that mediates the process of X chromosome inactivation in females, and has not been previously observed in males outside...",
+      "source_url": "https://biorxiv.org",
+      "category": "Papers"
+    },
+    {
       "title": "BINSEQ: A Family of High-Performance Binary Formats for Nucleotide Sequences",
       "link": "https://www.biorxiv.org/content/10.1101/2025.04.08.647863v1?rss=1",
       "date": "2025-04-15 08:00",
@@ -8548,6 +8558,16 @@
       "author": "bioRxiv Subject Collection: Bioinformatics",
       "timestamp": 1744675200.0,
       "summary": "A central goal in neuropharmacological research is to alter brain function by targeting genes whose expression is specific to the corresponding brain ...",
+      "source_url": "https://biorxiv.org",
+      "category": "Papers"
+    },
+    {
+      "title": "Mosaic accumulation of somatic genetic variation and estimates of age in the long-lived reef-building coral Acropora palmata",
+      "link": "https://www.biorxiv.org/content/10.1101/2025.04.11.641527v1?rss=1",
+      "date": "2025-04-15 08:00",
+      "author": "bioRxiv Subject Collection: Genomics",
+      "timestamp": 1744675200.0,
+      "summary": "Somatic genetic variation (SOGV), accumulating during an organism's lifetime, was traditionally viewed as detrimental rather than adaptive due to link...",
       "source_url": "https://biorxiv.org",
       "category": "Papers"
     },
@@ -8958,16 +8978,6 @@
       "author": "bioRxiv Subject Collection: Bioinformatics",
       "timestamp": 1744243200.0,
       "summary": "Reliable and reproducible drug screening experiments are essential for drug discovery and personalized medicine. Here, we demonstrate how systematic e...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "Cancer Cell Adaptation to Cycling Hypoxia: Integrating Mathematical Modeling with Experimental Validation of HIF-1 Dynamics",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.04.06.647478v1?rss=1",
-      "date": "2025-04-10 08:00",
-      "author": "bioRxiv Subject Collection: Bioinformatics",
-      "timestamp": 1744243200.0,
-      "summary": "The adaptive response of cancer cells to hypoxia, a key microenvironmental factor in solid tumors, is intricately orchestrated by Hypoxia-inducible fa...",
       "source_url": "https://biorxiv.org",
       "category": "Papers"
     },
@@ -9408,16 +9418,6 @@
       "author": "bioRxiv Subject Collection: Genomics",
       "timestamp": 1743984000.0,
       "summary": "Viruses of microorganisms impact microbial population dynamics, community structure, nutrient cycling, gene transfer, and genomic innovation. In wetla...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "Plasmidome-defensome interactions drive adaptation of 'Fervidacidithiobacillus caldus' in natural and industrial extreme acidic environments",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.04.02.646953v1?rss=1",
-      "date": "2025-04-07 08:00",
-      "author": "bioRxiv Subject Collection: Genomics",
-      "timestamp": 1743984000.0,
-      "summary": "Plasmids are major drivers of microbial evolution, enabling horizontal gene transfer (HGT) and facilitating adaptation through the dissemination of re...",
       "source_url": "https://biorxiv.org",
       "category": "Papers"
     },
