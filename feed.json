@@ -12,6 +12,16 @@
       "category": "Blogs"
     },
     {
+      "title": "空气炸锅经济学",
+      "link": "https://yufree.cn/cn/2025/04/14/airfryer-economics/",
+      "date": "2025-04-14 08:00",
+      "author": "博客 on Miao Yu | 于淼",
+      "timestamp": 1744588800.0,
+      "summary": "空气炸锅经济学\n空气炸锅是我22年在黑五期间用不到40刀从百思买里搬回家的。这个价格看起来便宜，其实我内心是嫌贵的，毕竟这个东西核心部件就是年龄大一点的可能见过外置电热丝加热的家用热水壶底座配上一个笔记本散热器的风扇，用个铁皮一包加上滑动变阻器与计时器控温就可以了。作为一名合格的工二代，我很小就接触...",
+      "source_url": "https://yufree.cn/cn/",
+      "category": "Blogs"
+    },
+    {
       "title": "猫鱼周刊 vol. 061 第二次机会",
       "link": "https://ameow.xyz/archives/weekly-061",
       "date": "2025-04-13 19:58",
@@ -2139,16 +2149,6 @@
       "timestamp": 1735622400.0,
       "summary": "每年的最后一天，都会有一篇以新旧年份数字组合作为标题的博客文章，意为在一年的最后一天回顾即将结束的一年，并展望新的一年。然而，今年这篇文章使用这个标题似乎是不准确的，因为这篇文章可能只会讲述一件事，而...",
       "source_url": "https://www.ntiy.com",
-      "category": "Blogs"
-    },
-    {
-      "title": "三十七",
-      "link": "https://yufree.cn/cn/2024/12/31/37/",
-      "date": "2024-12-31 08:00",
-      "author": "博客 on Miao Yu | 于淼",
-      "timestamp": 1735603200.0,
-      "summary": "二十岁的时候，每过一年，人生阅历会增长约5%；三十岁的时候，会增长3.3%；现在，只会增长2.7%。阅历这东西是随年龄边际效益递减的，经常感觉啥也没做就一年过去是年长者的专利，如果把受教育当成社会层面的复读机驯化，那么年龄就是个人层面的押韵，韵脚就那些，自然感觉快了。为了让年龄的边际效益小一点，我进...",
-      "source_url": "https://yufree.cn/cn/",
       "category": "Blogs"
     },
     {
@@ -8532,6 +8532,16 @@
       "category": "Papers"
     },
     {
+      "title": "Customizable host and viral transcript enrichment using CRISPR-Cas9 long-read sequencing for isoform discovery and validation",
+      "link": "https://www.biorxiv.org/content/10.1101/2025.04.11.648353v1?rss=1",
+      "date": "2025-04-14 08:00",
+      "author": "bioRxiv Subject Collection: Genomics",
+      "timestamp": 1744588800.0,
+      "summary": "Long-read RNA sequencing has been broadly utilized to examine the diversity of transcriptomes, understand differential expression and discover novel t...",
+      "source_url": "https://biorxiv.org",
+      "category": "Papers"
+    },
+    {
       "title": "scContrast: A contrastive learning based approach for encoding single-cell gene expression data",
       "link": "https://www.biorxiv.org/content/10.1101/2025.04.07.647292v1?rss=1",
       "date": "2025-04-14 08:00",
@@ -9378,16 +9388,6 @@
       "author": "bioRxiv Subject Collection: Genomics",
       "timestamp": 1743984000.0,
       "summary": "Humpback whales (Megaptera novaeangliae) are cosmopolitan in distribution and most populations migrate between foraging and breeding grounds each year...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "The GSA Family in 2025: A Broadened Sharing Platform for Multi-Omics and Multimodal Data",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.03.31.646270v1?rss=1",
-      "date": "2025-04-07 08:00",
-      "author": "bioRxiv Subject Collection: Genomics",
-      "timestamp": 1743984000.0,
-      "summary": "The Genome Sequence Archive Family (GSA family) provides a suite of database resources for archiving, retrieving, and sharing multi-omics data for the...",
       "source_url": "https://biorxiv.org",
       "category": "Papers"
     },
