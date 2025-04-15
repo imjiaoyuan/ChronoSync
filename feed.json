@@ -8492,6 +8492,26 @@
       "category": "Blogs"
     },
     {
+      "title": "Data-efficient protein mutational effect prediction with weak supervision by molecular simulation and protein language models",
+      "link": "https://www.biorxiv.org/content/10.1101/2025.04.08.647800v1?rss=1",
+      "date": "2025-04-14 08:00",
+      "author": "bioRxiv Subject Collection: Bioinformatics",
+      "timestamp": 1744588800.0,
+      "summary": "Machine learning-based protein mutational effect prediction is widely used in protein engineering and pathogenicity prediction, but training data scar...",
+      "source_url": "https://biorxiv.org",
+      "category": "Papers"
+    },
+    {
+      "title": "PepBERT: Lightweight language models for peptide representation",
+      "link": "https://www.biorxiv.org/content/10.1101/2025.04.08.647838v1?rss=1",
+      "date": "2025-04-14 08:00",
+      "author": "bioRxiv Subject Collection: Bioinformatics",
+      "timestamp": 1744588800.0,
+      "summary": "Protein language models (pLMs) have been widely adopted for various protein and peptide-related downstream tasks and demonstrated promising performanc...",
+      "source_url": "https://biorxiv.org",
+      "category": "Papers"
+    },
+    {
       "title": "Easydecon: A Lightweight Workflow for Cell Type Analysis in High-Definition Spatial Transcriptomics Assays",
       "link": "https://www.biorxiv.org/content/10.1101/2025.04.08.647764v1?rss=1",
       "date": "2025-04-14 08:00",
@@ -8528,6 +8548,16 @@
       "author": "bioRxiv Subject Collection: Bioinformatics",
       "timestamp": 1744588800.0,
       "summary": "This study provides manually curated and homogenised transcriptomics data of interstitial lung disease (ILD) patients retrieved from the NCBI Gene Exp...",
+      "source_url": "https://biorxiv.org",
+      "category": "Papers"
+    },
+    {
+      "title": "Sex differentiation, divergence, and introgression in the leishmaniasis vector Lutzomyia longipalpis",
+      "link": "https://www.biorxiv.org/content/10.1101/2025.04.08.647763v1?rss=1",
+      "date": "2025-04-14 08:00",
+      "author": "bioRxiv Subject Collection: Genomics",
+      "timestamp": 1744588800.0,
+      "summary": "An estimated one billion people are at risk of acquiring the disease leishmaniasis annually. This disease, among others, is transmitted to humans via ...",
       "source_url": "https://biorxiv.org",
       "category": "Papers"
     },
@@ -8898,26 +8928,6 @@
       "author": "bioRxiv Subject Collection: Bioinformatics",
       "timestamp": 1744243200.0,
       "summary": "BackgroundAmplicon sequencing is a popular method for understanding the diversity of bacterial communities in environmental or similar samples as exem...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "OBE-DB: A Computational Tool and Web Server for the Prediction of Antiobesity Drugs",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.04.10.648110v1?rss=1",
-      "date": "2025-04-10 08:00",
-      "author": "bioRxiv Subject Collection: Bioinformatics",
-      "timestamp": 1744243200.0,
-      "summary": "The huge obesity prevalence and its associated metabolic disorders highlight the urgent need for new therapeutic strategies beyond lifestyle intervent...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "STEAMBOAT: Attention-based multiscale delineation of cellular interactions in tissues",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.04.06.647437v1?rss=1",
-      "date": "2025-04-10 08:00",
-      "author": "bioRxiv Subject Collection: Bioinformatics",
-      "timestamp": 1744243200.0,
-      "summary": "Spatial-omics technologies profile cells in their native spatial context within tissues, enabling more complete understanding of cellular properties. ...",
       "source_url": "https://biorxiv.org",
       "category": "Papers"
     },
@@ -9378,16 +9388,6 @@
       "author": "bioRxiv Subject Collection: Genomics",
       "timestamp": 1743984000.0,
       "summary": "Aerobic eukaryotes utilize O2 to oxidize metabolites and generate ATP. The protist kingdom lacks the Hypoxia Inducible Factor-dependent transcriptiona...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "Humpback whales harbor a highly novel and endemic gut microbiome that adapts to periods of fasting during migration",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.04.03.647021v1?rss=1",
-      "date": "2025-04-07 08:00",
-      "author": "bioRxiv Subject Collection: Genomics",
-      "timestamp": 1743984000.0,
-      "summary": "Humpback whales (Megaptera novaeangliae) are cosmopolitan in distribution and most populations migrate between foraging and breeding grounds each year...",
       "source_url": "https://biorxiv.org",
       "category": "Papers"
     },
