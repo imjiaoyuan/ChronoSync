@@ -2,6 +2,16 @@
   "update_time": "2025-04-15",
   "articles": [
     {
+      "title": "解决 macOS Sonoma+ AirPods 音量自动重置问题",
+      "link": "https://blog.tonyding.net/archives/39/",
+      "date": "2025-04-15 22:12",
+      "author": "Tony Ding's Blog",
+      "timestamp": 1744726320.0,
+      "summary": "上个月刚换 MBA 就发现这玩意似乎老是记不住我 AirPods 的音量设置，一连接就重置到 50%，想起来调还好，偶尔忘了这事直接放音乐后果就是被震得脑瓜子嗡嗡响。",
+      "source_url": "https://blog.tonyding.net/",
+      "category": "Blogs"
+    },
+    {
       "title": "冲着生产力来，带着娱乐性走，曲面宽屏第二次尝试——Dell U4025QW",
       "link": "https://blog.douchi.space/curved-wide-sceen-dell-U4025QW/",
       "date": "2025-04-14 13:45",
@@ -7302,16 +7312,6 @@
       "category": "Blogs"
     },
     {
-      "title": "终于又把 blog 建起来了",
-      "link": "https://blog.tonyding.net/archives/1/",
-      "date": "2022-11-05 12:35",
-      "author": "Tony Ding's Blog",
-      "timestamp": 1667622900.0,
-      "summary": "这也不是我第一次建 blog 了，两年前那段封锁的日子里，我就在一台开着玩的 Vultr 机器上建了一个 Typecho，甚至还写了两篇完全没人看的文章。但毕竟是开着玩，那个站以及那两篇文章不到...",
-      "source_url": "https://blog.tonyding.net/",
-      "category": "Blogs"
-    },
-    {
       "title": "HelloGitHub 第 79 期",
       "link": "https://hellogithub.com/periodical/volume/79",
       "date": "2022-10-28 08:09",
@@ -8492,6 +8492,26 @@
       "category": "Blogs"
     },
     {
+      "title": "BINSEQ: A Family of High-Performance Binary Formats for Nucleotide Sequences",
+      "link": "https://www.biorxiv.org/content/10.1101/2025.04.08.647863v1?rss=1",
+      "date": "2025-04-15 08:00",
+      "author": "bioRxiv Subject Collection: Bioinformatics",
+      "timestamp": 1744675200.0,
+      "summary": "Modern genomics produces billions of sequencing records per run, which are typically stored as gzip-compressed FASTQ files. While this format is widel...",
+      "source_url": "https://biorxiv.org",
+      "category": "Papers"
+    },
+    {
+      "title": "CellLoop: Identifying single-cell 3D genome chromatin loops",
+      "link": "https://www.biorxiv.org/content/10.1101/2025.04.08.647893v1?rss=1",
+      "date": "2025-04-15 08:00",
+      "author": "bioRxiv Subject Collection: Bioinformatics",
+      "timestamp": 1744675200.0,
+      "summary": "Single-cell 3D genome mapping offers insights into chromatin architecture, yet the inherent sparsity and high dimensionality of contact maps hinder re...",
+      "source_url": "https://biorxiv.org",
+      "category": "Papers"
+    },
+    {
       "title": "Hepatic isomiR landscaping reveals new biological insights into metabolic dysfunction in steatotic liver disease",
       "link": "https://www.biorxiv.org/content/10.1101/2025.04.08.647685v1?rss=1",
       "date": "2025-04-15 08:00",
@@ -8529,6 +8549,16 @@
       "timestamp": 1744675200.0,
       "summary": "A central goal in neuropharmacological research is to alter brain function by targeting genes whose expression is specific to the corresponding brain ...",
       "source_url": "https://biorxiv.org",
+      "category": "Papers"
+    },
+    {
+      "title": "Twenty years of genome-wide association studies",
+      "link": "https://www.nature.com/articles/d41586-025-01128-6",
+      "date": "2025-04-15 08:00",
+      "author": "Genomics : nature.com subject feeds",
+      "timestamp": 1744675200.0,
+      "summary": "无摘要",
+      "source_url": "https://www.nature.com/subjects/genomics",
       "category": "Papers"
     },
     {
@@ -8938,26 +8968,6 @@
       "author": "bioRxiv Subject Collection: Bioinformatics",
       "timestamp": 1744243200.0,
       "summary": "The adaptive response of cancer cells to hypoxia, a key microenvironmental factor in solid tumors, is intricately orchestrated by Hypoxia-inducible fa...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "Discernibility in explanations: an approach to designing more acceptable and meaningful machine learning models for medicine",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.04.06.647498v1?rss=1",
-      "date": "2025-04-10 08:00",
-      "author": "bioRxiv Subject Collection: Bioinformatics",
-      "timestamp": 1744243200.0,
-      "summary": "BackgroundAlthough the benefits of machine learning (ML) are undeniable in health-care, explainability plays a vital role in improving transparency an...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "Menger_Curvature : a MDAKit implementation to decipher the dynamics, curvatures and flexibilities of polymeric backbones at the residue level",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.04.04.647214v1?rss=1",
-      "date": "2025-04-10 08:00",
-      "author": "bioRxiv Subject Collection: Bioinformatics",
-      "timestamp": 1744243200.0,
-      "summary": "Characterizing the dynamics of the backbone of flexible polymers such as Intrinsically Disordered Regions and Proteins (IDRs and IDPs) has proven to b...",
       "source_url": "https://biorxiv.org",
       "category": "Papers"
     },
@@ -9514,16 +9524,6 @@
     {
       "title": "Accurate cross-species 5mC detection for Oxford Nanopore sequencing in plants with DeepPlant",
       "link": "https://www.nature.com/articles/s41467-025-58576-x",
-      "date": "2025-04-04 08:00",
-      "author": "Genomics : nature.com subject feeds",
-      "timestamp": 1743724800.0,
-      "summary": "无摘要",
-      "source_url": "https://www.nature.com/subjects/genomics",
-      "category": "Papers"
-    },
-    {
-      "title": "K-mer analysis of long-read alignment pileups for structural variant genotyping",
-      "link": "https://www.nature.com/articles/s41467-025-58577-w",
       "date": "2025-04-04 08:00",
       "author": "Genomics : nature.com subject feeds",
       "timestamp": 1743724800.0,
