@@ -1,5 +1,5 @@
 {
-  "update_time": "2025-04-16",
+  "update_time": "2025-04-17",
   "articles": [
     {
       "title": "周报 #91 - 一席、消失的时代与自由意志",
@@ -8502,6 +8502,66 @@
       "category": "Blogs"
     },
     {
+      "title": "InteracTor: Feature Engineering and Explainable AI for Profiling Protein Structure-Interaction-Function Relationships",
+      "link": "https://www.biorxiv.org/content/10.1101/2025.04.10.648139v1?rss=1",
+      "date": "2025-04-16 08:00",
+      "author": "bioRxiv Subject Collection: Bioinformatics",
+      "timestamp": 1744761600.0,
+      "summary": "Characterizing protein families' structural and functional diversity is essential for understanding their biological roles. Traditional analyses often...",
+      "source_url": "https://biorxiv.org",
+      "category": "Papers"
+    },
+    {
+      "title": "Comprehensive evaluation and interpretative insights of peptide-HLA binding prediction tools using explainable artificial intelligence",
+      "link": "https://www.biorxiv.org/content/10.1101/2025.04.10.648169v1?rss=1",
+      "date": "2025-04-16 08:00",
+      "author": "bioRxiv Subject Collection: Bioinformatics",
+      "timestamp": 1744761600.0,
+      "summary": "Accurate prediction of human leukocyte antigen class I (HLA-I) peptide binding is pivotal for immunological research, including vaccine development an...",
+      "source_url": "https://biorxiv.org",
+      "category": "Papers"
+    },
+    {
+      "title": "Panalyze: automated virus pangenome variation graph construction and analysis",
+      "link": "https://www.biorxiv.org/content/10.1101/2025.04.10.646565v1?rss=1",
+      "date": "2025-04-16 08:00",
+      "author": "bioRxiv Subject Collection: Bioinformatics",
+      "timestamp": 1744761600.0,
+      "summary": "Motivation: Constructing and studying reference-free pangenome variation graphs can support new insights into viral genomic diversity. Interpreting th...",
+      "source_url": "https://biorxiv.org",
+      "category": "Papers"
+    },
+    {
+      "title": "MeDCycFold: A Rosetta Distillation Model to Accelerate Structure Prediction of Cyclic Peptides with Backbone N-methylation and D-amino Acids",
+      "link": "https://www.biorxiv.org/content/10.1101/2025.04.10.648099v1?rss=1",
+      "date": "2025-04-16 08:00",
+      "author": "bioRxiv Subject Collection: Bioinformatics",
+      "timestamp": 1744761600.0,
+      "summary": "Cyclic peptides with backbone N-methylated amino acids(BNMeAAs) and D-amino acids(D-AAs) have gained attention for their stability, membrane permeabil...",
+      "source_url": "https://biorxiv.org",
+      "category": "Papers"
+    },
+    {
+      "title": "GenMasterTable: A user-friendly desktop application for filtering, summarising, and visualising large-scale annotated genetic variants",
+      "link": "https://www.biorxiv.org/content/10.1101/2025.04.10.648172v1?rss=1",
+      "date": "2025-04-16 08:00",
+      "author": "bioRxiv Subject Collection: Bioinformatics",
+      "timestamp": 1744761600.0,
+      "summary": "Background: The rapid expansion of next-generation sequencing (NGS) technologies has generated vast amounts of genomic data, creating a growing demand...",
+      "source_url": "https://biorxiv.org",
+      "category": "Papers"
+    },
+    {
+      "title": "Integrative Multi-omics and Supervised Learning Identifies an Epithelial Signature for Radiotherapy Response in Colorectal Cancer",
+      "link": "https://www.biorxiv.org/content/10.1101/2025.04.10.648131v1?rss=1",
+      "date": "2025-04-16 08:00",
+      "author": "bioRxiv Subject Collection: Bioinformatics",
+      "timestamp": 1744761600.0,
+      "summary": "Colorectal cancer (CRC) is the third most diagnosed cancer globally, accounting for 9.6% of all cancer cases and the second leading cause of cancer de...",
+      "source_url": "https://biorxiv.org",
+      "category": "Papers"
+    },
+    {
       "title": "Evolutionary constraints guide AlphaFold2 prediction of alternative conformations and inform rational mutation design",
       "link": "https://www.biorxiv.org/content/10.1101/2025.04.08.647782v1?rss=1",
       "date": "2025-04-16 08:00",
@@ -8552,6 +8612,16 @@
       "category": "Papers"
     },
     {
+      "title": "What a trove of potato genomes reveals about the humble spud",
+      "link": "https://www.nature.com/articles/d41586-025-01247-0",
+      "date": "2025-04-16 08:00",
+      "author": "Genomics : nature.com subject feeds",
+      "timestamp": 1744761600.0,
+      "summary": "无摘要",
+      "source_url": "https://www.nature.com/subjects/genomics",
+      "category": "Papers"
+    },
+    {
       "title": "Roses are red — but their ancestors were yellow",
       "link": "https://www.nature.com/articles/d41586-025-01107-x",
       "date": "2025-04-16 08:00",
@@ -8562,8 +8632,38 @@
       "category": "Papers"
     },
     {
+      "title": "A pangenome reference of wild and cultivated rice",
+      "link": "https://www.nature.com/articles/s41586-025-08883-6",
+      "date": "2025-04-16 08:00",
+      "author": "Genomics : nature.com subject feeds",
+      "timestamp": 1744761600.0,
+      "summary": "无摘要",
+      "source_url": "https://www.nature.com/subjects/genomics",
+      "category": "Papers"
+    },
+    {
+      "title": "Deep Insight into the genome of a major rice pest, Scripophaga incertulas",
+      "link": "https://www.nature.com/articles/s41597-025-04867-3",
+      "date": "2025-04-16 08:00",
+      "author": "Genomics : nature.com subject feeds",
+      "timestamp": 1744761600.0,
+      "summary": "无摘要",
+      "source_url": "https://www.nature.com/subjects/genomics",
+      "category": "Papers"
+    },
+    {
       "title": "Desmosome mutations in keratinocytes fuel melanoma development",
       "link": "https://www.nature.com/articles/s41588-025-02133-1",
+      "date": "2025-04-16 08:00",
+      "author": "Genomics : nature.com subject feeds",
+      "timestamp": 1744761600.0,
+      "summary": "无摘要",
+      "source_url": "https://www.nature.com/subjects/genomics",
+      "category": "Papers"
+    },
+    {
+      "title": "Unlocking the diversity of wild and domesticated rice",
+      "link": "https://www.nature.com/articles/d41586-025-01158-0",
       "date": "2025-04-16 08:00",
       "author": "Genomics : nature.com subject feeds",
       "timestamp": 1744761600.0,
@@ -8584,6 +8684,26 @@
     {
       "title": "Pan-genome analysis reveals the evolution and diversity of Malus",
       "link": "https://www.nature.com/articles/s41588-025-02166-6",
+      "date": "2025-04-16 08:00",
+      "author": "Genomics : nature.com subject feeds",
+      "timestamp": 1744761600.0,
+      "summary": "无摘要",
+      "source_url": "https://www.nature.com/subjects/genomics",
+      "category": "Papers"
+    },
+    {
+      "title": "Identification of genetic architecture shared between schizophrenia and Alzheimer’s disease",
+      "link": "https://www.nature.com/articles/s41398-025-03348-w",
+      "date": "2025-04-16 08:00",
+      "author": "Genomics : nature.com subject feeds",
+      "timestamp": 1744761600.0,
+      "summary": "无摘要",
+      "source_url": "https://www.nature.com/subjects/genomics",
+      "category": "Papers"
+    },
+    {
+      "title": "Towards multimodal foundation models in molecular cell biology",
+      "link": "https://www.nature.com/articles/s41586-025-08710-y",
       "date": "2025-04-16 08:00",
       "author": "Genomics : nature.com subject feeds",
       "timestamp": 1744761600.0,
@@ -8959,66 +9079,6 @@
       "timestamp": 1744588800.0,
       "summary": "无摘要",
       "source_url": "https://www.nature.com/subjects/bioinformatics",
-      "category": "Papers"
-    },
-    {
-      "title": "LimbLab: Pipeline for 3D Analysis and Visualisation of Limb Bud Gene Expression",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.04.08.647723v1?rss=1",
-      "date": "2025-04-13 08:00",
-      "author": "bioRxiv Subject Collection: Bioinformatics",
-      "timestamp": 1744502400.0,
-      "summary": "MotivationAlthough some aspects of limb development can be treated as a 2D problem, a true understanding of the morphogenesis and patterning requires ...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "SCARF: Single Cell ATAC-seq and RNA-seq Foundation model",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.04.07.647689v1?rss=1",
-      "date": "2025-04-13 08:00",
-      "author": "bioRxiv Subject Collection: Bioinformatics",
-      "timestamp": 1744502400.0,
-      "summary": "Recent advances in single-cell multi-omics have provided unprecedented insights into gene regulation by jointly profiling transcriptomic (scRNA-seq) a...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "Dividing out quantification uncertainty enables assessment of differential transcript usage with diffSplice",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.04.07.647659v1?rss=1",
-      "date": "2025-04-13 08:00",
-      "author": "bioRxiv Subject Collection: Bioinformatics",
-      "timestamp": 1744502400.0,
-      "summary": "Differential transcript usage (DTU) refers to changes in the relative abundance of transcript isoforms of the same gene between experimental condition...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "PepPCBench is a Comprehensive Benchmark for Protein-Peptide Complex Structure Prediction with AlphaFold3",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.04.08.647699v1?rss=1",
-      "date": "2025-04-13 08:00",
-      "author": "bioRxiv Subject Collection: Bioinformatics",
-      "timestamp": 1744502400.0,
-      "summary": "Peptides mediate up to 40% of protein-protein interactions (PPIs), offering high specificity and the ability to target binding sites inaccessible to s...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "FetchM: Streamlining Genome and Metadata Integration for Microbial Comparative Genomics",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.04.08.647722v1?rss=1",
-      "date": "2025-04-13 08:00",
-      "author": "bioRxiv Subject Collection: Bioinformatics",
-      "timestamp": 1744502400.0,
-      "summary": "FetchM is a Python-based tool for fetching, analyzing, and combining bacterial genomic metadata from the NCBI Genome database and associated sample me...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "Evaluating gene representation in spatial transcriptomics across pre-designed panels",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.04.07.647642v1?rss=1",
-      "date": "2025-04-13 08:00",
-      "author": "bioRxiv Subject Collection: Bioinformatics",
-      "timestamp": 1744502400.0,
-      "summary": "Spatial transcriptomics (ST) has revolutionized our understanding of gene expression within tissues by preserving spatial context. Over the past few y...",
-      "source_url": "https://biorxiv.org",
       "category": "Papers"
     },
     {
@@ -9422,16 +9482,6 @@
       "category": "Papers"
     },
     {
-      "title": "Timing and trajectory of BCR::ABL1-driven chronic myeloid leukaemia",
-      "link": "https://www.nature.com/articles/s41586-025-08817-2",
-      "date": "2025-04-09 08:00",
-      "author": "Genomics : nature.com subject feeds",
-      "timestamp": 1744156800.0,
-      "summary": "无摘要",
-      "source_url": "https://www.nature.com/subjects/genomics",
-      "category": "Papers"
-    },
-    {
       "title": "A Proposed Statistical Approach for Conducting Longitudinal Assessment of Circulating Tumor DNA",
       "link": "https://www.biorxiv.org/content/10.1101/2025.04.03.646973v1?rss=1",
       "date": "2025-04-08 08:00",
@@ -9462,16 +9512,6 @@
       "category": "Papers"
     },
     {
-      "title": "Mapping genetic diversity with the GenomeIndia project",
-      "link": "https://www.nature.com/articles/s41588-025-02153-x",
-      "date": "2025-04-08 08:00",
-      "author": "Genomics : nature.com subject feeds",
-      "timestamp": 1744070400.0,
-      "summary": "无摘要",
-      "source_url": "https://www.nature.com/subjects/genomics",
-      "category": "Papers"
-    },
-    {
       "title": "MSFragger-DDA+ enhances peptide identification sensitivity with full isolation window search",
       "link": "https://www.nature.com/articles/s41467-025-58728-z",
       "date": "2025-04-08 08:00",
@@ -9489,26 +9529,6 @@
       "timestamp": 1744070400.0,
       "summary": "无摘要",
       "source_url": "https://www.nature.com/subjects/bioinformatics",
-      "category": "Papers"
-    },
-    {
-      "title": "Where do proteins go in cells? Next-generation methods map the molecules’ hidden lives",
-      "link": "https://www.nature.com/articles/d41586-025-01045-8",
-      "date": "2025-04-07 08:00",
-      "author": "Genomics : nature.com subject feeds",
-      "timestamp": 1743984000.0,
-      "summary": "无摘要",
-      "source_url": "https://www.nature.com/subjects/genomics",
-      "category": "Papers"
-    },
-    {
-      "title": "A telomere-to-telomere genome assembly coupled with multi-omic data provides insights into the evolution of hexaploid bread wheat",
-      "link": "https://www.nature.com/articles/s41588-025-02137-x",
-      "date": "2025-04-07 08:00",
-      "author": "Genomics : nature.com subject feeds",
-      "timestamp": 1743984000.0,
-      "summary": "无摘要",
-      "source_url": "https://www.nature.com/subjects/genomics",
       "category": "Papers"
     },
     {
@@ -9539,26 +9559,6 @@
       "timestamp": 1743897600.0,
       "summary": "无摘要",
       "source_url": "https://www.nature.com/subjects/bioinformatics",
-      "category": "Papers"
-    },
-    {
-      "title": "The Estonian Biobank’s journey from biobanking to personalized medicine",
-      "link": "https://www.nature.com/articles/s41467-025-58465-3",
-      "date": "2025-04-05 08:00",
-      "author": "Genomics : nature.com subject feeds",
-      "timestamp": 1743811200.0,
-      "summary": "无摘要",
-      "source_url": "https://www.nature.com/subjects/genomics",
-      "category": "Papers"
-    },
-    {
-      "title": "Exome sequencing reveals low-frequency and rare variant contributions to multiple sclerosis susceptibility in Turkish families",
-      "link": "https://www.nature.com/articles/s41598-025-94691-x",
-      "date": "2025-04-05 08:00",
-      "author": "Genomics : nature.com subject feeds",
-      "timestamp": 1743811200.0,
-      "summary": "无摘要",
-      "source_url": "https://www.nature.com/subjects/genomics",
       "category": "Papers"
     },
     {
