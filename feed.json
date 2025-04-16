@@ -8502,6 +8502,66 @@
       "category": "Blogs"
     },
     {
+      "title": "Cytosine Methylation is a marker of Viral Gene Transfer across the eukaryotes",
+      "link": "https://www.biorxiv.org/content/10.1101/2025.04.15.648976v1?rss=1",
+      "date": "2025-04-16 08:00",
+      "author": "bioRxiv Subject Collection: Genomics",
+      "timestamp": 1744761600.0,
+      "summary": "Cytosine DNA methylation patterns vary widely across eukaryotes, with its ancestral roles being understood to have included both transposable element ...",
+      "source_url": "https://biorxiv.org",
+      "category": "Papers"
+    },
+    {
+      "title": "Roses are red — but their ancestors were yellow",
+      "link": "https://www.nature.com/articles/d41586-025-01107-x",
+      "date": "2025-04-16 08:00",
+      "author": "Genomics : nature.com subject feeds",
+      "timestamp": 1744761600.0,
+      "summary": "无摘要",
+      "source_url": "https://www.nature.com/subjects/genomics",
+      "category": "Papers"
+    },
+    {
+      "title": "Desmosome mutations in keratinocytes fuel melanoma development",
+      "link": "https://www.nature.com/articles/s41588-025-02133-1",
+      "date": "2025-04-16 08:00",
+      "author": "Genomics : nature.com subject feeds",
+      "timestamp": 1744761600.0,
+      "summary": "无摘要",
+      "source_url": "https://www.nature.com/subjects/genomics",
+      "category": "Papers"
+    },
+    {
+      "title": "Desmosome mutations impact the tumor microenvironment to promote melanoma proliferation",
+      "link": "https://www.nature.com/articles/s41588-025-02163-9",
+      "date": "2025-04-16 08:00",
+      "author": "Genomics : nature.com subject feeds",
+      "timestamp": 1744761600.0,
+      "summary": "无摘要",
+      "source_url": "https://www.nature.com/subjects/genomics",
+      "category": "Papers"
+    },
+    {
+      "title": "Pan-genome analysis reveals the evolution and diversity of Malus",
+      "link": "https://www.nature.com/articles/s41588-025-02166-6",
+      "date": "2025-04-16 08:00",
+      "author": "Genomics : nature.com subject feeds",
+      "timestamp": 1744761600.0,
+      "summary": "无摘要",
+      "source_url": "https://www.nature.com/subjects/genomics",
+      "category": "Papers"
+    },
+    {
+      "title": "Re-analysis of mobile mRNA datasets raises questions about the extent of long-distance mRNA communication",
+      "link": "https://www.nature.com/articles/s41477-025-01979-x",
+      "date": "2025-04-16 08:00",
+      "author": "Bioinformatics : nature.com subject feeds",
+      "timestamp": 1744761600.0,
+      "summary": "无摘要",
+      "source_url": "https://www.nature.com/subjects/bioinformatics",
+      "category": "Papers"
+    },
+    {
       "title": "Heterogeneity-preserving discriminative feature selection for disease-specific subtype discovery",
       "link": "https://www.nature.com/articles/s41467-025-58718-1",
       "date": "2025-04-16 08:00",
@@ -9402,16 +9462,6 @@
       "category": "Papers"
     },
     {
-      "title": "Genetic and functional analysis of unproductive splicing using LeafCutter2",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.04.06.646893v1?rss=1",
-      "date": "2025-04-08 08:00",
-      "author": "bioRxiv Subject Collection: Genomics",
-      "timestamp": 1744070400.0,
-      "summary": "Alternative splicing commonly generates unproductive mRNA transcripts that harbor premature termination codons1, leading to their degradation by nonse...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
       "title": "Mapping genetic diversity with the GenomeIndia project",
       "link": "https://www.nature.com/articles/s41588-025-02153-x",
       "date": "2025-04-08 08:00",
@@ -9507,46 +9557,6 @@
       "date": "2025-04-05 08:00",
       "author": "Genomics : nature.com subject feeds",
       "timestamp": 1743811200.0,
-      "summary": "无摘要",
-      "source_url": "https://www.nature.com/subjects/genomics",
-      "category": "Papers"
-    },
-    {
-      "title": "Chromosome-scale genome assembly and annotation of Xenocypris argentea",
-      "link": "https://www.nature.com/articles/s41597-025-04916-x",
-      "date": "2025-04-04 08:00",
-      "author": "Genomics : nature.com subject feeds",
-      "timestamp": 1743724800.0,
-      "summary": "无摘要",
-      "source_url": "https://www.nature.com/subjects/genomics",
-      "category": "Papers"
-    },
-    {
-      "title": "Precision Omics Initiative Sweden (PROMISE) will integrate research with healthcare",
-      "link": "https://www.nature.com/articles/s41591-025-03631-9",
-      "date": "2025-04-04 08:00",
-      "author": "Genomics : nature.com subject feeds",
-      "timestamp": 1743724800.0,
-      "summary": "无摘要",
-      "source_url": "https://www.nature.com/subjects/genomics",
-      "category": "Papers"
-    },
-    {
-      "title": "Spatial and functional profiles distinguish target sets of Parkinson’s disease and antipsychotic drugs with different clinical effects",
-      "link": "https://www.nature.com/articles/s41398-025-03351-1",
-      "date": "2025-04-04 08:00",
-      "author": "Genomics : nature.com subject feeds",
-      "timestamp": 1743724800.0,
-      "summary": "无摘要",
-      "source_url": "https://www.nature.com/subjects/genomics",
-      "category": "Papers"
-    },
-    {
-      "title": "Accurate cross-species 5mC detection for Oxford Nanopore sequencing in plants with DeepPlant",
-      "link": "https://www.nature.com/articles/s41467-025-58576-x",
-      "date": "2025-04-04 08:00",
-      "author": "Genomics : nature.com subject feeds",
-      "timestamp": 1743724800.0,
       "summary": "无摘要",
       "source_url": "https://www.nature.com/subjects/genomics",
       "category": "Papers"
@@ -9687,16 +9697,6 @@
       "date": "2025-03-22 08:00",
       "author": "Bioinformatics : nature.com subject feeds",
       "timestamp": 1742601600.0,
-      "summary": "无摘要",
-      "source_url": "https://www.nature.com/subjects/bioinformatics",
-      "category": "Papers"
-    },
-    {
-      "title": "Leveraging pleiotropic clustering to address high proportion correlated horizontal pleiotropy in Mendelian randomization studies",
-      "link": "https://www.nature.com/articles/s41467-025-57912-5",
-      "date": "2025-03-21 08:00",
-      "author": "Bioinformatics : nature.com subject feeds",
-      "timestamp": 1742515200.0,
       "summary": "无摘要",
       "source_url": "https://www.nature.com/subjects/bioinformatics",
       "category": "Papers"
