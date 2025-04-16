@@ -8502,6 +8502,16 @@
       "category": "Blogs"
     },
     {
+      "title": "AlphaFold3 at CASP16",
+      "link": "https://www.biorxiv.org/content/10.1101/2025.04.10.648174v1?rss=1",
+      "date": "2025-04-16 08:00",
+      "author": "bioRxiv Subject Collection: Bioinformatics",
+      "timestamp": 1744761600.0,
+      "summary": "The CASP16 experiment provided the first benchmark for AlphaFold3. In contrast to AlphaFold2 and other methods, AlphaFold3 can also predict the struct...",
+      "source_url": "https://biorxiv.org",
+      "category": "Papers"
+    },
+    {
       "title": "InteracTor: Feature Engineering and Explainable AI for Profiling Protein Structure-Interaction-Function Relationships",
       "link": "https://www.biorxiv.org/content/10.1101/2025.04.10.648139v1?rss=1",
       "date": "2025-04-16 08:00",
@@ -8847,7 +8857,7 @@
       "date": "2025-04-15 08:00",
       "author": "bioRxiv Subject Collection: Bioinformatics",
       "timestamp": 1744675200.0,
-      "summary": "Motivation Nuclear mitochondrial DNA segments (NuMT) can significantly affect cellular processes, including cancer development and disease progression...",
+      "summary": "MotivationNuclear mitochondrial DNA segments (NuMT) can significantly affect cellular processes, including cancer development and disease progression....",
       "source_url": "https://biorxiv.org",
       "category": "Papers"
     },
@@ -9008,16 +9018,6 @@
       "author": "bioRxiv Subject Collection: Bioinformatics",
       "timestamp": 1744588800.0,
       "summary": "Background: The Epstein-Barr virus (EBV) and human herpesvirus 6 (HHV-6) are frequently linked to neuropsychiatric illnesses such as multiple sclerosi...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "Curated and harmonised transcriptomics datasets of interstitial lung diseases",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.04.08.647776v1?rss=1",
-      "date": "2025-04-14 08:00",
-      "author": "bioRxiv Subject Collection: Bioinformatics",
-      "timestamp": 1744588800.0,
-      "summary": "This study provides manually curated and homogenised transcriptomics data of interstitial lung disease (ILD) patients retrieved from the NCBI Gene Exp...",
       "source_url": "https://biorxiv.org",
       "category": "Papers"
     },
