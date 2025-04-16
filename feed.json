@@ -8502,6 +8502,76 @@
       "category": "Blogs"
     },
     {
+      "title": "Benchmarking single cell transcriptome matching methods for incremental growth of reference atlases",
+      "link": "https://www.biorxiv.org/content/10.1101/2025.04.10.648034v1?rss=1",
+      "date": "2025-04-16 08:00",
+      "author": "bioRxiv Subject Collection: Bioinformatics",
+      "timestamp": 1744761600.0,
+      "summary": "Background: The advancement of single cell technologies has driven significant progress in constructing a multiscale, pan-organ Human Reference Atlas ...",
+      "source_url": "https://biorxiv.org",
+      "category": "Papers"
+    },
+    {
+      "title": "A Benchmarking Platform for Assessing Protein Language Models on Function-related Prediction Tasks",
+      "link": "https://www.biorxiv.org/content/10.1101/2025.04.10.648084v1?rss=1",
+      "date": "2025-04-16 08:00",
+      "author": "bioRxiv Subject Collection: Bioinformatics",
+      "timestamp": 1744761600.0,
+      "summary": "Proteins play a crucial role in almost all biological processes, serving as the building blocks of life and mediating various cellular functions, from...",
+      "source_url": "https://biorxiv.org",
+      "category": "Papers"
+    },
+    {
+      "title": "PILOT-GM-VAE: Patient-Level Analysis of single cell Disease Atlas with Optimal Transport of Gaussian Mixture Variational Autoencoders",
+      "link": "https://www.biorxiv.org/content/10.1101/2025.04.10.648188v1?rss=1",
+      "date": "2025-04-16 08:00",
+      "author": "bioRxiv Subject Collection: Bioinformatics",
+      "timestamp": 1744761600.0,
+      "summary": "The analysis of single cell disease atlases represents a challenge due to the presence of batch effects, low quality of disease samples, and the multi...",
+      "source_url": "https://biorxiv.org",
+      "category": "Papers"
+    },
+    {
+      "title": "Disentanglement of batch effects and biological signals across conditions in the single-cell transcriptome",
+      "link": "https://www.biorxiv.org/content/10.1101/2025.04.10.648296v1?rss=1",
+      "date": "2025-04-16 08:00",
+      "author": "bioRxiv Subject Collection: Bioinformatics",
+      "timestamp": 1744761600.0,
+      "summary": "Batch effects, which arise due to technical variations across different experimental factors, pose a significant challenge for single-cell transcripto...",
+      "source_url": "https://biorxiv.org",
+      "category": "Papers"
+    },
+    {
+      "title": "Inferring non-coding RNA regulatory network from transcriptomic data and curated databases",
+      "link": "https://www.biorxiv.org/content/10.1101/2025.04.10.648218v1?rss=1",
+      "date": "2025-04-16 08:00",
+      "author": "bioRxiv Subject Collection: Bioinformatics",
+      "timestamp": 1744761600.0,
+      "summary": "Non-coding RNAs (ncRNAs) have played an indispensable role in regulating gene expression and cellular processes. However, the complex regulatory circu...",
+      "source_url": "https://biorxiv.org",
+      "category": "Papers"
+    },
+    {
+      "title": "Predicting 3D Chromatin Interactions Using Transformer-Enhanced Deep Learning Models",
+      "link": "https://www.biorxiv.org/content/10.1101/2025.04.10.647995v1?rss=1",
+      "date": "2025-04-16 08:00",
+      "author": "bioRxiv Subject Collection: Bioinformatics",
+      "timestamp": 1744761600.0,
+      "summary": "The three-dimensional (3D) structure of the human genome is essential for regulating gene expression and cellular functions. Chromatin interactions br...",
+      "source_url": "https://biorxiv.org",
+      "category": "Papers"
+    },
+    {
+      "title": "Transcripts with codons that trigger the P-site tRNA-mediated mRNA decay are enriched with optimal codons",
+      "link": "https://www.biorxiv.org/content/10.1101/2025.04.10.648249v1?rss=1",
+      "date": "2025-04-16 08:00",
+      "author": "bioRxiv Subject Collection: Bioinformatics",
+      "timestamp": 1744761600.0,
+      "summary": "Synonymous codon usage is a major determinant of mRNA half-life in yeast, functioning as a second layer of genetic information during translation. In ...",
+      "source_url": "https://biorxiv.org",
+      "category": "Papers"
+    },
+    {
       "title": "AlphaFold3 at CASP16",
       "link": "https://www.biorxiv.org/content/10.1101/2025.04.10.648174v1?rss=1",
       "date": "2025-04-16 08:00",
@@ -8862,26 +8932,6 @@
       "category": "Papers"
     },
     {
-      "title": "FLASH-MM: fast and scalable single-cell differential expression analysis using linear mixed-effects models",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.04.08.647860v1?rss=1",
-      "date": "2025-04-15 08:00",
-      "author": "bioRxiv Subject Collection: Bioinformatics",
-      "timestamp": 1744675200.0,
-      "summary": "Single-cell RNA sequencing (scRNA-seq) enables detailed comparisons of gene expression across cells and conditions. Single-cell differential expressio...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "Circuit Mining in Transcriptomics Data",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.04.09.647750v1?rss=1",
-      "date": "2025-04-15 08:00",
-      "author": "bioRxiv Subject Collection: Bioinformatics",
-      "timestamp": 1744675200.0,
-      "summary": "A central goal in neuropharmacological research is to alter brain function by targeting genes whose expression is specific to the corresponding brain ...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
       "title": "Diploid genome assembly of human fibroblast cell lines enables clone specific variant calling, improved read mapping and accurate phasing",
       "link": "https://www.biorxiv.org/content/10.1101/2025.04.15.648829v1?rss=1",
       "date": "2025-04-15 08:00",
@@ -8969,56 +9019,6 @@
       "timestamp": 1744675200.0,
       "summary": "无摘要",
       "source_url": "https://www.nature.com/subjects/bioinformatics",
-      "category": "Papers"
-    },
-    {
-      "title": "Data-efficient protein mutational effect prediction with weak supervision by molecular simulation and protein language models",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.04.08.647800v1?rss=1",
-      "date": "2025-04-14 08:00",
-      "author": "bioRxiv Subject Collection: Bioinformatics",
-      "timestamp": 1744588800.0,
-      "summary": "Machine learning-based protein mutational effect prediction is widely used in protein engineering and pathogenicity prediction, but training data scar...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "PepBERT: Lightweight language models for peptide representation",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.04.08.647838v1?rss=1",
-      "date": "2025-04-14 08:00",
-      "author": "bioRxiv Subject Collection: Bioinformatics",
-      "timestamp": 1744588800.0,
-      "summary": "Protein language models (pLMs) have been widely adopted for various protein and peptide-related downstream tasks and demonstrated promising performanc...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "Easydecon: A Lightweight Workflow for Cell Type Analysis in High-Definition Spatial Transcriptomics Assays",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.04.08.647764v1?rss=1",
-      "date": "2025-04-14 08:00",
-      "author": "bioRxiv Subject Collection: Bioinformatics",
-      "timestamp": 1744588800.0,
-      "summary": "Spatial transcriptomics enables mapping gene expression within tissue structures. VisiumHD by 10x Genomics advances this further, offering near-single...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "CODAvision: best practices and a user-friendly interface for rapid, customizable segmentation of medical images",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.04.11.648464v1?rss=1",
-      "date": "2025-04-14 08:00",
-      "author": "bioRxiv Subject Collection: Bioinformatics",
-      "timestamp": 1744588800.0,
-      "summary": "Image-based machine learning tools have emerged as powerful resources for analyzing medical images, with deep learning-based semantic segmentation com...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "Molecular Mimicry Between Epstein-Barr Virus and Human Herpesvirus-6 Proteins and Central Nervous System Proteins: Implications for T and B Cell Immunogenicity in an In Silico Study.",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.04.02.646883v1?rss=1",
-      "date": "2025-04-14 08:00",
-      "author": "bioRxiv Subject Collection: Bioinformatics",
-      "timestamp": 1744588800.0,
-      "summary": "Background: The Epstein-Barr virus (EBV) and human herpesvirus 6 (HHV-6) are frequently linked to neuropsychiatric illnesses such as multiple sclerosi...",
-      "source_url": "https://biorxiv.org",
       "category": "Papers"
     },
     {
