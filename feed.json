@@ -2,6 +2,16 @@
   "update_time": "2025-04-16",
   "articles": [
     {
+      "title": "周报 #91 - 一席、消失的时代与自由意志",
+      "link": "https://www.pseudoyu.com/posts/weekly_review_91",
+      "date": "2025-04-16 07:04",
+      "author": "pseudoyu",
+      "timestamp": 1744758240.0,
+      "summary": "前言\n\n本篇是对 2025-04-07 到 2025-04-15 这周生活的记录与思考。\n这周末去参加了杭州的一席活动，对其中的几个讲者和主题印象很深，记录下一些感触，思考了消失的时代与自由意志；终于搬完家了，有了很满意的办公与生活区域；还有很多有意思的事。\n一席演讲\n一席是一个本土化的线下演讲活动...",
+      "source_url": "https://www.pseudoyu.com/",
+      "category": "Blogs"
+    },
+    {
       "title": "解决 macOS Sonoma+ AirPods 音量自动重置问题",
       "link": "https://blog.tonyding.net/archives/39/",
       "date": "2025-04-15 22:12",
@@ -4252,16 +4262,6 @@
       "category": "Blogs"
     },
     {
-      "title": "周报 #66 - 10x 工程师、技术热情与个人工具箱",
-      "link": "https://www.pseudoyu.com/zh/2024/07/30/weekly_review_20240730",
-      "date": "2024-07-30 20:30",
-      "author": "pseudoyu",
-      "timestamp": 1722342600.0,
-      "summary": "前言\n\n本篇是对 2024-07-22 到 2024-07-30 这周生活的记录与思考。\n经过了异常丰富的 Adventure X 一周活动，算是回归了沉下心写代码的日常。忙于一些工作需求；使用 Cloudflare Worker 继续开发 EpubKit 的 api 部分功能；使用 Go 重构了一...",
-      "source_url": "https://www.pseudoyu.com/",
-      "category": "Blogs"
-    },
-    {
       "title": "不要指望银发经济",
       "link": "https://darmau.co/zh/article/do-not-rely-on-elderly-economy",
       "date": "2024-07-30 20:18",
@@ -8492,6 +8492,66 @@
       "category": "Blogs"
     },
     {
+      "title": "Heterogeneity-preserving discriminative feature selection for disease-specific subtype discovery",
+      "link": "https://www.nature.com/articles/s41467-025-58718-1",
+      "date": "2025-04-16 08:00",
+      "author": "Bioinformatics : nature.com subject feeds",
+      "timestamp": 1744761600.0,
+      "summary": "无摘要",
+      "source_url": "https://www.nature.com/subjects/bioinformatics",
+      "category": "Papers"
+    },
+    {
+      "title": "SimMapNet: A Bayesian Framework for Gene Regulatory Network Inference Using Gene Ontology Similarities as External Hint",
+      "link": "https://www.biorxiv.org/content/10.1101/2025.04.09.647936v1?rss=1",
+      "date": "2025-04-15 08:00",
+      "author": "bioRxiv Subject Collection: Bioinformatics",
+      "timestamp": 1744675200.0,
+      "summary": "Motivation: Gene regulatory network (GRN) reconstruction is a fundamental challenge in computational biology, and is crucial for understanding gene in...",
+      "source_url": "https://biorxiv.org",
+      "category": "Papers"
+    },
+    {
+      "title": "High-Resolution Mapping of the Human E3-Substrate Interactome using Ubicon Uncovers Network Architecture and Cancer Vulnerabilities",
+      "link": "https://www.biorxiv.org/content/10.1101/2025.04.09.647947v1?rss=1",
+      "date": "2025-04-15 08:00",
+      "author": "bioRxiv Subject Collection: Bioinformatics",
+      "timestamp": 1744675200.0,
+      "summary": "Mapping the intricate network of E3 ubiquitin ligase-substrate interactions (ESIs), essential for cellular regulation and implicated in numerous disea...",
+      "source_url": "https://biorxiv.org",
+      "category": "Papers"
+    },
+    {
+      "title": "Systematic contextual biases in SegmentNT relevant to all nucleotide transformer models",
+      "link": "https://www.biorxiv.org/content/10.1101/2025.04.09.647946v1?rss=1",
+      "date": "2025-04-15 08:00",
+      "author": "bioRxiv Subject Collection: Bioinformatics",
+      "timestamp": 1744675200.0,
+      "summary": "Recent advances in large language models (LLMs) have extended to genomic applications, yet model robustness relative to context changes is unclear. He...",
+      "source_url": "https://biorxiv.org",
+      "category": "Papers"
+    },
+    {
+      "title": "Deep genomic models of allele-specific measurements",
+      "link": "https://www.biorxiv.org/content/10.1101/2025.04.09.648060v1?rss=1",
+      "date": "2025-04-15 08:00",
+      "author": "bioRxiv Subject Collection: Bioinformatics",
+      "timestamp": 1744675200.0,
+      "summary": "Allele-specific quantification of sequencing data, such as gene expression, allows for a causal investigation of how DNA sequence variations influence...",
+      "source_url": "https://biorxiv.org",
+      "category": "Papers"
+    },
+    {
+      "title": "Deconvoluting single-cell transcriptomics reveals cellular programs regulated by cell-cell communication in colorectal cancer",
+      "link": "https://www.biorxiv.org/content/10.1101/2025.04.09.648030v1?rss=1",
+      "date": "2025-04-15 08:00",
+      "author": "bioRxiv Subject Collection: Bioinformatics",
+      "timestamp": 1744675200.0,
+      "summary": "Cells within a tissue microenvironment communicate through intricate cell-cell communication (CCC) networks. In this meta-analysis of eight single-cel...",
+      "source_url": "https://biorxiv.org",
+      "category": "Papers"
+    },
+    {
       "title": "Male XIST expression in cardiac pseudo-glia does not induce X chromosome inactivation",
       "link": "https://www.biorxiv.org/content/10.1101/2025.04.09.648005v1?rss=1",
       "date": "2025-04-15 08:00",
@@ -8558,6 +8618,26 @@
       "author": "bioRxiv Subject Collection: Bioinformatics",
       "timestamp": 1744675200.0,
       "summary": "A central goal in neuropharmacological research is to alter brain function by targeting genes whose expression is specific to the corresponding brain ...",
+      "source_url": "https://biorxiv.org",
+      "category": "Papers"
+    },
+    {
+      "title": "A biGWAS strategy reveals the genetic architecture of the interaction between wheat and Blumeria graminis f. sp. tritici",
+      "link": "https://www.biorxiv.org/content/10.1101/2025.04.09.647224v1?rss=1",
+      "date": "2025-04-15 08:00",
+      "author": "bioRxiv Subject Collection: Genomics",
+      "timestamp": 1744675200.0,
+      "summary": "Background: Wheat powdery mildew, caused by Blumeria graminis f. sp. tritici (Bgt) is one of the most significant diseases affecting global wheat prod...",
+      "source_url": "https://biorxiv.org",
+      "category": "Papers"
+    },
+    {
+      "title": "Fast and Memory-Efficient Dynamic Programming Approach for Large-Scale EHH-Based Selection Scans",
+      "link": "https://www.biorxiv.org/content/10.1101/2025.04.09.647986v1?rss=1",
+      "date": "2025-04-15 08:00",
+      "author": "bioRxiv Subject Collection: Genomics",
+      "timestamp": 1744675200.0,
+      "summary": "Haplotype-based statistics are widely used for finding genomic regions under positive selection. At the heart of many such statistics is the computati...",
       "source_url": "https://biorxiv.org",
       "category": "Papers"
     },
@@ -8892,46 +8972,6 @@
       "category": "Papers"
     },
     {
-      "title": "scnanoseq: an nf-core pipeline for Oxford Nanopore single-cell RNA-sequencing",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.04.08.647887v1?rss=1",
-      "date": "2025-04-11 08:00",
-      "author": "bioRxiv Subject Collection: Bioinformatics",
-      "timestamp": 1744329600.0,
-      "summary": "Recent advancements in long-read single-cell RNA sequencing (scRNA-seq) have facilitated the quantification of full-length transcripts and isoforms at...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "ASMC: investigating the amino acid diversity of enzyme active sites.",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.04.07.647545v1?rss=1",
-      "date": "2025-04-11 08:00",
-      "author": "bioRxiv Subject Collection: Bioinformatics",
-      "timestamp": 1744329600.0,
-      "summary": "MotivationThe analysis of enzyme active sites is essential for understanding their activity in terms of catalyzed reaction and substrate specificity, ...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "Using Cancer Profiles to Identify Synthetic Lethal Therapeutic Targets and Predictive Biomarkers in Cancer Gene Dependency Data",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.04.07.647559v1?rss=1",
-      "date": "2025-04-11 08:00",
-      "author": "bioRxiv Subject Collection: Bioinformatics",
-      "timestamp": 1744329600.0,
-      "summary": "Large scale loss-of-function screens utilising CRISPR or siRNA can provide profound insights into the importance of individual genes for the survival ...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "Targeting Ubiquitin-Specific Protease 7 (USP7): A Pharmacophore-Guided Drug Repurposing and Physics-Based Molecular Simulations Study",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.04.07.647568v1?rss=1",
-      "date": "2025-04-11 08:00",
-      "author": "bioRxiv Subject Collection: Bioinformatics",
-      "timestamp": 1744329600.0,
-      "summary": "Ubiquitin-Specific Protease 7 (USP7) has emerged as a critical therapeutic target in cancer due to its regulatory roles of tumor suppressors, oncoprot...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
       "title": "Shift augmentation improves DNA convolutional neural network indel effect predictions",
       "link": "https://www.biorxiv.org/content/10.1101/2025.04.07.647656v1?rss=1",
       "date": "2025-04-11 08:00",
@@ -8969,16 +9009,6 @@
       "timestamp": 1744329600.0,
       "summary": "无摘要",
       "source_url": "https://www.nature.com/subjects/bioinformatics",
-      "category": "Papers"
-    },
-    {
-      "title": "Spatial artefact detection improves reproducibility of drug screening experiments",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.04.07.647506v1?rss=1",
-      "date": "2025-04-10 08:00",
-      "author": "bioRxiv Subject Collection: Bioinformatics",
-      "timestamp": 1744243200.0,
-      "summary": "Reliable and reproducible drug screening experiments are essential for drug discovery and personalized medicine. Here, we demonstrate how systematic e...",
-      "source_url": "https://biorxiv.org",
       "category": "Papers"
     },
     {
@@ -9372,16 +9402,6 @@
       "category": "Papers"
     },
     {
-      "title": "PISA: a versatile interpretation tool for visualizing cis-regulatory rules in genomic data",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.04.07.647613v1?rss=1",
-      "date": "2025-04-08 08:00",
-      "author": "bioRxiv Subject Collection: Genomics",
-      "timestamp": 1744070400.0,
-      "summary": "Sequence-to-function neural networks learn cis-regulatory rules of many types of genomic data from DNA sequence. However, a key challenge is to interp...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
       "title": "Mapping genetic diversity with the GenomeIndia project",
       "link": "https://www.nature.com/articles/s41588-025-02153-x",
       "date": "2025-04-08 08:00",
@@ -9409,16 +9429,6 @@
       "timestamp": 1744070400.0,
       "summary": "无摘要",
       "source_url": "https://www.nature.com/subjects/bioinformatics",
-      "category": "Papers"
-    },
-    {
-      "title": "Viral community diversity in the rhizosphere of the foundation salt marsh plant Spartina alterniflora",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.04.03.647062v1?rss=1",
-      "date": "2025-04-07 08:00",
-      "author": "bioRxiv Subject Collection: Genomics",
-      "timestamp": 1743984000.0,
-      "summary": "Viruses of microorganisms impact microbial population dynamics, community structure, nutrient cycling, gene transfer, and genomic innovation. In wetla...",
-      "source_url": "https://biorxiv.org",
       "category": "Papers"
     },
     {
@@ -9674,16 +9684,6 @@
     {
       "title": "Leveraging pleiotropic clustering to address high proportion correlated horizontal pleiotropy in Mendelian randomization studies",
       "link": "https://www.nature.com/articles/s41467-025-57912-5",
-      "date": "2025-03-21 08:00",
-      "author": "Bioinformatics : nature.com subject feeds",
-      "timestamp": 1742515200.0,
-      "summary": "无摘要",
-      "source_url": "https://www.nature.com/subjects/bioinformatics",
-      "category": "Papers"
-    },
-    {
-      "title": "Multi-omic analyses reveal aberrant DNA methylation patterns and the associated biomarkers of nasopharyngeal carcinoma and its cancer stem cells",
-      "link": "https://www.nature.com/articles/s41598-025-87038-z",
       "date": "2025-03-21 08:00",
       "author": "Bioinformatics : nature.com subject feeds",
       "timestamp": 1742515200.0,
