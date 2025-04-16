@@ -8502,6 +8502,36 @@
       "category": "Blogs"
     },
     {
+      "title": "Prediction of quantitative function of artificially-designed protein from structural information",
+      "link": "https://www.biorxiv.org/content/10.1101/2025.04.10.648284v1?rss=1",
+      "date": "2025-04-16 08:00",
+      "author": "bioRxiv Subject Collection: Bioinformatics",
+      "timestamp": 1744761600.0,
+      "summary": "Artificially designed proteins are widely used in applications such as optogenetics and biosensing. While experimental optimization of these proteins ...",
+      "source_url": "https://biorxiv.org",
+      "category": "Papers"
+    },
+    {
+      "title": "Pangebin: improving plasmid binning in bacterial isolates using pangenome-assembly graphs.",
+      "link": "https://www.biorxiv.org/content/10.1101/2025.04.10.648291v1?rss=1",
+      "date": "2025-04-16 08:00",
+      "author": "bioRxiv Subject Collection: Bioinformatics",
+      "timestamp": 1744761600.0,
+      "summary": "Short-read genome assemblies typically consist of many contigs of variable lengths and their putative connections represented as an assembly graph. As...",
+      "source_url": "https://biorxiv.org",
+      "category": "Papers"
+    },
+    {
+      "title": "Computational Evaluation of Phytochemicals as Potential Anti-HIV Drugs Targeting CCR5 and CXCR4 Receptors",
+      "link": "https://www.biorxiv.org/content/10.1101/2025.04.10.648243v1?rss=1",
+      "date": "2025-04-16 08:00",
+      "author": "bioRxiv Subject Collection: Bioinformatics",
+      "timestamp": 1744761600.0,
+      "summary": "HIV is still a major worldwide health concern; hence new therapeutic approaches are needed to fight viral resistance and enhance treatment results. HI...",
+      "source_url": "https://biorxiv.org",
+      "category": "Papers"
+    },
+    {
       "title": "Benchmarking single cell transcriptome matching methods for incremental growth of reference atlases",
       "link": "https://www.biorxiv.org/content/10.1101/2025.04.10.648034v1?rss=1",
       "date": "2025-04-16 08:00",
@@ -8898,36 +8928,6 @@
       "author": "bioRxiv Subject Collection: Bioinformatics",
       "timestamp": 1744675200.0,
       "summary": "Modern genomics produces billions of sequencing records per run, which are typically stored as gzip-compressed FASTQ files. While this format is widel...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "CellLoop: Identifying single-cell 3D genome chromatin loops",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.04.08.647893v1?rss=1",
-      "date": "2025-04-15 08:00",
-      "author": "bioRxiv Subject Collection: Bioinformatics",
-      "timestamp": 1744675200.0,
-      "summary": "Single-cell 3D genome mapping offers insights into chromatin architecture, yet the inherent sparsity and high dimensionality of contact maps hinder re...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "Hepatic isomiR landscaping reveals new biological insights into metabolic dysfunction in steatotic liver disease",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.04.08.647685v1?rss=1",
-      "date": "2025-04-15 08:00",
-      "author": "bioRxiv Subject Collection: Bioinformatics",
-      "timestamp": 1744675200.0,
-      "summary": "Post-transcriptionally modified microRNA (miRNA), called isomiRs, expand the repertoire of transcripts that can leveraged for therapeutic targets and ...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "ANOMALY: A Snakemake pipeline for identifying NuMTs from Long-Read Sequencing Data",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.04.08.647704v1?rss=1",
-      "date": "2025-04-15 08:00",
-      "author": "bioRxiv Subject Collection: Bioinformatics",
-      "timestamp": 1744675200.0,
-      "summary": "MotivationNuclear mitochondrial DNA segments (NuMT) can significantly affect cellular processes, including cancer development and disease progression....",
       "source_url": "https://biorxiv.org",
       "category": "Papers"
     },
