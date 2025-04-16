@@ -8502,6 +8502,16 @@
       "category": "Papers"
     },
     {
+      "title": "Covering All Bases: A Computational Method to Design Broad-spectrum T-cell-inducing Vaccines Applied to Betacoronaviruses",
+      "link": "https://www.biorxiv.org/content/10.1101/2025.04.14.648815v1?rss=1",
+      "date": "2025-04-15 08:00",
+      "author": "bioRxiv Subject Collection: Bioinformatics",
+      "timestamp": 1744675200.0,
+      "summary": "Antigenically diverse pathogens, such as coronaviruses, pose substantial threats to global health. This highlights the need for effective broad-spectr...",
+      "source_url": "https://biorxiv.org",
+      "category": "Papers"
+    },
+    {
       "title": "SimMapNet: A Bayesian Framework for Gene Regulatory Network Inference Using Gene Ontology Similarities as External Hint",
       "link": "https://www.biorxiv.org/content/10.1101/2025.04.09.647936v1?rss=1",
       "date": "2025-04-15 08:00",
@@ -8618,6 +8628,16 @@
       "author": "bioRxiv Subject Collection: Bioinformatics",
       "timestamp": 1744675200.0,
       "summary": "A central goal in neuropharmacological research is to alter brain function by targeting genes whose expression is specific to the corresponding brain ...",
+      "source_url": "https://biorxiv.org",
+      "category": "Papers"
+    },
+    {
+      "title": "Global analysis of the cold-shock response in the model antibiotic producing actinomycete, Streptomyces coelicolor A3(2)",
+      "link": "https://www.biorxiv.org/content/10.1101/2025.04.11.648403v1?rss=1",
+      "date": "2025-04-15 08:00",
+      "author": "bioRxiv Subject Collection: Genomics",
+      "timestamp": 1744675200.0,
+      "summary": "The cold shock (CS) response of the model actinomycete bacterium, Streptomyces coelicolor A3(2) has been characterized for the first time at the trans...",
       "source_url": "https://biorxiv.org",
       "category": "Papers"
     },
@@ -8958,16 +8978,6 @@
       "author": "bioRxiv Subject Collection: Bioinformatics",
       "timestamp": 1744329600.0,
       "summary": "Protein-protein interactions (PPIs) play a crucial role in various biological processes, and understanding these interactions is essential for advanci...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "Assessing simulation-based supervised machine learning for demographic parameter inference from genomic data",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.04.07.647546v1?rss=1",
-      "date": "2025-04-11 08:00",
-      "author": "bioRxiv Subject Collection: Bioinformatics",
-      "timestamp": 1744329600.0,
-      "summary": "The ever-increasing availability of high-throughput DNA sequences and the development of numerous computational methods have led to considerable advan...",
       "source_url": "https://biorxiv.org",
       "category": "Papers"
     },
@@ -9388,16 +9398,6 @@
       "author": "bioRxiv Subject Collection: Genomics",
       "timestamp": 1744070400.0,
       "summary": "Anthracnose, caused by Colletotrichum gloeosporioides, poses a significant threat to blueberries, necessitating a deeper understanding of the genetic ...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "Historic transposon mobilisation waves create distinct pools of adaptive variants in a major crop pathogen",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.04.02.646807v1?rss=1",
-      "date": "2025-04-08 08:00",
-      "author": "bioRxiv Subject Collection: Genomics",
-      "timestamp": 1744070400.0,
-      "summary": "Transposable elements (TEs) can drive the evolution of host-pathogen interactions and gains in antimicrobial resistance. However, how adaptive TEs ari...",
       "source_url": "https://biorxiv.org",
       "category": "Papers"
     },
