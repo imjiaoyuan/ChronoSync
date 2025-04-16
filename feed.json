@@ -1082,6 +1082,16 @@
       "category": "Blogs"
     },
     {
+      "title": "2024年度最隐蔽的黑手",
+      "link": "https://www.darknavy.org/zh/darknavy_insight/the_most_stealthy_manipulator_of_2024/",
+      "date": "2025-02-17 18:00",
+      "author": "DARKNAVY",
+      "timestamp": 1739786444.0,
+      "summary": "在移动互联网时代，用户流量代表着厂商的命脉。在这场流量争夺战中，手机厂商掌握着最具压倒性的优势——操作系统的终极权限。通过对安卓AOSP进行深度定制，厂商不仅可能有权精准掌控用户和应用的一举一动，甚至还能够操控、干预用户的选择。\n通常，极少有企业会选择违法违规、滥用特权来侵害消费者。\n然而2024年...",
+      "source_url": "https://www.darknavy.org/zh/",
+      "category": "Blogs"
+    },
+    {
       "title": "清理旧仓库",
       "link": "https://www.archlinuxcn.org/cleaning-up-old-repositories/",
       "date": "2025-02-17 09:51",
@@ -8502,6 +8512,16 @@
       "category": "Papers"
     },
     {
+      "title": "Biometric Aging Clock for Practical Utility in Clinical Settings",
+      "link": "https://www.biorxiv.org/content/10.1101/2025.04.14.648594v1?rss=1",
+      "date": "2025-04-15 08:00",
+      "author": "bioRxiv Subject Collection: Bioinformatics",
+      "timestamp": 1744675200.0,
+      "summary": "Aging clocks are an essential tool for biogerontological research that enables a quick assessment of one's pace of aging. In research settings, clocks...",
+      "source_url": "https://biorxiv.org",
+      "category": "Papers"
+    },
+    {
       "title": "Covering All Bases: A Computational Method to Design Broad-spectrum T-cell-inducing Vaccines Applied to Betacoronaviruses",
       "link": "https://www.biorxiv.org/content/10.1101/2025.04.14.648815v1?rss=1",
       "date": "2025-04-15 08:00",
@@ -8847,7 +8867,7 @@
       "date": "2025-04-13 08:00",
       "author": "bioRxiv Subject Collection: Bioinformatics",
       "timestamp": 1744502400.0,
-      "summary": "Motivation: Although some aspects of limb development can be treated as a 2D problem, a true understanding of the morphogenesis and patterning require...",
+      "summary": "MotivationAlthough some aspects of limb development can be treated as a 2D problem, a true understanding of the morphogenesis and patterning requires ...",
       "source_url": "https://biorxiv.org",
       "category": "Papers"
     },
@@ -8988,16 +9008,6 @@
       "author": "bioRxiv Subject Collection: Bioinformatics",
       "timestamp": 1744329600.0,
       "summary": "MotivationCell-penetrating peptides (CPPs) are promising tools for transporting therapeutic molecules into cells without damaging the cellular membran...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "Ontology-based Protein-Protein Interaction Explanation Using Large Language Models",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.04.07.647599v1?rss=1",
-      "date": "2025-04-11 08:00",
-      "author": "bioRxiv Subject Collection: Bioinformatics",
-      "timestamp": 1744329600.0,
-      "summary": "Protein-protein interactions (PPIs) play a crucial role in various biological processes, and understanding these interactions is essential for advanci...",
       "source_url": "https://biorxiv.org",
       "category": "Papers"
     },
