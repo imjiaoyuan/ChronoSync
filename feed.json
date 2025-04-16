@@ -8632,6 +8632,26 @@
       "category": "Papers"
     },
     {
+      "title": "Diploid genome assembly of human fibroblast cell lines enables clone specific variant calling, improved read mapping and accurate phasing",
+      "link": "https://www.biorxiv.org/content/10.1101/2025.04.15.648829v1?rss=1",
+      "date": "2025-04-15 08:00",
+      "author": "bioRxiv Subject Collection: Genomics",
+      "timestamp": 1744675200.0,
+      "summary": "Human cell lines are fundamental tools in biomedical research and are widely used in disease modeling, drug development, and many other domains. Here,...",
+      "source_url": "https://biorxiv.org",
+      "category": "Papers"
+    },
+    {
+      "title": "Comparative gene annotation of 304 species of Drosophilidae",
+      "link": "https://www.biorxiv.org/content/10.1101/2025.04.14.648771v1?rss=1",
+      "date": "2025-04-15 08:00",
+      "author": "bioRxiv Subject Collection: Genomics",
+      "timestamp": 1744675200.0,
+      "summary": "High-quality genome annotations are essential if we are to address central questions in comparative genomics, such as the origin of new genes, the dri...",
+      "source_url": "https://biorxiv.org",
+      "category": "Papers"
+    },
+    {
       "title": "Global analysis of the cold-shock response in the model antibiotic producing actinomycete, Streptomyces coelicolor A3(2)",
       "link": "https://www.biorxiv.org/content/10.1101/2025.04.11.648403v1?rss=1",
       "date": "2025-04-15 08:00",
@@ -9378,26 +9398,6 @@
       "author": "bioRxiv Subject Collection: Genomics",
       "timestamp": 1744070400.0,
       "summary": "Alternative splicing commonly generates unproductive mRNA transcripts that harbor premature termination codons1, leading to their degradation by nonse...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "The genome sequence of the hemlock woolly adelgid, Adelges tsugae Annand 1924",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.04.07.644581v1?rss=1",
-      "date": "2025-04-08 08:00",
-      "author": "bioRxiv Subject Collection: Genomics",
-      "timestamp": 1744070400.0,
-      "summary": "The genome of the hemlock woolly adelgid (Adelges tsugae) is presented in 10 chromosomal pseudomolecules along with 132 unplaced scaffolds for a combi...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "Genome-wide association study reveals candidate loci for resistance to anthracnose in blueberry",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.04.02.646913v1?rss=1",
-      "date": "2025-04-08 08:00",
-      "author": "bioRxiv Subject Collection: Genomics",
-      "timestamp": 1744070400.0,
-      "summary": "Anthracnose, caused by Colletotrichum gloeosporioides, poses a significant threat to blueberries, necessitating a deeper understanding of the genetic ...",
       "source_url": "https://biorxiv.org",
       "category": "Papers"
     },
