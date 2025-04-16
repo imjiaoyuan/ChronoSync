@@ -8502,6 +8502,16 @@
       "category": "Blogs"
     },
     {
+      "title": "Evolutionary constraints guide AlphaFold2 prediction of alternative conformations and inform rational mutation design",
+      "link": "https://www.biorxiv.org/content/10.1101/2025.04.08.647782v1?rss=1",
+      "date": "2025-04-16 08:00",
+      "author": "bioRxiv Subject Collection: Bioinformatics",
+      "timestamp": 1744761600.0,
+      "summary": "Investigating structural variability is essential for understanding protein biological functions. Although AlphaFold2 accurately predicts static struc...",
+      "source_url": "https://biorxiv.org",
+      "category": "Papers"
+    },
+    {
       "title": "IntegrAlign: A comprehensive tool for multiimmunofluorescence panel integration through image alignment",
       "link": "https://www.biorxiv.org/content/10.1101/2025.04.10.648082v1?rss=1",
       "date": "2025-04-16 08:00",
@@ -9008,16 +9018,6 @@
       "author": "bioRxiv Subject Collection: Bioinformatics",
       "timestamp": 1744502400.0,
       "summary": "Spatial transcriptomics (ST) has revolutionized our understanding of gene expression within tissues by preserving spatial context. Over the past few y...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "GLASS: A Graph Learning Algorithm for Screening Splice-Aware Alignments of Long-Read RNA-seq",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.04.07.647681v1?rss=1",
-      "date": "2025-04-13 08:00",
-      "author": "bioRxiv Subject Collection: Bioinformatics",
-      "timestamp": 1744502400.0,
-      "summary": "With the continuous development of third-generation RNA-seq, obtaining accurate splice-aware alignments for the long RNA-seq reads to reference genome...",
       "source_url": "https://biorxiv.org",
       "category": "Papers"
     },
