@@ -1287,7 +1287,7 @@
       "date": "2025-02-13 17:07",
       "author": "DARKNAVY",
       "timestamp": 1739437648.0,
-      "summary": "看到了软件的源码，就意味着没有后门吗？\n\n1983年的图灵奖颁奖仪式上，Ken Thompson抛出了这个问题。作为历史上唯三在40岁以下获得图灵奖的传奇之一，他在获奖演讲中向听众展示了如何通过在编译器中植入后门来骇入由无害源码编译得到的Unix系统。Ken的演讲为整个开源世界敲响了信任的警钟，并且...",
+      "summary": "看到了软件的源码，就意味着没有后门吗？\n1983年的图灵奖颁奖仪式上，Ken Thompson抛出了这个问题。作为历史上唯三在40岁以下获得图灵奖的传奇之一，他在获奖演讲中向听众展示了如何通过在编译器中植入后门来骇入由无害源码编译得到的Unix系统。Ken的演讲为整个开源世界敲响了信任的警钟，并且直...",
       "source_url": "https://www.darknavy.org/zh/",
       "category": "Blogs"
     },
@@ -8502,6 +8502,36 @@
       "category": "Blogs"
     },
     {
+      "title": "IntegrAlign: A comprehensive tool for multiimmunofluorescence panel integration through image alignment",
+      "link": "https://www.biorxiv.org/content/10.1101/2025.04.10.648082v1?rss=1",
+      "date": "2025-04-16 08:00",
+      "author": "bioRxiv Subject Collection: Bioinformatics",
+      "timestamp": 1744761600.0,
+      "summary": "Motivation: Tyramide-based multiplex-immunofluorescence (mIF) enables the simultaneous analysis of up to seven protein markers on a whole slide, provi...",
+      "source_url": "https://biorxiv.org",
+      "category": "Papers"
+    },
+    {
+      "title": "sampleclusteR: A lightweight R package for automated clustering of transcriptomics samples using metadata",
+      "link": "https://www.biorxiv.org/content/10.1101/2025.04.10.648129v1?rss=1",
+      "date": "2025-04-16 08:00",
+      "author": "bioRxiv Subject Collection: Bioinformatics",
+      "timestamp": 1744761600.0,
+      "summary": "Background: As technologies for genome-wide gene-expression analysis continue to develop, the databases storing the resulting data have grown accordin...",
+      "source_url": "https://biorxiv.org",
+      "category": "Papers"
+    },
+    {
+      "title": "Graph-Based Modeling of Alzheimer's Protein Interactions via Spiking Neural, Hyperdimensional Encoding, and Scalable Ray-Based Learning",
+      "link": "https://www.biorxiv.org/content/10.1101/2025.04.11.647919v1?rss=1",
+      "date": "2025-04-16 08:00",
+      "author": "bioRxiv Subject Collection: Bioinformatics",
+      "timestamp": 1744761600.0,
+      "summary": "\"It is difficult to predict protein-protein interactions (PPIs) in Alzheimer's disease because of sparse biological data and intricate interactions. T...",
+      "source_url": "https://biorxiv.org",
+      "category": "Papers"
+    },
+    {
       "title": "Cytosine Methylation is a marker of Viral Gene Transfer across the eukaryotes",
       "link": "https://www.biorxiv.org/content/10.1101/2025.04.15.648976v1?rss=1",
       "date": "2025-04-16 08:00",
@@ -9012,16 +9042,6 @@
       "category": "Papers"
     },
     {
-      "title": "SpatioCell: A Deep Learning Algorithm for High-resolution Single-cell Mapping through Deep Integration of Histology Image and Sequencing Data",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.04.07.647590v1?rss=1",
-      "date": "2025-04-12 08:00",
-      "author": "bioRxiv Subject Collection: Bioinformatics",
-      "timestamp": 1744416000.0,
-      "summary": "Spatial transcriptomics (ST) enables gene expression analysis within spatial context of tissues. Since most data are limited to multicellular resoluti...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
       "title": "A DNA methylation-based clock for age estimates in the wood mouse (Apodemus sylvaticus)",
       "link": "https://www.biorxiv.org/content/10.1101/2025.04.09.648041v1?rss=1",
       "date": "2025-04-12 08:00",
@@ -9049,26 +9069,6 @@
       "timestamp": 1744416000.0,
       "summary": "无摘要",
       "source_url": "https://www.nature.com/subjects/bioinformatics",
-      "category": "Papers"
-    },
-    {
-      "title": "The Role of Ribose Modifications on the Structural Stability of Nucleotide Analogs with α-thiotriphosphate at the Active Site of SARS-CoV-2 RdRp",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.04.11.648322v1?rss=1",
-      "date": "2025-04-11 08:00",
-      "author": "bioRxiv Subject Collection: Bioinformatics",
-      "timestamp": 1744329600.0,
-      "summary": "As a promising drug target, RNA-dependent RNA polymerase (RdRp) has attracted much attention recently due to its notable conserved active site, especi...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "PERSEUcpp: A machine learning strategy to predictcell-penetrating peptides and their uptake efficiency",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.04.07.647598v1?rss=1",
-      "date": "2025-04-11 08:00",
-      "author": "bioRxiv Subject Collection: Bioinformatics",
-      "timestamp": 1744329600.0,
-      "summary": "MotivationCell-penetrating peptides (CPPs) are promising tools for transporting therapeutic molecules into cells without damaging the cellular membran...",
-      "source_url": "https://biorxiv.org",
       "category": "Papers"
     },
     {
