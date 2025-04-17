@@ -8502,6 +8502,16 @@
       "category": "Blogs"
     },
     {
+      "title": "Expression and In-silico Structural analysis of N-acetylglucosamine transporter, Ngt1 in model fungal pathogen, Candida albicans",
+      "link": "https://www.biorxiv.org/content/10.1101/2025.04.14.648653v1?rss=1",
+      "date": "2025-04-17 08:00",
+      "author": "bioRxiv Subject Collection: Bioinformatics",
+      "timestamp": 1744848000.0,
+      "summary": "Introduction: The commensal yeast, Candida albicans, has the enormous metabolic flexibility to utilize alternative carbon sources such as N-acetylgluc...",
+      "source_url": "https://biorxiv.org",
+      "category": "Papers"
+    },
+    {
       "title": "scMultiSim: simulation of single-cell multi-omics and spatial data guided by gene regulatory networks and cell–cell interactions",
       "link": "https://www.nature.com/articles/s41592-025-02651-0",
       "date": "2025-04-17 08:00",
@@ -8958,16 +8968,6 @@
       "author": "bioRxiv Subject Collection: Bioinformatics",
       "timestamp": 1744675200.0,
       "summary": "Cells within a tissue microenvironment communicate through intricate cell-cell communication (CCC) networks. In this meta-analysis of eight single-cel...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "Male XIST expression in cardiac pseudo-glia does not induce X chromosome inactivation",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.04.09.648005v1?rss=1",
-      "date": "2025-04-15 08:00",
-      "author": "bioRxiv Subject Collection: Bioinformatics",
-      "timestamp": 1744675200.0,
-      "summary": "XIST is a long non-coding RNA that mediates the process of X chromosome inactivation in females, and has not been previously observed in males outside...",
       "source_url": "https://biorxiv.org",
       "category": "Papers"
     },
