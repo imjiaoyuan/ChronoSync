@@ -8502,93 +8502,13 @@
       "category": "Blogs"
     },
     {
-      "title": "Can interpretability and accuracy coexist in cancer survival analysis?",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.04.11.648380v1?rss=1",
+      "title": "Unveiling the mitochondrial genome of Salvia splendens insights into the evolutionary traits within the genus Salvia",
+      "link": "https://www.nature.com/articles/s41598-025-96637-9",
       "date": "2025-04-17 08:00",
-      "author": "bioRxiv Subject Collection: Bioinformatics",
+      "author": "Genomics : nature.com subject feeds",
       "timestamp": 1744848000.0,
-      "summary": "Survival analysis refers to statistical procedures used to analyze data that focuses on the time until an event occurs, such as death in cancer patien...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "CellFlow enables generative single-cell phenotype modeling with flow matching",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.04.11.648220v1?rss=1",
-      "date": "2025-04-17 08:00",
-      "author": "bioRxiv Subject Collection: Bioinformatics",
-      "timestamp": 1744848000.0,
-      "summary": "High-content phenotypic screens provide a powerful strategy for studying biological systems, but the scale of possible perturbations and cell states m...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "Global and cross-omics feature aggregation improves single-cell multi-omics integration and clustering",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.04.10.648152v1?rss=1",
-      "date": "2025-04-17 08:00",
-      "author": "bioRxiv Subject Collection: Bioinformatics",
-      "timestamp": 1744848000.0,
-      "summary": "Sequencing technology advancements enable the simultaneous measurement of multiple omics within single cells, thereby facilitating single-cell multi-o...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "Large Language Model Consensus Substantially Improves the Cell Type Annotation Accuracy for scRNA-seq Data",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.04.10.647852v1?rss=1",
-      "date": "2025-04-17 08:00",
-      "author": "bioRxiv Subject Collection: Bioinformatics",
-      "timestamp": 1744848000.0,
-      "summary": "Different large language models (LLMs) have the potential to complement one another. We introduce an iterative multi-LLM consensus framework for annot...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "BRIDGE: A Coarse-Grained Architecture to Embed Protein-Protein Interactions for Therapeutic Applications",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.04.11.648307v1?rss=1",
-      "date": "2025-04-17 08:00",
-      "author": "bioRxiv Subject Collection: Bioinformatics",
-      "timestamp": 1744848000.0,
-      "summary": "In this work, we present Biophysical Representation of Interfaces via Delaunay-based Graph Embeddings (BRIDGE), a coarse-grained graph neural network ...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "GeST: Towards Building A Generative Pretrained Transformer for Learning Cellular Spatial Context",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.04.09.648072v1?rss=1",
-      "date": "2025-04-17 08:00",
-      "author": "bioRxiv Subject Collection: Bioinformatics",
-      "timestamp": 1744848000.0,
-      "summary": "Learning spatial context of cells through pretraining on spatial transcriptomics (ST) data may empower us to systematically decipher tissue organizati...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "Expression and In-silico Structural analysis of N-acetylglucosamine transporter, Ngt1 in model fungal pathogen, Candida albicans",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.04.14.648653v1?rss=1",
-      "date": "2025-04-17 08:00",
-      "author": "bioRxiv Subject Collection: Bioinformatics",
-      "timestamp": 1744848000.0,
-      "summary": "Introduction: The commensal yeast, Candida albicans, has the enormous metabolic flexibility to utilize alternative carbon sources such as N-acetylgluc...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "PETScan: Score-Based Genome-Wide Association Analysis of RNA-Seq and ATAC-Seq Data",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.04.10.648278v1?rss=1",
-      "date": "2025-04-17 08:00",
-      "author": "bioRxiv Subject Collection: Genomics",
-      "timestamp": 1744848000.0,
-      "summary": "High-dimensional sequencing data, such as RNA-Seq for gene expression and ATAC-Seq for chromatin accessibility, are widely used in studying systems bi...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "Biologically-informed Interpretable Deep Learning Framework for Phenotype Prediction and Gene Interaction Detection",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.04.11.648325v1?rss=1",
-      "date": "2025-04-17 08:00",
-      "author": "bioRxiv Subject Collection: Genomics",
-      "timestamp": 1744848000.0,
-      "summary": "The detection of epistatic effects has significant potential to enhance understanding of the genetic basis of complex traits, but statistical epistati...",
-      "source_url": "https://biorxiv.org",
+      "summary": "无摘要",
+      "source_url": "https://www.nature.com/subjects/genomics",
       "category": "Papers"
     },
     {
@@ -8599,266 +8519,6 @@
       "timestamp": 1744848000.0,
       "summary": "无摘要",
       "source_url": "https://www.nature.com/subjects/genomics",
-      "category": "Papers"
-    },
-    {
-      "title": "ChromeCRISPR - A High Efficacy Hybrid Machine Learning Model for CRISPR/Cas On-Target Predictions",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.04.16.649183v1?rss=1",
-      "date": "2025-04-16 08:00",
-      "author": "bioRxiv Subject Collection: Bioinformatics",
-      "timestamp": 1744761600.0,
-      "summary": "Genome editing has the potential to treat genetic disorders at the source. This can be achieved by modifying the defective DNA through the intentional...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "Prediction of quantitative function of artificially-designed protein from structural information",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.04.10.648284v1?rss=1",
-      "date": "2025-04-16 08:00",
-      "author": "bioRxiv Subject Collection: Bioinformatics",
-      "timestamp": 1744761600.0,
-      "summary": "Artificially designed proteins are widely used in applications such as optogenetics and biosensing. While experimental optimization of these proteins ...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "Pangebin: improving plasmid binning in bacterial isolates using pangenome-assembly graphs.",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.04.10.648291v1?rss=1",
-      "date": "2025-04-16 08:00",
-      "author": "bioRxiv Subject Collection: Bioinformatics",
-      "timestamp": 1744761600.0,
-      "summary": "Short-read genome assemblies typically consist of many contigs of variable lengths and their putative connections represented as an assembly graph. As...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "Computational Evaluation of Phytochemicals as Potential Anti-HIV Drugs Targeting CCR5 and CXCR4 Receptors",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.04.10.648243v1?rss=1",
-      "date": "2025-04-16 08:00",
-      "author": "bioRxiv Subject Collection: Bioinformatics",
-      "timestamp": 1744761600.0,
-      "summary": "HIV is still a major worldwide health concern; hence new therapeutic approaches are needed to fight viral resistance and enhance treatment results. HI...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "Benchmarking single cell transcriptome matching methods for incremental growth of reference atlases",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.04.10.648034v1?rss=1",
-      "date": "2025-04-16 08:00",
-      "author": "bioRxiv Subject Collection: Bioinformatics",
-      "timestamp": 1744761600.0,
-      "summary": "Background: The advancement of single cell technologies has driven significant progress in constructing a multiscale, pan-organ Human Reference Atlas ...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "A Benchmarking Platform for Assessing Protein Language Models on Function-related Prediction Tasks",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.04.10.648084v1?rss=1",
-      "date": "2025-04-16 08:00",
-      "author": "bioRxiv Subject Collection: Bioinformatics",
-      "timestamp": 1744761600.0,
-      "summary": "Proteins play a crucial role in almost all biological processes, serving as the building blocks of life and mediating various cellular functions, from...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "PILOT-GM-VAE: Patient-Level Analysis of single cell Disease Atlas with Optimal Transport of Gaussian Mixture Variational Autoencoders",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.04.10.648188v1?rss=1",
-      "date": "2025-04-16 08:00",
-      "author": "bioRxiv Subject Collection: Bioinformatics",
-      "timestamp": 1744761600.0,
-      "summary": "The analysis of single cell disease atlases represents a challenge due to the presence of batch effects, low quality of disease samples, and the multi...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "Disentanglement of batch effects and biological signals across conditions in the single-cell transcriptome",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.04.10.648296v1?rss=1",
-      "date": "2025-04-16 08:00",
-      "author": "bioRxiv Subject Collection: Bioinformatics",
-      "timestamp": 1744761600.0,
-      "summary": "Batch effects, which arise due to technical variations across different experimental factors, pose a significant challenge for single-cell transcripto...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "Inferring non-coding RNA regulatory network from transcriptomic data and curated databases",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.04.10.648218v1?rss=1",
-      "date": "2025-04-16 08:00",
-      "author": "bioRxiv Subject Collection: Bioinformatics",
-      "timestamp": 1744761600.0,
-      "summary": "Non-coding RNAs (ncRNAs) have played an indispensable role in regulating gene expression and cellular processes. However, the complex regulatory circu...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "Predicting 3D Chromatin Interactions Using Transformer-Enhanced Deep Learning Models",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.04.10.647995v1?rss=1",
-      "date": "2025-04-16 08:00",
-      "author": "bioRxiv Subject Collection: Bioinformatics",
-      "timestamp": 1744761600.0,
-      "summary": "The three-dimensional (3D) structure of the human genome is essential for regulating gene expression and cellular functions. Chromatin interactions br...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "Transcripts with codons that trigger the P-site tRNA-mediated mRNA decay are enriched with optimal codons",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.04.10.648249v1?rss=1",
-      "date": "2025-04-16 08:00",
-      "author": "bioRxiv Subject Collection: Bioinformatics",
-      "timestamp": 1744761600.0,
-      "summary": "Synonymous codon usage is a major determinant of mRNA half-life in yeast, functioning as a second layer of genetic information during translation. In ...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "AlphaFold3 at CASP16",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.04.10.648174v1?rss=1",
-      "date": "2025-04-16 08:00",
-      "author": "bioRxiv Subject Collection: Bioinformatics",
-      "timestamp": 1744761600.0,
-      "summary": "The CASP16 experiment provided the first benchmark for AlphaFold3. In contrast to AlphaFold2 and other methods, AlphaFold3 can also predict the struct...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "InteracTor: Feature Engineering and Explainable AI for Profiling Protein Structure-Interaction-Function Relationships",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.04.10.648139v1?rss=1",
-      "date": "2025-04-16 08:00",
-      "author": "bioRxiv Subject Collection: Bioinformatics",
-      "timestamp": 1744761600.0,
-      "summary": "Characterizing protein families' structural and functional diversity is essential for understanding their biological roles. Traditional analyses often...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "Comprehensive evaluation and interpretative insights of peptide-HLA binding prediction tools using explainable artificial intelligence",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.04.10.648169v1?rss=1",
-      "date": "2025-04-16 08:00",
-      "author": "bioRxiv Subject Collection: Bioinformatics",
-      "timestamp": 1744761600.0,
-      "summary": "Accurate prediction of human leukocyte antigen class I (HLA-I) peptide binding is pivotal for immunological research, including vaccine development an...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "Panalyze: automated virus pangenome variation graph construction and analysis",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.04.10.646565v1?rss=1",
-      "date": "2025-04-16 08:00",
-      "author": "bioRxiv Subject Collection: Bioinformatics",
-      "timestamp": 1744761600.0,
-      "summary": "Motivation: Constructing and studying reference-free pangenome variation graphs can support new insights into viral genomic diversity. Interpreting th...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "MeDCycFold: A Rosetta Distillation Model to Accelerate Structure Prediction of Cyclic Peptides with Backbone N-methylation and D-amino Acids",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.04.10.648099v1?rss=1",
-      "date": "2025-04-16 08:00",
-      "author": "bioRxiv Subject Collection: Bioinformatics",
-      "timestamp": 1744761600.0,
-      "summary": "Cyclic peptides with backbone N-methylated amino acids(BNMeAAs) and D-amino acids(D-AAs) have gained attention for their stability, membrane permeabil...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "GenMasterTable: A user-friendly desktop application for filtering, summarising, and visualising large-scale annotated genetic variants",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.04.10.648172v1?rss=1",
-      "date": "2025-04-16 08:00",
-      "author": "bioRxiv Subject Collection: Bioinformatics",
-      "timestamp": 1744761600.0,
-      "summary": "Background: The rapid expansion of next-generation sequencing (NGS) technologies has generated vast amounts of genomic data, creating a growing demand...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "Integrative Multi-omics and Supervised Learning Identifies an Epithelial Signature for Radiotherapy Response in Colorectal Cancer",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.04.10.648131v1?rss=1",
-      "date": "2025-04-16 08:00",
-      "author": "bioRxiv Subject Collection: Bioinformatics",
-      "timestamp": 1744761600.0,
-      "summary": "Colorectal cancer (CRC) is the third most diagnosed cancer globally, accounting for 9.6% of all cancer cases and the second leading cause of cancer de...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "Evolutionary constraints guide AlphaFold2 prediction of alternative conformations and inform rational mutation design",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.04.08.647782v1?rss=1",
-      "date": "2025-04-16 08:00",
-      "author": "bioRxiv Subject Collection: Bioinformatics",
-      "timestamp": 1744761600.0,
-      "summary": "Investigating structural variability is essential for understanding protein biological functions. Although AlphaFold2 accurately predicts static struc...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "IntegrAlign: A comprehensive tool for multiimmunofluorescence panel integration through image alignment",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.04.10.648082v1?rss=1",
-      "date": "2025-04-16 08:00",
-      "author": "bioRxiv Subject Collection: Bioinformatics",
-      "timestamp": 1744761600.0,
-      "summary": "Motivation: Tyramide-based multiplex-immunofluorescence (mIF) enables the simultaneous analysis of up to seven protein markers on a whole slide, provi...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "sampleclusteR: A lightweight R package for automated clustering of transcriptomics samples using metadata",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.04.10.648129v1?rss=1",
-      "date": "2025-04-16 08:00",
-      "author": "bioRxiv Subject Collection: Bioinformatics",
-      "timestamp": 1744761600.0,
-      "summary": "Background: As technologies for genome-wide gene-expression analysis continue to develop, the databases storing the resulting data have grown accordin...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "Graph-Based Modeling of Alzheimer's Protein Interactions via Spiking Neural, Hyperdimensional Encoding, and Scalable Ray-Based Learning",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.04.11.647919v1?rss=1",
-      "date": "2025-04-16 08:00",
-      "author": "bioRxiv Subject Collection: Bioinformatics",
-      "timestamp": 1744761600.0,
-      "summary": "\"It is difficult to predict protein-protein interactions (PPIs) in Alzheimer's disease because of sparse biological data and intricate interactions. T...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "Genomic and Bioinformatic Insights into Enterococcus faecalis from Retail Meats in Nigeria",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.04.15.648955v1?rss=1",
-      "date": "2025-04-16 08:00",
-      "author": "bioRxiv Subject Collection: Genomics",
-      "timestamp": 1744761600.0,
-      "summary": "Background: Enterococcus faecalis (E. faecalis) is a commensal and opportunistic pathogen increasingly recognized for its antimicrobial resistance (AM...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "Quantifying virus load and characterising virus diversity in wildlife samples with target enrichment sequencing",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.04.16.648874v1?rss=1",
-      "date": "2025-04-16 08:00",
-      "author": "bioRxiv Subject Collection: Genomics",
-      "timestamp": 1744761600.0,
-      "summary": "Metagenomics is a powerful tool for characterising viruses, with broad applications across diverse disciplines, from understanding the ecology and evo...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "Retroelement expansions underlie genome evolution in stingless bees",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.04.12.648530v1?rss=1",
-      "date": "2025-04-16 08:00",
-      "author": "bioRxiv Subject Collection: Genomics",
-      "timestamp": 1744761600.0,
-      "summary": "Stingless bees are essential pollinators and emerging models for studying behavioral and genomic evolution. In the genus Melipona, a major difference ...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "Cytosine Methylation is a marker of Viral Gene Transfer across the eukaryotes",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.04.15.648976v1?rss=1",
-      "date": "2025-04-16 08:00",
-      "author": "bioRxiv Subject Collection: Genomics",
-      "timestamp": 1744761600.0,
-      "summary": "Cytosine DNA methylation patterns vary widely across eukaryotes, with its ancestral roles being understood to have included both transposable element ...",
-      "source_url": "https://biorxiv.org",
       "category": "Papers"
     },
     {
@@ -8982,76 +8642,6 @@
       "category": "Papers"
     },
     {
-      "title": "Biometric Aging Clock for Practical Utility in Clinical Settings",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.04.14.648594v1?rss=1",
-      "date": "2025-04-15 08:00",
-      "author": "bioRxiv Subject Collection: Bioinformatics",
-      "timestamp": 1744675200.0,
-      "summary": "Aging clocks are an essential tool for biogerontological research that enables a quick assessment of one's pace of aging. In research settings, clocks...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "Diploid genome assembly of human fibroblast cell lines enables clone specific variant calling, improved read mapping and accurate phasing",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.04.15.648829v1?rss=1",
-      "date": "2025-04-15 08:00",
-      "author": "bioRxiv Subject Collection: Genomics",
-      "timestamp": 1744675200.0,
-      "summary": "Human cell lines are fundamental tools in biomedical research and are widely used in disease modeling, drug development, and many other domains. Here,...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "Comparative gene annotation of 304 species of Drosophilidae",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.04.14.648771v1?rss=1",
-      "date": "2025-04-15 08:00",
-      "author": "bioRxiv Subject Collection: Genomics",
-      "timestamp": 1744675200.0,
-      "summary": "High-quality genome annotations are essential if we are to address central questions in comparative genomics, such as the origin of new genes, the dri...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "Global analysis of the cold-shock response in the model antibiotic producing actinomycete, Streptomyces coelicolor A3(2)",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.04.11.648403v1?rss=1",
-      "date": "2025-04-15 08:00",
-      "author": "bioRxiv Subject Collection: Genomics",
-      "timestamp": 1744675200.0,
-      "summary": "The cold shock (CS) response of the model actinomycete bacterium, Streptomyces coelicolor A3(2) has been characterized for the first time at the trans...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "A biGWAS strategy reveals the genetic architecture of the interaction between wheat and Blumeria graminis f. sp. tritici",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.04.09.647224v1?rss=1",
-      "date": "2025-04-15 08:00",
-      "author": "bioRxiv Subject Collection: Genomics",
-      "timestamp": 1744675200.0,
-      "summary": "BackgroundWheat powdery mildew, caused by Blumeria graminis f. sp. tritici (Bgt) is one of the most significant diseases affecting global wheat produc...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "Fast and Memory-Efficient Dynamic Programming Approach for Large-Scale EHH-Based Selection Scans",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.04.09.647986v1?rss=1",
-      "date": "2025-04-15 08:00",
-      "author": "bioRxiv Subject Collection: Genomics",
-      "timestamp": 1744675200.0,
-      "summary": "Haplotype-based statistics are widely used for finding genomic regions under positive selection. At the heart of many such statistics is the computati...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "Mosaic accumulation of somatic genetic variation and estimates of age in the long-lived reef-building coral Acropora palmata",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.04.11.641527v1?rss=1",
-      "date": "2025-04-15 08:00",
-      "author": "bioRxiv Subject Collection: Genomics",
-      "timestamp": 1744675200.0,
-      "summary": "Somatic genetic variation (SOGV), accumulating during an organism's lifetime, was traditionally viewed as detrimental rather than adaptive due to link...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
       "title": "Twenty years of genome-wide association studies",
       "link": "https://www.nature.com/articles/d41586-025-01128-6",
       "date": "2025-04-15 08:00",
@@ -9079,46 +8669,6 @@
       "timestamp": 1744675200.0,
       "summary": "无摘要",
       "source_url": "https://www.nature.com/subjects/bioinformatics",
-      "category": "Papers"
-    },
-    {
-      "title": "TD2: finding protein coding regions in transcripts",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.04.13.648579v1?rss=1",
-      "date": "2025-04-14 08:00",
-      "author": "bioRxiv Subject Collection: Genomics",
-      "timestamp": 1744588800.0,
-      "summary": "The transcriptome encompasses all RNA transcripts in eukaryotic cells, orchestrating gene expression and regulating cellular function, development, an...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "Sex differentiation, divergence, and introgression in the leishmaniasis vector Lutzomyia longipalpis",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.04.08.647763v1?rss=1",
-      "date": "2025-04-14 08:00",
-      "author": "bioRxiv Subject Collection: Genomics",
-      "timestamp": 1744588800.0,
-      "summary": "An estimated one billion people are at risk of acquiring the disease leishmaniasis annually. This disease, among others, is transmitted to humans via ...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "Customizable host and viral transcript enrichment using CRISPR-Cas9 long-read sequencing for isoform discovery and validation",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.04.11.648353v1?rss=1",
-      "date": "2025-04-14 08:00",
-      "author": "bioRxiv Subject Collection: Genomics",
-      "timestamp": 1744588800.0,
-      "summary": "Long-read RNA sequencing has been broadly utilized to examine the diversity of transcriptomes, understand differential expression and discover novel t...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "scContrast: A contrastive learning based approach for encoding single-cell gene expression data",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.04.07.647292v1?rss=1",
-      "date": "2025-04-14 08:00",
-      "author": "bioRxiv Subject Collection: Genomics",
-      "timestamp": 1744588800.0,
-      "summary": "Single-cell RNA sequencing (scRNA-seq) captures gene expression at a individual cell resolution, which reveals critical insights into cellular diversi...",
-      "source_url": "https://biorxiv.org",
       "category": "Papers"
     },
     {
@@ -9162,16 +8712,6 @@
       "category": "Papers"
     },
     {
-      "title": "A DNA methylation-based clock for age estimates in the wood mouse (Apodemus sylvaticus)",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.04.09.648041v1?rss=1",
-      "date": "2025-04-12 08:00",
-      "author": "bioRxiv Subject Collection: Genomics",
-      "timestamp": 1744416000.0,
-      "summary": "Although short-lived, easily manipulated wild systems could be useful for studying ageing, developing epigenetic clocks for them is challenging becaus...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
       "title": "Local patterns of genetic sharing between neuropsychiatric and insulin resistance-related conditions",
       "link": "https://www.nature.com/articles/s41398-025-03349-9",
       "date": "2025-04-12 08:00",
@@ -9192,26 +8732,6 @@
       "category": "Papers"
     },
     {
-      "title": "Shift augmentation improves DNA convolutional neural network indel effect predictions",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.04.07.647656v1?rss=1",
-      "date": "2025-04-11 08:00",
-      "author": "bioRxiv Subject Collection: Genomics",
-      "timestamp": 1744329600.0,
-      "summary": "Determining genetic variant effects on molecular phenotypes like gene expression is a task of paramount importance to medical genetics. DNA convolutio...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "Dissecting the genetic basis of drought escape across multiple traits in colonizing Arabidopsis thaliana lineages",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.04.07.647068v1?rss=1",
-      "date": "2025-04-11 08:00",
-      "author": "bioRxiv Subject Collection: Genomics",
-      "timestamp": 1744329600.0,
-      "summary": "Drought response in plants is complex, involving integration across a range of physiological processes. However, our knowledge of how different aspect...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
       "title": "Tensor-FLAMINGO unravels the complexity of single-cell spatial architectures of genomes at high-resolution",
       "link": "https://www.nature.com/articles/s41467-025-58674-w",
       "date": "2025-04-11 08:00",
@@ -9229,96 +8749,6 @@
       "timestamp": 1744329600.0,
       "summary": "无摘要",
       "source_url": "https://www.nature.com/subjects/bioinformatics",
-      "category": "Papers"
-    },
-    {
-      "title": "A modified methyl transferase cofactor to selectively disable gene expression in E. coli",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.04.10.648196v1?rss=1",
-      "date": "2025-04-10 08:00",
-      "author": "bioRxiv Subject Collection: Genomics",
-      "timestamp": 1744243200.0,
-      "summary": "Artificial control of gene expression in bacteria offers interesting prospects for influencing bacterial pathogenicity and antibiotic resistance. We s...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "Development of a Comprehensive Analytical Workflow for eDNA Analysis of Vertebrates, Arthropods, and Mollusks",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.04.09.643821v1?rss=1",
-      "date": "2025-04-10 08:00",
-      "author": "bioRxiv Subject Collection: Genomics",
-      "timestamp": 1744243200.0,
-      "summary": "Environmental DNA (eDNA) analysis is a powerful tool for biodiversity monitoring, but conventional methods are often limited to specific taxonomic gro...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "Genetic structure of mesophotic and shallow Acropora aculeus on isolated atolls of Eastern Australia",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.04.08.647879v1?rss=1",
-      "date": "2025-04-10 08:00",
-      "author": "bioRxiv Subject Collection: Genomics",
-      "timestamp": 1744243200.0,
-      "summary": "Acropora is the most diverse and widespread coral genus in the world. Although known for its critical ecological role in shallow-water habitats, its a...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "Evidence of distal regulations orchestrated by RNAs initiating at short tandem repeats",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.04.10.648102v1?rss=1",
-      "date": "2025-04-10 08:00",
-      "author": "bioRxiv Subject Collection: Genomics",
-      "timestamp": 1744243200.0,
-      "summary": "Short Tandem Repeats (STRs), also called microsatellites, correspond to tandemly repeated short DNA motifs (1 to 6 bp) and are one of the most polymor...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "Minimal Correlation but Complementary Diagnostic Utility for Plasma Cell-free RNA and Proteins",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.04.09.647972v1?rss=1",
-      "date": "2025-04-10 08:00",
-      "author": "bioRxiv Subject Collection: Genomics",
-      "timestamp": 1744243200.0,
-      "summary": "Proteins and RNA circulate in plasma and can offer insights into human physiology. Yet, despite their clinical importance, direct comparisons between ...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "distQTL: Distribution Quantitative Trait Loci Identification by Population-Scale Single-Cell Data",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.04.04.647121v1?rss=1",
-      "date": "2025-04-10 08:00",
-      "author": "bioRxiv Subject Collection: Genomics",
-      "timestamp": 1744243200.0,
-      "summary": "Mapping expression quantitative trait loci (eQTLs) is a powerful method to study how genetic variation influences gene expression. Traditional bulk eQ...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "Two telomere-to-telomere, gap-free genome assemblies and comparisons revealed the conserved key genes associated with sugar accumulation in Rubus genus",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.04.09.646780v1?rss=1",
-      "date": "2025-04-10 08:00",
-      "author": "bioRxiv Subject Collection: Genomics",
-      "timestamp": 1744243200.0,
-      "summary": "Two telomere-to-telomere, gap-free genomes for Rubus species were sequenced and assembled by using an integrative approach that combined ultra-long re...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "Shared genomic architecture of the brain white matter structural connectome and intelligence",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.04.09.647917v1?rss=1",
-      "date": "2025-04-10 08:00",
-      "author": "bioRxiv Subject Collection: Genomics",
-      "timestamp": 1744243200.0,
-      "summary": "White matter (WM) connections, which facilitate communication between brain regions, substantially impact intellectual performance. However, the share...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "MENDELSEEK: An algorithm that predicts Mendelian Genes and elucidates what makes them special",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.04.06.647432v1?rss=1",
-      "date": "2025-04-10 08:00",
-      "author": "bioRxiv Subject Collection: Genomics",
-      "timestamp": 1744243200.0,
-      "summary": "While individual Mendelian diseases (diseases caused by a single gene) are rare, their aggregate number is significant. Discovering which gene causes ...",
-      "source_url": "https://biorxiv.org",
       "category": "Papers"
     },
     {
@@ -9412,26 +8842,6 @@
       "category": "Papers"
     },
     {
-      "title": "Genomic profiling of active vitamin D colonic responses in African- and European-Americans identifies an ancestry-related regulatory variant of POLB",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.04.09.647365v1?rss=1",
-      "date": "2025-04-09 08:00",
-      "author": "bioRxiv Subject Collection: Genomics",
-      "timestamp": 1744156800.0,
-      "summary": "We measured genomic responses to active vitamin D, 1,25-dihydroxyvitamin D (1,25D), in colonic organoids from individuals of African and European ance...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "Chromosome-level phased genome assembly of the Argan tree Sideroxylon spinosum L.",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.04.06.647421v1?rss=1",
-      "date": "2025-04-09 08:00",
-      "author": "bioRxiv Subject Collection: Genomics",
-      "timestamp": 1744156800.0,
-      "summary": "Argan (Sideroxylon spinosum L. previously known as Argania spinosa) is an endemic tree of Morocco, primarily used for seed oil extraction. Increasing ...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
       "title": "Long-awaited ape genomes give new insights into their evolution — and ours",
       "link": "https://www.nature.com/articles/d41586-025-01121-z",
       "date": "2025-04-09 08:00",
@@ -9494,16 +8904,6 @@
     {
       "title": "Moroccan genome project: genomic insight into a North African population",
       "link": "https://www.nature.com/articles/s42003-025-08020-z",
-      "date": "2025-04-09 08:00",
-      "author": "Genomics : nature.com subject feeds",
-      "timestamp": 1744156800.0,
-      "summary": "无摘要",
-      "source_url": "https://www.nature.com/subjects/genomics",
-      "category": "Papers"
-    },
-    {
-      "title": "Translational genomics of osteoarthritis in 1,962,069 individuals",
-      "link": "https://www.nature.com/articles/s41586-025-08771-z",
       "date": "2025-04-09 08:00",
       "author": "Genomics : nature.com subject feeds",
       "timestamp": 1744156800.0,
