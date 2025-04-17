@@ -1,6 +1,16 @@
 {
-  "update_time": "2025-04-17",
+  "update_time": "2025-04-18",
   "articles": [
+    {
+      "title": "将用 Valkey 替代 [extra] 仓库中的 Redis",
+      "link": "https://www.archlinuxcn.org/valkey-to-replace-redis-in-the-extra-repository/",
+      "date": "2025-04-17 22:54",
+      "author": "Arch Linux",
+      "timestamp": 1744901667.0,
+      "summary": "Valkey 是一个高性能的键/值存储，将会取代 [extra] 仓库中的 Redis 。此变更是由于 Red [&#8230;]",
+      "source_url": "https://www.archlinuxcn.org",
+      "category": "Blogs"
+    },
     {
       "title": "技术狂飙下的冷思考：大模型的“科林格里奇困境”",
       "link": "https://wangyurui.com/posts/da-mo-xing-de-1f084874",
@@ -5062,16 +5072,6 @@
       "category": "Blogs"
     },
     {
-      "title": "xz 软件包被植入后门",
-      "link": "https://www.archlinuxcn.org/the-xz-package-has-been-backdoored/",
-      "date": "2024-03-30 06:43",
-      "author": "Arch Linux",
-      "timestamp": 1711752190.0,
-      "summary": "简单讲：立即升级系统和容器镜像！ 大家可能已经听说了 [1]，xz 上游发布的 5.6.0 和 5.6.1 版 [&#8230;]",
-      "source_url": "https://www.archlinuxcn.org",
-      "category": "Blogs"
-    },
-    {
       "title": "个人工具箱与好物分享",
       "link": "https://blog.ursb.me/posts/tools/",
       "date": "2024-03-29 19:00",
@@ -8502,6 +8502,36 @@
       "category": "Blogs"
     },
     {
+      "title": "Can interpretability and accuracy coexist in cancer survival analysis?",
+      "link": "https://www.biorxiv.org/content/10.1101/2025.04.11.648380v1?rss=1",
+      "date": "2025-04-17 08:00",
+      "author": "bioRxiv Subject Collection: Bioinformatics",
+      "timestamp": 1744848000.0,
+      "summary": "Survival analysis refers to statistical procedures used to analyze data that focuses on the time until an event occurs, such as death in cancer patien...",
+      "source_url": "https://biorxiv.org",
+      "category": "Papers"
+    },
+    {
+      "title": "CellFlow enables generative single-cell phenotype modeling with flow matching",
+      "link": "https://www.biorxiv.org/content/10.1101/2025.04.11.648220v1?rss=1",
+      "date": "2025-04-17 08:00",
+      "author": "bioRxiv Subject Collection: Bioinformatics",
+      "timestamp": 1744848000.0,
+      "summary": "High-content phenotypic screens provide a powerful strategy for studying biological systems, but the scale of possible perturbations and cell states m...",
+      "source_url": "https://biorxiv.org",
+      "category": "Papers"
+    },
+    {
+      "title": "Global and cross-omics feature aggregation improves single-cell multi-omics integration and clustering",
+      "link": "https://www.biorxiv.org/content/10.1101/2025.04.10.648152v1?rss=1",
+      "date": "2025-04-17 08:00",
+      "author": "bioRxiv Subject Collection: Bioinformatics",
+      "timestamp": 1744848000.0,
+      "summary": "Sequencing technology advancements enable the simultaneous measurement of multiple omics within single cells, thereby facilitating single-cell multi-o...",
+      "source_url": "https://biorxiv.org",
+      "category": "Papers"
+    },
+    {
       "title": "Large Language Model Consensus Substantially Improves the Cell Type Annotation Accuracy for scRNA-seq Data",
       "link": "https://www.biorxiv.org/content/10.1101/2025.04.10.647852v1?rss=1",
       "date": "2025-04-17 08:00",
@@ -8538,6 +8568,26 @@
       "author": "bioRxiv Subject Collection: Bioinformatics",
       "timestamp": 1744848000.0,
       "summary": "Introduction: The commensal yeast, Candida albicans, has the enormous metabolic flexibility to utilize alternative carbon sources such as N-acetylgluc...",
+      "source_url": "https://biorxiv.org",
+      "category": "Papers"
+    },
+    {
+      "title": "PETScan: Score-Based Genome-Wide Association Analysis of RNA-Seq and ATAC-Seq Data",
+      "link": "https://www.biorxiv.org/content/10.1101/2025.04.10.648278v1?rss=1",
+      "date": "2025-04-17 08:00",
+      "author": "bioRxiv Subject Collection: Genomics",
+      "timestamp": 1744848000.0,
+      "summary": "High-dimensional sequencing data, such as RNA-Seq for gene expression and ATAC-Seq for chromatin accessibility, are widely used in studying systems bi...",
+      "source_url": "https://biorxiv.org",
+      "category": "Papers"
+    },
+    {
+      "title": "Biologically-informed Interpretable Deep Learning Framework for Phenotype Prediction and Gene Interaction Detection",
+      "link": "https://www.biorxiv.org/content/10.1101/2025.04.11.648325v1?rss=1",
+      "date": "2025-04-17 08:00",
+      "author": "bioRxiv Subject Collection: Genomics",
+      "timestamp": 1744848000.0,
+      "summary": "The detection of epistatic effects has significant potential to enhance understanding of the genetic basis of complex traits, but statistical epistati...",
       "source_url": "https://biorxiv.org",
       "category": "Papers"
     },
@@ -8942,36 +8992,6 @@
       "category": "Papers"
     },
     {
-      "title": "Covering All Bases: A Computational Method to Design Broad-spectrum T-cell-inducing Vaccines Applied to Betacoronaviruses",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.04.14.648815v1?rss=1",
-      "date": "2025-04-15 08:00",
-      "author": "bioRxiv Subject Collection: Bioinformatics",
-      "timestamp": 1744675200.0,
-      "summary": "Antigenically diverse pathogens, such as coronaviruses, pose substantial threats to global health. This highlights the need for effective broad-spectr...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "SimMapNet: A Bayesian Framework for Gene Regulatory Network Inference Using Gene Ontology Similarities as External Hint",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.04.09.647936v1?rss=1",
-      "date": "2025-04-15 08:00",
-      "author": "bioRxiv Subject Collection: Bioinformatics",
-      "timestamp": 1744675200.0,
-      "summary": "MotivationGene regulatory network (GRN) reconstruction is a fundamental challenge in computational biology, and is crucial for understanding gene inte...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "High-Resolution Mapping of the Human E3-Substrate Interactome using Ubicon Uncovers Network Architecture and Cancer Vulnerabilities",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.04.09.647947v1?rss=1",
-      "date": "2025-04-15 08:00",
-      "author": "bioRxiv Subject Collection: Bioinformatics",
-      "timestamp": 1744675200.0,
-      "summary": "Mapping the intricate network of E3 ubiquitin ligase-substrate interactions (ESIs), essential for cellular regulation and implicated in numerous disea...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
       "title": "Diploid genome assembly of human fibroblast cell lines enables clone specific variant calling, improved read mapping and accurate phasing",
       "link": "https://www.biorxiv.org/content/10.1101/2025.04.15.648829v1?rss=1",
       "date": "2025-04-15 08:00",
@@ -9007,7 +9027,7 @@
       "date": "2025-04-15 08:00",
       "author": "bioRxiv Subject Collection: Genomics",
       "timestamp": 1744675200.0,
-      "summary": "Background: Wheat powdery mildew, caused by Blumeria graminis f. sp. tritici (Bgt) is one of the most significant diseases affecting global wheat prod...",
+      "summary": "BackgroundWheat powdery mildew, caused by Blumeria graminis f. sp. tritici (Bgt) is one of the most significant diseases affecting global wheat produc...",
       "source_url": "https://biorxiv.org",
       "category": "Papers"
     },
@@ -9408,26 +9428,6 @@
       "author": "bioRxiv Subject Collection: Genomics",
       "timestamp": 1744156800.0,
       "summary": "Argan (Sideroxylon spinosum L. previously known as Argania spinosa) is an endemic tree of Morocco, primarily used for seed oil extraction. Increasing ...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "Gap-free genomes and transcriptomes uncover race-specific effectors in watermelon wilt pathogen Fusarium oxysporum f. sp. niveum",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.04.04.647254v1?rss=1",
-      "date": "2025-04-09 08:00",
-      "author": "bioRxiv Subject Collection: Genomics",
-      "timestamp": 1744156800.0,
-      "summary": "Watermelon (Citrullus lanatus L.) is one of the worlds most economically important fruit crops, yet it is susceptible to devastating diseases such as ...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "Identification of ESBL-producing enterobacterales from vegetable plants in a rural area of Madagascar: insights into AMR transmission at the human-animal-environment-plant interface",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.04.06.647499v1?rss=1",
-      "date": "2025-04-09 08:00",
-      "author": "bioRxiv Subject Collection: Genomics",
-      "timestamp": 1744156800.0,
-      "summary": "Extended-spectrum b-lactamases (ESBL)-producing enterobacterales are considered a key indicator for antimicrobial resistance (AMR) epidemiological sur...",
       "source_url": "https://biorxiv.org",
       "category": "Papers"
     },
