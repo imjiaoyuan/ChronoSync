@@ -2,6 +2,26 @@
   "update_time": "2025-04-17",
   "articles": [
     {
+      "title": "用 MailerLite 结合 RSS 实现邮箱订阅博客",
+      "link": "https://thirdshire.com/mailerlite/",
+      "date": "2025-04-16 12:00",
+      "author": "第三夏尔 | Third Shire",
+      "timestamp": 1744776000.0,
+      "summary": "论邮箱订阅的羊毛有多难薅\n「第三夏尔」和大部分博客一样都提供 RSS，但顾及到 RSS 毕竟小众，所以还是想多提供一个邮箱订阅的选择。但互联网的邮箱相关服务意外地很落后，对于静态博客来说免费薅羊毛的选项并不多。几年前还有一些使用 Mailchimp/Sendinblue 来自动抓取 RSS 并推送到...",
+      "source_url": "https://thirdshire.com/",
+      "category": "Blogs"
+    },
+    {
+      "title": "辅酶Q10与刀",
+      "link": "https://yufree.cn/cn/2025/04/16/q10/",
+      "date": "2025-04-16 08:00",
+      "author": "博客 on Miao Yu | 于淼",
+      "timestamp": 1744761600.0,
+      "summary": "同一天研究了两样商品，一个是号称来自美国的辅酶Q10，另一个是号称来自日本的主厨刀。前者是我妈发过来问抖音上买的保健品是否靠谱，后者是油管广告的疯狂推送，结果发现都是商业上算成功但本质是忽悠，这里我把思路放到这里。\n首先是保健品。第一步到美亚上找品牌，没找到。因为外包装上有美国的地址，我搜了下这个地...",
+      "source_url": "https://yufree.cn/cn/",
+      "category": "Blogs"
+    },
+    {
       "title": "周报 #91 - 一席、消失的时代与自由意志",
       "link": "https://www.pseudoyu.com/posts/weekly_review_91",
       "date": "2025-04-16 07:04",
@@ -2099,16 +2119,6 @@
       "timestamp": 1735720436.0,
       "summary": "本篇是对二〇二四年十一月至十二月的记录与思考。\nAI 没有体验世界的能力\nMoFlow 于昨夜——2024 的跨年夜上线了 App Store，这标识着这三个月的忙碌换得了一个阶段性的结果。于是，我终于有时间来写写月刊了。\n在做 MoFlow 这段期间，我被人问到最多的问题是 ——“AI 真的有可能...",
       "source_url": "https://blog.ursb.me/",
-      "category": "Blogs"
-    },
-    {
-      "title": "2024下半年研究速递",
-      "link": "https://yufree.cn/cn/2025/01/01/2024/",
-      "date": "2025-01-01 08:00",
-      "author": "博客 on Miao Yu | 于淼",
-      "timestamp": 1735689600.0,
-      "summary": "这是公众号环境黑板报下半年所有研究速递的汇总。研究速递是关于环境相关的研究吐槽，主要关注期刊是ACS的ES&amp;T系列期刊论文、nature的环境相关论文还有EHP论文。目前投稿都是在github上完成的，每月总结一次推送到公众号，欢迎各位同学来此投稿：https://github.com/yu...",
-      "source_url": "https://yufree.cn/cn/",
       "category": "Blogs"
     },
     {
@@ -6049,16 +6059,6 @@
       "timestamp": 1701505397.0,
       "summary": "头一回听说这个玩意，看起来还挺有意思的，国际上挺火，也不是特别难，有空就写一点，顺便学习一下 Rust，以防入门第四次失败。\nDay 1\nPart 1\n题意很简单，找到每一行第一个和最后一个数字，将其组成一个两位数，然后相加。样例也很人畜无害（很有 OI 的风格）：\n\n    \n        pl...",
       "source_url": "https://cyp0633.icu/",
-      "category": "Blogs"
-    },
-    {
-      "title": "氐宿四，心宿二｜2023年11月小结",
-      "link": "https://thirdshire.com/november-2023-recap/",
-      "date": "2023-12-01 11:30",
-      "author": "第三夏尔 | Third Shire",
-      "timestamp": 1701401428.0,
-      "summary": "记录时间：10.31 – 11.29\n太阳经过星座：天秤座，天蝎座｜Libra, Scorpius\n最亮恒星：氐宿四，心宿二｜Zubeneschamali\n\n\n\n\n, Antares",
-      "source_url": "https://thirdshire.com/",
       "category": "Blogs"
     },
     {
