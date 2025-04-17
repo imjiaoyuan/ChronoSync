@@ -2,6 +2,16 @@
   "update_time": "2025-04-17",
   "articles": [
     {
+      "title": "崇左闲逛",
+      "link": "https://blog.pursuitus.com/strolling-around-chongzuo.html",
+      "date": "2025-04-17 14:08",
+      "author": "Ouroboros",
+      "timestamp": 1744870111.0,
+      "summary": "3 月底去了趟崇左，周末休闲游，直飞南宁，租车开到崇左大约 2 小时。到了广西，最令人惊奇的就是那些山，仿佛是直接从地上长出来，一个一个的馒头包，都是突兀嶙峋的岩石，立在空旷平原，也许几千年也无人攀登过。这也叫做喀斯特地貌，但和贵州那边的高原喀斯特有鲜明区别。 崇左紧挨越南，一路上能看到不少越南语的...",
+      "source_url": "https://blog.pursuitus.com",
+      "category": "Blogs"
+    },
+    {
       "title": "用 MailerLite 结合 RSS 实现邮箱订阅博客",
       "link": "https://thirdshire.com/mailerlite/",
       "date": "2025-04-16 12:00",
@@ -1958,16 +1968,6 @@
       "author": "Ouroboros",
       "timestamp": 1736615055.0,
       "summary": "往年回顾 2023年 时间的尽头 2022年 爱是一种坚持到底的冒险——写作群年终问答 2021年 2021，可能存在的往事 2020年 No one cares about your year-end summary！ 2019年 空缺 2018年 每个人都有自己的日子要混 2017年 在矛盾中前...",
-      "source_url": "https://blog.pursuitus.com",
-      "category": "Blogs"
-    },
-    {
-      "title": "WordPress添加「随机文章」功能",
-      "link": "https://blog.pursuitus.com/add-random-article-to-wordpress.html",
-      "date": "2025-01-12 00:01",
-      "author": "Ouroboros",
-      "timestamp": 1736611294.0,
-      "summary": "功能灵感来自博友Albus的博客装修日记，稍微研究了一下代码，很快就添加好了。 先添加随机文章的后台能力，将下列代码添加到当前主题的 functions.php 文件中： function redirect_to_random_post() { if (isset($_GET[&#039;rando...",
       "source_url": "https://blog.pursuitus.com",
       "category": "Blogs"
     },
@@ -8502,6 +8502,16 @@
       "category": "Blogs"
     },
     {
+      "title": "ChromeCRISPR - A High Efficacy Hybrid Machine Learning Model for CRISPR/Cas On-Target Predictions",
+      "link": "https://www.biorxiv.org/content/10.1101/2025.04.16.649183v1?rss=1",
+      "date": "2025-04-16 08:00",
+      "author": "bioRxiv Subject Collection: Bioinformatics",
+      "timestamp": 1744761600.0,
+      "summary": "Genome editing has the potential to treat genetic disorders at the source. This can be achieved by modifying the defective DNA through the intentional...",
+      "source_url": "https://biorxiv.org",
+      "category": "Papers"
+    },
+    {
       "title": "Prediction of quantitative function of artificially-designed protein from structural information",
       "link": "https://www.biorxiv.org/content/10.1101/2025.04.10.648284v1?rss=1",
       "date": "2025-04-16 08:00",
@@ -8712,6 +8722,36 @@
       "category": "Papers"
     },
     {
+      "title": "Genomic and Bioinformatic Insights into Enterococcus faecalis from Retail Meats in Nigeria",
+      "link": "https://www.biorxiv.org/content/10.1101/2025.04.15.648955v1?rss=1",
+      "date": "2025-04-16 08:00",
+      "author": "bioRxiv Subject Collection: Genomics",
+      "timestamp": 1744761600.0,
+      "summary": "Background: Enterococcus faecalis (E. faecalis) is a commensal and opportunistic pathogen increasingly recognized for its antimicrobial resistance (AM...",
+      "source_url": "https://biorxiv.org",
+      "category": "Papers"
+    },
+    {
+      "title": "Quantifying virus load and characterising virus diversity in wildlife samples with target enrichment sequencing",
+      "link": "https://www.biorxiv.org/content/10.1101/2025.04.16.648874v1?rss=1",
+      "date": "2025-04-16 08:00",
+      "author": "bioRxiv Subject Collection: Genomics",
+      "timestamp": 1744761600.0,
+      "summary": "Metagenomics is a powerful tool for characterising viruses, with broad applications across diverse disciplines, from understanding the ecology and evo...",
+      "source_url": "https://biorxiv.org",
+      "category": "Papers"
+    },
+    {
+      "title": "Retroelement expansions underlie genome evolution in stingless bees",
+      "link": "https://www.biorxiv.org/content/10.1101/2025.04.12.648530v1?rss=1",
+      "date": "2025-04-16 08:00",
+      "author": "bioRxiv Subject Collection: Genomics",
+      "timestamp": 1744761600.0,
+      "summary": "Stingless bees are essential pollinators and emerging models for studying behavioral and genomic evolution. In the genus Melipona, a major difference ...",
+      "source_url": "https://biorxiv.org",
+      "category": "Papers"
+    },
+    {
       "title": "Cytosine Methylation is a marker of Viral Gene Transfer across the eukaryotes",
       "link": "https://www.biorxiv.org/content/10.1101/2025.04.15.648976v1?rss=1",
       "date": "2025-04-16 08:00",
@@ -8918,16 +8958,6 @@
       "author": "bioRxiv Subject Collection: Bioinformatics",
       "timestamp": 1744675200.0,
       "summary": "XIST is a long non-coding RNA that mediates the process of X chromosome inactivation in females, and has not been previously observed in males outside...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "BINSEQ: A Family of High-Performance Binary Formats for Nucleotide Sequences",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.04.08.647863v1?rss=1",
-      "date": "2025-04-15 08:00",
-      "author": "bioRxiv Subject Collection: Bioinformatics",
-      "timestamp": 1744675200.0,
-      "summary": "Modern genomics produces billions of sequencing records per run, which are typically stored as gzip-compressed FASTQ files. While this format is widel...",
       "source_url": "https://biorxiv.org",
       "category": "Papers"
     },
@@ -9479,36 +9509,6 @@
       "timestamp": 1744156800.0,
       "summary": "无摘要",
       "source_url": "https://www.nature.com/subjects/genomics",
-      "category": "Papers"
-    },
-    {
-      "title": "A Proposed Statistical Approach for Conducting Longitudinal Assessment of Circulating Tumor DNA",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.04.03.646973v1?rss=1",
-      "date": "2025-04-08 08:00",
-      "author": "bioRxiv Subject Collection: Genomics",
-      "timestamp": 1744070400.0,
-      "summary": "As circulating tumor DNA (ctDNA) may reflect cancer progression, understanding its temporal evolution can inform clinical decision-making in precision...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "Decoding RAP1's Role in Yeast mRNA Splicing",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.04.04.647307v1?rss=1",
-      "date": "2025-04-08 08:00",
-      "author": "bioRxiv Subject Collection: Genomics",
-      "timestamp": 1744070400.0,
-      "summary": "Messenger RNA (mRNA) splicing is a fundamental and tightly regulated process in eukaryotes, where the spliceosome removes non-coding sequences from pr...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "Uncovering the molecular basis of high morphinan product efficiency in opium poppy through Multi-omics integrated analysis with multi-capsules",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.04.03.647041v1?rss=1",
-      "date": "2025-04-08 08:00",
-      "author": "bioRxiv Subject Collection: Genomics",
-      "timestamp": 1744070400.0,
-      "summary": "Exploring the genetic landscape and corresponding regulatory mechanisms influencing morphine and related alkaloid production efficiency in the opium p...",
-      "source_url": "https://biorxiv.org",
       "category": "Papers"
     },
     {
