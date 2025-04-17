@@ -2,6 +2,16 @@
   "update_time": "2025-04-17",
   "articles": [
     {
+      "title": "技术狂飙下的冷思考：大模型的“科林格里奇困境”",
+      "link": "https://wangyurui.com/posts/da-mo-xing-de-1f084874",
+      "date": "2025-04-17 21:13",
+      "author": "太隐",
+      "timestamp": 1744895628.0,
+      "summary": "1980年，英国技术哲学家大卫·科林格里奇在《技术的社会控制》中提出了著名的“科林格里奇困境”，这一困境指出，在技术发展的早期阶段，人们往往难以预测其潜在的社会影响，但此时仍有能力对技术方向进行调整；然而，当技术成熟并广泛渗透社会后，虽然其负面影响已显现，但控制或改变技术的成本会变得极高。这一现象也...",
+      "source_url": "https://wangyurui.com/",
+      "category": "Blogs"
+    },
+    {
       "title": "关我辟事 Vol.38：西雅图的春天虽迟但到",
       "link": "https://blog.douchi.space/spark-joy-digest-2025-4a/",
       "date": "2025-04-17 14:37",
@@ -3748,16 +3758,6 @@
       "author": "太隐",
       "timestamp": 1727486780.0,
       "summary": "1927年3月毛泽东写完了《湖南农民运动考察报告》，但遭到了陈独秀的反对，仅过了1个月，蒋介石便发动了四一二政变，在南京成立了军事政府，彻底与武汉国民政府决裂，形势越发恶劣。而在6月，蒋介石开始实行“全面清共”政策，导致李大钊等党员被害，而毛泽东也被列入逮捕名单之中。在白色恐怖之下，1927年8月，...",
-      "source_url": "https://wangyurui.com/",
-      "category": "Blogs"
-    },
-    {
-      "title": "再读毛选：《湖南农民运动考察报告》",
-      "link": "https://wangyurui.com/posts/du-mao-xuan-hu-nan-nong-min-yun-dong-kao-cha-bao-8175ab26",
-      "date": "2024-09-28 09:25",
-      "author": "太隐",
-      "timestamp": 1727486717.0,
-      "summary": "革命不是请客吃饭，不是做文章，不是绘画绣花，不能那样雅致，那样从容不迫，文质彬彬，那样温良恭俭让。革命是暴动，是一个阶级推翻一个阶级的暴烈的行动。",
       "source_url": "https://wangyurui.com/",
       "category": "Blogs"
     },
@@ -8502,6 +8502,36 @@
       "category": "Blogs"
     },
     {
+      "title": "Large Language Model Consensus Substantially Improves the Cell Type Annotation Accuracy for scRNA-seq Data",
+      "link": "https://www.biorxiv.org/content/10.1101/2025.04.10.647852v1?rss=1",
+      "date": "2025-04-17 08:00",
+      "author": "bioRxiv Subject Collection: Bioinformatics",
+      "timestamp": 1744848000.0,
+      "summary": "Different large language models (LLMs) have the potential to complement one another. We introduce an iterative multi-LLM consensus framework for annot...",
+      "source_url": "https://biorxiv.org",
+      "category": "Papers"
+    },
+    {
+      "title": "BRIDGE: A Coarse-Grained Architecture to Embed Protein-Protein Interactions for Therapeutic Applications",
+      "link": "https://www.biorxiv.org/content/10.1101/2025.04.11.648307v1?rss=1",
+      "date": "2025-04-17 08:00",
+      "author": "bioRxiv Subject Collection: Bioinformatics",
+      "timestamp": 1744848000.0,
+      "summary": "In this work, we present Biophysical Representation of Interfaces via Delaunay-based Graph Embeddings (BRIDGE), a coarse-grained graph neural network ...",
+      "source_url": "https://biorxiv.org",
+      "category": "Papers"
+    },
+    {
+      "title": "GeST: Towards Building A Generative Pretrained Transformer for Learning Cellular Spatial Context",
+      "link": "https://www.biorxiv.org/content/10.1101/2025.04.09.648072v1?rss=1",
+      "date": "2025-04-17 08:00",
+      "author": "bioRxiv Subject Collection: Bioinformatics",
+      "timestamp": 1744848000.0,
+      "summary": "Learning spatial context of cells through pretraining on spatial transcriptomics (ST) data may empower us to systematically decipher tissue organizati...",
+      "source_url": "https://biorxiv.org",
+      "category": "Papers"
+    },
+    {
       "title": "Expression and In-silico Structural analysis of N-acetylglucosamine transporter, Ngt1 in model fungal pathogen, Candida albicans",
       "link": "https://www.biorxiv.org/content/10.1101/2025.04.14.648653v1?rss=1",
       "date": "2025-04-17 08:00",
@@ -8927,7 +8957,7 @@
       "date": "2025-04-15 08:00",
       "author": "bioRxiv Subject Collection: Bioinformatics",
       "timestamp": 1744675200.0,
-      "summary": "Motivation: Gene regulatory network (GRN) reconstruction is a fundamental challenge in computational biology, and is crucial for understanding gene in...",
+      "summary": "MotivationGene regulatory network (GRN) reconstruction is a fundamental challenge in computational biology, and is crucial for understanding gene inte...",
       "source_url": "https://biorxiv.org",
       "category": "Papers"
     },
@@ -8938,36 +8968,6 @@
       "author": "bioRxiv Subject Collection: Bioinformatics",
       "timestamp": 1744675200.0,
       "summary": "Mapping the intricate network of E3 ubiquitin ligase-substrate interactions (ESIs), essential for cellular regulation and implicated in numerous disea...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "Systematic contextual biases in SegmentNT relevant to all nucleotide transformer models",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.04.09.647946v1?rss=1",
-      "date": "2025-04-15 08:00",
-      "author": "bioRxiv Subject Collection: Bioinformatics",
-      "timestamp": 1744675200.0,
-      "summary": "Recent advances in large language models (LLMs) have extended to genomic applications, yet model robustness relative to context changes is unclear. He...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "Deep genomic models of allele-specific measurements",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.04.09.648060v1?rss=1",
-      "date": "2025-04-15 08:00",
-      "author": "bioRxiv Subject Collection: Bioinformatics",
-      "timestamp": 1744675200.0,
-      "summary": "Allele-specific quantification of sequencing data, such as gene expression, allows for a causal investigation of how DNA sequence variations influence...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "Deconvoluting single-cell transcriptomics reveals cellular programs regulated by cell-cell communication in colorectal cancer",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.04.09.648030v1?rss=1",
-      "date": "2025-04-15 08:00",
-      "author": "bioRxiv Subject Collection: Bioinformatics",
-      "timestamp": 1744675200.0,
-      "summary": "Cells within a tissue microenvironment communicate through intricate cell-cell communication (CCC) networks. In this meta-analysis of eight single-cel...",
       "source_url": "https://biorxiv.org",
       "category": "Papers"
     },
