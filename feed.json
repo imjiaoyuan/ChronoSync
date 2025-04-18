@@ -2,6 +2,16 @@
   "update_time": "2025-04-18",
   "articles": [
     {
+      "title": "科技爱好者周刊（第 345 期）：HDMI 2.2 影音可能到头了",
+      "link": "http://www.ruanyifeng.com/blog/2025/04/weekly-issue-345.html",
+      "date": "2025-04-18 08:07",
+      "author": "阮一峰的网络日志",
+      "timestamp": 1744934866.0,
+      "summary": "这里记录每周值得分享的科技内容，周五发布。\n本杂志开源，欢迎投稿。另有《谁在招人》服务，发布程序员招聘信息。合作请邮件联系（yifeng.ruan@gmail.com）。\n\n封面图\n\n\n\n湖北宣恩县的竹筏夜游，两岸灯火辉煌。（via）\n\nHDMI 2.2 影音可能到头了\n\n今年一月，有一个消息，大家...",
+      "source_url": "http://www.ruanyifeng.com/blog/",
+      "category": "Blogs"
+    },
+    {
       "title": "将用 Valkey 替代 [extra] 仓库中的 Redis",
       "link": "https://www.archlinuxcn.org/valkey-to-replace-redis-in-the-extra-repository/",
       "date": "2025-04-17 22:54",
@@ -799,16 +809,6 @@
       "timestamp": 1741084718.0,
       "summary": "无摘要",
       "source_url": "https://hp-l.github.io/",
-      "category": "Blogs"
-    },
-    {
-      "title": "Trae 国内版出来了，真的好用吗？",
-      "link": "http://www.ruanyifeng.com/blog/2025/03/trae.html",
-      "date": "2025-03-03 16:00",
-      "author": "阮一峰的网络日志",
-      "timestamp": 1740988856.0,
-      "summary": "年初一月份，我就看到新闻，字节面向海外发布了一款 AI IDE，叫做 Trae。\n\n\n我心想，现在的 IDE 都有 AI 插件，功能完备，字节自己也有 MarsCode 插件，有必要再做一款单独的 IDE 吗？\n\n我就没有特别关注这个工具。\n\n上周，我遇到字节的同学，得知 Trae 国内版就在本周发...",
-      "source_url": "http://www.ruanyifeng.com/blog/",
       "category": "Blogs"
     },
     {
