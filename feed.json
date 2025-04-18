@@ -8502,6 +8502,36 @@
       "category": "Blogs"
     },
     {
+      "title": "Studying cis-regulatory heterogeneity in single-cells at allelic resolution",
+      "link": "https://www.biorxiv.org/content/10.1101/2025.04.16.649227v1?rss=1",
+      "date": "2025-04-17 08:00",
+      "author": "bioRxiv Subject Collection: Bioinformatics",
+      "timestamp": 1744848000.0,
+      "summary": "The use of F1 hybrids, the offspring of inbred parental strains, is a powerful strategy for detecting cis- and trans-regulatory contributions to trans...",
+      "source_url": "https://biorxiv.org",
+      "category": "Papers"
+    },
+    {
+      "title": "stPipe: A flexible and streamlined R/Bioconductor pipeline for preprocessing sequencing-based spatial transcriptomics data",
+      "link": "https://www.biorxiv.org/content/10.1101/2025.04.16.649254v1?rss=1",
+      "date": "2025-04-17 08:00",
+      "author": "bioRxiv Subject Collection: Bioinformatics",
+      "timestamp": 1744848000.0,
+      "summary": "Spatial transcriptomics technology has developed rapidly in recent years, with various sequencing-based platforms such as 10x Visium, Slide-seq and St...",
+      "source_url": "https://biorxiv.org",
+      "category": "Papers"
+    },
+    {
+      "title": "Efficient near telomere-to-telomere assembly of Nanopore Simplex reads",
+      "link": "https://www.biorxiv.org/content/10.1101/2025.04.14.648685v1?rss=1",
+      "date": "2025-04-17 08:00",
+      "author": "bioRxiv Subject Collection: Bioinformatics",
+      "timestamp": 1744848000.0,
+      "summary": "Telomere-to-telomere (T2T) assembly is the ultimate goal for de novo genome assembly. Existing algorithms capable of near T2T assembly all require Oxf...",
+      "source_url": "https://biorxiv.org",
+      "category": "Papers"
+    },
+    {
       "title": "Expanding the Orchidaceae Virome Through Analysis of Public-Domain Sequencing Data",
       "link": "https://www.biorxiv.org/content/10.1101/2025.04.09.647952v1?rss=1",
       "date": "2025-04-17 08:00",
@@ -8618,6 +8648,16 @@
       "author": "bioRxiv Subject Collection: Bioinformatics",
       "timestamp": 1744848000.0,
       "summary": "Introduction: The commensal yeast, Candida albicans, has the enormous metabolic flexibility to utilize alternative carbon sources such as N-acetylgluc...",
+      "source_url": "https://biorxiv.org",
+      "category": "Papers"
+    },
+    {
+      "title": "Snapshot of Defense Systems in Multidrug Resistant Klebsiella pneumoniae",
+      "link": "https://www.biorxiv.org/content/10.1101/2025.04.16.649094v1?rss=1",
+      "date": "2025-04-17 08:00",
+      "author": "bioRxiv Subject Collection: Genomics",
+      "timestamp": 1744848000.0,
+      "summary": "Objectives: The defense mechanisms in bacterial pathogens protect them from host immune systems, bacteriophage infections and stringent environmental ...",
       "source_url": "https://biorxiv.org",
       "category": "Papers"
     },
@@ -8808,36 +8848,6 @@
       "author": "bioRxiv Subject Collection: Bioinformatics",
       "timestamp": 1744761600.0,
       "summary": "Motivation: Constructing and studying reference-free pangenome variation graphs can support new insights into viral genomic diversity. Interpreting th...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "MeDCycFold: A Rosetta Distillation Model to Accelerate Structure Prediction of Cyclic Peptides with Backbone N-methylation and D-amino Acids",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.04.10.648099v1?rss=1",
-      "date": "2025-04-16 08:00",
-      "author": "bioRxiv Subject Collection: Bioinformatics",
-      "timestamp": 1744761600.0,
-      "summary": "Cyclic peptides with backbone N-methylated amino acids(BNMeAAs) and D-amino acids(D-AAs) have gained attention for their stability, membrane permeabil...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "GenMasterTable: A user-friendly desktop application for filtering, summarising, and visualising large-scale annotated genetic variants",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.04.10.648172v1?rss=1",
-      "date": "2025-04-16 08:00",
-      "author": "bioRxiv Subject Collection: Bioinformatics",
-      "timestamp": 1744761600.0,
-      "summary": "Background: The rapid expansion of next-generation sequencing (NGS) technologies has generated vast amounts of genomic data, creating a growing demand...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "Integrative Multi-omics and Supervised Learning Identifies an Epithelial Signature for Radiotherapy Response in Colorectal Cancer",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.04.10.648131v1?rss=1",
-      "date": "2025-04-16 08:00",
-      "author": "bioRxiv Subject Collection: Bioinformatics",
-      "timestamp": 1744761600.0,
-      "summary": "Colorectal cancer (CRC) is the third most diagnosed cancer globally, accounting for 9.6% of all cancer cases and the second leading cause of cancer de...",
       "source_url": "https://biorxiv.org",
       "category": "Papers"
     },
@@ -9428,16 +9438,6 @@
       "author": "bioRxiv Subject Collection: Genomics",
       "timestamp": 1744156800.0,
       "summary": "We measured genomic responses to active vitamin D, 1,25-dihydroxyvitamin D (1,25D), in colonic organoids from individuals of African and European ance...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "Chromosome-level phased genome assembly of the Argan tree Sideroxylon spinosum L.",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.04.06.647421v1?rss=1",
-      "date": "2025-04-09 08:00",
-      "author": "bioRxiv Subject Collection: Genomics",
-      "timestamp": 1744156800.0,
-      "summary": "Argan (Sideroxylon spinosum L. previously known as Argania spinosa) is an endemic tree of Morocco, primarily used for seed oil extraction. Increasing ...",
       "source_url": "https://biorxiv.org",
       "category": "Papers"
     },
