@@ -2,6 +2,16 @@
   "update_time": "2025-04-18",
   "articles": [
     {
+      "title": "月刊（第29期）：新生活",
+      "link": "https://blog.ursb.me/posts/weekly-29/",
+      "date": "2025-04-18 14:32",
+      "author": "Airing 的博客",
+      "timestamp": 1744957957.0,
+      "summary": "本篇是对二〇二五年二月至四月的记录与思考。\n近况\n新年之后有两个多月没有更新月刊了，这篇文章聊一聊自己的近况。\n规划\n去年 10 月我从 TME 离职，趁着这次 gap，我规划了两条路线，并限定了自己 gap 的时间最长为 6 个月，我需要在 6 个月里完成既定的 PlanA 或 PlanB。其中给...",
+      "source_url": "https://blog.ursb.me/",
+      "category": "Blogs"
+    },
+    {
       "title": "科技爱好者周刊（第 345 期）：HDMI 2.2 影音可能到头了",
       "link": "http://www.ruanyifeng.com/blog/2025/04/weekly-issue-345.html",
       "date": "2025-04-18 08:07",
@@ -7442,16 +7452,6 @@
       "category": "Blogs"
     },
     {
-      "title": "周刊（第8期）：三幕剧与英雄旅程",
-      "link": "https://blog.ursb.me/posts/weekly-8/",
-      "date": "2022-06-26 20:35",
-      "author": "Airing 的博客",
-      "timestamp": 1656246927.0,
-      "summary": "三幕剧与英雄旅程\n说三幕剧之前，我们先谈谈如何分析一个故事的组成，以前语文课程学过，总结下有两种方式：\n\n要素拆解法\n叙事过程拆解法\n\n所谓要素拆解法，就是分析「人事时地因」（5W），如果要辅以叙事方法的分析可以再加上「如何叙事」 这个要素，以组成 5W1H：\n\n人物(Who)\n事件(What)\n时...",
-      "source_url": "https://blog.ursb.me/",
-      "category": "Blogs"
-    },
-    {
       "title": "云门胡饼赵州茶",
       "link": "https://hutusi.com/articles/zen-baggage",
       "date": "2022-06-19 19:01",
@@ -8402,6 +8402,26 @@
       "category": "Blogs"
     },
     {
+      "title": "A random forest-based predictive model for classifying BRCA1 missense variants: a novel approach for evaluating the missense mutations effect",
+      "link": "https://www.nature.com/articles/s10038-025-01341-1",
+      "date": "2025-04-18 08:00",
+      "author": "Genomics : nature.com subject feeds",
+      "timestamp": 1744934400.0,
+      "summary": "无摘要",
+      "source_url": "https://www.nature.com/subjects/genomics",
+      "category": "Papers"
+    },
+    {
+      "title": "Reporting complete chloroplast genome of endangered red mulberry, useful for understanding hybridization and phylogenetic relationships",
+      "link": "https://www.nature.com/articles/s41598-025-97618-8",
+      "date": "2025-04-18 08:00",
+      "author": "Bioinformatics : nature.com subject feeds",
+      "timestamp": 1744934400.0,
+      "summary": "无摘要",
+      "source_url": "https://www.nature.com/subjects/bioinformatics",
+      "category": "Papers"
+    },
+    {
       "title": "DSSP 4: FAIR annotation of protein secondary structure",
       "link": "https://www.biorxiv.org/content/10.1101/2025.04.11.648460v1?rss=1",
       "date": "2025-04-17 08:00",
@@ -8558,6 +8578,16 @@
       "author": "bioRxiv Subject Collection: Bioinformatics",
       "timestamp": 1744848000.0,
       "summary": "Introduction: The commensal yeast, Candida albicans, has the enormous metabolic flexibility to utilize alternative carbon sources such as N-acetylgluc...",
+      "source_url": "https://biorxiv.org",
+      "category": "Papers"
+    },
+    {
+      "title": "Human Papillomavirus Genomes Associate with Active Host Chromatin during Persistent Viral Infection",
+      "link": "https://www.biorxiv.org/content/10.1101/2025.04.15.649012v1?rss=1",
+      "date": "2025-04-17 08:00",
+      "author": "bioRxiv Subject Collection: Genomics",
+      "timestamp": 1744848000.0,
+      "summary": "Human papillomaviruses (HPVs) maintain their genomes as minichromosomes in the nuclei of infected keratinocytes. This study investigates the associati...",
       "source_url": "https://biorxiv.org",
       "category": "Papers"
     },
@@ -9242,16 +9272,6 @@
       "category": "Papers"
     },
     {
-      "title": "Shared genomic architecture of the brain white matter structural connectome and intelligence",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.04.09.647917v1?rss=1",
-      "date": "2025-04-10 08:00",
-      "author": "bioRxiv Subject Collection: Genomics",
-      "timestamp": 1744243200.0,
-      "summary": "White matter (WM) connections, which facilitate communication between brain regions, substantially impact intellectual performance. However, the share...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
       "title": "Solanum pan-genome highlights paralog diversification",
       "link": "https://www.nature.com/articles/s41588-025-02178-2",
       "date": "2025-04-10 08:00",
@@ -9394,16 +9414,6 @@
     {
       "title": "Efficient and robust search of microbial genomes via phylogenetic compression",
       "link": "https://www.nature.com/articles/s41592-025-02625-2",
-      "date": "2025-04-09 08:00",
-      "author": "Genomics : nature.com subject feeds",
-      "timestamp": 1744156800.0,
-      "summary": "无摘要",
-      "source_url": "https://www.nature.com/subjects/genomics",
-      "category": "Papers"
-    },
-    {
-      "title": "Moroccan genome project: genomic insight into a North African population",
-      "link": "https://www.nature.com/articles/s42003-025-08020-z",
       "date": "2025-04-09 08:00",
       "author": "Genomics : nature.com subject feeds",
       "timestamp": 1744156800.0,
@@ -9584,16 +9594,6 @@
     {
       "title": "Transient power-law behaviour following induction distinguishes between competing models of stochastic gene expression",
       "link": "https://www.nature.com/articles/s41467-025-58127-4",
-      "date": "2025-03-22 08:00",
-      "author": "Bioinformatics : nature.com subject feeds",
-      "timestamp": 1742601600.0,
-      "summary": "无摘要",
-      "source_url": "https://www.nature.com/subjects/bioinformatics",
-      "category": "Papers"
-    },
-    {
-      "title": "Environmentally induced variation in sperm sRNAs is linked to gene expression and transposable elements in zebrafish offspring",
-      "link": "https://www.nature.com/articles/s41437-025-00752-2",
       "date": "2025-03-22 08:00",
       "author": "Bioinformatics : nature.com subject feeds",
       "timestamp": 1742601600.0,
