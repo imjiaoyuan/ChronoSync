@@ -82,16 +82,6 @@
       "category": "Blogs"
     },
     {
-      "title": "解决 macOS Sonoma+ AirPods 音量自动重置问题",
-      "link": "https://blog.tonyding.net/archives/39/",
-      "date": "2025-04-15 22:12",
-      "author": "Tony Ding's Blog",
-      "timestamp": 1744726320.0,
-      "summary": "上个月刚换 MBA 就发现这玩意似乎老是记不住我 AirPods 的音量设置，一连接就重置到 50%，想起来调还好，偶尔忘了这事直接放音乐后果就是被震得脑瓜子嗡嗡响。",
-      "source_url": "https://blog.tonyding.net/",
-      "category": "Blogs"
-    },
-    {
       "title": "冲着生产力来，带着娱乐性走，曲面宽屏第二次尝试——Dell U4025QW",
       "link": "https://blog.douchi.space/curved-wide-sceen-dell-U4025QW/",
       "date": "2025-04-14 13:45",
@@ -1439,16 +1429,6 @@
       "timestamp": 1739059200.0,
       "summary": "How to use TypeScript type tools to implement interface definitions with some optional properties to improve code maintainability and flexibility.",
       "source_url": "https://www.mengke.me/blog",
-      "category": "Blogs"
-    },
-    {
-      "title": "2.7 闪击济南记录",
-      "link": "https://blog.tonyding.net/archives/29/",
-      "date": "2025-02-08 23:26",
-      "author": "Tony Ding's Blog",
-      "timestamp": 1739028360.0,
-      "summary": "开卡/蠢材吧/闲逛/享受一等座",
-      "source_url": "https://blog.tonyding.net/",
       "category": "Blogs"
     },
     {
@@ -4342,16 +4322,6 @@
       "category": "Blogs"
     },
     {
-      "title": "冲动消费喜加一：小米手环 9 陶瓷特别版半日简评",
-      "link": "https://blog.tonyding.net/archives/26/",
-      "date": "2024-07-21 21:40",
-      "author": "Tony Ding's Blog",
-      "timestamp": 1721569200.0,
-      "summary": "我也不知道怎么就被陶瓷给迷住了...",
-      "source_url": "https://blog.tonyding.net/",
-      "category": "Blogs"
-    },
-    {
       "title": "北河三｜2024年7月小结",
       "link": "https://thirdshire.com/july-recap-2024/",
       "date": "2024-07-21 11:29",
@@ -4459,16 +4429,6 @@
       "timestamp": 1719883194.0,
       "summary": "在更新到 openssh-9.8p1 之后，现存的 SSH 守护进程将无法再接受新的连接（详见 https:/ [&#8230;]",
       "source_url": "https://www.archlinuxcn.org",
-      "category": "Blogs"
-    },
-    {
-      "title": "ThinkPad X1 Tablet Gen 2 Hackintosh 配置手记",
-      "link": "https://blog.tonyding.net/archives/20/",
-      "date": "2024-06-30 17:42",
-      "author": "Tony Ding's Blog",
-      "timestamp": 1719740520.0,
-      "summary": "很久没折腾过黑果了，一是手上没有合适装的设备（主力机是 11 代，而经手过的几个玩具都是性能差到完全没动力去花时间的存在），二是...没时间没精力，毕竟配 EFI 这个活干过的都知道有多折磨人。...",
-      "source_url": "https://blog.tonyding.net/",
       "category": "Blogs"
     },
     {
@@ -5502,16 +5462,6 @@
       "category": "Blogs"
     },
     {
-      "title": "OnePlus Ace Pro 简评",
-      "link": "https://blog.tonyding.net/archives/16/",
-      "date": "2024-02-11 22:51",
-      "author": "Tony Ding's Blog",
-      "timestamp": 1707663060.0,
-      "summary": "这回旋镖打回来的有点快...",
-      "source_url": "https://blog.tonyding.net/",
-      "category": "Blogs"
-    },
-    {
       "title": "我的年度工具折腾之旅",
       "link": "https://tw93.fun/2024-02-09/tools.html",
       "date": "2024-02-09 08:00",
@@ -5519,16 +5469,6 @@
       "timestamp": 1707436800.0,
       "summary": "最近趁着过年有空，将一年自己使用的比较不错的 Mac 软件、网站、生活好物给整理了一下，保持着简单易用美观的原则，期待当你有同样选择纠结的时候的一些帮助。\n\nMac 软件\n\n今年没有过多的折腾软件，更多是在持续使用的基础上去做些优化让自己用起来更舒服，尽量不用两种功能类似的软件，保持简单易用美观的原...",
       "source_url": "https://tw93.fun",
-      "category": "Blogs"
-    },
-    {
-      "title": "Pixel 7a 三月体验",
-      "link": "https://blog.tonyding.net/archives/14/",
-      "date": "2024-02-04 20:33",
-      "author": "Tony Ding's Blog",
-      "timestamp": 1707049980.0,
-      "summary": "本来应该是两周体验的...",
-      "source_url": "https://blog.tonyding.net/",
       "category": "Blogs"
     },
     {
@@ -6762,16 +6702,6 @@
       "category": "Blogs"
     },
     {
-      "title": "一波三折的 ThinkPad X13 Gen2 工程机体验",
-      "link": "https://blog.tonyding.net/archives/12/",
-      "date": "2023-06-14 22:11",
-      "author": "Tony Ding's Blog",
-      "timestamp": 1686751860.0,
-      "summary": "我终于还是抛弃了 SPX...",
-      "source_url": "https://blog.tonyding.net/",
-      "category": "Blogs"
-    },
-    {
       "title": "发生在计算机内存里的进化：解密遗传算法(Genetic Algorithm)",
       "link": "https://www.longluo.me/blog/genetic-algorithm/",
       "date": "2023-06-12 08:32",
@@ -7182,16 +7112,6 @@
       "category": "Blogs"
     },
     {
-      "title": "Galaxy S21 FE 半年简评",
-      "link": "https://blog.tonyding.net/archives/11/",
-      "date": "2023-01-21 22:35",
-      "author": "Tony Ding's Blog",
-      "timestamp": 1674311700.0,
-      "summary": "稍微写写手上这台我又吹又骂了近半年的机器吧（",
-      "source_url": "https://blog.tonyding.net/",
-      "category": "Blogs"
-    },
-    {
       "title": "2022 年终总结",
       "link": "https://lutaonan.com/blog/2022-summary",
       "date": "2023-01-09 08:00",
@@ -7252,16 +7172,6 @@
       "category": "Blogs"
     },
     {
-      "title": "意料之外的螃蟹：中信银行 FIFA 世界杯主题 Visa 借记卡",
-      "link": "https://blog.tonyding.net/archives/9/",
-      "date": "2022-12-05 10:24",
-      "author": "Tony Ding's Blog",
-      "timestamp": 1670207040.0,
-      "summary": "（文章最后更新：2025.2.9）我也没想到我一个压根不踢球也不看世界杯的人，会为了一张世界杯联名的卡折腾那么久...",
-      "source_url": "https://blog.tonyding.net/",
-      "category": "Blogs"
-    },
-    {
       "title": "月刊（第16期）：个人信息流分享",
       "link": "https://blog.ursb.me/posts/weekly-16/",
       "date": "2022-12-03 20:48",
@@ -7299,16 +7209,6 @@
       "timestamp": 1668672531.0,
       "summary": "前言 最近在哔哩哔哩做了一期直播技术分享，算是人生中第一次吧🙂内容是基于 Kubernetes 和 Skywalking 的 Spring 微服务监控实践，实现 Spring 云原生可观测性。自己排练的时候，准备了一个多小时的内容，结果直播时太紧张，半个多小时就讲完了😂\n\nht…",
       "source_url": "https://besscroft.com",
-      "category": "Blogs"
-    },
-    {
-      "title": "特别的第一张卡：兴业银行美国运通借记卡体验",
-      "link": "https://blog.tonyding.net/archives/6/",
-      "date": "2022-11-12 23:29",
-      "author": "Tony Ding's Blog",
-      "timestamp": 1668266940.0,
-      "summary": "（文章最后更新：2025.2.9）第一篇文章，就先说说这张卡好了。",
-      "source_url": "https://blog.tonyding.net/",
       "category": "Blogs"
     },
     {
@@ -8502,6 +8402,16 @@
       "category": "Blogs"
     },
     {
+      "title": "DSSP 4: FAIR annotation of protein secondary structure",
+      "link": "https://www.biorxiv.org/content/10.1101/2025.04.11.648460v1?rss=1",
+      "date": "2025-04-17 08:00",
+      "author": "bioRxiv Subject Collection: Bioinformatics",
+      "timestamp": 1744848000.0,
+      "summary": "Protein secondary structure annotation is essential for understanding protein architecture, serving as a cornerstone for structural classification, al...",
+      "source_url": "https://biorxiv.org",
+      "category": "Papers"
+    },
+    {
       "title": "Studying cis-regulatory heterogeneity in single-cells at allelic resolution",
       "link": "https://www.biorxiv.org/content/10.1101/2025.04.16.649227v1?rss=1",
       "date": "2025-04-17 08:00",
@@ -8648,6 +8558,26 @@
       "author": "bioRxiv Subject Collection: Bioinformatics",
       "timestamp": 1744848000.0,
       "summary": "Introduction: The commensal yeast, Candida albicans, has the enormous metabolic flexibility to utilize alternative carbon sources such as N-acetylgluc...",
+      "source_url": "https://biorxiv.org",
+      "category": "Papers"
+    },
+    {
+      "title": "Direct genome sequencing of Leishmania tropica in tissues of Moroccan patients with cutaneous leishmaniasis reveals micro-focal transmission underlain by clonal and sexual reproduction modes",
+      "link": "https://www.biorxiv.org/content/10.1101/2025.04.17.649263v1?rss=1",
+      "date": "2025-04-17 08:00",
+      "author": "bioRxiv Subject Collection: Genomics",
+      "timestamp": 1744848000.0,
+      "summary": "Leishmania tropica is causing cutaneous leishmaniasis (CL) from North Africa to India and in Ethiopia and is reported to be transmitted from humans to...",
+      "source_url": "https://biorxiv.org",
+      "category": "Papers"
+    },
+    {
+      "title": "amr.watch - monitoring antimicrobial resistance trends from global genomics data",
+      "link": "https://www.biorxiv.org/content/10.1101/2025.04.17.649298v1?rss=1",
+      "date": "2025-04-17 08:00",
+      "author": "bioRxiv Subject Collection: Genomics",
+      "timestamp": 1744848000.0,
+      "summary": "Background Whole genome sequencing (WGS) is increasingly supporting routine pathogen surveillance at local and national levels, providing comparable d...",
       "source_url": "https://biorxiv.org",
       "category": "Papers"
     },
@@ -8838,16 +8768,6 @@
       "author": "bioRxiv Subject Collection: Bioinformatics",
       "timestamp": 1744761600.0,
       "summary": "Accurate prediction of human leukocyte antigen class I (HLA-I) peptide binding is pivotal for immunological research, including vaccine development an...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "Panalyze: automated virus pangenome variation graph construction and analysis",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.04.10.646565v1?rss=1",
-      "date": "2025-04-16 08:00",
-      "author": "bioRxiv Subject Collection: Bioinformatics",
-      "timestamp": 1744761600.0,
-      "summary": "Motivation: Constructing and studying reference-free pangenome variation graphs can support new insights into viral genomic diversity. Interpreting th...",
       "source_url": "https://biorxiv.org",
       "category": "Papers"
     },
@@ -9067,7 +8987,7 @@
       "date": "2025-04-15 08:00",
       "author": "bioRxiv Subject Collection: Genomics",
       "timestamp": 1744675200.0,
-      "summary": "Somatic genetic variation (SOGV), accumulating during an organism's lifetime, was traditionally viewed as detrimental rather than adaptive due to link...",
+      "summary": "Somatic genetic variation (SOGV), accumulating during an organisms lifetime, was traditionally viewed as detrimental rather than adaptive due to links...",
       "source_url": "https://biorxiv.org",
       "category": "Papers"
     },
@@ -9332,16 +9252,6 @@
       "category": "Papers"
     },
     {
-      "title": "MENDELSEEK: An algorithm that predicts Mendelian Genes and elucidates what makes them special",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.04.06.647432v1?rss=1",
-      "date": "2025-04-10 08:00",
-      "author": "bioRxiv Subject Collection: Genomics",
-      "timestamp": 1744243200.0,
-      "summary": "While individual Mendelian diseases (diseases caused by a single gene) are rare, their aggregate number is significant. Discovering which gene causes ...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
       "title": "Solanum pan-genome highlights paralog diversification",
       "link": "https://www.nature.com/articles/s41588-025-02178-2",
       "date": "2025-04-10 08:00",
@@ -9429,16 +9339,6 @@
       "timestamp": 1744243200.0,
       "summary": "无摘要",
       "source_url": "https://www.nature.com/subjects/bioinformatics",
-      "category": "Papers"
-    },
-    {
-      "title": "Genomic profiling of active vitamin D colonic responses in African- and European-Americans identifies an ancestry-related regulatory variant of POLB",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.04.09.647365v1?rss=1",
-      "date": "2025-04-09 08:00",
-      "author": "bioRxiv Subject Collection: Genomics",
-      "timestamp": 1744156800.0,
-      "summary": "We measured genomic responses to active vitamin D, 1,25-dihydroxyvitamin D (1,25D), in colonic organoids from individuals of African and European ance...",
-      "source_url": "https://biorxiv.org",
       "category": "Papers"
     },
     {
