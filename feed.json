@@ -8402,6 +8402,16 @@
       "category": "Blogs"
     },
     {
+      "title": "Methylation reprogramming associated with aggressive prostate cancer and ancestral disparities",
+      "link": "https://www.biorxiv.org/content/10.1101/2025.04.16.649098v1?rss=1",
+      "date": "2025-04-18 08:00",
+      "author": "bioRxiv Subject Collection: Genomics",
+      "timestamp": 1744934400.0,
+      "summary": "African men are disproportionately impacted by aggressive prostate cancer (PCa). Key to this disparity both genetic and environmental factors, alludin...",
+      "source_url": "https://biorxiv.org",
+      "category": "Papers"
+    },
+    {
       "title": "Domestication shaped the chromatin landscape of grain amaranth",
       "link": "https://www.biorxiv.org/content/10.1101/2025.04.17.649361v1?rss=1",
       "date": "2025-04-18 08:00",
@@ -9288,16 +9298,6 @@
       "author": "bioRxiv Subject Collection: Genomics",
       "timestamp": 1744243200.0,
       "summary": "Proteins and RNA circulate in plasma and can offer insights into human physiology. Yet, despite their clinical importance, direct comparisons between ...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "distQTL: Distribution Quantitative Trait Loci Identification by Population-Scale Single-Cell Data",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.04.04.647121v1?rss=1",
-      "date": "2025-04-10 08:00",
-      "author": "bioRxiv Subject Collection: Genomics",
-      "timestamp": 1744243200.0,
-      "summary": "Mapping expression quantitative trait loci (eQTLs) is a powerful method to study how genetic variation influences gene expression. Traditional bulk eQ...",
       "source_url": "https://biorxiv.org",
       "category": "Papers"
     },
