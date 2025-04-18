@@ -92,6 +92,16 @@
       "category": "Blogs"
     },
     {
+      "title": "解决 macOS Sonoma+ AirPods 音量自动重置问题",
+      "link": "https://blog.tonyding.net/archives/39/",
+      "date": "2025-04-15 22:12",
+      "author": "Tony Ding's Blog",
+      "timestamp": 1744726320.0,
+      "summary": "上个月刚换 MBA 就发现这玩意似乎老是记不住我 AirPods 的音量设置，一连接就重置到 50%，想起来调还好，偶尔忘了这事直接放音乐后果就是被震得脑瓜子嗡嗡响。",
+      "source_url": "https://blog.tonyding.net/",
+      "category": "Blogs"
+    },
+    {
       "title": "冲着生产力来，带着娱乐性走，曲面宽屏第二次尝试——Dell U4025QW",
       "link": "https://blog.douchi.space/curved-wide-sceen-dell-U4025QW/",
       "date": "2025-04-14 13:45",
@@ -1442,6 +1452,16 @@
       "category": "Blogs"
     },
     {
+      "title": "2.7 闪击济南记录",
+      "link": "https://blog.tonyding.net/archives/29/",
+      "date": "2025-02-08 23:26",
+      "author": "Tony Ding's Blog",
+      "timestamp": 1739028360.0,
+      "summary": "开卡/蠢材吧/闲逛/享受一等座",
+      "source_url": "https://blog.tonyding.net/",
+      "category": "Blogs"
+    },
+    {
       "title": "2024年度最别开生面的新生态",
       "link": "https://www.darknavy.org/zh/darknavy_insight/the_most_groundbreaking_new_security_ecosystem_of_2024/",
       "date": "2025-02-08 17:10",
@@ -2239,16 +2259,6 @@
       "timestamp": 1735467829.0,
       "summary": "生信爱好者周刊（第 153 期）：做诚实的学问，做正直的人&para;\n这里记录每周值得分享的生信相关内容，周日发布。\n本杂志开源（GitHub: openbiox/weekly），欢迎提交 issue，投稿或推荐生信相关内容。\n「生信周刊讨论区」\n封面图&para;\n\n免疫先锋：T细胞在抗癌战斗中...",
       "source_url": "https://openbiox.github.io/weekly/",
-      "category": "Blogs"
-    },
-    {
-      "title": "时间与人生——我的 2024 总结",
-      "link": "https://xlog.app/api/redirection?characterId=73858&noteId=53",
-      "date": "2024-12-29 18:07",
-      "author": "旅行者的随想",
-      "timestamp": 1735466825.0,
-      "summary": "人生本就是无法回头的旅程，放心大胆地向前走就好。 题记\n\n转眼间已经又一年过去啦！能平安度过真是可喜可贺可喜可贺呀！还在看我博客的朋友们，跟着我一起，回顾今年的足迹吧！\n\n回顾\n关于博客\n\n之前博客框架一直用的 Hugo，然后部署在 Vercel 的，前段时间全部迁移到 xLog 上来…",
-      "source_url": "https://besscroft.com",
       "category": "Blogs"
     },
     {
@@ -3892,16 +3902,6 @@
       "category": "Blogs"
     },
     {
-      "title": "记录一次 Apple Vision Pro 体验",
-      "link": "https://xlog.app/api/redirection?characterId=56433&noteId=12",
-      "date": "2024-09-09 02:42",
-      "author": "梦墨不会做梦💤",
-      "timestamp": 1725820950.0,
-      "summary": "本文图片均由小米 14 Ultra 直出。 前言\n\nApple Vision Pro，\n 作为 WWDC23 的 One More Thing，一经推出便万众瞩目，\n 今年 6 月份，随着国行的推出，国内的预约体验正式开放，\n 我对这台设备有着浓厚兴趣，恰好最近有空，遂前往本地的…",
-      "source_url": "https://xlog.dreamo.ink",
-      "category": "Blogs"
-    },
-    {
       "title": "周报 #72 - 滑板体验、Rust Conf 与 Follow 公测（含邀请码）",
       "link": "https://www.pseudoyu.com/zh/2024/09/08/weekly_review_20240908",
       "date": "2024-09-08 16:00",
@@ -4109,16 +4109,6 @@
       "timestamp": 1723731300.0,
       "summary": "彻底重塑城市和生活方式",
       "source_url": "https://darmau.co/zh",
-      "category": "Blogs"
-    },
-    {
-      "title": "随便聊聊最近买的物件",
-      "link": "https://xlog.app/api/redirection?characterId=56433&noteId=9",
-      "date": "2024-08-15 15:29",
-      "author": "梦墨不会做梦💤",
-      "timestamp": 1723706959.0,
-      "summary": "最近买了不少东西，眼看博客好久没更新文字了，那就聚合起来写一堆简评证明一下我还活着。",
-      "source_url": "https://xlog.dreamo.ink",
       "category": "Blogs"
     },
     {
@@ -4332,6 +4322,16 @@
       "category": "Blogs"
     },
     {
+      "title": "冲动消费喜加一：小米手环 9 陶瓷特别版半日简评",
+      "link": "https://blog.tonyding.net/archives/26/",
+      "date": "2024-07-21 21:40",
+      "author": "Tony Ding's Blog",
+      "timestamp": 1721569200.0,
+      "summary": "我也不知道怎么就被陶瓷给迷住了...",
+      "source_url": "https://blog.tonyding.net/",
+      "category": "Blogs"
+    },
+    {
       "title": "北河三｜2024年7月小结",
       "link": "https://thirdshire.com/july-recap-2024/",
       "date": "2024-07-21 11:29",
@@ -4412,16 +4412,6 @@
       "category": "Blogs"
     },
     {
-      "title": "记录一次学マス角色模型解包",
-      "link": "https://xlog.app/api/redirection?characterId=56433&noteId=8",
-      "date": "2024-07-09 21:35",
-      "author": "梦墨不会做梦💤",
-      "timestamp": 1720532139.0,
-      "summary": "很喜欢学マス的小偶像建模，遂解之",
-      "source_url": "https://xlog.dreamo.ink",
-      "category": "Blogs"
-    },
-    {
       "title": "聊一聊 Google 云盘的无限空间！",
       "link": "https://blog.illsky.com/posts/weixin-google-cloud-drive/",
       "date": "2024-07-06 08:00",
@@ -4439,6 +4429,16 @@
       "timestamp": 1719883194.0,
       "summary": "在更新到 openssh-9.8p1 之后，现存的 SSH 守护进程将无法再接受新的连接（详见 https:/ [&#8230;]",
       "source_url": "https://www.archlinuxcn.org",
+      "category": "Blogs"
+    },
+    {
+      "title": "ThinkPad X1 Tablet Gen 2 Hackintosh 配置手记",
+      "link": "https://blog.tonyding.net/archives/20/",
+      "date": "2024-06-30 17:42",
+      "author": "Tony Ding's Blog",
+      "timestamp": 1719740520.0,
+      "summary": "很久没折腾过黑果了，一是手上没有合适装的设备（主力机是 11 代，而经手过的几个玩具都是性能差到完全没动力去花时间的存在），二是...没时间没精力，毕竟配 EFI 这个活干过的都知道有多折磨人。...",
+      "source_url": "https://blog.tonyding.net/",
       "category": "Blogs"
     },
     {
@@ -4762,16 +4762,6 @@
       "category": "Blogs"
     },
     {
-      "title": "Next SSR 开发与实践",
-      "link": "https://xlog.app/api/redirection?characterId=73858&noteId=1",
-      "date": "2024-05-05 00:24",
-      "author": "旅行者的随想",
-      "timestamp": 1714839840.0,
-      "summary": "前言 五一假期期间，我发布了 PicImpact 的第一个公开版本，是 Kamera 的下一代产品，使用 Next.js 开发，而 kamera 是用的 Nuxt3 开发的。前端的 SSR 框架，并不像后端的框架那么好用，后端的各种中间件、开发模型、面向切面编程（AOP…",
-      "source_url": "https://besscroft.com",
-      "category": "Blogs"
-    },
-    {
       "title": "为什么是日本",
       "link": "https://darmau.co/zh/article/why-japan",
       "date": "2024-05-02 11:09",
@@ -5029,16 +5019,6 @@
       "timestamp": 1712361600.0,
       "summary": "一天夜晚里我正在刷推文，刷到了一个我关注的 dalao 发的推文，源头是「DNSPod 创始人奶罩把一个抽象员工开了」。然后我在那里留下了我的疑惑，成功被扣上了我自认为的「帽子」。嗯，故事就是这么开始的。",
       "source_url": "https://blog.gxres.net/",
-      "category": "Blogs"
-    },
-    {
-      "title": "GitHub - besscroft/PicImpact: PicImpact，分享你和世界！",
-      "link": "https://xlog.app/api/redirection?characterId=73858&noteId=8",
-      "date": "2024-04-03 11:43",
-      "author": "旅行者的随想",
-      "timestamp": 1712115780.0,
-      "summary": "PicImpact，分享你和世界！. Contribute to besscroft/PicImpact development by creating an account on GitHub.",
-      "source_url": "https://besscroft.com",
       "category": "Blogs"
     },
     {
@@ -5472,6 +5452,16 @@
       "category": "Blogs"
     },
     {
+      "title": "OnePlus Ace Pro 简评",
+      "link": "https://blog.tonyding.net/archives/16/",
+      "date": "2024-02-11 22:51",
+      "author": "Tony Ding's Blog",
+      "timestamp": 1707663060.0,
+      "summary": "这回旋镖打回来的有点快...",
+      "source_url": "https://blog.tonyding.net/",
+      "category": "Blogs"
+    },
+    {
       "title": "我的年度工具折腾之旅",
       "link": "https://tw93.fun/2024-02-09/tools.html",
       "date": "2024-02-09 08:00",
@@ -5479,6 +5469,16 @@
       "timestamp": 1707436800.0,
       "summary": "最近趁着过年有空，将一年自己使用的比较不错的 Mac 软件、网站、生活好物给整理了一下，保持着简单易用美观的原则，期待当你有同样选择纠结的时候的一些帮助。\n\nMac 软件\n\n今年没有过多的折腾软件，更多是在持续使用的基础上去做些优化让自己用起来更舒服，尽量不用两种功能类似的软件，保持简单易用美观的原...",
       "source_url": "https://tw93.fun",
+      "category": "Blogs"
+    },
+    {
+      "title": "Pixel 7a 三月体验",
+      "link": "https://blog.tonyding.net/archives/14/",
+      "date": "2024-02-04 20:33",
+      "author": "Tony Ding's Blog",
+      "timestamp": 1707049980.0,
+      "summary": "本来应该是两周体验的...",
+      "source_url": "https://blog.tonyding.net/",
       "category": "Blogs"
     },
     {
@@ -5889,16 +5889,6 @@
       "timestamp": 1703030400.0,
       "summary": "WebGL 学习笔记（一），WebGL 的基础概念及 HelloWorld ...",
       "source_url": "https://www.mengke.me/blog",
-      "category": "Blogs"
-    },
-    {
-      "title": "基于 K3s + Kilo 的跨云 Kubernetes 集群",
-      "link": "https://xlog.app/api/redirection?characterId=73858&noteId=49",
-      "date": "2023-12-19 23:55",
-      "author": "旅行者的随想",
-      "timestamp": 1703001300.0,
-      "summary": "前言 自从白嫖了 Oracle Cloud 的云服务之后，一直使用的 24 G 大内存云服务器跑的 Kubernetes，也有 2 年多了吧？（记不清了）上一版本的方案，可以看我这篇文章👉Dynamic k8s 集群实现方案\n\n至于为啥我要更换方式呢？主要还是要部署的东西日渐增加…",
-      "source_url": "https://besscroft.com",
       "category": "Blogs"
     },
     {
@@ -6402,16 +6392,6 @@
       "category": "Blogs"
     },
     {
-      "title": "嗯学英语核心业务设计实践",
-      "link": "https://xlog.app/api/redirection?characterId=73858&noteId=48",
-      "date": "2023-08-31 16:12",
-      "author": "旅行者的随想",
-      "timestamp": 1693469520.0,
-      "summary": "前言 最近在设计开发嗯学英语项目，今天想简单讲点儿故事，一个关于英语学习软件背后复杂的技术设计思考，以及我打算如何实践，让它以何种方式运作。\n\n摸索\n\n英语类学习软件我用过不少，使用时间最长的，那自然是多邻国了。你看你学了这么久英语了哈，如果现在要你来做一款英语学习软件，你要如何设计…",
-      "source_url": "https://besscroft.com",
-      "category": "Blogs"
-    },
-    {
       "title": "2023.7-8 精神食粮",
       "link": "https://owlswims.com/2023-7-8-mentalfood/",
       "date": "2023-08-31 00:23",
@@ -6562,26 +6542,6 @@
       "category": "Blogs"
     },
     {
-      "title": "TinHiFi T4 - 净",
-      "link": "https://xlog.app/api/redirection?characterId=56433&noteId=7",
-      "date": "2023-07-20 11:35",
-      "author": "梦墨不会做梦💤",
-      "timestamp": 1689824148.0,
-      "summary": "干净且均衡。",
-      "source_url": "https://xlog.dreamo.ink",
-      "category": "Blogs"
-    },
-    {
-      "title": "百元内卷终点？——水月雨 竹2",
-      "link": "https://xlog.app/api/redirection?characterId=56433&noteId=5",
-      "date": "2023-07-20 10:58",
-      "author": "梦墨不会做梦💤",
-      "timestamp": 1689821885.0,
-      "summary": "2019年的银色飞船到2022年的竹1，水月雨在百元价位的竞争力越来越强，\n2023年7月，水月雨推出了竹2，打着「内卷终点」的slogen，欲求「薄纱一切」。",
-      "source_url": "https://xlog.dreamo.ink",
-      "category": "Blogs"
-    },
-    {
       "title": "本站已彻底和大陆脱钩",
       "link": "https://darmau.co/zh/article/completely-detached-from-mainland",
       "date": "2023-07-20 10:25",
@@ -6712,6 +6672,16 @@
       "category": "Blogs"
     },
     {
+      "title": "一波三折的 ThinkPad X13 Gen2 工程机体验",
+      "link": "https://blog.tonyding.net/archives/12/",
+      "date": "2023-06-14 22:11",
+      "author": "Tony Ding's Blog",
+      "timestamp": 1686751860.0,
+      "summary": "我终于还是抛弃了 SPX...",
+      "source_url": "https://blog.tonyding.net/",
+      "category": "Blogs"
+    },
+    {
       "title": "发生在计算机内存里的进化：解密遗传算法(Genetic Algorithm)",
       "link": "https://www.longluo.me/blog/genetic-algorithm/",
       "date": "2023-06-12 08:32",
@@ -6729,36 +6699,6 @@
       "timestamp": 1686355200.0,
       "summary": "冯大辉 Fenng 发了一条 Tweet 问\n\n对于各位高考过来人，如果成绩只能上二本，要不要复读？\n\n以下是我的想法。\n我当时考到的是二本，除了学费贵一点之外，我觉得都挺好的。我个人的浅见是，命运是没有人能预测的，复读和不复读是两个不同的分支。当然这说了等于没说。所以我来试试纸上谈兵一下：\n我们假...",
       "source_url": "https://lutaonan.com",
-      "category": "Blogs"
-    },
-    {
-      "title": "为网页添加FontAwesome支持",
-      "link": "https://xlog.app/api/redirection?characterId=56433&noteId=4",
-      "date": "2023-06-09 21:23",
-      "author": "梦墨不会做梦💤",
-      "timestamp": 1686317012.0,
-      "summary": "🤔",
-      "source_url": "https://xlog.dreamo.ink",
-      "category": "Blogs"
-    },
-    {
-      "title": "SBC-XQ 蓝牙编码的音频质量",
-      "link": "https://xlog.app/api/redirection?characterId=56433&noteId=2",
-      "date": "2023-06-09 20:58",
-      "author": "梦墨不会做梦💤",
-      "timestamp": 1686315520.0,
-      "summary": "翻译了一篇关于SBC-XQ的文章。",
-      "source_url": "https://xlog.dreamo.ink",
-      "category": "Blogs"
-    },
-    {
-      "title": "Linux运行游戏问题及解决方案汇总",
-      "link": "https://xlog.app/api/redirection?characterId=56433&noteId=1",
-      "date": "2023-06-09 20:49",
-      "author": "梦墨不会做梦💤",
-      "timestamp": 1686314985.0,
-      "summary": "记录一下在Linux环境下玩游戏遇到的问题以及解决方案。",
-      "source_url": "https://xlog.dreamo.ink",
       "category": "Blogs"
     },
     {
@@ -6832,16 +6772,6 @@
       "category": "Blogs"
     },
     {
-      "title": "如何使用 Cloudflare 保护云服务——扫盲“WAF”及其它招数",
-      "link": "https://xlog.app/api/redirection?characterId=73858&noteId=47",
-      "date": "2023-05-19 08:30",
-      "author": "旅行者的随想",
-      "timestamp": 1684456200.0,
-      "summary": "前言 五一前后抽时间维护了一下个人云服务，把集群全部重构了一部分。那几天访问的朋友们应该能看到一个简单的 “维护页面”。新的个人云架构，这里就不多讲了，毕竟不是本篇的内容，感兴趣的朋友可以看我之前文章（老架构）。这次改进了之前的诸多不合理的地方，顺便把 IP 和证书全部更换了一遍…",
-      "source_url": "https://besscroft.com",
-      "category": "Blogs"
-    },
-    {
       "title": "我的笔记管理法",
       "link": "https://lutaonan.com/blog/how-do-i-take-note",
       "date": "2023-05-13 08:00",
@@ -6889,16 +6819,6 @@
       "timestamp": 1682641232.0,
       "summary": "本期共有 45 个项目，包含 C 项目 (3)，C# 项目 (3)，C++ 项目 (4)，Go 项目 (5)，Java 项目 (3)，JavaScript 项目 (5)，Kotlin 项目 (1)，Objective-C 项目 (1)，Python 项目 (5)，Rust 项目 (2)，Swift ...",
       "source_url": "https://hellogithub.com",
-      "category": "Blogs"
-    },
-    {
-      "title": "时间与人生——我的第一个开源产品经历",
-      "link": "https://xlog.app/api/redirection?characterId=73858&noteId=46",
-      "date": "2023-04-26 17:07",
-      "author": "旅行者的随想",
-      "timestamp": 1682500020.0,
-      "summary": "前言 前几天发布了 DiyFile v0.5.0 版本，算是做出了一个不算好看但基本能用的版本，今天就来聊一聊整个过程吧。\n\n项目准备\n为什么我想做它？\n\n这个原因也很简单，当你学会一个新技术之后，把它用起来，最好的方法就是写一个项目。我也挺想开一个工作室，虽然不知道能不能走出这一步…",
-      "source_url": "https://besscroft.com",
       "category": "Blogs"
     },
     {
@@ -6972,16 +6892,6 @@
       "category": "Blogs"
     },
     {
-      "title": "时间与人生——编码的意义",
-      "link": "https://xlog.app/api/redirection?characterId=73858&noteId=45",
-      "date": "2023-03-20 11:38",
-      "author": "旅行者的随想",
-      "timestamp": 1679283480.0,
-      "summary": "其实这篇文章我本打算用 “开源的意义” 为标题的，但本质上现阶段开源对于我来说，核心就是编码。本文我从一个普通从业者的视角，来聊一聊我的经历、想法与思考。 由来\n兴趣\n\n第一次买编程书籍，是 2015 年的时候了，当时还在读高二。我记得是数学选修二还是哪本书来着…",
-      "source_url": "https://besscroft.com",
-      "category": "Blogs"
-    },
-    {
       "title": "近期使用电脑的一些习惯改变",
       "link": "https://imzm.im/how-i-change-about-using-pc/",
       "date": "2023-03-14 15:33",
@@ -7039,16 +6949,6 @@
       "timestamp": 1677543091.0,
       "summary": "本期共有 42 个项目，包含 C 项目 (3)，C# 项目 (3)，C++ 项目 (4)，Go 项目 (5)，Java 项目 (2)，JavaScript 项目 (5)，Kotlin 项目 (1)，Python 项目 (5)，Rust 项目 (3)，Swift 项目 (1)，人工智能 (2)，其它 ...",
       "source_url": "https://hellogithub.com",
-      "category": "Blogs"
-    },
-    {
-      "title": "时间与人生——网络、生活",
-      "link": "https://xlog.app/api/redirection?characterId=73858&noteId=44",
-      "date": "2023-02-27 15:40",
-      "author": "旅行者的随想",
-      "timestamp": 1677483600.0,
-      "summary": "好像挺久没有写下文字了，不知道是因为大脑想休息，还是单纯的懒。 赛博社交\n\n这个月解散了一个 6 年的 QQ 群，虽然基本上算是个死群了，但是有时候屁事儿也多，实在是没精力去维护，干脆解散了。群里面大多数的人，实际上我根本就不认识，实际上这个群的成立本身就没有很强的目的性…",
-      "source_url": "https://besscroft.com",
       "category": "Blogs"
     },
     {
@@ -7122,6 +7022,16 @@
       "category": "Blogs"
     },
     {
+      "title": "Galaxy S21 FE 半年简评",
+      "link": "https://blog.tonyding.net/archives/11/",
+      "date": "2023-01-21 22:35",
+      "author": "Tony Ding's Blog",
+      "timestamp": 1674311700.0,
+      "summary": "稍微写写手上这台我又吹又骂了近半年的机器吧（",
+      "source_url": "https://blog.tonyding.net/",
+      "category": "Blogs"
+    },
+    {
       "title": "2022 年终总结",
       "link": "https://lutaonan.com/blog/2022-summary",
       "date": "2023-01-09 08:00",
@@ -7152,16 +7062,6 @@
       "category": "Blogs"
     },
     {
-      "title": "珍珠之歌——我的 2022 总结",
-      "link": "https://xlog.app/api/redirection?characterId=73858&noteId=43",
-      "date": "2022-12-31 10:00",
-      "author": "旅行者的随想",
-      "timestamp": 1672452001.0,
-      "summary": "这便是你长路的纪行，这便是你们的珍珠之歌。 题记\n\n这篇年终总结是 2022 年的，当你看到这篇文章的时候，说明 2022 年已经过去了。今年真的过的挺快的，并且放开后还是第一批阳的，在我写这篇总结的时候，我的咳嗽仍然还没好。\n\n原本标题应该叫做《时间与人生 —— 我的 2022…",
-      "source_url": "https://besscroft.com",
-      "category": "Blogs"
-    },
-    {
       "title": "HelloGitHub 第 81 期",
       "link": "https://hellogithub.com/periodical/volume/81",
       "date": "2022-12-28 08:05",
@@ -7179,6 +7079,16 @@
       "timestamp": 1671972590.0,
       "summary": "心之所向，素履以往\n最近迷上了「徐云流浪中国」的视频，up 主大约 2 日一更，记录自己骑行中国、风餐露宿的流浪生活。\n徐云出身农村，两年没有工作过，只带着一辆单车、一个帐篷、一个睡袋、一个防尘布、一张防潮垫、一个折叠式柴火炉、一个打火机、一个高压锅、还有充电宝/手机/运动相机，骑行到了海拔 500...",
       "source_url": "https://blog.ursb.me/",
+      "category": "Blogs"
+    },
+    {
+      "title": "意料之外的螃蟹：中信银行 FIFA 世界杯主题 Visa 借记卡",
+      "link": "https://blog.tonyding.net/archives/9/",
+      "date": "2022-12-05 10:24",
+      "author": "Tony Ding's Blog",
+      "timestamp": 1670207040.0,
+      "summary": "（文章最后更新：2025.2.9）我也没想到我一个压根不踢球也不看世界杯的人，会为了一张世界杯联名的卡折腾那么久...",
+      "source_url": "https://blog.tonyding.net/",
       "category": "Blogs"
     },
     {
@@ -7212,13 +7122,13 @@
       "category": "Blogs"
     },
     {
-      "title": "基于 Kubernetes 和 SkyWalking 的 Spring 微服务监控实践",
-      "link": "https://xlog.app/api/redirection?characterId=73858&noteId=42",
-      "date": "2022-11-17 16:08",
-      "author": "旅行者的随想",
-      "timestamp": 1668672531.0,
-      "summary": "前言 最近在哔哩哔哩做了一期直播技术分享，算是人生中第一次吧🙂内容是基于 Kubernetes 和 Skywalking 的 Spring 微服务监控实践，实现 Spring 云原生可观测性。自己排练的时候，准备了一个多小时的内容，结果直播时太紧张，半个多小时就讲完了😂\n\nht…",
-      "source_url": "https://besscroft.com",
+      "title": "特别的第一张卡：兴业银行美国运通借记卡体验",
+      "link": "https://blog.tonyding.net/archives/6/",
+      "date": "2022-11-12 23:29",
+      "author": "Tony Ding's Blog",
+      "timestamp": 1668266940.0,
+      "summary": "（文章最后更新：2025.2.9）第一篇文章，就先说说这张卡好了。",
+      "source_url": "https://blog.tonyding.net/",
       "category": "Blogs"
     },
     {
@@ -7292,16 +7202,6 @@
       "category": "Blogs"
     },
     {
-      "title": "Dynamic k8s 集群实现方案",
-      "link": "https://xlog.app/api/redirection?characterId=73858&noteId=41",
-      "date": "2022-09-29 09:43",
-      "author": "旅行者的随想",
-      "timestamp": 1664415832.0,
-      "summary": "前言 本文要探讨的，是一种极低成本，但是可用度较高的 K8S 集群方案，提供多种实现思路，以及部分可实现方案。我踩过一些坑，在现有资源下，其实有很多种玩法，但如果有小伙伴问：你怎么不用 xxx 家的 xx 服务啊？怎么不用 xxx 方式啊？\n\n说到底，如果你是为了 “生产级…",
-      "source_url": "https://besscroft.com",
-      "category": "Blogs"
-    },
-    {
       "title": "做了 6 年程序员，我学到的 10 条经验",
       "link": "https://lutaonan.com/blog/things-i-learnt-after-6-years-as-software-engineer",
       "date": "2022-09-20 08:00",
@@ -7359,16 +7259,6 @@
       "timestamp": 1660953600.0,
       "summary": "倪爽 在 Twitter 推荐了这本书，对于喜欢写作的我来说很吸引，花了很短时间就把这本书读完了。在这里推荐给大家。这本书主要给认为写不出来文章的人提供一些指南，书的前半部分是方法论，后半部分是写作套路(或者说写作框架)。\n九宫格指的是在写作之前，从文章的中心，可以扩散出 8 个方格，填写和这个中心...",
       "source_url": "https://lutaonan.com",
-      "category": "Blogs"
-    },
-    {
-      "title": "识听巡回：MoonDrop 晓 3.5mm ver.",
-      "link": "https://xlog.app/api/redirection?characterId=56433&noteId=6",
-      "date": "2022-08-14 00:00",
-      "author": "梦墨不会做梦💤",
-      "timestamp": 1660406400.0,
-      "summary": "一篇普通的晓尾巴测评。",
-      "source_url": "https://xlog.dreamo.ink",
       "category": "Blogs"
     },
     {
@@ -7549,16 +7439,6 @@
       "timestamp": 1651363200.0,
       "summary": "对于我来说，我一直认为自己缺少做决策的能力。成年人的生活不像学生时代，所有的题目都有固定答案。所有的选择都不存在绝对的对和错，它只是在人的一生 checkout 了一个新的 branch. 我总是不知道应该如何做决定。\n刚好看到了 Jeff Bezos 曾经谈到了自己是如何做决定的，他称之为 Reg...",
       "source_url": "https://lutaonan.com",
-      "category": "Blogs"
-    },
-    {
-      "title": "Fedora 折騰日記 ver 1.0",
-      "link": "https://xlog.app/api/redirection?characterId=56433&noteId=3",
-      "date": "2022-04-04 00:00",
-      "author": "梦墨不会做梦💤",
-      "timestamp": 1649001600.0,
-      "summary": "調教 Fedora ，讓ta更好的爲你服務（",
-      "source_url": "https://xlog.dreamo.ink",
       "category": "Blogs"
     },
     {
@@ -8402,6 +8282,26 @@
       "category": "Blogs"
     },
     {
+      "title": "Whole-genome prediction of bacterial pathogenic capacity on novel bacteria using protein language models, with PathogenFinder2",
+      "link": "https://www.biorxiv.org/content/10.1101/2025.04.12.648497v1?rss=1",
+      "date": "2025-04-18 08:00",
+      "author": "bioRxiv Subject Collection: Bioinformatics",
+      "timestamp": 1744934400.0,
+      "summary": "Infectious diseases continue to be a leading cause of mortality and pose a significant global health threat. Thus the development of tools for surveil...",
+      "source_url": "https://biorxiv.org",
+      "category": "Papers"
+    },
+    {
+      "title": "DTractor enhances cell type deconvolution in spatial transcriptomics by integrating deep neural networks, transfer learning, and matrix factorization",
+      "link": "https://www.biorxiv.org/content/10.1101/2025.04.12.648541v1?rss=1",
+      "date": "2025-04-18 08:00",
+      "author": "bioRxiv Subject Collection: Bioinformatics",
+      "timestamp": 1744934400.0,
+      "summary": "Spatial transcriptomics (ST) captures gene expression with spatial context but lacks single-cell resolution. Single-cell RNA sequencing (scRNA-seq) of...",
+      "source_url": "https://biorxiv.org",
+      "category": "Papers"
+    },
+    {
       "title": "Identifying non-coding variant effects at scale via machine learning models of cis-regulatory reporter assays",
       "link": "https://www.biorxiv.org/content/10.1101/2025.04.16.648420v1?rss=1",
       "date": "2025-04-18 08:00",
@@ -8797,7 +8697,7 @@
       "date": "2025-04-16 08:00",
       "author": "bioRxiv Subject Collection: Bioinformatics",
       "timestamp": 1744761600.0,
-      "summary": "The analysis of single cell disease atlases represents a challenge due to the presence of batch effects, low quality of disease samples, and the multi...",
+      "summary": "MotivationThe analysis of single cell disease atlases represents a challenge due to the presence of batch effects, low quality of disease samples, and...",
       "source_url": "https://biorxiv.org",
       "category": "Papers"
     },
@@ -8848,26 +8748,6 @@
       "author": "bioRxiv Subject Collection: Bioinformatics",
       "timestamp": 1744761600.0,
       "summary": "The CASP16 experiment provided the first benchmark for AlphaFold3. In contrast to AlphaFold2 and other methods, AlphaFold3 can also predict the struct...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "InteracTor: Feature Engineering and Explainable AI for Profiling Protein Structure-Interaction-Function Relationships",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.04.10.648139v1?rss=1",
-      "date": "2025-04-16 08:00",
-      "author": "bioRxiv Subject Collection: Bioinformatics",
-      "timestamp": 1744761600.0,
-      "summary": "Characterizing protein families' structural and functional diversity is essential for understanding their biological roles. Traditional analyses often...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "Comprehensive evaluation and interpretative insights of peptide-HLA binding prediction tools using explainable artificial intelligence",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.04.10.648169v1?rss=1",
-      "date": "2025-04-16 08:00",
-      "author": "bioRxiv Subject Collection: Bioinformatics",
-      "timestamp": 1744761600.0,
-      "summary": "Accurate prediction of human leukocyte antigen class I (HLA-I) peptide binding is pivotal for immunological research, including vaccine development an...",
       "source_url": "https://biorxiv.org",
       "category": "Papers"
     },
