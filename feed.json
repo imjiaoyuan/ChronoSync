@@ -8402,6 +8402,16 @@
       "category": "Blogs"
     },
     {
+      "title": "Identifying non-coding variant effects at scale via machine learning models of cis-regulatory reporter assays",
+      "link": "https://www.biorxiv.org/content/10.1101/2025.04.16.648420v1?rss=1",
+      "date": "2025-04-18 08:00",
+      "author": "bioRxiv Subject Collection: Genomics",
+      "timestamp": 1744934400.0,
+      "summary": "The inability to interpret the functional impact of non-coding variants has been a major impediment in the promise of precision medicine. While high-t...",
+      "source_url": "https://biorxiv.org",
+      "category": "Papers"
+    },
+    {
       "title": "Methylation reprogramming associated with aggressive prostate cancer and ancestral disparities",
       "link": "https://www.biorxiv.org/content/10.1101/2025.04.16.649098v1?rss=1",
       "date": "2025-04-18 08:00",
@@ -9298,16 +9308,6 @@
       "author": "bioRxiv Subject Collection: Genomics",
       "timestamp": 1744243200.0,
       "summary": "Short Tandem Repeats (STRs), also called microsatellites, correspond to tandemly repeated short DNA motifs (1 to 6 bp) and are one of the most polymor...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "Minimal Correlation but Complementary Diagnostic Utility for Plasma Cell-free RNA and Proteins",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.04.09.647972v1?rss=1",
-      "date": "2025-04-10 08:00",
-      "author": "bioRxiv Subject Collection: Genomics",
-      "timestamp": 1744243200.0,
-      "summary": "Proteins and RNA circulate in plasma and can offer insights into human physiology. Yet, despite their clinical importance, direct comparisons between ...",
       "source_url": "https://biorxiv.org",
       "category": "Papers"
     },
