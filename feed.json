@@ -1,5 +1,5 @@
 {
-  "update_time": "2025-04-18",
+  "update_time": "2025-04-19",
   "articles": [
     {
       "title": "月刊（第29期）：新生活",
@@ -8432,6 +8432,16 @@
       "category": "Papers"
     },
     {
+      "title": "A chromosome-level genome assembly of Gray’s grenadier anchovy, Coilia grayii",
+      "link": "https://www.nature.com/articles/s41597-025-04834-y",
+      "date": "2025-04-18 08:00",
+      "author": "Genomics : nature.com subject feeds",
+      "timestamp": 1744934400.0,
+      "summary": "无摘要",
+      "source_url": "https://www.nature.com/subjects/genomics",
+      "category": "Papers"
+    },
+    {
       "title": "A random forest-based predictive model for classifying BRCA1 missense variants: a novel approach for evaluating the missense mutations effect",
       "link": "https://www.nature.com/articles/s10038-025-01341-1",
       "date": "2025-04-18 08:00",
@@ -8757,7 +8767,7 @@
       "date": "2025-04-16 08:00",
       "author": "bioRxiv Subject Collection: Bioinformatics",
       "timestamp": 1744761600.0,
-      "summary": "Background: The advancement of single cell technologies has driven significant progress in constructing a multiscale, pan-organ Human Reference Atlas ...",
+      "summary": "BackgroundThe advancement of single cell technologies has driven significant progress in constructing a multiscale, pan-organ Human Reference Atlas (H...",
       "source_url": "https://biorxiv.org",
       "category": "Papers"
     },
@@ -9414,16 +9424,6 @@
     {
       "title": "Cellular souvenirs in viral luggage",
       "link": "https://www.nature.com/articles/s41579-025-01179-6",
-      "date": "2025-04-09 08:00",
-      "author": "Genomics : nature.com subject feeds",
-      "timestamp": 1744156800.0,
-      "summary": "无摘要",
-      "source_url": "https://www.nature.com/subjects/genomics",
-      "category": "Papers"
-    },
-    {
-      "title": "Complete ape genomes offer a close-up view of human evolution",
-      "link": "https://www.nature.com/articles/d41586-025-00912-8",
       "date": "2025-04-09 08:00",
       "author": "Genomics : nature.com subject feeds",
       "timestamp": 1744156800.0,
