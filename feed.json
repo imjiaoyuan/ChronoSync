@@ -8502,6 +8502,26 @@
       "category": "Blogs"
     },
     {
+      "title": "A novel decoding strategy for ProteinMPNN to design with less MHC Class I immune-visibility",
+      "link": "https://www.biorxiv.org/content/10.1101/2025.04.14.648837v1?rss=1",
+      "date": "2025-04-18 08:00",
+      "author": "bioRxiv Subject Collection: Bioinformatics",
+      "timestamp": 1744934400.0,
+      "summary": "Due to their versatility and diverse production methods, proteins have attracted a lot of interest for industrial as well as therapeutic applications....",
+      "source_url": "https://biorxiv.org",
+      "category": "Papers"
+    },
+    {
+      "title": "StACKER, A TOOL FOR SYSTEMS LEVEL ANALYSIS OF BASE STACKING IN NUCLEOTIDE-RICH STRUCTURES",
+      "link": "https://www.biorxiv.org/content/10.1101/2025.04.13.648419v1?rss=1",
+      "date": "2025-04-18 08:00",
+      "author": "bioRxiv Subject Collection: Bioinformatics",
+      "timestamp": 1744934400.0,
+      "summary": "Nucleic acid macromolecules can undergo significant structural changes--often mediated by nucleotide modification or molecular interactions. These alt...",
+      "source_url": "https://biorxiv.org",
+      "category": "Papers"
+    },
+    {
       "title": "SM3DD with Segmented PCA: A Comprehensive Method for Interpreting 3D Spatial Transcriptomics",
       "link": "https://www.biorxiv.org/content/10.1101/2025.04.17.649456v1?rss=1",
       "date": "2025-04-18 08:00",
@@ -8538,6 +8558,16 @@
       "author": "bioRxiv Subject Collection: Bioinformatics",
       "timestamp": 1744934400.0,
       "summary": "Spatial transcriptomics (ST) captures gene expression with spatial context but lacks single-cell resolution. Single-cell RNA sequencing (scRNA-seq) of...",
+      "source_url": "https://biorxiv.org",
+      "category": "Papers"
+    },
+    {
+      "title": "Mammary gland metabolism and its relevance to the fetoplacental expression of cytokine signaling in Caveolin-1 null mice",
+      "link": "https://www.biorxiv.org/content/10.1101/2025.04.13.648647v1?rss=1",
+      "date": "2025-04-18 08:00",
+      "author": "bioRxiv Subject Collection: Genomics",
+      "timestamp": 1744934400.0,
+      "summary": "Mice lacking Caveolin-1 (Cav1), a major protein of the lipid raft of plasma membrane, show dysregulated cellular proliferation of mammary gland and an...",
       "source_url": "https://biorxiv.org",
       "category": "Papers"
     },
@@ -8948,26 +8978,6 @@
       "author": "bioRxiv Subject Collection: Bioinformatics",
       "timestamp": 1744761600.0,
       "summary": "Batch effects, which arise due to technical variations across different experimental factors, pose a significant challenge for single-cell transcripto...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "Inferring non-coding RNA regulatory network from transcriptomic data and curated databases",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.04.10.648218v1?rss=1",
-      "date": "2025-04-16 08:00",
-      "author": "bioRxiv Subject Collection: Bioinformatics",
-      "timestamp": 1744761600.0,
-      "summary": "Non-coding RNAs (ncRNAs) have played an indispensable role in regulating gene expression and cellular processes. However, the complex regulatory circu...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "Predicting 3D Chromatin Interactions Using Transformer-Enhanced Deep Learning Models",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.04.10.647995v1?rss=1",
-      "date": "2025-04-16 08:00",
-      "author": "bioRxiv Subject Collection: Bioinformatics",
-      "timestamp": 1744761600.0,
-      "summary": "The three-dimensional (3D) structure of the human genome is essential for regulating gene expression and cellular functions. Chromatin interactions br...",
       "source_url": "https://biorxiv.org",
       "category": "Papers"
     },
@@ -9398,16 +9408,6 @@
       "author": "bioRxiv Subject Collection: Genomics",
       "timestamp": 1744243200.0,
       "summary": "Acropora is the most diverse and widespread coral genus in the world. Although known for its critical ecological role in shallow-water habitats, its a...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "Evidence of distal regulations orchestrated by RNAs initiating at short tandem repeats",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.04.10.648102v1?rss=1",
-      "date": "2025-04-10 08:00",
-      "author": "bioRxiv Subject Collection: Genomics",
-      "timestamp": 1744243200.0,
-      "summary": "Short Tandem Repeats (STRs), also called microsatellites, correspond to tandemly repeated short DNA motifs (1 to 6 bp) and are one of the most polymor...",
       "source_url": "https://biorxiv.org",
       "category": "Papers"
     },
