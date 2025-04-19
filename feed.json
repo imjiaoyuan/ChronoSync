@@ -8502,6 +8502,36 @@
       "category": "Blogs"
     },
     {
+      "title": "Exon-variant interplay and multi-modal evidence identify endocrine dysregulation in severe psychiatric disorders impacting excitatory neurons",
+      "link": "https://www.nature.com/articles/s41398-025-03366-8",
+      "date": "2025-04-19 08:00",
+      "author": "Genomics : nature.com subject feeds",
+      "timestamp": 1745020800.0,
+      "summary": "无摘要",
+      "source_url": "https://www.nature.com/subjects/genomics",
+      "category": "Papers"
+    },
+    {
+      "title": "MPBind: Multitask Protein Binding Site Prediction by Protein Language Models and Equivariant Graph Neural Networks",
+      "link": "https://www.biorxiv.org/content/10.1101/2025.04.12.648527v1?rss=1",
+      "date": "2025-04-18 08:00",
+      "author": "bioRxiv Subject Collection: Bioinformatics",
+      "timestamp": 1744934400.0,
+      "summary": "Proteins interact with a variety of molecules, including other proteins, DNAs, RNAs, ligands, ions, and lipids. These interactions play a crucial role...",
+      "source_url": "https://biorxiv.org",
+      "category": "Papers"
+    },
+    {
+      "title": "DTMol: Pocket-based Molecular Docking using Diffusion Transformers",
+      "link": "https://www.biorxiv.org/content/10.1101/2025.04.13.648103v1?rss=1",
+      "date": "2025-04-18 08:00",
+      "author": "bioRxiv Subject Collection: Bioinformatics",
+      "timestamp": 1744934400.0,
+      "summary": "Molecular docking --- predicting the binding structure of a small molecule ligand to a protein --- is a crucial task in computational chemistry and dr...",
+      "source_url": "https://biorxiv.org",
+      "category": "Papers"
+    },
+    {
       "title": "A novel decoding strategy for ProteinMPNN to design with less MHC Class I immune-visibility",
       "link": "https://www.biorxiv.org/content/10.1101/2025.04.14.648837v1?rss=1",
       "date": "2025-04-18 08:00",
@@ -8558,6 +8588,16 @@
       "author": "bioRxiv Subject Collection: Bioinformatics",
       "timestamp": 1744934400.0,
       "summary": "Spatial transcriptomics (ST) captures gene expression with spatial context but lacks single-cell resolution. Single-cell RNA sequencing (scRNA-seq) of...",
+      "source_url": "https://biorxiv.org",
+      "category": "Papers"
+    },
+    {
+      "title": "Genomic and Behavioral Signatures of Selection for Ethanol Preference from the Heterogeneous Stock Collaborative Cross Mice: The Central Nucleus of the Amygdala",
+      "link": "https://www.biorxiv.org/content/10.1101/2025.04.15.649004v1?rss=1",
+      "date": "2025-04-18 08:00",
+      "author": "bioRxiv Subject Collection: Genomics",
+      "timestamp": 1744934400.0,
+      "summary": "Alcohol use disorder (AUD) is a complex disease with heritability of ~0.5, indicating genetic and non-genetic factors contribute to risk. Identifying ...",
       "source_url": "https://biorxiv.org",
       "category": "Papers"
     },
@@ -8958,26 +8998,6 @@
       "author": "bioRxiv Subject Collection: Bioinformatics",
       "timestamp": 1744761600.0,
       "summary": "Proteins play a crucial role in almost all biological processes, serving as the building blocks of life and mediating various cellular functions, from...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "PILOT-GM-VAE: Patient-Level Analysis of single cell Disease Atlas with Optimal Transport of Gaussian Mixture Variational Autoencoders",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.04.10.648188v1?rss=1",
-      "date": "2025-04-16 08:00",
-      "author": "bioRxiv Subject Collection: Bioinformatics",
-      "timestamp": 1744761600.0,
-      "summary": "MotivationThe analysis of single cell disease atlases represents a challenge due to the presence of batch effects, low quality of disease samples, and...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "Disentanglement of batch effects and biological signals across conditions in the single-cell transcriptome",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.04.10.648296v1?rss=1",
-      "date": "2025-04-16 08:00",
-      "author": "bioRxiv Subject Collection: Bioinformatics",
-      "timestamp": 1744761600.0,
-      "summary": "Batch effects, which arise due to technical variations across different experimental factors, pose a significant challenge for single-cell transcripto...",
       "source_url": "https://biorxiv.org",
       "category": "Papers"
     },
@@ -9402,16 +9422,6 @@
       "category": "Papers"
     },
     {
-      "title": "Genetic structure of mesophotic and shallow Acropora aculeus on isolated atolls of Eastern Australia",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.04.08.647879v1?rss=1",
-      "date": "2025-04-10 08:00",
-      "author": "bioRxiv Subject Collection: Genomics",
-      "timestamp": 1744243200.0,
-      "summary": "Acropora is the most diverse and widespread coral genus in the world. Although known for its critical ecological role in shallow-water habitats, its a...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
       "title": "Solanum pan-genome highlights paralog diversification",
       "link": "https://www.nature.com/articles/s41588-025-02178-2",
       "date": "2025-04-10 08:00",
@@ -9514,16 +9524,6 @@
     {
       "title": "Complete sequencing of ape genomes",
       "link": "https://www.nature.com/articles/s41586-025-08816-3",
-      "date": "2025-04-09 08:00",
-      "author": "Genomics : nature.com subject feeds",
-      "timestamp": 1744156800.0,
-      "summary": "无摘要",
-      "source_url": "https://www.nature.com/subjects/genomics",
-      "category": "Papers"
-    },
-    {
-      "title": "Cellular souvenirs in viral luggage",
-      "link": "https://www.nature.com/articles/s41579-025-01179-6",
       "date": "2025-04-09 08:00",
       "author": "Genomics : nature.com subject feeds",
       "timestamp": 1744156800.0,
