@@ -8502,6 +8502,26 @@
       "category": "Blogs"
     },
     {
+      "title": "SM3DD with Segmented PCA: A Comprehensive Method for Interpreting 3D Spatial Transcriptomics",
+      "link": "https://www.biorxiv.org/content/10.1101/2025.04.17.649456v1?rss=1",
+      "date": "2025-04-18 08:00",
+      "author": "bioRxiv Subject Collection: Bioinformatics",
+      "timestamp": 1744934400.0,
+      "summary": "We developed Standardised Minimum 3D Distance (SM3DD), an entirely cell segmentation/annotation-free approach to the analysis of spatial RNA datasets,...",
+      "source_url": "https://biorxiv.org",
+      "category": "Papers"
+    },
+    {
+      "title": "Assessing the relation between protein phosphorylation, AlphaFold3 models and conformational variability",
+      "link": "https://www.biorxiv.org/content/10.1101/2025.04.14.648669v1?rss=1",
+      "date": "2025-04-18 08:00",
+      "author": "bioRxiv Subject Collection: Bioinformatics",
+      "timestamp": 1744934400.0,
+      "summary": "Proteins perform diverse functions critical to cellular processes. Transitions between functional states are often regulated by post-translational mod...",
+      "source_url": "https://biorxiv.org",
+      "category": "Papers"
+    },
+    {
       "title": "Whole-genome prediction of bacterial pathogenic capacity on novel bacteria using protein language models, with PathogenFinder2",
       "link": "https://www.biorxiv.org/content/10.1101/2025.04.12.648497v1?rss=1",
       "date": "2025-04-18 08:00",
@@ -8948,26 +8968,6 @@
       "author": "bioRxiv Subject Collection: Bioinformatics",
       "timestamp": 1744761600.0,
       "summary": "The three-dimensional (3D) structure of the human genome is essential for regulating gene expression and cellular functions. Chromatin interactions br...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "Transcripts with codons that trigger the P-site tRNA-mediated mRNA decay are enriched with optimal codons",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.04.10.648249v1?rss=1",
-      "date": "2025-04-16 08:00",
-      "author": "bioRxiv Subject Collection: Bioinformatics",
-      "timestamp": 1744761600.0,
-      "summary": "Synonymous codon usage is a major determinant of mRNA half-life in yeast, functioning as a second layer of genetic information during translation. In ...",
-      "source_url": "https://biorxiv.org",
-      "category": "Papers"
-    },
-    {
-      "title": "AlphaFold3 at CASP16",
-      "link": "https://www.biorxiv.org/content/10.1101/2025.04.10.648174v1?rss=1",
-      "date": "2025-04-16 08:00",
-      "author": "bioRxiv Subject Collection: Bioinformatics",
-      "timestamp": 1744761600.0,
-      "summary": "The CASP16 experiment provided the first benchmark for AlphaFold3. In contrast to AlphaFold2 and other methods, AlphaFold3 can also predict the struct...",
       "source_url": "https://biorxiv.org",
       "category": "Papers"
     },
